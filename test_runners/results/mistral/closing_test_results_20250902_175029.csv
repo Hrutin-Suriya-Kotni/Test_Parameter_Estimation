@@ -1,0 +1,154 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,response_time,success,raw_response
+conv_1,188,Good morning सोनिया. Good morning दीक्षा. We have a customer. His concern is regarding loan and it is a family concern preferred language is English. Ok. You can merge the call. Thank you.,2025-09-02T17:47:34.832847,Mistral,closing,Not Met,"The agent did not follow the guidelines as they did not ask the customer for further help, share feedback, or transfer the call for feedback. They also did not close the chat with a proper greeting or address any potential abuse.",3.1362459659576416,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not follow the guidelines as they did not ask the customer for further help, share feedback, or transfer the call for feedback. They also did not close the chat with a proper greeting or address any potential abuse.""
+}"
+conv_2,696,"A very good evening, छाया. Sir, good evening. Yeah, I have a customer with me, अरनव and as I can see over here, he has shared a screenshot regarding the offer refill your vehicle, wind free, wind free...",2025-09-02T17:47:39.425360,Mistral,closing,Met,"The agent followed the guidelines by asking for further help, requesting feedback, and transferring the call for feedback. The agent also used proper greetings and politely ended the call.",2.590893030166626,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent followed the guidelines by asking for further help, requesting feedback, and transferring the call for feedback. The agent also used proper greetings and politely ended the call.""
+}"
+conv_3,1610,"Good evening. This is निगार. I'm calling from Cred on a recorded link. Am I talking to सिलू मोहपात्रा? Yes yes, thanks speaking. Yeah, thank you for the confirmation. Can check we had raised 1 concern...",2025-09-02T17:47:43.371351,Mistral,closing,Met,The agent asked if there was anything else they could help with and requested feedback before ending the call.,1.9452109336853027,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked if there was anything else they could help with and requested feedback before ending the call.""
+}"
+conv_4,1596,Good afternoon. My name is प्रिया. I'm here to assist you today. Am I talking to दीप? Yeah. Thank you for confirming your name दीप as I can see that your concern is regarding the cash back related iss...,2025-09-02T17:47:47.478984,Mistral,closing,Met,"The agent asked if there was anything else to help with, requested feedback, and closed the call with a proper greeting.",2.1022980213165283,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else to help with, requested feedback, and closed the call with a proper greeting.""
+}"
+conv_5,1028,"Good morning सुष्मिता, good afternoon सुष्मिता, वंशिका this side. Very good afternoon. Yes, so here we have a customer over the call. Good afternoon, sir, it वंशिका this side. Good afternoon. Am I aud...",2025-09-02T17:47:51.360236,Mistral,closing,Met,The agent asked if there was anything else to help with and requested feedback before ending the call.,1.8786611557006836,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call.""
+}"
+conv_6,1428,Good afternoon यशिका this side calling from Cred on a recorded line. Am I talking to सुभान? Yes yes. Thank you for the confirmation. This is the right time to talk to you? Ok. So this is in regards to...,2025-09-02T17:47:55.154627,Mistral,closing,Met,The agent asked for feedback before ending the call and transferred the call to the feedback IVR.,1.788862943649292,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call and transferred the call to the feedback IVR.""
+}"
+conv_7,2859,"Good evening, this is प्रज्ञा. I am here to assist you today. Am I speaking with सुल्तान? सुल्तान, am I audible to you? सुल्तान, am I audible to you? सुल्तान, am I audible to you? Can you hear me? Yes...",2025-09-02T17:47:59.678254,Mistral,closing,Met,The agent asked for feedback before ending the call and transferred the call for feedback. The agent also provided the necessary information and assistance related to the customer's concern.,2.5174942016601562,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call and transferred the call for feedback. The agent also provided the necessary information and assistance related to the customer's concern.""
+}"
+conv_8,1204,"Good evening. This is कुनाल calling from Cred on recorded line. Am I speaking with प्रवीण? Yes sir, बोलो. प्रवीण क्या यह सही समय है आपसे बात करने के लिए? हां बोलिए ना. जी प्रवीण जैसा कि मैं देख पा रहा...",2025-09-02T17:48:06.754029,Mistral,closing,JSON Error,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat,5.066572904586792,False,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat
+conv_9,6866,"Good morning, my name is रूचि and I am here to assist you today. Am I speaking with सूरज? Yeah speaking good morning रुचि. My concern is I am a regular member of a credit cash since almost 20 21 I am ...",2025-09-02T17:48:11.832227,Mistral,closing,Not Met,The agent did not ask for feedback or transfer the call for feedback. The agent also did not ask if there was anything else they could help with or close the call with a proper greeting.,3.0760090351104736,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not ask for feedback or transfer the call for feedback. The agent also did not ask if there was anything else they could help with or close the call with a proper greeting.""
+}"
+conv_10,1347,"Good morning. My name is सुमित, and I'm calling you from Cred on a recorded line. Am I speaking with? Yes. Thank you so much for confirming. Is it a right time to speak with you? Yes. Tell me. Ok. I c...",2025-09-02T17:48:15.611607,Mistral,closing,Met,The agent asked if there was anything else to help with and requested feedback before ending the call.,1.7738380432128906,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call.""
+}"
+conv_11,2204,"Good evening आदित्य this side today I am assist you. Am I speaking with G S सिंह? हां जी. यह मैंने अभी recharge किया था Jio का. Ok. तो इस पर ना वहां पर तीन option दिखा रहा था. Paytm में cashback था, M...",2025-09-02T17:48:19.751067,Mistral,closing,Met,The agent asked for feedback by transferring the call to the feedback IVR before ending the call.,2.1365530490875244,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback by transferring the call to the feedback IVR before ending the call.""
+}"
+conv_12,3322,Very good evening this is कौशल I am here to assist you today. Am I speaking भावेश? Yeah sir भावेश here. Thank you. Yeah sir जी actually yesterday I made some transaction I paid some credit card bill. ...,2025-09-02T17:48:24.323515,Mistral,closing,Met,The agent asked for feedback by transferring the call to the feedback IVR and closed the call with a polite greeting ('Thank you and have a good day').,2.568406105041504,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback by transferring the call to the feedback IVR and closed the call with a polite greeting ('Thank you and have a good day').""
+}"
+conv_13,1987,"Good evening. My name is अश्विनी. I'm calling from KredX on recorded line. Am I speaking with सरत? Yes, sir. From where you are calling? I am calling from credit regarding your transaction of 5000 rup...",2025-09-02T17:48:28.306874,Mistral,closing,Met,The agent asked if there was anything else they could help with and requested feedback before ending the call.,1.978065013885498,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else they could help with and requested feedback before ending the call.""
+}"
+conv_14,1565,"Good evening, this is चिराग, I am here to assist you today, am I speaking मोहम्मद मुजीब? Correct sir. Thank you for confirming your name. Here I can see that you raised this ticket for Axis Bank card....",2025-09-02T17:48:33.049725,Mistral,closing,Met,The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also provided a proper closing statement similar to 'I hope you have a great day ahead'.,2.7399868965148926,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also provided a proper closing statement similar to 'I hope you have a great day ahead'.""
+}"
+conv_15,3658,A very good evening. This is साहिल from Treed. I'm here to assist you today. Am I speaking with तन्मय? Yes. Thank you for confirmation. I see your regards towards the cashback of a dispute. Yes. Actua...,2025-09-02T17:48:37.053054,Mistral,closing,Met,The agent asked if there was anything else they could help with and requested feedback before ending the call.,1.997831106185913,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else they could help with and requested feedback before ending the call.""
+}"
+conv_16,5830,"Good evening. My name is मनीष and I'm here to assist you today. Am I speaking with सोमेन? Yes. Thank you for confirming the name. So, I can see you have raised 1 confirmed related with the payment net...",2025-09-02T17:48:41.551346,Mistral,closing,Not Met,The agent did not ask for feedback or transfer the call for feedback. The agent also did not close the call with a proper greeting.,2.4968903064727783,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not ask for feedback or transfer the call for feedback. The agent also did not close the call with a proper greeting.""
+}"
+conv_17,3473,Hello. Am I speaking with सुजीत? Hello. Hello. Speaking with सुरजीत? Ok. My name is नीलम. I'm calling from credit loan a recorded line. सुरजीत this call is regarding the ongoing concern which you have...,2025-09-02T17:48:46.634886,Mistral,closing,Not Met,The agent did not ask for feedback or transfer the call for feedback. The agent also did not ask if there was anything else they could help with or close the call politely.,3.0798442363739014,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not ask for feedback or transfer the call for feedback. The agent also did not ask if there was anything else they could help with or close the call politely.""
+}"
+conv_18,3330,"Good morning. This side आयुषी. I'm here to assist you today. Am I speaking with आकांक्षा? Hello. Yeah. Actually, yes please. Thank you so much for confirming your name account, sir. So, as I can see t...",2025-09-02T17:48:51.024052,Mistral,closing,Met,The agent asked for feedback before ending the call and provided instructions on how to give feedback through the IVR system.,2.3836350440979004,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked for feedback before ending the call and provided instructions on how to give feedback through the IVR system.""
+}"
+conv_19,1792,Good morning. Good morning. Good morning. Am I speaking with ऋषिकेश? Yeah. Request regarding the payment right? Yes. Ok we can see here you have made a payment of rupees 2847 on first of July towards ...,2025-09-02T17:48:54.826548,Mistral,closing,Met,The agent asked if there was anything else to help with and requested feedback before ending the call.,1.7992069721221924,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call.""
+}"
+conv_20,1966,"Hello. Good evening this is Yes, your voice is not clear to me. Actually, I have, like yesterday I have canceled 1 order. Ok. So, the merchant has like, eat initiated. Sorry? They have initiated the r...",2025-09-02T17:48:59.384735,Mistral,closing,Met,The agent asked for feedback before ending the call: 'Also before we end this call may I request you to share your valuable feedback on the basis of our conversation?',2.5543758869171143,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call: 'Also before we end this call may I request you to share your valuable feedback on the basis of our conversation?'""
+}"
+conv_21,3892,I am here to help you today. Am I speaking with दिग्विजय? Sir मेरा एक सोलह हज़ार का transaction था surrender में. जी जी. वह credit card fail हो चुका है. जी जी बिल्कुल मत. जी. तो वह वह अभी फिर SBI से व...,2025-09-02T17:49:04.297716,Mistral,closing,Not Met,The agent did not ask for feedback or transfer the call for feedback. The agent also did not close the call with a proper greeting.,2.9072279930114746,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not ask for feedback or transfer the call for feedback. The agent also did not close the call with a proper greeting.""
+}"
+conv_22,1733,Good morning. On recorded line is I speaking with Jbin Jos? Yes. Thank you so much for confirming. As I can check that you have made 1 request of refund? Yes refund yeah. Ok as I am checking that you ...,2025-09-02T17:49:08.974202,Mistral,closing,Met,The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also provided proper closing statement: 'I hope you have a great day ahead'.,2.6757140159606934,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also provided proper closing statement: 'I hope you have a great day ahead'.""
+}"
+conv_23,1713,"Hello. Good afternoon. This is निकिता. I'm calling from ZestMoney a recorded line. Am I talking to शिवा? Yes ma'am, शिवा बात कर रहा हूं. बोलिए. जी धन्यवाद मैं आपसे confirm करने के लिए शिवा क्या यह सही...",2025-09-02T17:49:13.192394,Mistral,closing,Met,The agent asked for feedback before ending the call and provided the feedback IVR number for the customer to share their feedback.,2.2151858806610107,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked for feedback before ending the call and provided the feedback IVR number for the customer to share their feedback.""
+}"
+conv_24,3998,Very good morning this is दिव्या I am here to assist you today am I speaking with mister प्रमोद सिंह? Hello. Yes please tell me. I have 1 query like I have just done the 1 payment for my card. Ok. 93 ...,2025-09-02T17:49:17.183334,Mistral,closing,Met,The agent asked if there was anything else they could help with and requested feedback before ending the call.,1.9856619834899902,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else they could help with and requested feedback before ending the call.""
+}"
+conv_25,2676,"Good evening. This is मौसना. I am here to assist you today. Am I speaking with पवन? Yes ma'am. Thank you for confirming your name पवन. As I can see, you have raised concern regarding refund completed ...",2025-09-02T17:49:21.092864,Mistral,closing,Met,The agent asked if there was anything else they could help with and requested feedback before ending the call.,1.9044270515441895,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else they could help with and requested feedback before ending the call.""
+}"
+conv_26,2806,Hello. Good afternoon. Good afternoon. Good afternoon. I am calling from credit from a recorded line. Am I talking to रितिका? Yeah. Ok thank you for confirming your name ऋतिका is this the correct time...,2025-09-02T17:49:27.181426,Mistral,closing,Met,"The agent asked for feedback by transferring the call to the feedback IVR and closed the call with a proper greeting: 'Thank you. We request you to rate your experience with our expert on a scale of 1 to 5, with 1 being poor and 5 being excellent. Thank you. Have a good day.'",4.085410118103027,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback by transferring the call to the feedback IVR and closed the call with a proper greeting: 'Thank you. We request you to rate your experience with our expert on a scale of 1 to 5, with 1 being poor and 5 being excellent. Thank you. Have a good day.'""
+}"
+conv_27,2363,"Good afternoon. My name is अनामिका. I am here to assist you today. Am I talking to करुणाकर? Madam. जी, मेरी बात करुणाकर से हो रही है? हां madam बोलिए. Ok, so करुणाकर मैं देख पा रही हूं आपका एक concern...",2025-09-02T17:49:31.284299,Mistral,closing,Met,The agent asked if there was anything else they could help with and requested feedback before ending the call.,2.0975899696350098,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked if there was anything else they could help with and requested feedback before ending the call.""
+}"
+conv_28,11263,"अरे अरे यार. क्या हुआ भाई? Good morning, this is सुबरशा. I am not to assist you today. Am I speaking with मोहम्मद अमीन? हां. नाम confirm करने के लिए धन्यवाद. वह Bank of बड़ौदा का ना एक transaction मैं...",2025-09-02T17:49:33.355722,Mistral,closing,JSON Error,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat,0.06749105453491211,False,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat
+conv_29,4616,Good morning this is नौसेना I am here to assist you today am I speaking with सितुराज? Yeah ma'am. Thank you for confirming your name सितुराज. As I can see your brief confirm regarding amount debited b...,2025-09-02T17:49:37.309278,Mistral,closing,Met,The agent asked for feedback before ending the call and transferred the customer to the feedback IVR.,1.94840407371521,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call and transferred the customer to the feedback IVR.""
+}"
+conv_30,6177,Good afternoon my name is अंकिता. I am here to assist you. Am I speaking with योगेश? Hello sorry ma'am. नाम confirm कराने के लिए धन्यवाद. जैसे कि मैं देख पा रही हूं आपने account delete के लिए request ...,2025-09-02T17:49:44.368767,Mistral,closing,JSON Error,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat,5.057419061660767,False,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat
+conv_31,3323,"Good morning, good morning this is दिव्या I am here to assist you today am I speaking with पवित्र सिंह? हां जी. नाम confirm करने के लिए धन्यवाद आपने concern raise किया payment के regarding 52333 rupee...",2025-09-02T17:49:48.589361,Mistral,closing,JSON Error," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call.""",2.2160329818725586,False," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call."""
+conv_32,3632,"Good good afternoon. My name is. I am here to assist you today. Am I speaking with रजनीश रंजन? Yes ma'am. Thank you for confirming your name रजनीश. So, I can check that you have raised a request regar...",2025-09-02T17:49:53.999976,Mistral,closing,Met,"The agent asked for the customer's name, confirmed the transaction details, and requested the customer to share their account statement. The agent also expressed understanding of the customer's concern and apologized for the inconvenience caused.",3.4073660373687744,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked for the customer's name, confirmed the transaction details, and requested the customer to share their account statement. The agent also expressed understanding of the customer's concern and apologized for the inconvenience caused.""
+}"
+conv_33,1313,"Good morning. My name is श्रुति. I am here to assist you. Am I speaking with Sanjiva? Yeah. Ok, thank you for confirming your name. As I can see, you have raised a concern regarding a refund, right? R...",2025-09-02T17:49:57.605822,Mistral,closing,Met,The agent asked for feedback before ending the call and provided proper closing statement.,1.6011707782745361,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked for feedback before ending the call and provided proper closing statement.""
+}"
+conv_34,2016,"Good afternoon. My name is सगुना. Am I speaking to Very good afternoon, ma'am. जी madam. जी. Madam एक credit card bill pay किया है अभी 20000. हां जी. एक घंटे के लिए बहुत हो गया time है. जी. तो अभी mad...",2025-09-02T17:50:01.580209,Mistral,closing,JSON Error," {
+""Value"": ""Met"",
+""Evidence"": ""The agent asked for feedback before ending the call and provided instructions for transferring the call for further assistance.""",1.9688727855682373,False," {
+""Value"": ""Met"",
+""Evidence"": ""The agent asked for feedback before ending the call and provided instructions for transferring the call for further assistance."""
+conv_35,2741,"Good afternoon. My name is वर्षा. I'm here to assist you today. Am I speaking with मानव? Am I audible? हां. Yes. This is वर्षा, calling from Cred. Am I speaking with मानव? जी, मैं मानव बोल रहा हूं. ना...",2025-09-02T17:50:06.566509,Mistral,closing,Met,The agent asked for feedback before ending the call and requested the customer to transfer the call for feedback. The agent also provided a closing statement wishing the customer a good day.,2.984758138656616,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call and requested the customer to transfer the call for feedback. The agent also provided a closing statement wishing the customer a good day.""
+}"
+conv_36,2525,मेरे भाई login करोगे तुम. Hello. Very good evening this is तुषार from Cedad. I am here to assist you today am I speaking with रवि? Yes sir. Ya. Thank you for confirming. As I can see your this concern...,2025-09-02T17:50:11.113812,Mistral,closing,Met,The agent asked for feedback before ending the call: 'Also before we end this call may I request you share valuable feedback on the basis of our conversation. Ok ok.',2.547039031982422,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call: 'Also before we end this call may I request you share valuable feedback on the basis of our conversation. Ok ok.'""
+}"
+conv_37,1217,"Good evening, this is उमरा calling from Ced on a recorded line. Am I speaking with संजय? Yes. Thank you for confirming. संजय, you raised a request regarding a payment of 25000. Is this the right time ...",2025-09-02T17:50:14.888636,Mistral,closing,Met,The agent asked for feedback before ending the call and transferred the customer to the feedback IVR.,1.7696640491485596,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked for feedback before ending the call and transferred the customer to the feedback IVR.""
+}"
+conv_38,2790,"Good afternoon. This is अभिषेक. I am here to assist you today. Am I speaking with उत्तम? नमस्कार, sir. जी, नमस्कार उत्तम जी. मैं देख पा रहा हूं आपने concern raise किया है regarding payment जो आपने किय...",2025-09-02T17:50:19.037789,Mistral,closing,Met,The agent asked for feedback before ending the call and transferred the call to the feedback IVR.,2.143773078918457,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call and transferred the call to the feedback IVR.""
+}"
+conv_39,1129,"Hello. Good afternoon. This side अंकिता. I'm calling from Ted on recorded line. Am I speaking with तौफ़ी? Yes. Thank you for confirming your name. As I can check, I have raised a concern on the credit...",2025-09-02T17:50:23.360266,Mistral,closing,Met,The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also transferred the call to the feedback IVR.,2.317046642303467,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also transferred the call to the feedback IVR.""
+}"
+conv_40,3681,"Hello. Hello. Good evening. My name is रूह. I'm here to assist you today. Am I speaking with चंदू ज्ञान? Yes. Thank you so much चंदू, for confirming your name. You have raised a concern regarding refu...",2025-09-02T17:50:27.306314,Mistral,closing,Met,The agent asked for feedback before ending the call and transferred the call to the feedback IVR.,1.9421348571777344,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent asked for feedback before ending the call and transferred the call to the feedback IVR.""
+}"

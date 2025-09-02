@@ -1,0 +1,146 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,response_time,success,raw_response
+conv_1,188,Good morning सोनिया. Good morning दीक्षा. We have a customer. His concern is regarding loan and it is a family concern preferred language is English. Ok. You can merge the call. Thank you.,2025-09-02T17:54:30.407189,Mistral,hold,Met,"The agent followed the guideline by acknowledging the customer's preferred language (English) and allowed the other agent to merge the call. The agent did not use any of the specific phrases mentioned in the guidelines, but the intent was met.",3.2384181022644043,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent followed the guideline by acknowledging the customer's preferred language (English) and allowed the other agent to merge the call. The agent did not use any of the specific phrases mentioned in the guidelines, but the intent was met.""
+}"
+conv_2,696,"A very good evening, छाया. Sir, good evening. Yeah, I have a customer with me, अरनव and as I can see over here, he has shared a screenshot regarding the offer refill your vehicle, wind free, wind free...",2025-09-02T17:54:35.433501,Mistral,hold,Not Met,"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The closest statement to the guidelines was 'I am emerging the call ahead', but it does not match the intent of the guidelines.",3.0236527919769287,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The closest statement to the guidelines was 'I am emerging the call ahead', but it does not match the intent of the guidelines.""
+}"
+conv_3,1610,"Good evening. This is निगार. I'm calling from Cred on a recorded link. Am I talking to सिलू मोहपात्रा? Yes yes, thanks speaking. Yeah, thank you for the confirmation. Can check we had raised 1 concern...",2025-09-02T17:54:39.978637,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent did not explicitly ask for permission to place the call on hold.,2.5399820804595947,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent did not explicitly ask for permission to place the call on hold.""
+}"
+conv_4,1596,Good afternoon. My name is प्रिया. I'm here to assist you today. Am I talking to दीप? Yeah. Thank you for confirming your name दीप as I can see that your concern is regarding the cash back related iss...,2025-09-02T17:54:45.226647,Mistral,hold,Met,"The agent used the following statement to put the customer on hold: ""सुदीप may I place your call on hold for 1 minute so that I can check the screenshot detail first?"" This statement aligns with the guideline provided.",3.2427220344543457,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent used the following statement to put the customer on hold: \""सुदीप may I place your call on hold for 1 minute so that I can check the screenshot detail first?\"" This statement aligns with the guideline provided.""
+}"
+conv_5,1028,"Good morning सुष्मिता, good afternoon सुष्मिता, वंशिका this side. Very good afternoon. Yes, so here we have a customer over the call. Good afternoon, sir, it वंशिका this side. Good afternoon. Am I aud...",2025-09-02T17:54:49.617674,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent's conversation did not follow the guidelines provided.,2.3857131004333496,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent's conversation did not follow the guidelines provided.""
+}"
+conv_6,1428,Good afternoon यशिका this side calling from Cred on a recorded line. Am I talking to सुभान? Yes yes. Thank you for the confirmation. This is the right time to talk to you? Ok. So this is in regards to...,2025-09-02T17:54:53.969065,Mistral,hold,Not Met,The agent did not use any of the provided statements while putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.,2.348505973815918,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided statements while putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.""
+}"
+conv_7,2859,"Good evening, this is प्रज्ञा. I am here to assist you today. Am I speaking with सुल्तान? सुल्तान, am I audible to you? सुल्तान, am I audible to you? सुल्तान, am I audible to you? Can you hear me? Yes...",2025-09-02T17:55:01.033032,Mistral,hold,JSON Error,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat,5.0587992668151855,False,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat
+conv_8,1204,"Good evening. This is कुनाल calling from Cred on recorded line. Am I speaking with प्रवीण? Yes sir, बोलो. प्रवीण क्या यह सही समय है आपसे बात करने के लिए? हां बोलिए ना. जी प्रवीण जैसा कि मैं देख पा रहा...",2025-09-02T17:55:05.847667,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.,2.809332847595215,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.""
+}"
+conv_9,6866,"Good morning, my name is रूचि and I am here to assist you today. Am I speaking with सूरज? Yeah speaking good morning रुचि. My concern is I am a regular member of a credit cash since almost 20 21 I am ...",2025-09-02T17:55:10.659717,Mistral,hold,Met,"The agent used the following statement to put the customer on hold: ""May I place your call on hold for 1 minute?"" which matches the guideline.",2.8067359924316406,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent used the following statement to put the customer on hold: \""May I place your call on hold for 1 minute?\"" which matches the guideline.""
+}"
+conv_10,1347,"Good morning. My name is सुमित, and I'm calling you from Cred on a recorded line. Am I speaking with? Yes. Thank you so much for confirming. Is it a right time to speak with you? Yes. Tell me. Ok. I c...",2025-09-02T17:55:15.145263,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.,2.4816017150878906,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.""
+}"
+conv_11,2204,"Good evening आदित्य this side today I am assist you. Am I speaking with G S सिंह? हां जी. यह मैंने अभी recharge किया था Jio का. Ok. तो इस पर ना वहां पर तीन option दिखा रहा था. Paytm में cashback था, M...",2025-09-02T17:55:19.773887,Mistral,hold,Not Met,The agent did not use any of the provided guidelines for putting a customer on hold. No statement matching the guidelines was found in the conversation.,2.6242246627807617,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided guidelines for putting a customer on hold. No statement matching the guidelines was found in the conversation.""
+}"
+conv_12,3322,Very good evening this is कौशल I am here to assist you today. Am I speaking भावेश? Yeah sir भावेश here. Thank you. Yeah sir जी actually yesterday I made some transaction I paid some credit card bill. ...,2025-09-02T17:55:24.480487,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.,2.701259136199951,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.""
+}"
+conv_13,1987,"Good evening. My name is अश्विनी. I'm calling from KredX on recorded line. Am I speaking with सरत? Yes, sir. From where you are calling? I am calling from credit regarding your transaction of 5000 rup...",2025-09-02T17:55:29.146609,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the call on hold.,2.6657989025115967,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the call on hold.""
+}"
+conv_14,1565,"Good evening, this is चिराग, I am here to assist you today, am I speaking मोहम्मद मुजीब? Correct sir. Thank you for confirming your name. Here I can see that you raised this ticket for Axis Bank card....",2025-09-02T17:55:33.290965,Mistral,hold,Not Met,The agent did not use any of the provided statements while putting the customer on hold. No similar statements were used either.,2.1407699584960938,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements while putting the customer on hold. No similar statements were used either.""
+}"
+conv_15,3658,A very good evening. This is साहिल from Treed. I'm here to assist you today. Am I speaking with तन्मय? Yes. Thank you for confirmation. I see your regards towards the cashback of a dispute. Yes. Actua...,2025-09-02T17:55:37.592454,Mistral,hold,Met,"The agent used the following statement to put the customer on hold: ""I am putting your call on hold for a minute.""",2.2961690425872803,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent used the following statement to put the customer on hold: \""I am putting your call on hold for a minute.\""""
+}"
+conv_16,5830,"Good evening. My name is मनीष and I'm here to assist you today. Am I speaking with सोमेन? Yes. Thank you for confirming the name. So, I can see you have raised 1 confirmed related with the payment net...",2025-09-02T17:55:42.834454,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation was lengthy and the agent did not pause or ask for permission to put the customer on hold at any point.,3.239382028579712,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation was lengthy and the agent did not pause or ask for permission to put the customer on hold at any point.""
+}"
+conv_17,3473,Hello. Am I speaking with सुजीत? Hello. Hello. Speaking with सुरजीत? Ok. My name is नीलम. I'm calling from credit loan a recorded line. सुरजीत this call is regarding the ongoing concern which you have...,2025-09-02T17:55:48.098878,Mistral,hold,Not Met,"The agent did not use any of the provided guidelines for putting a customer on hold. The agent spoke in Hindi and English, but did not follow the specific phrasing or intent of the guidelines.",3.259169101715088,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided guidelines for putting a customer on hold. The agent spoke in Hindi and English, but did not follow the specific phrasing or intent of the guidelines.""
+}"
+conv_18,3330,"Good morning. This side आयुषी. I'm here to assist you today. Am I speaking with आकांक्षा? Hello. Yeah. Actually, yes please. Thank you so much for confirming your name account, sir. So, as I can see t...",2025-09-02T17:55:55.189533,Mistral,hold,JSON Error,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat,5.0864341259002686,False,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat
+conv_19,1792,Good morning. Good morning. Good morning. Am I speaking with ऋषिकेश? Yeah. Request regarding the payment right? Yes. Ok we can see here you have made a payment of rupees 2847 on first of July towards ...,2025-09-02T17:56:00.532067,Mistral,hold,Not Met,"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent mentioned 'I am not getting your voice properly' which indicates a need to put the customer on hold, but the exact statement was not followed.",3.3392691612243652,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent mentioned 'I am not getting your voice properly' which indicates a need to put the customer on hold, but the exact statement was not followed.""
+}"
+conv_20,1966,"Hello. Good evening this is Yes, your voice is not clear to me. Actually, I have, like yesterday I have canceled 1 order. Ok. So, the merchant has like, eat initiated. Sorry? They have initiated the r...",2025-09-02T17:56:05.105021,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.,2.5689759254455566,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.""
+}"
+conv_21,3892,I am here to help you today. Am I speaking with दिग्विजय? Sir मेरा एक सोलह हज़ार का transaction था surrender में. जी जी. वह credit card fail हो चुका है. जी जी बिल्कुल मत. जी. तो वह वह अभी फिर SBI से व...,2025-09-02T17:56:10.462342,Mistral,hold,Not Met,The agent did not use any of the specified guidelines for putting a customer on hold. The agent did not mention any of the provided statements or similar statements while putting the call on hold.,3.35113787651062,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the specified guidelines for putting a customer on hold. The agent did not mention any of the provided statements or similar statements while putting the call on hold.""
+}"
+conv_22,1733,Good morning. On recorded line is I speaking with Jbin Jos? Yes. Thank you so much for confirming. As I can check that you have made 1 request of refund? Yes refund yeah. Ok as I am checking that you ...,2025-09-02T17:56:15.256151,Mistral,hold,Not Met,"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent switched between English and Hindi, but the intent of the guideline was not met.",2.7846968173980713,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent switched between English and Hindi, but the intent of the guideline was not met.""
+}"
+conv_23,1713,"Hello. Good afternoon. This is निकिता. I'm calling from ZestMoney a recorded line. Am I talking to शिवा? Yes ma'am, शिवा बात कर रहा हूं. बोलिए. जी धन्यवाद मैं आपसे confirm करने के लिए शिवा क्या यह सही...",2025-09-02T17:56:20.599777,Mistral,hold,Not Met,"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation was mostly in Hindi, and the agent did not switch between English and Hindi or use a mix of languages.",3.3362321853637695,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation was mostly in Hindi, and the agent did not switch between English and Hindi or use a mix of languages.""
+}"
+conv_24,3998,Very good morning this is दिव्या I am here to assist you today am I speaking with mister प्रमोद सिंह? Hello. Yes please tell me. I have 1 query like I have just done the 1 payment for my card. Ok. 93 ...,2025-09-02T17:56:25.339053,Mistral,hold,Met,"The agent used the statement ""May I please place the call on hold for 2 minutes while I am checking the details for you?"" which matches the guideline provided.",2.7321739196777344,True," {
+    ""Value"": ""Met"",
+    ""Evidence"": ""The agent used the statement \""May I please place the call on hold for 2 minutes while I am checking the details for you?\"" which matches the guideline provided.""
+}"
+conv_25,2676,"Good evening. This is मौसना. I am here to assist you today. Am I speaking with पवन? Yes ma'am. Thank you for confirming your name पवन. As I can see, you have raised concern regarding refund completed ...",2025-09-02T17:56:30.941581,Mistral,hold,Not Met,"The agent did not use any of the specified statements or similar statements for putting the customer on hold. The closest statement to the guidelines was 'Just give me a minute, let me check your account first.' which is not a direct match to any of the provided guidelines.",3.592221975326538,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the specified statements or similar statements for putting the customer on hold. The closest statement to the guidelines was 'Just give me a minute, let me check your account first.' which is not a direct match to any of the provided guidelines.""
+}"
+conv_26,2806,Hello. Good afternoon. Good afternoon. Good afternoon. I am calling from credit from a recorded line. Am I talking to रितिका? Yeah. Ok thank you for confirming your name ऋतिका is this the correct time...,2025-09-02T17:56:36.676859,Mistral,hold,Not Met,"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The closest statement to the guidelines was 'Ok, thank you for being on hold वर्तिका.', but it was not a direct match to any of the guidelines.",3.725029230117798,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The closest statement to the guidelines was 'Ok, thank you for being on hold वर्तिका.', but it was not a direct match to any of the guidelines.""
+}"
+conv_27,2363,"Good afternoon. My name is अनामिका. I am here to assist you today. Am I talking to करुणाकर? Madam. जी, मेरी बात करुणाकर से हो रही है? हां madam बोलिए. Ok, so करुणाकर मैं देख पा रही हूं आपका एक concern...",2025-09-02T17:56:42.001664,Mistral,hold,Not Met,"The agent did not use any of the provided statements or similar statements to put the customer on hold. The conversation was mostly in Hindi, and the agent did not switch between English and Hindi or use a mix of languages.",3.3196637630462646,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements to put the customer on hold. The conversation was mostly in Hindi, and the agent did not switch between English and Hindi or use a mix of languages.""
+}"
+conv_28,11263,"अरे अरे यार. क्या हुआ भाई? Good morning, this is सुबरशा. I am not to assist you today. Am I speaking with मोहम्मद अमीन? हां. नाम confirm करने के लिए धन्यवाद. वह Bank of बड़ौदा का ना एक transaction मैं...",2025-09-02T17:56:44.073511,Mistral,hold,JSON Error,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat,0.06149911880493164,False,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat
+conv_29,4616,Good morning this is नौसेना I am here to assist you today am I speaking with सितुराज? Yeah ma'am. Thank you for confirming your name सितुराज. As I can see your brief confirm regarding amount debited b...,2025-09-02T17:56:48.883399,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the customer on hold.,2.8035688400268555,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the customer on hold.""
+}"
+conv_30,6177,Good afternoon my name is अंकिता. I am here to assist you. Am I speaking with योगेश? Hello sorry ma'am. नाम confirm कराने के लिए धन्यवाद. जैसे कि मैं देख पा रही हूं आपने account delete के लिए request ...,2025-09-02T17:56:53.470319,Mistral,hold,JSON Error," No, the assistant did not follow the guidelines provided. The assistant did not use any of the phrases provided in the guidelines for putting a customer on hold.",2.576591968536377,False," No, the assistant did not follow the guidelines provided. The assistant did not use any of the phrases provided in the guidelines for putting a customer on hold."
+conv_31,3323,"Good morning, good morning this is दिव्या I am here to assist you today am I speaking with पवित्र सिंह? हां जी. नाम confirm करने के लिए धन्यवाद आपने concern raise किया payment के regarding 52333 rupee...",2025-09-02T17:56:59.641677,Mistral,hold,Met,"The agent used the following statement: ""एक minute रुको फिर"". This statement is similar to the guideline: ""May I place your call on hold for 2 min?"" as both statements are asking the customer to be on hold for a short duration.",4.162008047103882,True," {
+  ""Value"": ""Met"",
+  ""Evidence"": ""The agent used the following statement: \""एक minute रुको फिर\"". This statement is similar to the guideline: \""May I place your call on hold for 2 min?\"" as both statements are asking the customer to be on hold for a short duration.""
+}"
+conv_32,3632,"Good good afternoon. My name is. I am here to assist you today. Am I speaking with रजनीश रंजन? Yes ma'am. Thank you for confirming your name रजनीश. So, I can check that you have raised a request regar...",2025-09-02T17:57:04.429400,Mistral,hold,Not Met,The agent did not use any of the provided guidelines for putting a customer on hold. No statement similar to the guidelines was used during the conversation.,2.777486801147461,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided guidelines for putting a customer on hold. No statement similar to the guidelines was used during the conversation.""
+}"
+conv_33,1313,"Good morning. My name is श्रुति. I am here to assist you. Am I speaking with Sanjiva? Yeah. Ok, thank you for confirming your name. As I can see, you have raised a concern regarding a refund, right? R...",2025-09-02T17:57:08.932818,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.,2.497694253921509,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.""
+}"
+conv_34,2016,"Good afternoon. My name is सगुना. Am I speaking to Very good afternoon, ma'am. जी madam. जी. Madam एक credit card bill pay किया है अभी 20000. हां जी. एक घंटे के लिए बहुत हो गया time है. जी. तो अभी mad...",2025-09-02T17:57:13.746303,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation was entirely in Hindi and did not follow the guidelines provided.,2.8077688217163086,True," {
+""Value"": ""Not Met"",
+""Evidence"": ""The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation was entirely in Hindi and did not follow the guidelines provided.""
+}"
+conv_35,2741,"Good afternoon. My name is वर्षा. I'm here to assist you today. Am I speaking with मानव? Am I audible? हां. Yes. This is वर्षा, calling from Cred. Am I speaking with मानव? जी, मैं मानव बोल रहा हूं. ना...",2025-09-02T17:57:18.616144,Mistral,hold,Not Met,The agent did not use any of the provided guidelines for putting a customer on hold. No statement from the guidelines was used or similar statements were not found in the conversation.,2.860085964202881,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided guidelines for putting a customer on hold. No statement from the guidelines was used or similar statements were not found in the conversation.""
+}"
+conv_36,2525,मेरे भाई login करोगे तुम. Hello. Very good evening this is तुषार from Cedad. I am here to assist you today am I speaking with रवि? Yes sir. Ya. Thank you for confirming. As I can see your this concern...,2025-09-02T17:57:23.327559,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the call on hold.,2.7011537551879883,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the call on hold.""
+}"
+conv_37,1217,"Good evening, this is उमरा calling from Ced on a recorded line. Am I speaking with संजय? Yes. Thank you for confirming. संजय, you raised a request regarding a payment of 25000. Is this the right time ...",2025-09-02T17:57:29.823360,Mistral,hold,Not Met,"The agent did not use any of the provided statements while putting the customer on hold. The closest statement to the guidelines was when the agent said, ""Ok, for that I'll transfer your call to the feedback IVR."" However, this statement does not match the intent of the guidelines, which is to inform the customer that the call is being placed on hold to check information.",4.493769884109497,True," {
+  ""Value"": ""Not Met"",
+  ""Evidence"": ""The agent did not use any of the provided statements while putting the customer on hold. The closest statement to the guidelines was when the agent said, \""Ok, for that I'll transfer your call to the feedback IVR.\"" However, this statement does not match the intent of the guidelines, which is to inform the customer that the call is being placed on hold to check information.""
+}"
+conv_38,2790,"Good afternoon. This is अभिषेक. I am here to assist you today. Am I speaking with उत्तम? नमस्कार, sir. जी, नमस्कार उत्तम जी. मैं देख पा रहा हूं आपने concern raise किया है regarding payment जो आपने किय...",2025-09-02T17:57:34.737763,Mistral,hold,Not Met,The agent did not use any of the provided guidelines for putting the customer on hold. No statement from the guidelines was used or similar statements were not found in the conversation.,2.904435157775879,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided guidelines for putting the customer on hold. No statement from the guidelines was used or similar statements were not found in the conversation.""
+}"
+conv_39,1129,"Hello. Good afternoon. This side अंकिता. I'm calling from Ted on recorded line. Am I speaking with तौफ़ी? Yes. Thank you for confirming your name. As I can check, I have raised a concern on the credit...",2025-09-02T17:57:41.905683,Mistral,hold,JSON Error,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat,5.15759015083313,False,Error: 500 Server Error: Internal Server Error for url: http://192.168.30.239:8000/chat
+conv_40,3681,"Hello. Hello. Good evening. My name is रूह. I'm here to assist you today. Am I speaking with चंदू ज्ञान? Yes. Thank you so much चंदू, for confirming your name. You have raised a concern regarding refu...",2025-09-02T17:57:46.719018,Mistral,hold,Not Met,The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not include any mention of placing the call on hold for any duration.,2.806305170059204,True," {
+    ""Value"": ""Not Met"",
+    ""Evidence"": ""The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not include any mention of placing the call on hold for any duration.""
+}"

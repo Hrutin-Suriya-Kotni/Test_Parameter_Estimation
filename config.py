@@ -11,7 +11,8 @@ OPENCHAT_MODEL = "openchat/openchat-3.5-1210"
 OPENCHAT_MAX_TOKENS = 512  # Reduced for faster inference and focused responses
 OPENCHAT_TEMPERATURE = 0.1  # Slightly increased for better JSON formatting while keeping consistency
 
-## Gemini API settings removed to focus exclusively on local Mistral (vLLM/OpenChat)
+# Google Gemini API settings (loaded from .env file)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # File paths
 # Get the absolute path to the project root directory (where this config.py file is located)

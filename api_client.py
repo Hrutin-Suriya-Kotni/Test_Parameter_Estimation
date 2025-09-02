@@ -84,7 +84,67 @@ class OpenChatAPIClient:
 # Global API client instance
 api_client = OpenChatAPIClient()
 
-## Gemini client removed to focus solely on local Mistral via OpenChat
+# Gemini API Client
+class GeminiClient:
+    """Client for communicating with Google Gemini API"""
+    
+    def __init__(self):
+        import google.generativeai as genai
+        import os
+        from dotenv import load_dotenv
+        
+        # Load environment variables
+        load_dotenv()
+        
+        api_key = os.getenv("GEMINI_API_KEY")
+        if not api_key:
+            raise ValueError("GEMINI_API_KEY not found in .env file. Please add it to your .env file.")
+        
+        genai.configure(api_key=api_key)
+        self.model = genai.GenerativeModel('gemini-2.0-flash-exp')
+        
+        # Safety settings to avoid blocking
+        self.safety_settings = {
+            'HATE': 'BLOCK_NONE',
+            'HARASSMENT': 'BLOCK_NONE',
+            'SEXUAL': 'BLOCK_NONE',
+            'DANGEROUS': 'BLOCK_NONE'
+        }
+    
+    def analyze_conversation(self, prompt: str, transcript: str) -> str:
+        """Analyze conversation using Gemini API"""
+        try:
+            # Enhanced prompt with JSON formatting instructions
+            enhanced_prompt = f"""{prompt}
+
+CRITICAL: You must respond with ONLY a valid JSON object. No additional text before or after.
+
+Required JSON format:
+{{"Value": "Met" or "Not Met", "Evidence": "detailed explanation"}}
+
+Transcript:
+{transcript}"""
+            
+            response = self.model.generate_content(
+                enhanced_prompt,
+                safety_settings=self.safety_settings,
+                generation_config={
+                    'temperature': 0.1,  # Low temperature for consistent results
+                    'max_output_tokens': 256  # Reduced for faster inference
+                }
+            )
+            return response.text
+        except Exception as e:
+            return f"Error: {str(e)}"
+    
+    def test_connection(self) -> bool:
+        """Test if the Gemini API is accessible"""
+        try:
+            response = self.analyze_conversation("Hello, this is a test message.", "Test transcript")
+            return not response.startswith("Error:")
+        except Exception as e:
+            print(f"Gemini connection test failed: {e}")
+            return False
 
 # OpenChat Client (Local Mistral Model)
 class MistralClient:
