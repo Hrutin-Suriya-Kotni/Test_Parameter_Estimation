@@ -17,10 +17,67 @@ class ModelConfig:
     
     # Model registry - add new models here
     AVAILABLE_MODELS = {
+        # ============ MISTRAL_BOOM_BOOM Models ============
+        'server3_base_openchat_mistral': {
+            'class_name': 'Server3OpenChatMistralClient',
+            'module_path': 'model_clients.server3_openchat_mistral_client',
+            'display_name': 'Server3 OpenChat Mistral (vLLM Direct)',
+            'description': 'Server3 vLLM Direct (27.111.72.53:3333) - OpenChat Mistral',
+            'requires_api_key': False,
+            'api_key_env_var': None,
+            'config': {
+                'api_url': 'http://27.111.72.53:3333/v1/chat/completions',  # Direct vLLM endpoint
+                'model': 'openchat/openchat-3.5-1210',
+                'max_tokens': 512,
+                'temperature': 0.1
+            }
+        },
+        'server5_base_mistral': {
+            'class_name': 'Server5BaseMistralClient',
+            'module_path': 'model_clients.server5_base_mistral_client',
+            'display_name': 'Server5 Base Mistral',
+            'description': 'Server5 Base Mistral (27.111.72.51:8000)',
+            'requires_api_key': False,
+            'api_key_env_var': None,
+            'config': {
+                'api_url': 'http://27.111.72.51:8000/generate',
+                'max_new_tokens': 512,
+                'temperature': 0.1
+            }
+        },
+        'karvalo_base_openchat_mistal': {
+            'class_name': 'KarvaloOpenChatMistralClient',
+            'module_path': 'model_clients.karvalo_openchat_mistral_client',
+            'display_name': 'Karvalo OpenChat Mistral',
+            'description': 'Karvalo Base OpenChat Mistral (API details TBD)',
+            'requires_api_key': False,
+            'api_key_env_var': None,
+            'config': {
+                'api_url': 'TBD',  # Will be provided later
+                'model': 'openchat/openchat-3.5-1210',
+                'max_tokens': 512,
+                'temperature': 0.1
+            }
+        },
+        'gemini_api': {
+            'class_name': 'GeminiClient',
+            'module_path': 'model_clients.gemini_client',
+            'display_name': 'Google Gemini API',
+            'description': 'Google Gemini 2.0 Flash model via API',
+            'requires_api_key': True,
+            'api_key_env_var': 'GEMINI_API_KEY',
+            'config': {
+                'model': 'gemini-2.0-flash-exp',
+                'temperature': 0.1,
+                'max_output_tokens': 512
+            }
+        },
+        
+        # ============ Legacy Models ============
         'mistral': {
             'class_name': 'MistralClient',
             'module_path': 'model_clients.mistral_client',
-            'display_name': 'Mistral (Local)',
+            'display_name': 'Mistral (Local - Legacy)',
             'description': 'Local Mistral model via OpenChat server',
             'requires_api_key': False,
             'api_key_env_var': None,
@@ -34,16 +91,17 @@ class ModelConfig:
         'gemini': {
             'class_name': 'GeminiClient',
             'module_path': 'model_clients.gemini_client',
-            'display_name': 'Google Gemini',
+            'display_name': 'Google Gemini (Legacy)',
             'description': 'Google Gemini 2.0 Flash model via API',
             'requires_api_key': True,
             'api_key_env_var': 'GEMINI_API_KEY',
             'config': {
                 'model': 'gemini-2.0-flash-exp',
                 'temperature': 0.1,
-                'max_output_tokens': 256
+                'max_output_tokens': 512
             }
         }
+        
         # Add new models here following the same pattern
         # 'new_model': {
         #     'class_name': 'NewModelClient',
@@ -59,6 +117,14 @@ class ModelConfig:
         #         'temperature': 0.1
         #     }
         # }
+    }
+
+    # Centralized data configuration
+    DATA_CONFIG = {
+        'data_dir': 'data',
+        'file_name': 'TAReport (30).xlsx',
+        'transcript_sheet': 'Transcript',
+        'primary_info_sheet': 'Primary Info'
     }
     
     @classmethod
@@ -101,6 +167,11 @@ class ModelConfig:
                     }
         
         return {'available': True, 'reason': 'All requirements met'}
+
+    @classmethod
+    def get_data_config(cls) -> Dict[str, Any]:
+        """Get dataset configuration (paths and sheet names)"""
+        return cls.DATA_CONFIG
     
     @classmethod
     def get_available_models_with_status(cls) -> Dict[str, Dict[str, Any]]:

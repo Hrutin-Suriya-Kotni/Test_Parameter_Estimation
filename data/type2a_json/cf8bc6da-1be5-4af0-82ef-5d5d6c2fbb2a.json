@@ -1,0 +1,235 @@
+{
+  "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is अनीशा I am here to assist you today. Am I speaking with Mister शर्मा?",
+      "starttime": 16.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, नाम confirm करने के लिए धन्यवाद. जैसे कि मैं यहां पर check कर पा रही हूं आपका concern आपके Axis bank credit card bill payment के लिए है जो कि rupees ###and 39 rupees",
+      "starttime": 24.67
+    },
+    {
+      "speaker": "customer",
+      "text": "bill late कितना",
+      "starttime": 40.56
+    },
+    {
+      "speaker": "customer",
+      "text": "bill late",
+      "starttime": 43.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Till date जो आप",
+      "starttime": 45.54
+    },
+    {
+      "speaker": "agent",
+      "text": "अपना due date पुछ रहे हैं से?",
+      "starttime": 48.02
+    },
+    {
+      "speaker": "customer",
+      "text": "जी जी जी.",
+      "starttime": 50.2
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है मैं check करके बताती हूं  request है  line पर connected",
+      "starttime": 51.63
+    },
+    {
+      "speaker": "agent",
+      "text": "Twelfth of October आपका due date.",
+      "starttime": 64.27
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन इसमें तो ma'am यह तो  यह ### कुछ EMI बना हुआ था इसमें उसको उसको भी देना पड़ेगा क्या",
+      "starttime": 66.96
+    },
+    {
+      "speaker": "agent",
+      "text": "###का आपने एक payment करा",
+      "starttime": 74.91
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आपकी EMI,",
+      "starttime": 78.47
+    },
+    {
+      "speaker": "customer",
+      "text": "इसमें EMI कुछ EMI #### कितना रुपए EMI बना हुआ",
+      "starttime": 80.74
+    },
+    {
+      "speaker": "customer",
+      "text": "उसमें देखिए तो अभी ma'am उसमें EMI बना है कि नहीं है या देना पड़ेगा  नहीं देना पड़ेगा बारह तारीख",
+      "starttime": 88.08
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी मैं समझ पा रही हूं कि मैं अपने end से information check कर रही हूं I request  आप line पर connected रहिए.",
+      "starttime": 94.5
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 103.07
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 106.75
+    },
+    {
+      "speaker": "agent",
+      "text": "करता है?",
+      "starttime": 108.91
+    },
+    {
+      "speaker": "agent",
+      "text": "वह   करने   के तो",
+      "starttime": 114.46
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या मैं exact जान सकती हूं कि आपको exact किस card के बारे में जानकारी चाहिए उसके ending digit किया",
+      "starttime": 118.17
+    },
+    {
+      "speaker": "customer",
+      "text": "यह एक ####",
+      "starttime": 124.7
+    },
+    {
+      "speaker": "agent",
+      "text": "####",
+      "starttime": 128.06
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, last",
+      "starttime": 129.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok मैं check कर",
+      "starttime": 131.62
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 138.25
+    },
+    {
+      "speaker": "agent",
+      "text": "है. ठीक है आपका जो card है वह ###है Axis card, right?",
+      "starttime": 143.27
+    },
+    {
+      "speaker": "customer",
+      "text": "जी जी दो card है एक रुपए का है एक एक",
+      "starttime": 148.09
+    },
+    {
+      "speaker": "customer",
+      "text": "एक एक है     last",
+      "starttime": 152.82
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन ma'am यहां तो एक में दिखा रहा",
+      "starttime": 158.25
+    },
+    {
+      "speaker": "customer",
+      "text": "हां  हां. और दूसरा मैं दूसरा में दिखा रहा था ###",
+      "starttime": 161.19
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन ma'am इसमें तो एक तो     ###का #### इसमें तो EMI बना हुआ",
+      "starttime": 170.92
+    },
+    {
+      "speaker": "customer",
+      "text": "इसमें इसी में जैसे",
+      "starttime": 178.06
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी मतलब अभी बनाया फ़िलहाल दस छह सात दिन हो गया.",
+      "starttime": 179.92
+    },
+    {
+      "speaker": "customer",
+      "text": "आप  मुझे अभी अभी कितना दिन है क्या देना उसके बारे में पूरा जानकारी चाहिए?",
+      "starttime": 183.41
+    },
+    {
+      "speaker": "customer",
+      "text": "बारह तारीख",
+      "starttime": 187.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं बताना चाहूंगी कि देखिए यह जो आपसे पुछ रहे हैं about the payment तो Cred आपकी जो information fetch करता है वह आपका  जो आपका",
+      "starttime": 189.33
+    },
+    {
+      "speaker": "agent",
+      "text": "last",
+      "starttime": 199.98
+    },
+    {
+      "speaker": "agent",
+      "text": "security",
+      "starttime": 201.65
+    },
+    {
+      "speaker": "agent",
+      "text": "20 third September से  हुई थी आपकी update, ok?",
+      "starttime": 202.77
+    },
+    {
+      "speaker": "agent",
+      "text": "और इसी वजह से  आपको यहां पर आपका total amount show",
+      "starttime": 206.7
+    },
+    {
+      "speaker": "agent",
+      "text": "यह आपका EMI amount show नहीं हो रहा है. In case अगर आपको EMI के बारे में जानना है जो आपने ###.9 पैसे की बनवार",
+      "starttime": 210.73
+    },
+    {
+      "speaker": "agent",
+      "text": "उसके लिए आपको Axis bank से connect करना पड़ेगा जिसमें कि आप जान सकते हैं कि आपको कितना amount pay करना होगा as in EMI.",
+      "starttime": 221.73
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 229.67
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके अलावा कोई और  सहायता मैं आपकी कर सकती हूं credit से related?",
+      "starttime": 231.62
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you.",
+      "starttime": 235.61
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है क्या इस call को end करने से पहले मैं आपका valuable feedback request कर",
+      "starttime": 237.09
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is श्वेता.  here to assist you today. Am I speaking with प्रवीण?",
+      "starttime": 16.18
+    },
+    {
+      "speaker": "customer",
+      "text": "Hello. Yeah. Yeah. Am I audible?",
+      "starttime": 21.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to",
+      "starttime": 32.19
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 34.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Your voice is not clear.",
+      "starttime": 36.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Your voice is not clear.",
+      "starttime": 40.24
+    },
+    {
+      "speaker": "customer",
+      "text": "जी. Hello.",
+      "starttime": 44.01
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, 1 second.",
+      "starttime": 46.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, actually   added money to  when I tried to cancel the money it is showing",
+      "starttime": 47.85
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 52.07
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 56.93
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, I re is my",
+      "starttime": 58.3
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So you are doing KYC process and it is showing to you same ID mismatch right?",
+      "starttime": 61.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Your voice is not clear.",
+      "starttime": 72.05
+    },
+    {
+      "speaker": "customer",
+      "text": "what it was I I did the  possible.",
+      "starttime": 72.96
+    },
+    {
+      "speaker": "customer",
+      "text": "in the same  I  change the same same number.",
+      "starttime": 76.46
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 80.32
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक",
+      "starttime": 80.42
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 83.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Thank you for the name confirmation. I understand the concern you are facing right now. apologize for the inconvenience प्रतीश.",
+      "starttime": 86.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Please be assured I am here to assist you with the same. Please allow me some time.",
+      "starttime": 93.86
+    },
+    {
+      "speaker": "customer",
+      "text": "is being actually.",
+      "starttime": 96.96
+    },
+    {
+      "speaker": "agent",
+      "text": "please allow me some time.",
+      "starttime": 100.76
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I have forwarded your concern to our dedicated wallet support team who will get back to you within the next 4 hours.",
+      "starttime": 112.71
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to",
+      "starttime": 122.76
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to you, प्रदीप",
+      "starttime": 127.22
+    }
+  ]
+}

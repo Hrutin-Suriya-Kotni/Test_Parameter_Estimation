@@ -39,25 +39,44 @@ class BaseModelClient(ABC):
             # Clean the response
             cleaned = response_text.strip()
             
-            # Try to extract JSON from response
+            # Try to find all JSON objects and return the last valid one
+            # This handles cases where the prompt is echoed back with examples
             if '{' in cleaned and '}' in cleaned:
-                start = cleaned.find('{')
-                end = cleaned.rfind('}') + 1
-                json_str = cleaned[start:end]
+                # Find all potential JSON objects by looking for {} pairs
+                json_objects = []
+                i = 0
+                while i < len(cleaned):
+                    if cleaned[i] == '{':
+                        # Found a potential JSON start, find matching }
+                        depth = 0
+                        start = i
+                        while i < len(cleaned):
+                            if cleaned[i] == '{':
+                                depth += 1
+                            elif cleaned[i] == '}':
+                                depth -= 1
+                                if depth == 0:
+                                    # Found complete JSON object
+                                    json_str = cleaned[start:i+1]
+                                    try:
+                                        parsed = json.loads(json_str)
+                                        if isinstance(parsed, dict) and 'Value' in parsed:
+                                            # Valid JSON with Value field
+                                            json_objects.append(parsed)
+                                    except:
+                                        pass
+                                    break
+                            i += 1
+                    i += 1
                 
-                # Try to parse the JSON
-                parsed = json.loads(json_str)
-                
-                # Validate the structure
-                if isinstance(parsed, dict) and 'Value' in parsed:
-                    return parsed
+                # Return the last valid JSON object (most likely the actual response)
+                if json_objects:
+                    return json_objects[-1]
                 else:
                     return None
             else:
                 return None
                 
-        except json.JSONDecodeError:
-            return None
         except Exception:
             return None
     

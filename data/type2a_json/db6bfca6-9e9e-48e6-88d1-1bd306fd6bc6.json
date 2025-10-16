@@ -1,0 +1,490 @@
+{
+  "conversation_id": "db6bfca6-9e9e-48e6-88d1-1bd306fd6bc6",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is निकिता. I'm here to assist you today. Am I speaking with विजय?",
+      "starttime": 17.5
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी actually मैंने अभी लिया मेरा car का renewal किया तुरंत",
+      "starttime": 22.22
+    },
+    {
+      "speaker": "customer",
+      "text": "premium",
+      "starttime": 27.86
+    },
+    {
+      "speaker": "customer",
+      "text": "premium paid हो गया but policy generate नहीं",
+      "starttime": 29.39
+    },
+    {
+      "speaker": "agent",
+      "text": "माफ़ी चाहती हूं   inconvenience के लिए please आप मुझे थोड़ा seconds दे मैं इसे check करके आपको बता देती",
+      "starttime": 34.2
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं देख पा रही हूं कि आपका जो previous policy है",
+      "starttime": 44.94
+    },
+    {
+      "speaker": "agent",
+      "text": "जो आपने लिया है comprehensive policy. यह अभी तक आपकी issue यह अभी तक expire नहीं हुई है thirtieth November तक expire होगी.",
+      "starttime": 49.44
+    },
+    {
+      "speaker": "agent",
+      "text": "जी तो देखिए इसकी वजह से आपने जो policy अभी renew किया है ना ICICI Lombard की यह अभी भी आप देखिए इसका KYC हो चुका है. बताते ही खुशी हो रही से KYC हो चुका है पर तो policy इसीलिए activate नहीं हुई है क्योंकि आपके अभी जो present policy है वह already अभी active है. तो जैसे वह आपकी policy जैसे आपकी यह policy",
+      "starttime": 59.03
+    },
+    {
+      "speaker": "agent",
+      "text": "जो आपकी previous policy comprehensive policy जो अगर expire हो जाएगी. जैसे expire होगी उसके तुरंत बाद ही आपकी यह policy active हो जाएगी क्योंकि यह policy में आपको कोई कुछ करने के भी ज़रूरत नहीं है KYC भी इसका complete",
+      "starttime": 78.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok और यह policy activate हो जाएगी पर तो आपको wait करना होगा.  November को जैसे ही ग्यारह बजकर #### में pm में आपका policy expire होगा 12 morning का जो  AM है उसमें आपका यह policy तुरंत activate हो जाएगा.",
+      "starttime": 91.09
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 91.53
+    },
+    {
+      "speaker": "customer",
+      "text": "It's ok but मुझे तो policy मिलना चाहिए ना वह  एक December से",
+      "starttime": 107.83
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी वह आपको मिल जाएगा.",
+      "starttime": 111.59
+    },
+    {
+      "speaker": "customer",
+      "text": "एक December से लेकर एक December दो हज़ार छब्बीस से लेकर",
+      "starttime": 113.77
+    },
+    {
+      "speaker": "customer",
+      "text": "एक December दो हज़ार पच्चीस से लेकर तीस November दो हज़ार छब्बीस तक जो policy",
+      "starttime": 117.84
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने renewal किया वह policy तो मुझे मिलना चाहिए",
+      "starttime": 124.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Policy तो मुझे मिल",
+      "starttime": 129.33
+    },
+    {
+      "speaker": "agent",
+      "text": "यानी कि अभी ICICI Lombard की बात कर रहे हैं ना policy जो renew किया आपने.",
+      "starttime": 129.38
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 132.35
+    },
+    {
+      "speaker": "agent",
+      "text": "जी आपको मिल जाएगा आप निश्चिंत रहें.",
+      "starttime": 133.48
+    },
+    {
+      "speaker": "customer",
+      "text": "हां वह policy  मिलना चाहिए",
+      "starttime": 133.51
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी आप निश्चिंत रहें. actually अभी active policy already active चल रही है जिसकी वजह से यह policy अभी भी आपका hold पर है. इसका सारा काम हो चुका है. जैसे  आपकी  policy expire होगी यह policy आपकी activate हो जाएगी. आप policy document credit में भी देख पाएंगे.",
+      "starttime": 136.04
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं it's ok.",
+      "starttime": 148.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok और आपको insurer की तरफ से मिल जाएगी policy document soft copy में भी और hard copy भी आपको कुछ दिनों में मिल जाएगी. Ok?",
+      "starttime": 151.21
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, मिल जाएगा मुझे",
+      "starttime": 159.4
+    },
+    {
+      "speaker": "agent",
+      "text": "जी आप निश्चिंत रहिए आपको मिल जाएगा.",
+      "starttime": 161.12
+    },
+    {
+      "speaker": "customer",
+      "text": "क्योंकि वह process हो रहा था दिखा रहा था process हो रहा था वह time out हो गया फिर उसके बाद चला",
+      "starttime": 161.73
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं नहीं आप निश्चिंत रहें. जी.",
+      "starttime": 168.71
+    },
+    {
+      "speaker": "customer",
+      "text": "कि KYC KYC OTP आधार जो digit करवाना मैंने दे दिया उसके बाद कुछ process और आता",
+      "starttime": 168.9
+    },
+    {
+      "speaker": "customer",
+      "text": "वह delay हुआ उसके बाद cut",
+      "starttime": 175.87
+    },
+    {
+      "speaker": "customer",
+      "text": "तो ठीक  हुआ कि नहीं वह मुझे doubt",
+      "starttime": 179.5
+    },
+    {
+      "speaker": "customer",
+      "text": "आप check करेंगे वह  तक हो गया policy number generate हुआ कि",
+      "starttime": 182.45
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए KYC status तो आपका activate हो गया है और रहा policy का आप निश्चिंत रहे policy में  आपको कुछ भी अपनी तरफ से करने की ज़रूरत नहीं है वह automatic hold पर जैसे expire हो जाएगा आपका यह present policy कि automatic activation हो जाएगा आपका  policy को आपको notification",
+      "starttime": 187.17
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं  ऐसे ऐसे भरा insurance पर थोड़ी",
+      "starttime": 200.51
+    },
+    {
+      "speaker": "customer",
+      "text": "हमको तो पहले पैसा दिया तो मुझे policy चाहिए",
+      "starttime": 205.38
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको मिल जाएगी policy आप निश्चिंत",
+      "starttime": 209.1
+    },
+    {
+      "speaker": "customer",
+      "text": "मुझे policy number तो generate होगा policy number मिल जाइए",
+      "starttime": 209.52
+    },
+    {
+      "speaker": "customer",
+      "text": "वह  कब तक दे पाएंगे बोलिए क्योंकि वह तब तक हम थोड़ी ना wait करेंगे.  उससे पहले मुझे",
+      "starttime": 213.79
+    },
+    {
+      "speaker": "customer",
+      "text": "अगर आप policy नहीं करेंगे तो पैसा वापस करा दीजिएगा",
+      "starttime": 219.05
+    },
+    {
+      "speaker": "customer",
+      "text": "क्योंकि मैं फिर कहीं ना policy तो मुझे चाहिए",
+      "starttime": 222.76
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं तब तक expiry तक wait नहीं कर सकता",
+      "starttime": 225.99
+    },
+    {
+      "speaker": "customer",
+      "text": "ex policy expire तक में wait नहीं कर सकता उससे पहले मुझे policy चाहिए आपको valid from एक December",
+      "starttime": 231.25
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन policy चाहिए",
+      "starttime": 239.82
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं समझ पा रही हूं परंतु आपको यह बता देना चाहती हूं कि एक बार देख policy number अभी generate हुआ नहीं है. जब तक यह policy आपकी activated रहती है ना जब तक आपकी वाली policy active नहीं हो पाएगी. इसीलिए आप please आप निश्चिंत रहे. जैसे ही expire होगा आपको संजय  आपका policy activate",
+      "starttime": 242.47
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं ऐसा नहीं होता",
+      "starttime": 257.24
+    },
+    {
+      "speaker": "customer",
+      "text": "ऐसा नहीं होता है. Policy number पहले भी generate होता",
+      "starttime": 259.21
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है. अगर आपको policy number generate कर देखिए हमारे पास इसके regarding information नहीं है बस जी. आप एक बार insurance  connect कर लीजिएगा वह आपको इस पर update कर देंगे. policy number के regarding",
+      "starttime": 263.74
+    },
+    {
+      "speaker": "customer",
+      "text": "which is that valid",
+      "starttime": 263.82
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं क्या reference होगा?",
+      "starttime": 274.72
+    },
+    {
+      "speaker": "customer",
+      "text": "मुझे reference कुछ भी तो आप  reference किया दूंगा.",
+      "starttime": 278.55
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने तो Cred में किया",
+      "starttime": 283.36
+    },
+    {
+      "speaker": "customer",
+      "text": "आप तो मुझे देंगे तो कुछ reference",
+      "starttime": 285.4
+    },
+    {
+      "speaker": "customer",
+      "text": "आप policy आपका आप में मैंने किया पैसा तो आपने लिया",
+      "starttime": 289.77
+    },
+    {
+      "speaker": "customer",
+      "text": "और आप कुछ भी reference नहीं देंगे मैं ICICI Lombard में क्या बात करूंगा जैसे",
+      "starttime": 295.19
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या reference होगा?",
+      "starttime": 300.63
+    },
+    {
+      "speaker": "customer",
+      "text": "ऐसे थोड़ी होता",
+      "starttime": 304.07
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं समझ पा रही",
+      "starttime": 306.63
+    },
+    {
+      "speaker": "customer",
+      "text": "आप complaint रखिए.",
+      "starttime": 306.82
+    },
+    {
+      "speaker": "customer",
+      "text": "आप complaint रखिए please मुझे details दीजिए policy दीजिए या मुझे कुछ details दीजिए जो details लेकर number पर बात करूंगा.",
+      "starttime": 308.51
+    },
+    {
+      "speaker": "customer",
+      "text": "थोड़ी",
+      "starttime": 315.75
+    },
+    {
+      "speaker": "agent",
+      "text": "आप अगर बात करना चाहते हैं तो मैं आपको number provide कर देती हूं आप बात कर लीजिएगा ICICI Lombard.",
+      "starttime": 319.0
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं, number में क्या reference में.",
+      "starttime": 323.36
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने Cred में क्या किया वह भर वाली बताना तो क्या से?",
+      "starttime": 327.1
+    },
+    {
+      "speaker": "customer",
+      "text": "आपने पैसा लिया मुझे",
+      "starttime": 331.69
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए policy तो अभी तक आपका generate हुई नहीं है बस जी. तो मैं आपको policy का number तो provide नहीं कर पाऊंगी क्योंकि हमारे पास भी इसका updation",
+      "starttime": 331.91
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं, ठीक है. अभी generate नहीं हुआ अगला पांच minute में चौबीस घंटा में कुछ तो होगा. आप बोलेंगे expire तक wait करने के लिए वह process able नहीं है. आप नहीं तो मेरा पैसा वापस कर",
+      "starttime": 338.73
+    },
+    {
+      "speaker": "customer",
+      "text": "पैसा आपने लिया पैसा वापस कर लीजिए. अब मैं तीस November तक wait नहीं कर सकता तब तक तो last हो जाएगा ना insurance.",
+      "starttime": 350.07
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं wait नहीं कर सकता",
+      "starttime": 356.68
+    },
+    {
+      "speaker": "agent",
+      "text": "आप निश्चिंत रहिए lapse नहीं होगा policy क्योंकि आपका KYC   हो चुका",
+      "starttime": 357.04
+    },
+    {
+      "speaker": "agent",
+      "text": "जब तक आपका policy app नहीं होगा. अगर KYC नहीं हो रहा होगा या तो कुछ inspection  issue होता है तो lapse हो सकता था policy परंतु आप निश्चिंत रहे policy lapse नहीं होगी",
+      "starttime": 361.34
+    },
+    {
+      "speaker": "customer",
+      "text": "आप बोल रहे हैं policy last का  last होने के बाद आप policy देंगे. ही बात बोल रहे",
+      "starttime": 372.87
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने existing policy जैसे ही last होगा तीस November उसके बाद देंगे.",
+      "starttime": 380.29
+    },
+    {
+      "speaker": "agent",
+      "text": "जी आपका existing policy अभी तक expire हुआ ही नहीं है. जब तक वह expire नहीं होगा आपका active वाला policy active होगा ही",
+      "starttime": 382.99
+    },
+    {
+      "speaker": "customer",
+      "text": "बार",
+      "starttime": 386.5
+    },
+    {
+      "speaker": "customer",
+      "text": "ऐसा नहीं हुआ तो",
+      "starttime": 388.38
+    },
+    {
+      "speaker": "customer",
+      "text": "मेरे को तो चाहिए ना मैं कर लिया बोलकर मुझे पैसा payment क्या मुझे  कुछ तो दीजिए.",
+      "starttime": 391.73
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने premium pay किया उसका तो receive हो",
+      "starttime": 399.33
+    },
+    {
+      "speaker": "customer",
+      "text": "ICICI Lombard में मैंने पांच हज़ार दो सौ पैंतीस रुपए दिया. उसका receipt तो दे दीजिए मुझे",
+      "starttime": 403.11
+    },
+    {
+      "speaker": "customer",
+      "text": "वह तो दे सकते हो कि",
+      "starttime": 409.92
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok मैं आपको फिर mail कर देती हूं इसके regarding.",
+      "starttime": 412.32
+    },
+    {
+      "speaker": "customer",
+      "text": "हां premium receive  दे दीजिए वह refund ताकि मैं बात कर लूंगा Lombard",
+      "starttime": 414.45
+    },
+    {
+      "speaker": "customer",
+      "text": "premium receipt ले लीजिए जो premium मैंने paid किया वह उसका receipt चाहिए ना",
+      "starttime": 421.55
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok  मैं आपको इसके regarding mail कर देती हूं बस जी आपकी mail ID बता दीजिए बस जी कराते 1 at या हो dot com.",
+      "starttime": 429.75
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 437.33
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है, call disconnect होते ही मैं आपको email send कर देती हूं.",
+      "starttime": 438.6
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है ok.",
+      "starttime": 442.58
+    },
+    {
+      "speaker": "agent",
+      "text": "credit के द्वारा  कोई जानकारी आप जानना चाहते",
+      "starttime": 444.37
+    },
+    {
+      "speaker": "customer",
+      "text": "No, it's ok. Thank",
+      "starttime": 447.35
+    },
+    {
+      "speaker": "agent",
+      "text": "Great, call end करने से पहले क्या हमारे बातचीत के basis पर आपसे एक छोटे से feedback के लिए request कर सकती हूं. इसमें सिर्फ तीन से पांच second लगेंगे.",
+      "starttime": 448.82
+    },
+    {
+      "speaker": "agent",
+      "text": "Awesome,",
+      "starttime": 457.82
+    },
+    {
+      "speaker": "agent",
+      "text": "call Awesome call को हम आपके feedback IVR पर transfer कर रहे हैं. आप एक से पांच तक के beach में rating दे सकते हैं जिसमें एक सबसे कम है और पांच सबसे ज़्यादा.",
+      "starttime": 458.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Cred को choose करने के लिए धन्यवाद. आपका दिन शुभ रहे. धन्यवाद.",
+      "starttime": 467.6
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 473.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 481.22
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 488.75
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 493.27
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 497.0
+    }
+  ]
+}

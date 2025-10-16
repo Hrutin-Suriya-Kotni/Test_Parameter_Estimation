@@ -1,0 +1,180 @@
+{
+  "conversation_id": "e3783fd9-233f-4454-981a-acb7bba71ae6",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is विषय and I'm here to assist you today. Am I speaking with अक्षय?",
+      "starttime": 16.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 21.53
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much for the confirmation अक्षय. So as I can check that you have raised a concern regarding repayment issue at foreclosure?",
+      "starttime": 22.8
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. This is regarding the credit cash cash I have taken a kind of  loan from there.",
+      "starttime": 29.66
+    },
+    {
+      "speaker": "customer",
+      "text": "I am seeing the repayment option, I mean, I have a sure of some amount and I was thinking that I will just pay the date and just wanted to know that how does it work?",
+      "starttime": 36.24
+    },
+    {
+      "speaker": "customer",
+      "text": "So can I pay  certain amount or does it have to be an entire amount for how is it? I'm not able to get any information on the",
+      "starttime": 46.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood like you are asking is it avail like part payment is available or not right?",
+      "starttime": 53.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood. So first of all, I'm so sorry for the inconvenience that caused you, but as of now, we do not support part payment. So if you want to foreclose your loan, so you can directly close your loan while paying all the amount in 1 go or else you can just make the EMI payments.",
+      "starttime": 58.49
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. So, I can pay an extra EMI  what you're",
+      "starttime": 74.74
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, so 1 extra EMI, you can be able to pay.",
+      "starttime": 78.33
+    },
+    {
+      "speaker": "customer",
+      "text": "and how does it change the entire thing I mean, does it create a 1 month gap or does it entire change the amount for the remaining",
+      "starttime": 82.14
+    },
+    {
+      "speaker": "agent",
+      "text": "So for  example from my end, I can check till the month of October you have already paid right? So if you want to make the payment for the month of November, so you can do that. So for so that on the next month which is November, then you do not have to make the payment.",
+      "starttime": 90.6
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok. And this this happen only for 1 EMI or I can do it for multiple EMI.",
+      "starttime": 106.33
+    },
+    {
+      "speaker": "agent",
+      "text": "and in like  only 1 extra EMI, you can be able to",
+      "starttime": 112.65
+    },
+    {
+      "speaker": "customer",
+      "text": "for the entire duration.",
+      "starttime": 117.94
+    },
+    {
+      "speaker": "customer",
+      "text": "it.",
+      "starttime": 119.71
+    },
+    {
+      "speaker": "agent",
+      "text": "Like you",
+      "starttime": 120.77
+    },
+    {
+      "speaker": "agent",
+      "text": "you have made the payment for the month of November today like suppose and now on after that once the status is been updated as you have made a early EMI payment So once the status is been updated from the upcoming due date, it will be taking 7 days and after that, again you you can be able to make the payment.",
+      "starttime": 122.61
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 125.88
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok. But ok. So you're telling me that",
+      "starttime": 140.73
+    },
+    {
+      "speaker": "customer",
+      "text": "at the time I can only pay for 1 EMI in part payment ok and once that gets updated I might get an option to pay the next EMI. But then",
+      "starttime": 144.65
+    },
+    {
+      "speaker": "agent",
+      "text": "1 Am I right?",
+      "starttime": 146.54
+    },
+    {
+      "speaker": "customer",
+      "text": "it takes a very option of deducting the EMI for the next month.",
+      "starttime": 153.02
+    },
+    {
+      "speaker": "agent",
+      "text": "Correct correct. because that will be updated earlier.",
+      "starttime": 156.5
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok I got it.",
+      "starttime": 160.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. apart from this?",
+      "starttime": 162.69
+    },
+    {
+      "speaker": "customer",
+      "text": "will I will I will see I mean, I'll I'll try think about",
+      "starttime": 163.09
+    },
+    {
+      "speaker": "customer",
+      "text": "and if in case  find any issues I will contact that. Thank you for the clarification.",
+      "starttime": 167.45
+    },
+    {
+      "speaker": "agent",
+      "text": "Most welcome. So apart from this, there is anything else that I can help you",
+      "starttime": 170.96
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. So before we end this call, may I please request you to share your valuable feedback basis on our conversation we are just right?",
+      "starttime": 177.07
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much. So I'll just transferring this call to the feedback IVR where you can be able to select between 1 to 5. Where 1 being 4 and 5 being excellent. Thank you so much for choosing Cred. Hope you have a great",
+      "starttime": 185.2
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 195.71
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, you too. Thank",
+      "starttime": 195.8
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 203.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 207.63
+    }
+  ]
+}

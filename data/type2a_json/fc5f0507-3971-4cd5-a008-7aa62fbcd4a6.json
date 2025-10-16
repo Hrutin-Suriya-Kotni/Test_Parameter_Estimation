@@ -1,0 +1,465 @@
+{
+  "conversation_id": "fc5f0507-3971-4cd5-a008-7aa62fbcd4a6",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 0.03
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 1.03
+    },
+    {
+      "speaker": "agent",
+      "text": "Good afternoon",
+      "starttime": 4.03
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning, this is श्वेता. I am here to assist you today. Am I speaking with सुजय?",
+      "starttime": 16.38
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am.",
+      "starttime": 20.74
+    },
+    {
+      "speaker": "agent",
+      "text": "you for the name confirmation. I see your request is related to EMI repayment charges.",
+      "starttime": 21.87
+    },
+    {
+      "speaker": "customer",
+      "text": "actually today was the mandate for the EMI and due to sufficient balance I forgot the today is the EMI.",
+      "starttime": 27.3
+    },
+    {
+      "speaker": "customer",
+      "text": "But   sufficient balance I got the message that the",
+      "starttime": 36.51
+    },
+    {
+      "speaker": "customer",
+      "text": "there will be application applicable return charges will be limit.",
+      "starttime": 40.45
+    },
+    {
+      "speaker": "customer",
+      "text": "So now I have the sufficient balance account. So 2 questions",
+      "starttime": 46.32
+    },
+    {
+      "speaker": "customer",
+      "text": "what will be the charges and",
+      "starttime": 50.81
+    },
+    {
+      "speaker": "customer",
+      "text": "how to pay that EMI.",
+      "starttime": 53.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I understand the concern you are facing right now. apologize for the inconvenience to you. Please be assured here to assist you with the same. So for that we have a relevant team. We can assist you in this matter in a better way. So you have taken this",
+      "starttime": 55.65
+    },
+    {
+      "speaker": "agent",
+      "text": "loan from the credit cash, right?",
+      "starttime": 69.08
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so may I transfer your call to the relevant",
+      "starttime": 71.99
+    },
+    {
+      "speaker": "customer",
+      "text": "Sure sure.",
+      "starttime": 75.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. For that, may I place your call on hold for a minute?",
+      "starttime": 75.97
+    },
+    {
+      "speaker": "agent",
+      "text": "you for being on hold",
+      "starttime": 140.62
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Yes.",
+      "starttime": 142.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, from our relevant team रेशमा is here we will assist you further. Over to you रेशमा I'm dropping this call from my end. Thank you.",
+      "starttime": 143.7
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you श्वेता.  morning शुभ. My name is रेशमा I will be assisting you further regarding your query.",
+      "starttime": 150.59
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am. the problem is Yes.",
+      "starttime": 156.8
+    },
+    {
+      "speaker": "agent",
+      "text": "So as",
+      "starttime": 157.68
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually, the EMI is today schedule for today.",
+      "starttime": 161.17
+    },
+    {
+      "speaker": "customer",
+      "text": "but due to sufficient balance I forgot that today's payment",
+      "starttime": 164.56
+    },
+    {
+      "speaker": "customer",
+      "text": "But due to that I got a message that there will be applicable written charges.",
+      "starttime": 169.46
+    },
+    {
+      "speaker": "customer",
+      "text": "will be",
+      "starttime": 175.11
+    },
+    {
+      "speaker": "customer",
+      "text": "and now I have the good balance in the  account for the EMI.",
+      "starttime": 176.68
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 180.48
+    },
+    {
+      "speaker": "customer",
+      "text": "But like how to pay that EMI and what will be the charges?",
+      "starttime": 182.21
+    },
+    {
+      "speaker": "customer",
+      "text": "and possible that can be  revert",
+      "starttime": 186.6
+    },
+    {
+      "speaker": "agent",
+      "text": "will surely help you out regarding your query and extremely sorry for the inconvenience caused to you. But do not worry. I will surely help you out regarding your query. So as I can check that in credit cash you have 1 loan and the total principle amount for that loan it is 1 lakh ###rupees.",
+      "starttime": 191.83
+    },
+    {
+      "speaker": "agent",
+      "text": "and the EMI amount is ###rupees.",
+      "starttime": 208.62
+    },
+    {
+      "speaker": "agent",
+      "text": "and I can check that the due date is on seventh of every month.",
+      "starttime": 212.5
+    },
+    {
+      "speaker": "agent",
+      "text": "So on the due date starting from 12 AM auto debit is initiated and it can get revert at any point of time.",
+      "starttime": 216.42
+    },
+    {
+      "speaker": "agent",
+      "text": "So when the auto debit was  it was not successful due to insufficient funds in your bank account and you got the SMS that the ECS will be charged  from the bank side. right?",
+      "starttime": 224.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 233.87
+    },
+    {
+      "speaker": "agent",
+      "text": "extremely sorry for the inconvenience caused to you. But regarding this, I would like to tell you that regarding the ECS",
+      "starttime": 235.74
+    },
+    {
+      "speaker": "agent",
+      "text": "regarding the auto debit auto due date auto debit is initiated just once and also I can check the auto debit is auto debit regard so it will not get figure once again. So right now you have to make the manual payment and extremely so to say but we cannot help me for the charges which will be charged to you. Because that is charge from the bank",
+      "starttime": 242.0
+    },
+    {
+      "speaker": "customer",
+      "text": "So what will be the charges Do you know?",
+      "starttime": 263.47
+    },
+    {
+      "speaker": "agent",
+      "text": "I can just give you an approximate figure because I can check the mandate account which you have set up for the auto debit is of ICICI Bank, right?",
+      "starttime": 266.54
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes right.",
+      "starttime": 274.62
+    },
+    {
+      "speaker": "agent",
+      "text": "So different bank charges different mandate bounce charges but for the ICICI Bank, I can just give you an approximate figure. the amount can be create than that figure or it can be you know, less than that that figure.",
+      "starttime": 274.98
+    },
+    {
+      "speaker": "customer",
+      "text": "जी जी.",
+      "starttime": 285.91
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, it is  just  approx amount the amount is 500",
+      "starttime": 287.43
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 291.66
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. So how to pay that this EMI",
+      "starttime": 293.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes so",
+      "starttime": 297.39
+    },
+    {
+      "speaker": "customer",
+      "text": "manually.",
+      "starttime": 297.86
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, from the Cred application, you will get the option to make the manual payment So from there you have to make the payment because the auto debit will not get regard once again.",
+      "starttime": 299.95
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 304.0
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 308.84
+    },
+    {
+      "speaker": "customer",
+      "text": "and",
+      "starttime": 309.84
+    },
+    {
+      "speaker": "customer",
+      "text": "next",
+      "starttime": 311.02
+    },
+    {
+      "speaker": "customer",
+      "text": "can I foreclose this loan",
+      "starttime": 312.98
+    },
+    {
+      "speaker": "agent",
+      "text": "If you wish to foreclose your loan right now you can definitely do that instead of paying your EMI amount you can directly foreclose your loan you will get the option to foreclose your loan. But once you are making the EMI payment. So after that you cannot foreclose the loan because it will take some time to get updated. Once it is updated, then you can foreclose your loan.",
+      "starttime": 316.56
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok but is there any like for closure charges",
+      "starttime": 336.43
+    },
+    {
+      "speaker": "customer",
+      "text": "or is there any offer",
+      "starttime": 340.25
+    },
+    {
+      "speaker": "agent",
+      "text": "there are  for closer charges",
+      "starttime": 340.55
+    },
+    {
+      "speaker": "agent",
+      "text": "If you wish to foreclose your loan till the foreclosure date the interest charge to you on a daily basis which means till date the interest charge to you on a daily basis. that is the interest which you have to pay and the remaining principle amount.",
+      "starttime": 343.2
+    },
+    {
+      "speaker": "customer",
+      "text": "sorry like",
+      "starttime": 357.31
+    },
+    {
+      "speaker": "customer",
+      "text": "I don't I didn't understand what",
+      "starttime": 359.81
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, not an issue. I will definitely explain",
+      "starttime": 361.95
+    },
+    {
+      "speaker": "agent",
+      "text": "So I would like to tell you that for example you wish to foreclose your loan today.",
+      "starttime": 364.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok? So from your due date, the last due date was on September right? So from seventh September till today the interest charge to you on  daily basis. That is the interest which you have to pay and the remaining principle amount the remaining amount which is left the principle amount that is the amount which you have to pay You don't have to pay the interest for the remaining months which are",
+      "starttime": 368.94
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok. Yes. So is it like some offer for me only or it is by default I can go now and in the app and directly pay the full amount.",
+      "starttime": 390.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes yes you will get the option to make the foreclosure payment, but as you asked me about the foreclosure So I would like to tell you that if you are paying your EMI amount currently you will not get the option to foreclose your loan But if you wish to foreclose your loan before making the EMI payment definitely you can do that from the credit application.",
+      "starttime": 400.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. So just to clarify like I have 5  EMI remaining including this 1 that",
+      "starttime": 418.48
+    },
+    {
+      "speaker": "customer",
+      "text": "like ###something is the EMI. So, 1 to 5 what I think ####",
+      "starttime": 427.39
+    },
+    {
+      "speaker": "customer",
+      "text": "is a remaining portal.",
+      "starttime": 435.25
+    },
+    {
+      "speaker": "customer",
+      "text": "only out of that this interest for the last month and the principal for next 4 months No",
+      "starttime": 437.89
+    },
+    {
+      "speaker": "customer",
+      "text": "interest for the next  month.",
+      "starttime": 446.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Correct. So I would like to tell you that the principal amount which is left it is ###rupees 9 पैसा.",
+      "starttime": 448.47
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 457.11
+    },
+    {
+      "speaker": "agent",
+      "text": "So that is the principle amount and the interest charge to you till today it is ###rupees 6 पैसा.",
+      "starttime": 457.46
+    },
+    {
+      "speaker": "agent",
+      "text": "So if you include the principal amount and the interest the foreclosure amount will be 79 75 rupees  9 percent.",
+      "starttime": 464.94
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am ok. So to foreclose and to pay EMI I have to directly  go through the app, ok?",
+      "starttime": 474.74
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, ok.",
+      "starttime": 482.3
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. So, yeah, I will pay the EMI or the foreclosure. I'll check with",
+      "starttime": 484.01
+    },
+    {
+      "speaker": "agent",
+      "text": "So apart from this, is there anything else I may assist you?",
+      "starttime": 490.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank",
+      "starttime": 490.6
+    },
+    {
+      "speaker": "customer",
+      "text": "No for now it's nothing.",
+      "starttime": 494.27
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So before we end this call, may I request you to share your valuable feedback basis on the conversation we just had",
+      "starttime": 496.92
+    },
+    {
+      "speaker": "customer",
+      "text": "Sure sure",
+      "starttime": 503.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. So I will transfer this call to the feedback IVR. Over there you can select between 1 to 5. 1 being poor and 5 being excellent.",
+      "starttime": 505.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for choosing Cred. I hope you have a great day.",
+      "starttime": 515.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 518.63
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 521.16
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 528.83
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 532.47
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 537.04
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 540.72
+    }
+  ]
+}

@@ -13,7 +13,7 @@ from typing import Dict, Any, Optional
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from model_clients.base_client import BaseModelClient
-from config import OPENCHAT_API_URL, OPENCHAT_MODEL, OPENCHAT_MAX_TOKENS, OPENCHAT_TEMPERATURE
+from model_config import ModelConfig
 
 
 class MistralClient(BaseModelClient):
@@ -21,10 +21,14 @@ class MistralClient(BaseModelClient):
     
     def __init__(self):
         super().__init__("Mistral")
-        self.base_url = OPENCHAT_API_URL
-        self.model = OPENCHAT_MODEL
-        self.max_tokens = OPENCHAT_MAX_TOKENS
-        self.temperature = OPENCHAT_TEMPERATURE
+        # Load settings from ModelConfig as single source of truth
+        mistral_cfg = ModelConfig.get_model_config('mistral') or {}
+        cfg = mistral_cfg.get('config', {})
+        # Fallbacks are conservative defaults in case config is incomplete
+        self.base_url = cfg.get('api_url', 'http://192.168.30.239:8000/chat')
+        self.model = cfg.get('model', 'openchat/openchat-3.5-1210')
+        self.max_tokens = cfg.get('max_tokens', 512)
+        self.temperature = cfg.get('temperature', 0.1)
         self.headers = {"Content-Type": "application/json"}
     
     def initialize(self) -> bool:

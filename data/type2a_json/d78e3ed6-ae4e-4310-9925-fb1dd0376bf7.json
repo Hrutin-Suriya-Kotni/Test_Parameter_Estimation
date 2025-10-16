@@ -1,0 +1,730 @@
+{
+  "conversation_id": "d78e3ed6-ae4e-4310-9925-fb1dd0376bf7",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is निकिता. I'm here to assist you today. Am I speaking with अभिजीत?",
+      "starttime": 17.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Confirmation के लिए धन्यवाद. जैसे कि मैं देख सकती हूं कि आपका जो request है वह है seventh October",
+      "starttime": 24.92
+    },
+    {
+      "speaker": "agent",
+      "text": "जो repayment हुआ था उसके regarding",
+      "starttime": 30.19
+    },
+    {
+      "speaker": "agent",
+      "text": "जी तो मैं आपको  थोड़ा सा elaborately बोल पा रहा हूं कि अभी आपको क्या issue face कर रहे हैं? आप अभी seventh October को repayment",
+      "starttime": 34.64
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी मतलब",
+      "starttime": 39.89
+    },
+    {
+      "speaker": "customer",
+      "text": "आप",
+      "starttime": 41.37
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मतलब order",
+      "starttime": 44.94
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry to interrupt but आपका जो voice है वह break हो रहा है network issue के",
+      "starttime": 48.07
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं आ रहा",
+      "starttime": 55.31
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी voice पूरा break हो रहा",
+      "starttime": 57.03
+    },
+    {
+      "speaker": "customer",
+      "text": "एक minute",
+      "starttime": 60.0
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी आ रहा",
+      "starttime": 67.77
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी हां जी बोलिए.",
+      "starttime": 68.91
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं बोल रहा हूं अपना जो सात तारीख को auto debit था मतलब",
+      "starttime": 70.87
+    },
+    {
+      "speaker": "customer",
+      "text": "जो auto debit failed हो गया मतलब दो सौ रुपए काम का account में तो अभी वह auto debit पूछे से मतलब वह bank से automatic cut जाएगा कि अपना खुद को करना पड़ेगा.",
+      "starttime": 75.55
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए जैसे कि मैं देख सकती हूं कि आपका जो auto debit",
+      "starttime": 85.62
+    },
+    {
+      "speaker": "agent",
+      "text": "वह उसका amount था ###rupees  आपका EMI",
+      "starttime": 89.2
+    },
+    {
+      "speaker": "agent",
+      "text": "and आप बोल रहे हैं कि वह आपके end से fail हो चुका है right आपको वही message आ रहा है",
+      "starttime": 94.83
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 99.41
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, तो हमारी end से  भी processing statement",
+      "starttime": 100.47
+    },
+    {
+      "speaker": "agent",
+      "text": "मुझे थोड़ा सा time दीजिए मैं check करके आपको बोलता हूं",
+      "starttime": 103.19
+    },
+    {
+      "speaker": "agent",
+      "text": "I am really sorry अभी आप जो problem face कर रहे हो but आप चिंता मत कीजिए आपका जो issue है मैं solve करने की पूरी कोशिश करूंगी.",
+      "starttime": 108.0
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या आपके call को मैं एक minute के लिए hold पर रख सकती",
+      "starttime": 114.49
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है.",
+      "starttime": 116.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you.",
+      "starttime": 118.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Call पर बने रहने के लिए धन्यवाद.",
+      "starttime": 154.74
+    },
+    {
+      "speaker": "agent",
+      "text": "तो अभिजीत जी मैं आपसे request करूंगी कि देखिए अगर आपके end से दिखा रहा है कि auto debit fail हो चुका है तो आप एक काम कर सकते हैं. अगर आप चाहते हो तो आप manually payment कर सकते हो. ठीक है? But इस पर क्या होगा क्योंकि आपका auto debit fail हो चुका है आपके दिखा रहा है आपको ऐसा update तो आपको एक  charge लग भी सकता है, ठीक",
+      "starttime": 156.65
+    },
+    {
+      "speaker": "customer",
+      "text": "वह तो लगा दिया  पांच सौ नब्बे रुपए return नहीं मिलेगा मेरे को.",
+      "starttime": 175.4
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए इसीलिए charge तो हम नहीं करते ना हमारे end से अभी भी processing state पर है. तो मैं आपसे वह से नहीं कर सकते कि क्या हो सकता है in future.",
+      "starttime": 180.96
+    },
+    {
+      "speaker": "agent",
+      "text": "अगर आपको manually payment करना है तो कर दीजिए उसके बाद अगर कोई भी problem है.   हम आपको help कर देंगे.",
+      "starttime": 188.93
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं इधर अभी क्या दिखा रहा है अभी auto auto debit processing में",
+      "starttime": 195.39
+    },
+    {
+      "speaker": "customer",
+      "text": "मतलब  आप अभी क्या",
+      "starttime": 200.64
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मैं",
+      "starttime": 203.17
+    },
+    {
+      "speaker": "customer",
+      "text": "पैसा तो कटा नहीं तो जो अभी auto  debit processing में  अभी आज का   नहीं करेगा नहीं करेंगे तो हम manually pay करेंगे.",
+      "starttime": 205.06
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, तो जैसे कि हां जी.",
+      "starttime": 217.8
+    },
+    {
+      "speaker": "agent",
+      "text": "sun पा रही हूं",
+      "starttime": 221.03
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं",
+      "starttime": 221.38
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मैं यही बात बोलना चाहता हूं कि अपना जो auto debit हो अभी process में",
+      "starttime": 223.12
+    },
+    {
+      "speaker": "customer",
+      "text": "अगर",
+      "starttime": 228.0
+    },
+    {
+      "speaker": "customer",
+      "text": "अगर कटे या तो सही नहीं तो मैं manually करेंगे.",
+      "starttime": 229.08
+    },
+    {
+      "speaker": "agent",
+      "text": "है देखिए अगर आपके end से अभी भी processing state पर है तो आप चिंता मत कीजिए ठीक है हमारे end से भी processing state पर आप wait कीजिए. ठीक है? मैं आपको timeline बोलते हैं थोड़ी पर रुक जाइए.",
+      "starttime": 232.23
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 245.58
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी आप 48 hours तक रुक जाइए. within 48 hours आपको जो EMI है वह कर  सकता है. अगर वह cut जाता है तो कोई problem नहीं है अगर वह fail होता है तो आप हमें reach out कर सकते हैं. अगर वह fail होता है तब आप manually payment भी कर सकते हैं. ठीक है? तो आपको एक  लग सकता है. अभी क्योंकि processing state पर तब अभी आप कुछ मत कीजिएगा. ठीक",
+      "starttime": 246.61
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा अच्छा",
+      "starttime": 261.1
+    },
+    {
+      "speaker": "agent",
+      "text": "तो कह रहे  से पूछे तो  आपके end से किया आपका  आपको जो money  वह debit हुआ है आपके account से EMI का",
+      "starttime": 269.52
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 275.48
+    },
+    {
+      "speaker": "agent",
+      "text": "है तो आपका    money debit हुआ है  आपके bank",
+      "starttime": 278.0
+    },
+    {
+      "speaker": "customer",
+      "text": "bank से debit हुए नहीं  अपना   लगा दिया  पांच सौ  रुपए लेकिन अपना जो EMI",
+      "starttime": 281.71
+    },
+    {
+      "speaker": "customer",
+      "text": "###",
+      "starttime": 290.03
+    },
+    {
+      "speaker": "customer",
+      "text": "7  तो अभी पैसा कटा",
+      "starttime": 292.98
+    },
+    {
+      "speaker": "agent",
+      "text": "है आपसे   चाहिए.",
+      "starttime": 298.23
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन इस यह जो bounce लगाया पांच सौ नब्बे रुपए bank से कर ले  लेकिन आपने जो  था वह कटा",
+      "starttime": 301.42
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है आप मेरी",
+      "starttime": 309.84
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 322.02
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है तो आप एक काम कर सकते हैं. मैं आपसे request करूंगी कि आपका जो updated bank statement है वह हमें भेजिए ठीक",
+      "starttime": 330.68
+    },
+    {
+      "speaker": "customer",
+      "text": "bank",
+      "starttime": 338.26
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, मैं आपको एक link भेज रही",
+      "starttime": 339.61
+    },
+    {
+      "speaker": "agent",
+      "text": "SMS पर वहां पर आपका जो updated bank statement है वह  password free PDF format में भी भेज सकते हैं. ठीक है? आप वहां पर भेज",
+      "starttime": 342.26
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं वह check करती हूं. मैं call पर ही हूं. अगर आप अभी भेजना चाहते हो तो भेज सकते हो. अगर आप बाद में भेज देते",
+      "starttime": 350.93
+    },
+    {
+      "speaker": "customer",
+      "text": "हां evening",
+      "starttime": 355.3
+    },
+    {
+      "speaker": "customer",
+      "text": "भेज ही link भेज दीजिए मैं भेजता",
+      "starttime": 360.08
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं भी मैं already आपको भेज चुकी हूं अगर आपके पास",
+      "starttime": 364.14
+    },
+    {
+      "speaker": "customer",
+      "text": "हां yeah.",
+      "starttime": 364.6
+    },
+    {
+      "speaker": "agent",
+      "text": "अगर आपके पास अभी available हो तो आप भेज सकते हैं अभी आपका",
+      "starttime": 366.88
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 370.35
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है मैं call पर हूं",
+      "starttime": 372.83
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 377.93
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 380.46
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 391.8
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी क्या call",
+      "starttime": 408.12
+    },
+    {
+      "speaker": "customer",
+      "text": "हां call  wait कीजिए.",
+      "starttime": 410.48
+    },
+    {
+      "speaker": "customer",
+      "text": "पहले आप लोग जो statement upload करना पड़ेगा",
+      "starttime": 417.65
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, पहले उसको down करना पड़ेगा फिर जिससे आप एक password  PDF format में भेज सकते हो",
+      "starttime": 421.5
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 427.53
+    },
+    {
+      "speaker": "customer",
+      "text": "एक minute.",
+      "starttime": 428.72
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 445.65
+    },
+    {
+      "speaker": "customer",
+      "text": "जी   जी.",
+      "starttime": 450.21
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you.",
+      "starttime": 452.74
+    },
+    {
+      "speaker": "customer",
+      "text": "जी",
+      "starttime": 453.93
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 456.55
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 462.2
+    },
+    {
+      "speaker": "customer",
+      "text": "So",
+      "starttime": 468.72
+    },
+    {
+      "speaker": "customer",
+      "text": "statement कितने दिन",
+      "starttime": 480.95
+    },
+    {
+      "speaker": "agent",
+      "text": "आप एक काम कर सकते हो आप",
+      "starttime": 484.65
+    },
+    {
+      "speaker": "agent",
+      "text": "दो months का 2 months का दे दीजिए.",
+      "starttime": 487.55
+    },
+    {
+      "speaker": "customer",
+      "text": "2 months का",
+      "starttime": 491.31
+    },
+    {
+      "speaker": "agent",
+      "text": "आज की date हां जी, आज की date तक का जो आपका statement होगा seventh October तक तो 2 months का statement  दीजिए.",
+      "starttime": 491.7
+    },
+    {
+      "speaker": "agent",
+      "text": "जहां पर आपका इस charge reflect हो रहा है उस month का sorry.",
+      "starttime": 499.6
+    },
+    {
+      "speaker": "agent",
+      "text": "updated bank statement दे सकते हो.",
+      "starttime": 505.47
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 505.66
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 510.48
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 523.24
+    },
+    {
+      "speaker": "customer",
+      "text": "जो आपने account avail statement के देना को.",
+      "starttime": 535.37
+    },
+    {
+      "speaker": "customer",
+      "text": "मतलब यह जो account level statement किए थे इसको",
+      "starttime": 542.21
+    },
+    {
+      "speaker": "customer",
+      "text": "September",
+      "starttime": 552.96
+    },
+    {
+      "speaker": "agent",
+      "text": "तो",
+      "starttime": 593.1
+    },
+    {
+      "speaker": "agent",
+      "text": "आज जी मैं आपसे request करूंगी कि ठीक है. अगर आपके पास अभी statement नहीं है आपको कोई for नहीं अपना ही भी दे सकता",
+      "starttime": 595.9
+    },
+    {
+      "speaker": "agent",
+      "text": "But आप एक काम कर सकते हैं क्योंकि देखिए आप हमारे end से  processing state पर है auto debit",
+      "starttime": 601.68
+    },
+    {
+      "speaker": "agent",
+      "text": "and अगर आपके end से",
+      "starttime": 607.24
+    },
+    {
+      "speaker": "customer",
+      "text": "अब मैं download download कर लिया मैंने",
+      "starttime": 608.07
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी आप एक बार sun लीजिए,",
+      "starttime": 611.92
+    },
+    {
+      "speaker": "customer",
+      "text": "ok.",
+      "starttime": 613.13
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए",
+      "starttime": 616.32
+    },
+    {
+      "speaker": "agent",
+      "text": "अगर आपके end से auto debit failed हुआ ऐसा दिखा रहा है आपको message आया",
+      "starttime": 619.06
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 625.35
+    },
+    {
+      "speaker": "agent",
+      "text": "तभी आप manually payment कीजिएगा. अगर आपके end से वह अभी भी processing state पर दिखा रहा है. तो आप 48 hours तक wait कीजिए. उसके बाद",
+      "starttime": 626.85
+    },
+    {
+      "speaker": "agent",
+      "text": "उसके बाद आपका जो EMI है वह update हो जाएगा. अगर either वह failed होगा either वह complete होगा.",
+      "starttime": 637.4
+    },
+    {
+      "speaker": "agent",
+      "text": "तो क्या आप मुझे अभी थोड़ा सा clearly बोलता हूं कि  अभी आपको auto debit क्या दिखा रहा है processing दिखा रहा है या फिर fail दिखा रहा है आपके end",
+      "starttime": 646.85
+    },
+    {
+      "speaker": "customer",
+      "text": "processing processing दिखा रहा",
+      "starttime": 653.62
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है. ठीक है आप  चिंता मत कीजिए आप 48 hours तक wait कीजिए. ठीक",
+      "starttime": 655.17
+    },
+    {
+      "speaker": "customer",
+      "text": "घंटा",
+      "starttime": 661.29
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी 48 hours तक wait कीजिए.",
+      "starttime": 663.17
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं क्या बोल रहा हूं ताकि  लिखा EMI being auto paid insurer you have in go balance in your account for auto",
+      "starttime": 664.43
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. तो",
+      "starttime": 673.66
+    },
+    {
+      "speaker": "agent",
+      "text": "अभी भी  processing state पर ही है  आपको बोल रहा है कि आप sufficient balance maintain कीजिए, ठीक है? उसके बाद ही",
+      "starttime": 675.71
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका जो auto debit है वह figure हो पाएगा  ठीक",
+      "starttime": 683.03
+    },
+    {
+      "speaker": "customer",
+      "text": "इधर भी ऐसे भी दिख रहा है अपना auto debit",
+      "starttime": 687.77
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you.",
+      "starttime": 699.62
+    },
+    {
+      "speaker": "customer",
+      "text": "अपना जो bank charge लगा दिया वह return नहीं मिलेगा ना",
+      "starttime": 704.71
+    },
+    {
+      "speaker": "customer",
+      "text": "Hello ma'am.",
+      "starttime": 712.05
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी आप आप थोड़ी देर रुकिए.",
+      "starttime": 713.76
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 724.29
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 730.25
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जैसे कि मैं समझ सकती हूं  देखिए अगर आपके पास आपके पास कुछ message आया है bank के end से कि इस already लग चुका",
+      "starttime": 763.56
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आप एक काम कर सकते हैं आप manually payment कर सकते हैं. ठीक है?",
+      "starttime": 770.54
+    },
+    {
+      "speaker": "agent",
+      "text": "और हम आपको refund unfortunately नहीं दे पाएंगे क्योंकि देखिए आपका जो  है ना वह पूरा ही depend करता है bank के ऊपर आपका auto debit आपका",
+      "starttime": 774.66
+    },
+    {
+      "speaker": "agent",
+      "text": "पूरा ही depend करता है bank के ऊपर आप एक बार bank से contact कीजिए, ठीक",
+      "starttime": 784.79
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी हम क्या करेंगे तीस घंटे  और manually pay कर देंगे.",
+      "starttime": 792.53
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए अगर आपके end से दिखा रहा है कि already इस चीज़  चुका है तो आप एक बार",
+      "starttime": 796.56
+    },
+    {
+      "speaker": "agent",
+      "text": "payment कर दीजिए manually.",
+      "starttime": 801.22
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन यह  में मैं",
+      "starttime": 803.57
+    },
+    {
+      "speaker": "customer",
+      "text": "पांच से",
+      "starttime": 806.32
+    },
+    {
+      "speaker": "agent",
+      "text": "तो एक बार आप काम कीजिए आप एक बार manually payment कर सकते हैं. अगर आप चाहते हो तो ठीक है. आपका दीजिए एक बार manually payment",
+      "starttime": 808.68
+    },
+    {
+      "speaker": "agent",
+      "text": "और आपका जो इससे उसके regarding आपका जो bank है उनसे एक बार बात कर लीजिएगा, ठीक",
+      "starttime": 816.44
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 821.93
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके अलावा आपको और भी कुछ कर",
+      "starttime": 823.77
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं.",
+      "starttime": 826.47
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या हमारे call end करने से पहले हमारी बातचीत के basis पर  छोटा सा एक feedback दे पाएंगे.",
+      "starttime": 829.81
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 834.69
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है. तो मैं आपकी call को हमारी जो feedback IVR है वहां पर transfer करूंगी. वहां पर एक से लेकर  पांच तक के beach में कोई भी rating choose कर सकते",
+      "starttime": 836.27
+    },
+    {
+      "speaker": "agent",
+      "text": "एक है सबसे कम पांच  सबसे ज़्यादा. Credit को choose करने के लिए धन्यवाद. आपका दिन शुभ रहे.",
+      "starttime": 844.83
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 851.1
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 858.75
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 863.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 867.02
+    }
+  ]
+}

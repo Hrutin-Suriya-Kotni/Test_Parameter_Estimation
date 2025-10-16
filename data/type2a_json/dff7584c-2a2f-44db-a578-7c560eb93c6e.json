@@ -1,0 +1,150 @@
+{
+  "conversation_id": "dff7584c-2a2f-44db-a578-7c560eb93c6e",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "This call is now being recorded.",
+      "starttime": 1.11
+    },
+    {
+      "speaker": "agent",
+      "text": "morning. This is अंकिता calling from Cred on a recorded line.",
+      "starttime": 5.48
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, ok.",
+      "starttime": 9.28
+    },
+    {
+      "speaker": "agent",
+      "text": "speaking  शैलेश?",
+      "starttime": 9.92
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 12.03
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. You have a concern regarding product not picked",
+      "starttime": 13.53
+    },
+    {
+      "speaker": "agent",
+      "text": "And previously we are having a conversation regarding that. I have raised the concern to our concerned team and I to raise the concern we need to details, may I request you to give your alternative contact number and landmark.",
+      "starttime": 17.19
+    },
+    {
+      "speaker": "customer",
+      "text": "It's ###.",
+      "starttime": 34.78
+    },
+    {
+      "speaker": "agent",
+      "text": "So, can you please repeat on 9",
+      "starttime": 40.87
+    },
+    {
+      "speaker": "customer",
+      "text": "###",
+      "starttime": 43.55
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 45.98
+    },
+    {
+      "speaker": "customer",
+      "text": "triple",
+      "starttime": 47.5
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 48.53
+    },
+    {
+      "speaker": "customer",
+      "text": "###.",
+      "starttime": 50.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. And your nearest landmark?",
+      "starttime": 51.58
+    },
+    {
+      "speaker": "customer",
+      "text": "travel house 1 hour to the be.",
+      "starttime": 56.29
+    },
+    {
+      "speaker": "customer",
+      "text": "Near should be",
+      "starttime": 62.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for sharing your",
+      "starttime": 80.37
+    },
+    {
+      "speaker": "agent",
+      "text": "I have raised the concern to our concerned team. please kindly wait till thirteenth October. 1 October is our maximum time frame. But our concerned team will try their best to give you the update we deep thirteenth October.",
+      "starttime": 87.46
+    },
+    {
+      "speaker": "agent",
+      "text": "and you will receive the update via WhatsApp or you can also check the update in your credit application on support section.",
+      "starttime": 100.42
+    },
+    {
+      "speaker": "agent",
+      "text": "Anything else I can help you?",
+      "starttime": 110.43
+    },
+    {
+      "speaker": "customer",
+      "text": "No, ok then Thank",
+      "starttime": 112.92
+    },
+    {
+      "speaker": "agent",
+      "text": "Before we end this call, may I request you to share your valuable feedback basis on our conversation. It will just take a moment.",
+      "starttime": 114.63
+    },
+    {
+      "speaker": "agent",
+      "text": "will transfer your call to our IVR feedback and there you can select 1 to 5.",
+      "starttime": 123.07
+    },
+    {
+      "speaker": "agent",
+      "text": "5 is being excellent and 1 is being 4. Thank you for choosing. I hope you have a great day ahead.",
+      "starttime": 129.58
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 135.27
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being. You have just helped us improve the credit experience for all our members.",
+      "starttime": 137.75
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 148.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 152.53
+    }
+  ]
+}

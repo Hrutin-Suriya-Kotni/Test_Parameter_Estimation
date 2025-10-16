@@ -1,0 +1,535 @@
+{
+  "conversation_id": "e25ad441-5c02-4b44-8fe7-28227ebb04e5",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning  I am here to assist you today. Am I speaking with भर्ती",
+      "starttime": 16.59
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much भर्ती for confirming. So वक्त as I am able to see here you raised 1 concern regarding your refund, right?",
+      "starttime": 22.74
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes   पटेल?",
+      "starttime": 30.68
+    },
+    {
+      "speaker": "agent",
+      "text": "जी बिल्कुल वक्त आप हिंदी में बात कर सकते हैं confirmation के लिए आपका धन्यवाद. मैं check कर पा रही हूं यहां पर आपने refund संबंधित जानकारी के लिए आपने concern raise किया",
+      "starttime": 32.72
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने ###",
+      "starttime": 43.82
+    },
+    {
+      "speaker": "customer",
+      "text": "बिल्कुल.",
+      "starttime": 43.86
+    },
+    {
+      "speaker": "agent",
+      "text": "rupees का payment किया है Lombard आनंद, हरी भाई house rent के लिए पंद्रह September को.",
+      "starttime": 45.37
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 52.7
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी  असुविधा के लिए कि आपको refund receive नहीं हुआ यह payment जो है process नहीं था failed हो गया था transaction and मैं check कर पा रही हूं 15 September को same day sorry  आपका जो transaction है 15 September को आपने किया process नहीं हो पाया",
+      "starttime": 55.01
+    },
+    {
+      "speaker": "agent",
+      "text": "तो nineteenth September को हमारी credit की तरफ से आपके same source of account HDFC bank में यह आपका refund",
+      "starttime": 72.39
+    },
+    {
+      "speaker": "agent",
+      "text": "initiate किया गया था जो कि आपको receive नहीं",
+      "starttime": 79.29
+    },
+    {
+      "speaker": "customer",
+      "text": "बिल्कुल.",
+      "starttime": 83.28
+    },
+    {
+      "speaker": "agent",
+      "text": "निश्चिंत रहिए मैं आपकी इस इसके regarding मैं आपकी पूरी सहायता करने की कोशिश करूंगी आप मुझे  थोड़ा समय दीजिएगा. क्या मैं आपकी बेहतर जानकारी के लिए आपकी इस call को एक minute के लिए hold पर रख सकती हूं",
+      "starttime": 84.98
+    },
+    {
+      "speaker": "customer",
+      "text": "बिल्कुल.",
+      "starttime": 96.15
+    },
+    {
+      "speaker": "agent",
+      "text": "जी धन्यवाद निवेदन करती हूं call पर  बने रहिएगा बेहतर जानकारी के",
+      "starttime": 97.11
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 107.86
+    },
+    {
+      "speaker": "agent",
+      "text": "Call पर बने रहने के लिए आपका धन्यवाद. मैं आपकी time की पूरी pre करना चाहूंगी. थोड़ा अधिक समय लग रहा है. क्या मैं आपकी call को दुबारा से hold पर रख सकती हूं एक minute के लिए",
+      "starttime": 162.13
+    },
+    {
+      "speaker": "agent",
+      "text": "जी धन्यवाद.",
+      "starttime": 171.8
+    },
+    {
+      "speaker": "agent",
+      "text": "Hold  पर बने रहने के लिए आपका धन्यवाद. मैं आपकी time की पूरी प्रशांत करना चाहूंगी.",
+      "starttime": 236.94
+    },
+    {
+      "speaker": "agent",
+      "text": "है. जी हमने आपका concern आगे forward कर दिया है हमारे relevant team को यहां पर क्योंकि आपके same source of account में refund जो है initiate किया गया था जो कि still processing में",
+      "starttime": 242.66
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 252.06
+    },
+    {
+      "speaker": "agent",
+      "text": "and आपको बताना चाहूंगी transaction  5 to 7 working days का time frame होता है इसके regarding इसके लिए जो कि already cross हो चुका है. तो मैं request करती हूं कि please आप हमें थोड़ा समय दीजिए maximum time frame tenth of October का show कर रहा है but इतना समय नहीं दिया जाएगा उससे पहले",
+      "starttime": 253.27
+    },
+    {
+      "speaker": "agent",
+      "text": "हां आपका",
+      "starttime": 271.3
+    },
+    {
+      "speaker": "agent",
+      "text": "इस issue के regarding जैसे ही हमारे relevant team की तरफ से हमें update receive होता है हम आपसे ज़रूर connect करेंगे.",
+      "starttime": 273.36
+    },
+    {
+      "speaker": "customer",
+      "text": "हां तो आप मुझे कि wait करना पड़ेगा.",
+      "starttime": 281.67
+    },
+    {
+      "speaker": "agent",
+      "text": "tenth of October का maximum time frame है उस time frame से पहले",
+      "starttime": 284.1
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 288.17
+    },
+    {
+      "speaker": "agent",
+      "text": "हम आपसे connect करेंगे update",
+      "starttime": 288.56
+    },
+    {
+      "speaker": "agent",
+      "text": "update आती",
+      "starttime": 291.19
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं यहां पर  मैंने कितनी बार     बार बार को भी किया है    transaction delay हुआ था तभी उन्होंने बोला था कि दिन का wait कर लीजिए तो हमने तीन दिन फिर बाद में बोला   था तो यह भी किया फिर बोला के पच्चीस तारीख को आ जाएगा तो पच्चीस उन्नीस तारीख को  उन्नीस तारीख से पच्चीस तारीख का पच्चीस तारीख  छह तारीख का छह तारीख को हो तारीख  अब आप बोल रहे हो दस तारीख कितना wait करना पड़ेगा. वह मुझे confirm",
+      "starttime": 294.06
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं आपकी ना राज जी मैं समझ सकती हूं.",
+      "starttime": 320.81
+    },
+    {
+      "speaker": "customer",
+      "text": "हर  आपको अलग अलग भी बताना",
+      "starttime": 322.09
+    },
+    {
+      "speaker": "customer",
+      "text": "ऐसा नहीं कोई  ना",
+      "starttime": 326.01
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए अभी इस समय जो है हमने आपका concern जो है हमारी team को forward किया है. तो यह हमारी ज़िम्मेदारी है कि जैसे ही हमारे पास update आता है हम आपसे ज़रूर connect करेंगे. मैं request करती हूं कि दस तारीख तक का समय दिया गया है. जैसे ही update आता है हम आपसे connect करेंगे.",
+      "starttime": 328.62
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके अलावा",
+      "starttime": 346.85
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 347.3
+    },
+    {
+      "speaker": "agent",
+      "text": "जी बताइए पर.",
+      "starttime": 349.02
+    },
+    {
+      "speaker": "customer",
+      "text": "सामने    कोई भी  नहीं आता है और मुझे यहां पर  हो रही है  या तो मेरे account में credit कर दी सामने इसको  कुछ  account में  यहां से भी में  होगा   नहीं नहीं  1 month हो जाएगा पंद्रह तारीख को.",
+      "starttime": 349.17
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं आपकी बात समझ सकती हूं आपने इतना समय दिया है. आप हमें दस तारीख तक का समय दीजिएगा पूरी कोशिश रहिए कि यह problem आपको दुबारा ना",
+      "starttime": 363.81
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके अलावा credit संबंधित क्या मैं आपकी और कोई सहायता कर सकती",
+      "starttime": 372.87
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं कोई भी  मेरे से देता हूं मुझे apply नहीं use नहीं करना कहां किसी application में कोई पता नहीं क्या मुझे परेशानी हो",
+      "starttime": 375.58
+    },
+    {
+      "speaker": "customer",
+      "text": "time तो",
+      "starttime": 386.32
+    },
+    {
+      "speaker": "customer",
+      "text": "पांच से सात दिन में कोई भी transaction भी कर जाता है तो credit को",
+      "starttime": 389.34
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 391.28
+    },
+    {
+      "speaker": "customer",
+      "text": "1 month complete होगा.",
+      "starttime": 394.38
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं आपकी बात समझ सकती हूं मैं पूरी कोशिश करूंगी कि इस तरह का problem ना हो. क्या मैं इस call को समाप्त करने से पहले",
+      "starttime": 397.66
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 397.86
+    },
+    {
+      "speaker": "agent",
+      "text": "छोटे से feedback के लिए मैं request कर सकती हूं हमारे बातचीत के आधार पर",
+      "starttime": 405.67
+    },
+    {
+      "speaker": "customer",
+      "text": "date    या पैसा October  को transfer कर",
+      "starttime": 408.46
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने account में credit कर देना  मैं किसी नहीं परेशान.",
+      "starttime": 413.45
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए मैं आपकी बात समझ सकती हूं. आप please समय थोड़ा समय दीजिए हम पूरी कोशिश करेंगे इस बार आपकी कोई problem आपको इस तरह की problem नहीं होगी.",
+      "starttime": 418.78
+    },
+    {
+      "speaker": "customer",
+      "text": "है. नहीं नहीं नहीं आप transfer कर",
+      "starttime": 427.83
+    },
+    {
+      "speaker": "agent",
+      "text": "हमारी supervisor team भी same information आपको देंगे तो मैं request करती हूं उसी के",
+      "starttime": 430.73
+    },
+    {
+      "speaker": "agent",
+      "text": "उसी के behalf पर हमने आपको जो है update यहां पर दिया हुआ है हमारे relevant team को हमने यह issue forward किया है update जैसे ही आएगा हम आपसे connect करेंगे.",
+      "starttime": 437.16
+    },
+    {
+      "speaker": "customer",
+      "text": "phone से link में update करेंगे  छह तारीख को बोला था   छह से सात तारीख हो",
+      "starttime": 448.75
+    },
+    {
+      "speaker": "customer",
+      "text": "कितने दिन  wait करना पड़ेगा. वह बताइए.",
+      "starttime": 455.15
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए दस तारीख का maximum time frame है इससे अधिक समय आपका नहीं लिया जाएगा.",
+      "starttime": 458.34
+    },
+    {
+      "speaker": "customer",
+      "text": "समय क्या है कितनी बार चार से पांच बार बोला कि इतना time तक wait कितनी    तारीख  पच्चीस तारीख  छह तारीख तक नौ तारीख को दस तारीख कितना time मुझे wait करना पड़ेगा. वह पता",
+      "starttime": 465.38
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए यह आप हमें  of October का तक का time दीजिए. मैं समझ सकती हूं आप काफी समय से wait कर रही है इस refund का still आपको receive नहीं",
+      "starttime": 478.17
+    },
+    {
+      "speaker": "agent",
+      "text": "इससे ज़्यादा समय हम नहीं लेंगे. कोई भी असुविधा होगी आप हमें call me now request raise करिएगा हम आपसे संपर्क करेंगे.",
+      "starttime": 489.73
+    },
+    {
+      "speaker": "customer",
+      "text": "provider को transfer कर",
+      "starttime": 497.88
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 500.14
+    },
+    {
+      "speaker": "agent",
+      "text": "की",
+      "starttime": 501.37
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं request करती हूं कि please आप wait करिएगा हमारे supervisor भी आपको यही information provide करेंगे.",
+      "starttime": 502.94
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 502.94
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं नहीं या तो आप अपने आपने किया था उसमें    क्योंकि यह 1 month  परेशान ठीक",
+      "starttime": 510.25
+    },
+    {
+      "speaker": "customer",
+      "text": "या तो मुझे credit",
+      "starttime": 516.63
+    },
+    {
+      "speaker": "customer",
+      "text": "पर जाकर transfer",
+      "starttime": 519.71
+    },
+    {
+      "speaker": "customer",
+      "text": "अपने  क्योंकि मुझे आज मेरा आज जाइए",
+      "starttime": 522.38
+    },
+    {
+      "speaker": "customer",
+      "text": "wait नहीं करूंगी एक  link का    होगा",
+      "starttime": 526.36
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपकी बात समझ सकती हूं. क्या मैं supervisor call available के लिए इस call को hold पर रख सकती हूं एक minute के",
+      "starttime": 529.86
+    },
+    {
+      "speaker": "customer",
+      "text": "हां बिल्कुल.",
+      "starttime": 539.29
+    },
+    {
+      "speaker": "agent",
+      "text": "जी धन्यवाद निवेदन करती हूं call पर बने रहिएगा.",
+      "starttime": 540.35
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 549.85
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 571.03
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 586.47
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 590.2
+    },
+    {
+      "speaker": "customer",
+      "text": "Hello.",
+      "starttime": 595.5
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 596.92
+    },
+    {
+      "speaker": "agent",
+      "text": "Call पर बने रहने के लिए आपका धन्यवाद. थोड़ा अधिक समय लग रहा है. क्या मैं आपकी इस call को दुबारा से hold पर रख सकती हूं?",
+      "starttime": 599.68
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 607.5
+    },
+    {
+      "speaker": "agent",
+      "text": "दो से तीन minute तक. जी धन्यवाद.  करते हैं call पर  बने रहिएगा.",
+      "starttime": 607.99
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 613.88
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 619.58
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 639.29
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 671.25
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 686.44
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 703.47
+    },
+    {
+      "speaker": "customer",
+      "text": "धन्यवाद.",
+      "starttime": 705.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Call पर बने रहने के लिए आपका धन्यवाद सकती मैं आपकी time की पूरी प्रशांत करना चाहूंगी. मैंने supervisor call के available check की है but still वह दूसरे call पर buy है but आप बिल्कुल निश्चिंत रहिए. हमने आपका call back arrange किया है आपको हमारे supervisor की तरफ से callback receive हो जाएगा से आठ घंटे के",
+      "starttime": 707.62
+    },
+    {
+      "speaker": "customer",
+      "text": "कोई call back नहीं आता है    तो चालू  को भी तो      transfer करना  है कोई call back नहीं आता है",
+      "starttime": 727.33
+    },
+    {
+      "speaker": "customer",
+      "text": "जो भी  बोला था",
+      "starttime": 736.3
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 739.38
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए आप बिल्कुल निश्चिंत रहिए. जल्द से जल्द यह हमारी ज़िम्मेदारी है आपके callback को arrange कराने",
+      "starttime": 739.66
+    },
+    {
+      "speaker": "agent",
+      "text": "हमने arrange करा दिया है. Surely आपको 4 to 8 hours के अंदर आपको callback receive हो जाएगा.",
+      "starttime": 745.65
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 746.95
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं नहीं नहीं चालू रखिए  हो कि call करने",
+      "starttime": 752.1
+    },
+    {
+      "speaker": "agent",
+      "text": "हां भर्ती देखिए मैं आपकी राज के समझ सकती हूं आपके refund से संबंधित जो आपको असुविधा हो रही है लेकिन बताना चाहेंगे कि मैं आपको exactly time नहीं confirm कर पाऊंगी क्योंकि अभी जो सुबह wise है वह दूसरे calls   जी है. तो मैं request करती",
+      "starttime": 756.28
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 757.74
+    },
+    {
+      "speaker": "customer",
+      "text": "के",
+      "starttime": 772.01
+    },
+    {
+      "speaker": "agent",
+      "text": "कि हम हमारे supervisor की तरफ से आपको call receive होगा. अगर still आपको receive नहीं होता है तो",
+      "starttime": 774.85
+    },
+    {
+      "speaker": "agent",
+      "text": "तो call me ना request raise कर सकते हैं यह हमारी responsibility है. आपको",
+      "starttime": 782.34
+    },
+    {
+      "speaker": "customer",
+      "text": "direct time पर     मैं  थोड़ा",
+      "starttime": 784.03
+    },
+    {
+      "speaker": "agent",
+      "text": "the",
+      "starttime": 788.14
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं करना पड़ेगा मैं जल्द से जल्द आपको जो है callback आपको",
+      "starttime": 789.97
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 789.98
+    }
+  ]
+}

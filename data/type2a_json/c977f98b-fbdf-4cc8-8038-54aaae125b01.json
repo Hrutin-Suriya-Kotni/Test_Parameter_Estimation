@@ -1,0 +1,500 @@
+{
+  "conversation_id": "c977f98b-fbdf-4cc8-8038-54aaae125b01",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is calling today I am here to assist you. Am I speaking with चंद्र?",
+      "starttime": 17.4
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां madam. हिंदी में बात कर सकते",
+      "starttime": 23.0
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां हां कर सकते",
+      "starttime": 25.8
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 27.52
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, actually देखिए मैं आपको history बताता",
+      "starttime": 28.77
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने एक",
+      "starttime": 32.77
+    },
+    {
+      "speaker": "customer",
+      "text": "एक smart was purchase किया था I think जिसका value #### rupees था.",
+      "starttime": 34.83
+    },
+    {
+      "speaker": "agent",
+      "text": "हां बोलिए.",
+      "starttime": 43.52
+    },
+    {
+      "speaker": "customer",
+      "text": "तो उसके regarding बात करें करना तो उसमें कुछ problem आया था reflect आया था तो मैंने return किया है उसका.",
+      "starttime": 45.75
+    },
+    {
+      "speaker": "customer",
+      "text": "हां तो यहां पर आपका system में वह return दिख नहीं रहा है मगर मुझे जो delivery जो है उसका message आया है successfully picked up for return and inspection policy successfully बोलकर message आया है मगर आपके system में वह दिख नहीं रहा है return का और मेरा refund भी अभी तक आया नहीं है और आपके पास वह कुछ option भी मुझे मिला नहीं आपसे contact करने के लिए आज option मिला बोलकर मैं call कर",
+      "starttime": 56.78
+    },
+    {
+      "speaker": "customer",
+      "text": "तो यह history है तो थोड़ा आप check करके देख लीजिए आपके था basis.",
+      "starttime": 88.44
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा शुक्रिया. मैं देख ले रही हूं मैं आपकी परेशानी के लिए माफ़ी चाहती हूं आपका product है fire बोलता है",
+      "starttime": 92.76
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes ma'am correct.",
+      "starttime": 100.34
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा शुक्रिया मुझे confirm करने के लिए चंद्र का जी. मैं माफी चाहती हूं आपकी परेशानी के लिए आपको जो भी face करना पड़ रहा",
+      "starttime": 101.47
+    },
+    {
+      "speaker": "customer",
+      "text": "No problem. No problem.",
+      "starttime": 107.27
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा और आपका",
+      "starttime": 109.65
+    },
+    {
+      "speaker": "customer",
+      "text": "problem solve होना चाहिए.",
+      "starttime": 110.11
+    },
+    {
+      "speaker": "agent",
+      "text": "हां और और और आपका pickup हो गया",
+      "starttime": 111.96
+    },
+    {
+      "speaker": "customer",
+      "text": "हां pickup करके लेकर गया है वह बंदा आया था और उनका message भी आया है मुझे delivery बोलकर एक है courier partner उनका message भी आया है कि वह successfully pick किया गया और policy भी inspection हो गया बोलते",
+      "starttime": 116.01
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा अच्छा अच्छा.",
+      "starttime": 133.39
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आप मुझे आप मुझे उसका screenshot दे सकते हैं और मैं आपको एक link provide करती हूं आपका pickup कब हुआ है आपका pickup कब हुआ",
+      "starttime": 134.93
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, एक minute ma'am.",
+      "starttime": 145.9
+    },
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 149.24
+    },
+    {
+      "speaker": "customer",
+      "text": "actually madam मुझे 16 September को यह message आया है delivery की तरफ और उसके तीन दिन पहले exactly बोल नहीं सकता मगर कुछ बारह तेरह तारीख",
+      "starttime": 154.94
+    },
+    {
+      "speaker": "customer",
+      "text": "उसको return लेकर",
+      "starttime": 169.05
+    },
+    {
+      "speaker": "customer",
+      "text": "बारह तेरह सबसे  रहेगा",
+      "starttime": 172.97
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा अच्छा. बारह तेरह September को आपका pickup हुआ है.",
+      "starttime": 176.05
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 179.34
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा. तो",
+      "starttime": 180.49
+    },
+    {
+      "speaker": "customer",
+      "text": "taken for item return के लिए pickup हो",
+      "starttime": 181.25
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा अच्छा और आपको वह और आपको वह confirmation message भी provide हुआ है ना वह logistic partner की तरफ",
+      "starttime": 183.99
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 185.27
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 189.27
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes ma'am 16 September को message आया",
+      "starttime": 190.65
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा अच्छा.",
+      "starttime": 194.65
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 195.49
+    },
+    {
+      "speaker": "agent",
+      "text": "शुक्रिया का जी मुझे confirm करने के लिए क्या मैं आपके call को एक minute के लिए hold पर रख सकती हूं तब तक मैं product की details check कर लूं. शुक्रिया.",
+      "starttime": 195.98
+    },
+    {
+      "speaker": "customer",
+      "text": "हां please.",
+      "starttime": 201.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 203.51
+    },
+    {
+      "speaker": "agent",
+      "text": "शुक्रिया line पर बने रहने के लिए चंद्र जी देखिए आपके contact number ###से जो आपका contact number end हो रहा है उसमें एक link provide किया गया है हमारी तरफ से  link आप आप उसमें अपना वह confirmation screenshot message वह attach कर दीजिए.",
+      "starttime": 249.8
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है ठीक है चलेगा.",
+      "starttime": 266.79
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां हां मैं अभी call पर हूं आप इसको वह attach कर दीजिए.",
+      "starttime": 268.88
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा अच्छा,  कर",
+      "starttime": 272.34
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां हां कर दीजिए.",
+      "starttime": 273.61
+    },
+    {
+      "speaker": "customer",
+      "text": "आप  जो व्यक्ति से बोला  जा नहीं आपका call hold पर थे ना है. कृपया line पर रहा. आप जिस व्यक्ति से बात कर रहे हैं उन्होंने आपके call को hold पर रखा है. कृपया line",
+      "starttime": 280.17
+    },
+    {
+      "speaker": "agent",
+      "text": "हां बोलिए.",
+      "starttime": 296.39
+    },
+    {
+      "speaker": "customer",
+      "text": "हां madam आप line पर हैं ना एक minute.",
+      "starttime": 297.39
+    },
+    {
+      "speaker": "agent",
+      "text": "हां   line",
+      "starttime": 299.06
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, एक second.",
+      "starttime": 300.36
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 301.71
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां  जी मैं home line.",
+      "starttime": 377.64
+    },
+    {
+      "speaker": "customer",
+      "text": "हां madam हां हां attachment हो गया है आप",
+      "starttime": 378.6
+    },
+    {
+      "speaker": "customer",
+      "text": "देखिए sir.",
+      "starttime": 383.35
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा रुकिए मैं देख लेती",
+      "starttime": 384.43
+    },
+    {
+      "speaker": "agent",
+      "text": "मुझे थोड़ा सा वक्त दीजिए,",
+      "starttime": 388.49
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 403.02
+    },
+    {
+      "speaker": "agent",
+      "text": "चंद्र जी क्या मैं आपकी call को एक minute के लिए hold पर रख सकती हूं वह थोड़ा समय लग रहा है मुझे details check करने",
+      "starttime": 434.76
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes yes ma'am. वह मिला है ना आपको screenshot",
+      "starttime": 440.96
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां मिल गया मिल गया वह  screenshot मुझे",
+      "starttime": 443.51
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां ठीक है ठीक है  से check कीजिए  problem.",
+      "starttime": 444.82
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा शुक्रिया.",
+      "starttime": 447.69
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 448.47
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 617.94
+    },
+    {
+      "speaker": "agent",
+      "text": "शुक्रिया line पर बने रहने के लिए प्रकाश जी मुझे मुझे मुझे थोड़ा समय लग रहा है. मैं माफ़ी चाहती हूं लंबे hold के लिए. मुझे थोड़ा समय लग रहा है product की details देखने में.",
+      "starttime": 625.44
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes.",
+      "starttime": 628.74
+    },
+    {
+      "speaker": "agent",
+      "text": "जी क्या आप मुझे क्या आप मुझे और थोड़ा समय दोगे क्या मैं आपकी call को और एक minute के लिए hold पर रख हूं?",
+      "starttime": 637.03
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है.",
+      "starttime": 637.3
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां",
+      "starttime": 638.82
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां yes yes, no problem.",
+      "starttime": 642.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, शुक्रिया शुक्रिया",
+      "starttime": 643.81
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 644.62
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 663.44
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 673.56
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 680.5
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 688.36
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं",
+      "starttime": 708.85
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 781.6
+    },
+    {
+      "speaker": "agent",
+      "text": "शुक्रिया line पर बने रहने के लिए चंद्र जी मैं माफी चाहती हूं लंबे hold के लिए. तो हां तो जैसे कि आपने कहा कि आपका refund नहीं हुए initiate हुआ है. मैं माफ़ी चाहती हूं आपकी परेशानी के लिए आपको जो भी भेजना पड़ रहा है हमारी team को मैंने आपका concern forward कर दिया है वह आपको update दे देंगे पंद्रह October तक तो मैं request करूंगी आप पंद्रह October  उससे पहले हमारी team पूरी कोशिश करेगी आपको एक update देने का.",
+      "starttime": 784.77
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok ok ok.",
+      "starttime": 810.59
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है? तो मैंने आपका concern हमारे internal team को raise कर दिया है. मैं बस विनती करूंगी  बस पंद्रह October तक wait कर जाइए पंद्रह October या उससे पहले हमारी team पूरी कोशिश करेगी आपको update देने का via WhatsApp या फिर मतलब  Cred के support section में जाकर भी आप check कर सकते",
+      "starttime": 813.42
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 822.62
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok. नहीं मतलब यह return successful हुआ है नहीं हुआ है यह पता नहीं चला  आपको अभी तक बराबर है.",
+      "starttime": 830.1
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं नहीं हो गया है नहीं हो गया है return pickup हमारे तरफ से हो गया है. वही तो वह उसी के लिए मैंने आपका concern raise कर दिया है पंद्रह October या उससे पहले तक हमारी team पूरी कोशिश करेगी आपको एक update देने",
+      "starttime": 838.53
+    },
+    {
+      "speaker": "customer",
+      "text": "हां कैसे  madam यह मैं लगभग इतना साल से use कर रहा हूं ऐसा तो नहीं होना चाहिए",
+      "starttime": 851.83
+    },
+    {
+      "speaker": "customer",
+      "text": "इतना लाखों का transaction हो रहा है मेरा policy को कि कैसे miss हो गया आप लोगों से मुझे समझ  नहीं",
+      "starttime": 858.78
+    },
+    {
+      "speaker": "agent",
+      "text": "हां मैं माफ़ी चाहती हूं आपकी परेशानी के लिए मैं हमारे end से मैं आपकी बातों को as a feedback ले रही हूं but मैं विनती करूंगी चंद्र जी कि आप बस पंद्रह October तक wait कर जाइए पंद्रह October या उससे पहले हमारी team पूरी कोशिश करेगी आपको एक update देने का via WhatsApp या फिर आप CRED के support section में जाकर भी आप check कर सकते",
+      "starttime": 866.12
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक ठीक है.",
+      "starttime": 876.37
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है ठीक है madam चलेगा. Ok thank you ma'am. Thank you.",
+      "starttime": 885.23
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है?",
+      "starttime": 886.8
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं और कुछ आपकी सहायता कर सकती",
+      "starttime": 888.21
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं यह यही problem solve करके ले लीजिए बाकी  problem  Yes हां ठीक है",
+      "starttime": 891.1
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा अच्छा तो अच्छा तो इस call को end करने से पहले मैं आपसे एक feedback उम्मीद चाह रही हूं हमारे बातचीत के आधार पर क्या आपको देना चाहते",
+      "starttime": 894.54
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा अच्छा. तो मैं इस call को हमारे feedback IVR पर transfer कर रही हूं जिससे आप एक से पांच के beach में choose कर सकती हूं से पांच है बहुत अच्छा एक है बहुत खराब शुक्रिया  को चुनने के लिए आपका दिन शुभ हो.",
+      "starttime": 904.87
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक",
+      "starttime": 916.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you.",
+      "starttime": 918.59
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 920.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 927.97
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 936.37
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 940.93
+    }
+  ]
+}

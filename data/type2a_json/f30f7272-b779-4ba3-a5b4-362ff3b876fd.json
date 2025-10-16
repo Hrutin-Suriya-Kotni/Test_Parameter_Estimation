@@ -1,0 +1,70 @@
+{
+  "conversation_id": "f30f7272-b779-4ba3-a5b4-362ff3b876fd",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is खुशी. I'm here to assist you today. Am I speaking to जी?",
+      "starttime": 17.63
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, this speaking actually I have paid premium amount #### take towards the renewal of my car insurance",
+      "starttime": 22.24
+    },
+    {
+      "speaker": "customer",
+      "text": "in ICICI Lombard.",
+      "starttime": 30.61
+    },
+    {
+      "speaker": "customer",
+      "text": "through Cred app but my policy is not generated.",
+      "starttime": 32.35
+    },
+    {
+      "speaker": "customer",
+      "text": "Could you please check it and arrange to provide me my policy?",
+      "starttime": 37.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure, we'll be definitely helping you regarding to this. Don't worry. Please allow me a moment of time While I check the details once  I can help you with delivery.",
+      "starttime": 41.76
+    },
+    {
+      "speaker": "agent",
+      "text": "So when I am checking on the details where I can see that the policy you have purchased is for the vehicle number ending with ###. I believe you are talking about this.",
+      "starttime": 48.38
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 57.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, please allow me a moment of time While I check the details once I can help you in a better",
+      "starttime": 58.4
+    },
+    {
+      "speaker": "agent",
+      "text": "please be on the line valid check the details.",
+      "starttime": 63.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a moment. while check the details",
+      "starttime": 71.09
+    },
+    {
+      "speaker": "agent",
+      "text": "when I check  the details I can see that the policy that you have purchased it is a comprehensive policy you have purchased and it is from the ICICI Lombard you have purchased the policy. I believe you are talking about this only.",
+      "starttime": 80.47
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a moment while I check",
+      "starttime": 93.81
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning, this is सुमित. I am here to assist you today. Am I speaking with तुषारा",
+      "starttime": 18.32
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much  for confirming your name. So your request is in regards to Cred cash.",
+      "starttime": 24.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I right?",
+      "starttime": 29.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for confirming  since I could see I have mentioned that you are facing a repayment issue. I am extremely sorry for this inconvenience caused. please understand but exact issue you are facing so that I could assist you accordingly.",
+      "starttime": 32.38
+    },
+    {
+      "speaker": "customer",
+      "text": "I made the payment against the credit cash and the night itself.",
+      "starttime": 48.16
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 51.7
+    },
+    {
+      "speaker": "customer",
+      "text": "and still the auto pay was done and their the bank has charged the",
+      "starttime": 52.95
+    },
+    {
+      "speaker": "customer",
+      "text": "ECS return that, then   even I have uploaded the screenshot.",
+      "starttime": 59.63
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok तो I totally understood your concern that you have made a EMI payment  as I could check the time is around 2  27 AM in the  like on seventh of October you have made the payment. Am I right?",
+      "starttime": 64.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much तुषारा for confirming. So कुशल as I could check it from my end that you have made the payment around ###AM however, the status of the payment actually got updated around",
+      "starttime": 80.61
+    },
+    {
+      "speaker": "agent",
+      "text": "37 am in the morning. in between that since it was your due date and the payment status was not updated. So as a result around 1 45 AM in the morning, the auto debit was initiated and you have already made the payment manually so when it was initiated it got failed and you have been charged with mandate bounce charges So  I would kindly request you that for your upcoming EMI when you  you want to make manual payment, there is no issue with that. However, if you want to make the manual payment please make the manual payment at least  business prior so the status of the payment gets updated timely and no auto debit will be initiated after that. Ok?",
+      "starttime": 92.94
+    },
+    {
+      "speaker": "customer",
+      "text": "No. Now the charges which has been deducted now who will be it. Why should I  if I  made the payment",
+      "starttime": 131.1
+    },
+    {
+      "speaker": "customer",
+      "text": "I got the message from the Cred that the payment has been received.",
+      "starttime": 139.6
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure कृष्णा.",
+      "starttime": 143.6
+    },
+    {
+      "speaker": "customer",
+      "text": "at the exact time when I made the payment",
+      "starttime": 144.08
+    },
+    {
+      "speaker": "customer",
+      "text": "credit has got the payment",
+      "starttime": 146.78
+    },
+    {
+      "speaker": "customer",
+      "text": "it was  due to update it immediately,",
+      "starttime": 148.63
+    },
+    {
+      "speaker": "customer",
+      "text": "they are not updating it immediately they did the auto pay system was done on the actual time it has to be done. But",
+      "starttime": 151.38
+    },
+    {
+      "speaker": "customer",
+      "text": "updation of the payment was done at ###AM.",
+      "starttime": 159.62
+    },
+    {
+      "speaker": "customer",
+      "text": "the charges which are",
+      "starttime": 164.85
+    },
+    {
+      "speaker": "agent",
+      "text": "so basically",
+      "starttime": 164.97
+    },
+    {
+      "speaker": "customer",
+      "text": "there was only ###something rupees",
+      "starttime": 166.84
+    },
+    {
+      "speaker": "customer",
+      "text": "in my account, it got debited and even that after that, I have a  balance negative balance in count",
+      "starttime": 169.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes,  I totally understand your concern. So do not worry as a 1 time exception and they will be providing you that charge so for that you have to share us your current updated bank statement with us where the amount that has been deducted is there, so that we could validate and even",
+      "starttime": 177.69
+    },
+    {
+      "speaker": "customer",
+      "text": "I have already updated the screenshot",
+      "starttime": 192.09
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm so sorry तुषारा but we cannot actually validate the screenshot, we need the current update  bank statement to validate it and raise this concern to our internal team",
+      "starttime": 195.14
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, you want the bank statement, right?",
+      "starttime": 204.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Correct  So",
+      "starttime": 207.63
+    },
+    {
+      "speaker": "customer",
+      "text": "So what",
+      "starttime": 208.62
+    },
+    {
+      "speaker": "customer",
+      "text": "current current month?",
+      "starttime": 212.1
+    },
+    {
+      "speaker": "agent",
+      "text": "for the current",
+      "starttime": 214.65
+    },
+    {
+      "speaker": "agent",
+      "text": "and it should be in PDF format and password free so that we could actually validate it and raise this concern to our internal team.",
+      "starttime": 216.49
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah.   I have already downloaded where upload",
+      "starttime": 221.89
+    },
+    {
+      "speaker": "agent",
+      "text": "So I have actually shared you a link to your registered phone number and the last 4 digit of the phone number that I could check it ###. Am I right?",
+      "starttime": 227.3
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, but I have not received the line.",
+      "starttime": 236.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, you have not received any link. Right?",
+      "starttime": 241.04
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you share on this number?",
+      "starttime": 247.03
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually, the link will be shared to your primary number only.",
+      "starttime": 249.56
+    },
+    {
+      "speaker": "customer",
+      "text": "Any other option where the link will be",
+      "starttime": 254.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes actually I will be sharing you a mail you can actually reply to that mail and you can add attach the",
+      "starttime": 257.32
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, you can share the email. Yeah, please share the mail.",
+      "starttime": 261.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. So I am sharing you the email to your registered email ID which is   r  j   9 at the rate Gmail dot com. Am I right?",
+      "starttime": 265.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for confirming. Please be online. while I just you the mail.",
+      "starttime": 276.38
+    },
+    {
+      "speaker": "agent",
+      "text": "I have already shared you the mail विशाल. So could you please kindly check whether you have received it or not?",
+      "starttime": 283.11
+    },
+    {
+      "speaker": "customer",
+      "text": "sir but I have not received",
+      "starttime": 290.01
+    },
+    {
+      "speaker": "agent",
+      "text": "Just allow me a moment. Actually, I have shared you the mail  few seconds only.",
+      "starttime": 293.23
+    },
+    {
+      "speaker": "agent",
+      "text": "So once you share the file, just kindly let me know to check so that I could check it from my end.",
+      "starttime": 331.15
+    },
+    {
+      "speaker": "customer",
+      "text": "the amount has been deducted today.",
+      "starttime": 336.64
+    },
+    {
+      "speaker": "customer",
+      "text": "and I'm not able to select the statement for",
+      "starttime": 339.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, तो So in that case, you can do 1 thing that once the amount is generated, the link that like the mail that I have provided you, you can actually reply to that mail and we can add attach the file and once you add attach the bank statement  call will be initiated from our end and we will be assisting you further with your concern. In that work for you तो?",
+      "starttime": 343.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, tell me 1 week.",
+      "starttime": 363.74
+    },
+    {
+      "speaker": "customer",
+      "text": "reverted for the amount",
+      "starttime": 366.62
+    },
+    {
+      "speaker": "customer",
+      "text": "will be down the amount debited or the whole total which is negative.",
+      "starttime": 368.97
+    },
+    {
+      "speaker": "agent",
+      "text": "So the amount that got debited from your bank account as a mandate voucher, we will actually refund that like proceed for the refund for that amount.",
+      "starttime": 375.94
+    },
+    {
+      "speaker": "customer",
+      "text": "No, even negative balance is also there.",
+      "starttime": 385.54
+    },
+    {
+      "speaker": "agent",
+      "text": "So negative balance is there for that, I would kindly request you to share to keep sufficient balance in your account. Once you give sufficient balance the amount will be deducted",
+      "starttime": 389.1
+    },
+    {
+      "speaker": "agent",
+      "text": "and after that, you can share the bank statement and we will validate those charges that was being made to you and we will actually proceed for the refund for those amount. Ok?",
+      "starttime": 398.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much  for understanding. So, do you have any other query regarding  that I may assist you further?",
+      "starttime": 411.04
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I didn't receive any email",
+      "starttime": 417.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So I have actually shared your  your registered email have not yet received email?",
+      "starttime": 420.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, तुषारा but I have actually shared you the like email like the mail   email registered email ID which is",
+      "starttime": 428.99
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok sir. wait  a second.",
+      "starttime": 435.17
+    },
+    {
+      "speaker": "agent",
+      "text": "Sir.",
+      "starttime": 438.02
+    },
+    {
+      "speaker": "customer",
+      "text": "down call regarding credit cash loan. If you need   request  for  the  support section",
+      "starttime": 438.41
+    },
+    {
+      "speaker": "customer",
+      "text": "I have received.",
+      "starttime": 445.13
+    },
+    {
+      "speaker": "customer",
+      "text": "the mail regarding that I have made a call to",
+      "starttime": 446.73
+    },
+    {
+      "speaker": "customer",
+      "text": "But there is nothing regarding that  I can upload anything.",
+      "starttime": 451.32
+    },
+    {
+      "speaker": "agent",
+      "text": "actually you have to like reply to that mail and you have to add attach and you have to upload the file.",
+      "starttime": 456.11
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 463.84
+    },
+    {
+      "speaker": "agent",
+      "text": "So since you have mentioned that the link is not actually working So for that I have shared you the mail. So there is no specific link in that mail. you just have to reply to that mail and you can add attach to 5 and you can share it with",
+      "starttime": 465.76
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, the email email is credit support load support at the rate crate dot",
+      "starttime": 478.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Correct विशाल. So once you upload the file the call will be initiated and we will be validating your concern and assist you accordingly.",
+      "starttime": 484.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much  for your valuable time and also पुछा, do you have any other query that I assist you further with?",
+      "starttime": 493.27
+    },
+    {
+      "speaker": "customer",
+      "text": "cancel  the credit cash balance right now",
+      "starttime": 500.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So as I have understood your concern you want to know the credit cash balance",
+      "starttime": 505.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I right?",
+      "starttime": 509.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So for that, actually just be online.",
+      "starttime": 512.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so as I can understand that you want to know regarding the credit cash balance Am I right?",
+      "starttime": 523.76
+    },
+    {
+      "speaker": "agent",
+      "text": "So as I could check it from my end that currently the credit cash feature is not available for you because there is a change in our lending partners available like approval criteria. So this is the reason why currently it is not available for you  do not worry because we are working on adding more lending partner. So once it's done you will surely receive a notification from our end through WhatsApp and SMS.  after that, you can retry the withdrawal procedure Ok?",
+      "starttime": 530.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for your valuable time पर and also before we end this call, may I request you to share your valuable feedback basis on the conversation that we had.",
+      "starttime": 555.94
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 564.3
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much.  I will transfer your call to our feedback IVR. You can select between 1 to 5 5 being excellent and 1 being 4. Thank you so much for choosing I hope you have a great day.",
+      "starttime": 565.29
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale.",
+      "starttime": 574.69
+    }
+  ]
+}

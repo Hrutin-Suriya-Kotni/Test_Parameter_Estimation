@@ -1,0 +1,260 @@
+{
+  "conversation_id": "f8327a01-959e-42e1-b48b-f18d569206df",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning.  How may I assist you today? Am I speaking to गणेश?",
+      "starttime": 16.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am.",
+      "starttime": 20.92
+    },
+    {
+      "speaker": "agent",
+      "text": "you for confirming your name दिनेश. दिनेश I can see that you have raised a call request for your  number which is ending with ###. and you have mentioned that you are facing some of the error. insurance policy is not showing. I'm sorry for this. Can you please elaborate how can help you regarding",
+      "starttime": 22.49
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually ma'am मेरा policy insurance  करना अपना bike",
+      "starttime": 38.25
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, but जैसे  मैं  पर click करता हूं तो कोई policy  show नहीं हो रही वहां पर.",
+      "starttime": 42.54
+    },
+    {
+      "speaker": "agent",
+      "text": "बेहद माफ़ी चाहेंगे आपको यह परेशानी हुई है. आप निश्चिंत रहिए इसके regarding हम आपको ज़रूर समय करेंगे. मैं request करूंगी आपसे आप kindly please line पर बने रहिएगा. मैं check कर ले  details को ताकि मैं आपको इस विषय में सही से help",
+      "starttime": 50.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Please line पर बने रहिएगा गणेश.",
+      "starttime": 64.02
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 69.62
+    },
+    {
+      "speaker": "agent",
+      "text": "जान सकती हूं आपने यह policy जो purchase किए थे यह policy आपने जो है credit के द्वारा purchase किए",
+      "starttime": 76.17
+    },
+    {
+      "speaker": "agent",
+      "text": "या फिर outside",
+      "starttime": 82.33
+    },
+    {
+      "speaker": "customer",
+      "text": "एक credit पर किया",
+      "starttime": 84.37
+    },
+    {
+      "speaker": "agent",
+      "text": "मुझे एक minute का समय दीजिएगा. मैं check कर लेती details को ताकि मैं आपको सही से help कर",
+      "starttime": 88.51
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 90.38
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 97.74
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 100.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok गणेश जी जब मैं details check कर रही हूं यहां पर show हो रही है कि आपकी policy जो है जो कि आपने policy purchase किए थे यहां से. यहां पर देख पा रही हूं कि आपने ICICI Lombard से जो है own damage policy purchase की थी. I believe आप इसी की बात",
+      "starttime": 102.55
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 111.24
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes",
+      "starttime": 112.81
+    },
+    {
+      "speaker": "agent",
+      "text": "मुझे एक minute का समय दीजिएगा मैं check कर लेती  details",
+      "starttime": 117.9
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 119.13
+    },
+    {
+      "speaker": "customer",
+      "text": "हां बोल रहा हूं.",
+      "starttime": 122.9
+    },
+    {
+      "speaker": "agent",
+      "text": "जब आप policy की details check करें तो क्या issue आ रही है वहां पर आपको वहां पर show नहीं हो रही है आप बता रहे",
+      "starttime": 125.68
+    },
+    {
+      "speaker": "customer",
+      "text": "हां कोई भी policy",
+      "starttime": 130.02
+    },
+    {
+      "speaker": "agent",
+      "text": "कोई भी policy आपको show नहीं हो रही",
+      "starttime": 132.48
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी कोई नहीं.",
+      "starttime": 134.73
+    },
+    {
+      "speaker": "agent",
+      "text": "पर जब मैं यहां पर details check कर रही हूं show हो रही है आपने जो policy purchase की है जो कि ICICI Lombard से own damage policy purchase की है show हो रही है आपकी policy जो है start हुई है 8 November ###से जिसकी valid",
+      "starttime": 136.4
+    },
+    {
+      "speaker": "customer",
+      "text": "Kindly",
+      "starttime": 139.47
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 142.12
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam यह तो  यह तो show है मैं इसकी बात नहीं कर रहा हूं. मैं इसको renew कर रहा हूं ना  की date  चुकी",
+      "starttime": 146.12
+    },
+    {
+      "speaker": "agent",
+      "text": "आप policy renew करना चाहते",
+      "starttime": 154.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok जैसे कि आप बता रहे थे कि policy show नहीं हो रही है मतलब आप policy renew करना चाहते हैं तो कोई quotation आपको show नहीं हो रही है",
+      "starttime": 157.31
+    },
+    {
+      "speaker": "customer",
+      "text": "जी जी जी.",
+      "starttime": 163.82
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, बेहद माफी चाहूंगी आपको यह परेशानी हुई है आप निश्चिंत रहिए इसके regarding हम आपको ज़रूर सहायता करेंगे.",
+      "starttime": 165.3
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं जान सकती हूं आप क्या कोई specific insurer के लिए check करें या फिर कोई भी insurer के लिए आप जानना चाहते",
+      "starttime": 170.77
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 171.58
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं देखना चाहूं मैंने जो best रहेगा बोलूंगा",
+      "starttime": 176.76
+    },
+    {
+      "speaker": "agent",
+      "text": "मुझे एक minute का समय दीजिएगा. मैं check कर लीजिए  details",
+      "starttime": 181.37
+    },
+    {
+      "speaker": "customer",
+      "text": "जी",
+      "starttime": 188.47
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 194.87
+    },
+    {
+      "speaker": "agent",
+      "text": "line पर बने रहिए.",
+      "starttime": 195.73
+    },
+    {
+      "speaker": "customer",
+      "text": "No.",
+      "starttime": 197.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, जैसे कि आप बता रहे हैं कि आपके पास जो है कोई भी renewal के code के options नहीं आ रही है. तो आपको बताना चाहूंगी इसके regarding हम internal team के पास concern को आपकी raise करेंगे. पर उसके लिए आपको request करूंगी कि आपको जो error आ रही है जहां पर आपको कोई quotation show नहीं हो रही है उसकी snapshot कर दीजिए मैं आपको एक link share करूंगी आपके calling number पर SMS के द्वारा. जब उस link पर click करेंगे तो आपको credit application में out करेंगे वहां पर आपके पास add attachment का एक option आ जाएंगे वहां से आपको जो",
+      "starttime": 202.02
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 203.53
+    },
+    {
+      "speaker": "agent",
+      "text": "वहां से जो है आपको एक app जो है share करनी होगी and आपको यह भी बताना चाहूंगी कि आप app जो है वह आप Cred application से नहीं ले पाएंगे, so kindly दूसरे device use करके snap",
+      "starttime": 231.42
+    },
+    {
+      "speaker": "customer",
+      "text": "चलिए ठीक है.",
+      "starttime": 243.86
+    },
+    {
+      "speaker": "agent",
+      "text": "call",
+      "starttime": 244.08
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं call पर बने हूं आपके साथ can you please हमें app share कर दीजिए.",
+      "starttime": 245.28
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी अभी नहीं हो पाएगा ma'am तो time   करूंगा.",
+      "starttime": 248.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok in that case मैं आपको बताना चाहूंगी मैं फिर आपका जो ticket जो है वह open रख रही हूं और आपका calling number ending है ###से So मैं request करूंगी आपसे अब मैं आपकी ticket को जो है open रख दे रही हूं. आप kindly please जो है जब आप share कर पाए तो kindly please share कर दीजिएगा.",
+      "starttime": 251.72
+    },
+    {
+      "speaker": "agent",
+      "text": "ऐसे ही आप हमें screenshot share करें हम आपको इस विषय में update share करेंगे through WhatsApp notification.",
+      "starttime": 266.93
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sorry, आपको इस विषय में",
+      "starttime": 273.83
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "conversation_id": "fedc9f4c-5f12-471f-b0b9-5971716d3478",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is शुमित. I'm calling you from Cred on a recorded line. Am I speaking with सिमरन गया?",
+      "starttime": 1.8
+    },
+    {
+      "speaker": "agent",
+      "text": "the call got disconnected that's why I am calling you back. Is this a good time to talk to",
+      "starttime": 8.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 11.4
+    },
+    {
+      "speaker": "customer",
+      "text": "upload madam आधार करो PAN",
+      "starttime": 14.29
+    },
+    {
+      "speaker": "agent",
+      "text": "you have already uploaded",
+      "starttime": 18.07
+    },
+    {
+      "speaker": "customer",
+      "text": "uploaded.",
+      "starttime": 19.76
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, but I haven't received yet. Please be online.",
+      "starttime": 22.15
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं",
+      "starttime": 25.58
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 32.72
+    },
+    {
+      "speaker": "agent",
+      "text": "I haven't received it till now.",
+      "starttime": 37.92
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 39.69
+    },
+    {
+      "speaker": "agent",
+      "text": "have shared",
+      "starttime": 40.82
+    },
+    {
+      "speaker": "agent",
+      "text": "I haven't received the document till now.",
+      "starttime": 42.49
+    },
+    {
+      "speaker": "customer",
+      "text": "that",
+      "starttime": 43.72
+    },
+    {
+      "speaker": "agent",
+      "text": "So you have shared the document using the link right that you have provided",
+      "starttime": 45.21
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes madam.",
+      "starttime": 51.72
+    },
+    {
+      "speaker": "agent",
+      "text": "But till now I haven't received the document yet. Can you please share it again?",
+      "starttime": 53.46
+    },
+    {
+      "speaker": "customer",
+      "text": "उसका link open madam",
+      "starttime": 57.44
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 64.95
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 66.89
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 70.53
+    },
+    {
+      "speaker": "customer",
+      "text": "Link  open madam  are  open है",
+      "starttime": 76.61
+    },
+    {
+      "speaker": "agent",
+      "text": "clicking on the link, you might get 1 option",
+      "starttime": 84.0
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 85.77
+    },
+    {
+      "speaker": "agent",
+      "text": "as add attachment.",
+      "starttime": 87.19
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 87.24
+    },
+    {
+      "speaker": "agent",
+      "text": "clicking on add attachment you can upload the document picture or PDF.",
+      "starttime": 89.76
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to",
+      "starttime": 103.8
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to you, शिवा?",
+      "starttime": 113.72
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible?",
+      "starttime": 129.21
+    }
+  ]
+}

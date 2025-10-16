@@ -1,0 +1,495 @@
+{
+  "conversation_id": "d94271a9-3eba-4ea4-83ac-7c575f7d47cb",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Very good morning. My name is सुमित calling you from Cred on a recorded line. Am I speaking with राज?",
+      "starttime": 1.65
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 6.48
+    },
+    {
+      "speaker": "customer",
+      "text": "देख तो लिया होगा request कहीं के लिए phone आया है करवाया मैंने callback",
+      "starttime": 9.45
+    },
+    {
+      "speaker": "agent",
+      "text": "हां बोलिए रहा.",
+      "starttime": 14.97
+    },
+    {
+      "speaker": "customer",
+      "text": "आप कौन से department से पहले अपना delivering non बताएं हैं पहले तो मैं देख",
+      "starttime": 16.72
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपको escalation team की तरफ से बात कर रहा हूं बोलिए.",
+      "starttime": 23.03
+    },
+    {
+      "speaker": "customer",
+      "text": "कौन सी team",
+      "starttime": 25.39
+    },
+    {
+      "speaker": "agent",
+      "text": "escalation",
+      "starttime": 27.1
+    },
+    {
+      "speaker": "customer",
+      "text": "senior से मैंने बोला था request करवानी को कि senior senior होकर नहीं",
+      "starttime": 29.31
+    },
+    {
+      "speaker": "agent",
+      "text": "बिल्कुल, escalation  senior team ही होता है रिया.",
+      "starttime": 35.03
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा ठीक",
+      "starttime": 37.85
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है, ठीक है.",
+      "starttime": 39.52
+    },
+    {
+      "speaker": "customer",
+      "text": "वह जो दो तारीख को मैंने पहले तो मैंने request डाली थी की थी कि करीबन सत्ताईस अट्ठाईस अट्ठारह तो उनतीस के करीब.",
+      "starttime": 40.89
+    },
+    {
+      "speaker": "customer",
+      "text": "फिर दो तारीख को फिर request डाली थी उसका जो refund क्यों नहीं आया अभी",
+      "starttime": 49.12
+    },
+    {
+      "speaker": "agent",
+      "text": "दो तारीख को आपने आपने जो voucher मिला था आपने order place किया था accordingly.",
+      "starttime": 56.04
+    },
+    {
+      "speaker": "customer",
+      "text": "No",
+      "starttime": 59.55
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका voucher जो मिला था",
+      "starttime": 61.69
+    },
+    {
+      "speaker": "customer",
+      "text": "voucher to place हां.",
+      "starttime": 61.96
+    },
+    {
+      "speaker": "customer",
+      "text": "Order place नहीं किया",
+      "starttime": 64.29
+    },
+    {
+      "speaker": "agent",
+      "text": "invalid voucher मिला था आपको.",
+      "starttime": 65.93
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 67.7
+    },
+    {
+      "speaker": "agent",
+      "text": "उसके basis पर अगर मैं check करूं तो कल ही आपका जो concern था जिस",
+      "starttime": 70.21
+    },
+    {
+      "speaker": "customer",
+      "text": "एक और request हुई है. एक और request  डाली",
+      "starttime": 74.72
+    },
+    {
+      "speaker": "agent",
+      "text": "बोलिए.",
+      "starttime": 76.29
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपको वही बता रहा हूं आपका जिससे कल बात हुआ था",
+      "starttime": 80.27
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no.",
+      "starttime": 84.1
+    },
+    {
+      "speaker": "agent",
+      "text": "accordingly जैसे voucher आपको invalid मिला था तो आपने जितने coins burn किए थे particular voucher के लिए वह आपको revert back करने की बात करके की गई",
+      "starttime": 84.56
+    },
+    {
+      "speaker": "customer",
+      "text": "No no",
+      "starttime": 90.31
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 93.27
+    },
+    {
+      "speaker": "customer",
+      "text": "उन्होंने बोला था नौ तारीख  तक resolution फिर से हो जाएगा.",
+      "starttime": 97.86
+    },
+    {
+      "speaker": "agent",
+      "text": "नौ तारीख resolution यानी आपका जो coins जो जो concern उन्होंने raise किया था वह आपके पास forward हो जाएगा नौ सौ पहले  तक.",
+      "starttime": 101.48
+    },
+    {
+      "speaker": "agent",
+      "text": "आपके account",
+      "starttime": 108.77
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा.",
+      "starttime": 108.77
+    },
+    {
+      "speaker": "customer",
+      "text": "हो जाएगा. नहीं यह मेरे को उनसे नहीं बताया था उन्होंने बोला था जो हमने फिर से request फिर से क्या था मेरा concern किया था कि जैसे दो तारीख को आपकी backend team से एक link share किया गया था. उन्हें बोला था आपकी उसके पहले जो मतलब दो तारीख से पहले जो मैंने concern raise किए थे कि जब आप directly आप क्या Cred पर यह open  feature आ गया  कि अपन directly redeem पर click करेंगे तो",
+      "starttime": 109.72
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा.",
+      "starttime": 113.18
+    },
+    {
+      "speaker": "agent",
+      "text": "जी.",
+      "starttime": 121.5
+    },
+    {
+      "speaker": "customer",
+      "text": "app में वह upon को उसकी website पर खोलकर apply कर देगा coupon automatically.",
+      "starttime": 133.46
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. जी.",
+      "starttime": 138.93
+    },
+    {
+      "speaker": "customer",
+      "text": "तो तो  मैं apply करने की कोशिश किए starting पर. तो उसमें  को 50 rupees payment for किया, ठीक",
+      "starttime": 140.5
+    },
+    {
+      "speaker": "customer",
+      "text": "फिर next payment pay  pay online करने की कोशिश करते हैं तब वहां पर एक  एक payment error आ जाता",
+      "starttime": 147.32
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा.",
+      "starttime": 153.66
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मैंने उसका भी screenshot attach किया था मैंने बात भी की थी और जैसे ही error आता है तो  payment क्या होता है payment date से  बाहर आकर Cred app पर वापस आ जाता है उसमें लिख के जाता है something went on",
+      "starttime": 154.3
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मैंने इसके लिए raise किया फिर उन्हें दो तारीख को resolution बल्कि दो तारीख को resolution उसने दिया है एक link share की मेरे को उस पर",
+      "starttime": 167.3
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं जब मैं उस पर किया तो मेरे को उसमें जो delivery shipping charges दिखा रहे थे  99 दिखाने लग गया बल्कि  को 50 rupees pay करनी",
+      "starttime": 176.16
+    },
+    {
+      "speaker": "customer",
+      "text": "फिर मैंने  request ID की  तो मैंने screenshot भी attach किया कि भई ###rupees  रहा अपना ऐसा नहीं होना चाहिए 50 rupees  तो  पहुंच भी  ठीक है 50 pe यह   जो हमें time पर आ  थे 5 rupees को 99 नहीं आना चाहिए.",
+      "starttime": 184.96
+    },
+    {
+      "speaker": "agent",
+      "text": "जी.",
+      "starttime": 199.02
+    },
+    {
+      "speaker": "customer",
+      "text": "फिर वह madam को मैंने बोला madam देख लीजिए हां  दो तारीख को का पांच तारीख को coupon expire होगा",
+      "starttime": 199.59
+    },
+    {
+      "speaker": "customer",
+      "text": "तो resolution जो हो आप जल्दी से जल्दी करवा लो रहता रहेगा कि अपन कोई दिक्कत  चार को resolution आ जाए.",
+      "starttime": 205.99
+    },
+    {
+      "speaker": "agent",
+      "text": "जी.",
+      "starttime": 206.38
+    },
+    {
+      "speaker": "customer",
+      "text": "तो ठीक है  एक दिन रहेगा time limit तो  उसके साथ से  order place कर लेंगे 50 rupees में कोई दिक्कत नहीं. ठीक है. और वह दो तारीख को request कल मैंने के लिए call back request की थी.",
+      "starttime": 213.04
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी.",
+      "starttime": 218.02
+    },
+    {
+      "speaker": "customer",
+      "text": "वही कि दो तारीख वाला request आपका अभी तक resolution क्यों नहीं आया.",
+      "starttime": 224.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Mail  यही मेरा concern था सबसे पहले भी मैंने उनको बोला कि जो आपकी senior management team होती है उनसे बात कर  mail लिया आपका जैसे जो time limit होता दो यार team",
+      "starttime": 228.92
+    },
+    {
+      "speaker": "customer",
+      "text": "है ना तो दो से छह तारीख तक तो चार दिन हो गए maximum 72 hours more than 72 hours तो उसका resolution क्यों नहीं आया उन्हें बोला  यह तो हमें पता नहीं है कि हम आपका request फिर से हम raise कर रहे",
+      "starttime": 240.36
+    },
+    {
+      "speaker": "customer",
+      "text": "कुछ  कर रहा है आपका feedback भी concern strong feedback ले रहा",
+      "starttime": 253.07
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मैंने वही बोला कि मेरे को senior से बात किया ना कि दो तारीख को  request क्यों नहीं आया अभी तक. उसके resolution क्यों नहीं",
+      "starttime": 258.3
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है आपने जैसे बोला कि इसका आपको revert back किया जाएगा. revert back किया जाएगा. ठीक है.  वह उन्होंने यह मेरे को बताया नहीं था कि revert back नहीं किया जाएगा. revert back किया जाएगा क्योंकि मैंने उनको बोला देखिए sir. पांच तारीख को coupon expire हो गया. अब तो कोई मतलब नहीं है coupon",
+      "starttime": 267.45
+    },
+    {
+      "speaker": "customer",
+      "text": "यहां पर आप मेरे को ऐसा कुछ resolution है मेरे coins जो है refund करिए. या फिर मेरे को कुछ ऐसा resolution बताइए कुछ तो करिए मेरे को नहीं तो अब तो expire होते   मेरे को refund करिए 2000 को जो मैंने use",
+      "starttime": 284.22
+    },
+    {
+      "speaker": "customer",
+      "text": "आप बोल रहे हैं कि refund आएगा तो  कुछ कोई urgent नहीं नहीं.",
+      "starttime": 297.64
+    },
+    {
+      "speaker": "customer",
+      "text": "at all. But यह पर resolution चाहिए.",
+      "starttime": 301.67
+    },
+    {
+      "speaker": "agent",
+      "text": "No problem, दिया",
+      "starttime": 302.85
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रहा हूं.",
+      "starttime": 304.98
+    },
+    {
+      "speaker": "customer",
+      "text": "बस आपने जैसा बोला कि क्योंकि देखिए मैंने अभी उनको यह बताया था clearly mention बल्कि  अपनी गलती थी ना system issue था fault था. अपने screenshot भी attach करके दिया कि with proof कि भई madam यह यह था उस time पर जो दो madam से बात हुई  कि यह यह problem है आप देख लीजिए screenshot.",
+      "starttime": 305.06
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मैंने बोला video attach कर दूं नहीं बोला फिर video   under 20 MB होगी. मैंने मैं Mondo 20 MB का phone पर हो नहीं पाएगा कि वह quality करेगा.",
+      "starttime": 324.05
+    },
+    {
+      "speaker": "agent",
+      "text": "जी.",
+      "starttime": 333.23
+    },
+    {
+      "speaker": "customer",
+      "text": "है ना iPhone पर तो वह एक quality waive रहेगी जो है ना तो मैंने बोला कि मैं screenshot भी attach कर रहा हूं आप देख लो",
+      "starttime": 334.29
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रहा हूं. बिल्कुल.",
+      "starttime": 336.67
+    },
+    {
+      "speaker": "customer",
+      "text": "ना अब उन्हें बोला मैंने फिर से escalate कर दिया आपको कल",
+      "starttime": 342.12
+    },
+    {
+      "speaker": "customer",
+      "text": "छह तारीख तो  यह नहीं बोला था कि आपको refund कर दिया जाएंगे payment. उनमें यह बिल्कुल clearly. तो मैंने बोला भाई senior  में बात कर लेता हूं अगर आप नहीं समझ पा रहे हैं वह तो कल थोड़ी rent भी हो गई थी क्योंकि देखिए  अगर आपने भी बता दिया clearly manual को सामने वाले को ही बोलना चाहिए.",
+      "starttime": 345.93
+    },
+    {
+      "speaker": "customer",
+      "text": "कि भाई आपका resolve इसलिए नहीं हो पाया कुछ भी आपने बोला कि refund आ जाएगा आपको बस कोई बात नहीं. तो refund कब तक आ जाएगा",
+      "starttime": 362.91
+    },
+    {
+      "speaker": "agent",
+      "text": "जी",
+      "starttime": 365.58
+    },
+    {
+      "speaker": "agent",
+      "text": "बिल्कुल मैं समझ पा रहा हूं आपकी",
+      "starttime": 373.51
+    },
+    {
+      "speaker": "customer",
+      "text": "maximum time limit",
+      "starttime": 373.74
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए नौ तारीख का जो time limit है वह system generated रहता है लेकिन कोशिश  की जाती है कि जितनी जल्दी हो सके आपको हम update provide करें या जो  ठीक है? तो वह automatically आपको",
+      "starttime": 375.53
+    },
+    {
+      "speaker": "customer",
+      "text": "No no.",
+      "starttime": 377.76
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मैं समझ रही हूं वह तो maximum time limit frame रहता",
+      "starttime": 385.25
+    },
+    {
+      "speaker": "agent",
+      "text": "बिल्कुल automatically आपको आपके WhatsApp में notification या आपके credit application पर support section पर आपको update मिल जाएगी.",
+      "starttime": 387.46
+    },
+    {
+      "speaker": "customer",
+      "text": "तो यह hundred percent है कि refund आएगा",
+      "starttime": 392.53
+    },
+    {
+      "speaker": "agent",
+      "text": "बिल्कुल बिल्कुल बिल्कुल इसी के कारण तो आपको बताया गया",
+      "starttime": 395.07
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है.",
+      "starttime": 396.51
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं, ठीक है. बस आपने बोल दिया hundred percent बस ठीक है. कोई दिक्कत नहीं.",
+      "starttime": 398.13
+    },
+    {
+      "speaker": "customer",
+      "text": "यही मैंने उनको भी यह बोला था कि आप मेरे को एक refund करवा तो बता रहेगा वह बोली नहीं रहते हम refund करवा देंगे refund करवा देंगे मैंने तो बोला कि हम scale कर दिया actually कर दिया  आपने बोल दिया refund  ना कुछ भी नहीं मैं  कि तक wait करता हूं. Maximum time limit  मैं wait करता हूं. है ना तो कोई दिक्कत नहीं है. हां. जाता वह है बोले थे तो हम  request call  के लिए करना ही नहीं पर.",
+      "starttime": 403.19
+    },
+    {
+      "speaker": "agent",
+      "text": "बहुत बहुत धन्यवाद रिया जी.",
+      "starttime": 403.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so",
+      "starttime": 418.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much रहा.",
+      "starttime": 419.8
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रहा",
+      "starttime": 426.31
+    },
+    {
+      "speaker": "agent",
+      "text": "कोई दिक्कत नहीं है. बिल्कुल",
+      "starttime": 427.44
+    },
+    {
+      "speaker": "agent",
+      "text": "बहुत बहुत धन्यवाद समझने के लिए और कोई जानकारी आपको credit की तरफ",
+      "starttime": 429.13
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं बस",
+      "starttime": 431.36
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much. छोटी सी निवेदन रखना चाहेंगे call को end करने से पहले हमारे बातचीत के बारे में क्या मैं आपको",
+      "starttime": 432.4
+    },
+    {
+      "speaker": "customer",
+      "text": "वह मैं review दे दूंगा आपका",
+      "starttime": 435.71
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much.",
+      "starttime": 437.82
+    },
+    {
+      "speaker": "customer",
+      "text": "आपने मेरे पास सही बताया ठीक",
+      "starttime": 438.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. Thank you so much. के साथ जुड़ने के लिए बहुत बहुत धन्यवाद sir. आपका दिन शुभ रहे. Thank",
+      "starttime": 440.33
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 445.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Please, you have just helped us improve the credit experience for all our members.",
+      "starttime": 452.77
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 457.75
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 461.44
+    }
+  ]
+}

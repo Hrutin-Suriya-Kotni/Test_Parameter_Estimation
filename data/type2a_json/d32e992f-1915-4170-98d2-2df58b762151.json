@@ -1,0 +1,465 @@
+{
+  "conversation_id": "d32e992f-1915-4170-98d2-2df58b762151",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is नीतीश. I am here to assist you today. I am talking to do?",
+      "starttime": 16.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes yes.",
+      "starttime": 20.96
+    },
+    {
+      "speaker": "agent",
+      "text": "you for the confirmation.",
+      "starttime": 21.93
+    },
+    {
+      "speaker": "customer",
+      "text": "हां regarding last time मैंने आपको बताया था ना उस चीज़ का जो loan",
+      "starttime": 22.12
+    },
+    {
+      "speaker": "customer",
+      "text": "Mister",
+      "starttime": 27.06
+    },
+    {
+      "speaker": "customer",
+      "text": "वह अभी तक मतलब same दिखा रहा है please check के",
+      "starttime": 28.41
+    },
+    {
+      "speaker": "customer",
+      "text": "हैं उसमें लिख रहा था please try again with valid the same last time का जो",
+      "starttime": 33.07
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या आप",
+      "starttime": 33.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं माफ़ी चाहेंगे आपकी परेशानी के लिए. आपका valid details आपके आधार card में आपका पूरा नाम क्या है आपके PAN card में पूरा नाम क्या है बता सकते",
+      "starttime": 38.44
+    },
+    {
+      "speaker": "customer",
+      "text": "मेरा PAN card में of",
+      "starttime": 46.93
+    },
+    {
+      "speaker": "agent",
+      "text": "हां  top    more.",
+      "starttime": 50.88
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes. आगे top   o. P o p    e r    b   t   t  Same in",
+      "starttime": 54.08
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. हां",
+      "starttime": 54.94
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, PAN card में भी",
+      "starttime": 62.72
+    },
+    {
+      "speaker": "agent",
+      "text": "सारी चीज़ें मैं आप एक बार credit application open कर लीजिए.",
+      "starttime": 64.7
+    },
+    {
+      "speaker": "customer",
+      "text": "एक second.",
+      "starttime": 68.97
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, credit cash option select कर",
+      "starttime": 70.01
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 72.88
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने open कर",
+      "starttime": 95.7
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, एक second.",
+      "starttime": 97.65
+    },
+    {
+      "speaker": "customer",
+      "text": "take to  take a 1 second.",
+      "starttime": 109.79
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी.",
+      "starttime": 112.84
+    },
+    {
+      "speaker": "agent",
+      "text": "amount",
+      "starttime": 114.14
+    },
+    {
+      "speaker": "customer",
+      "text": "Sure sure yeah.",
+      "starttime": 114.17
+    },
+    {
+      "speaker": "agent",
+      "text": "choose  EMI plan select कर लीजिए.",
+      "starttime": 115.51
+    },
+    {
+      "speaker": "customer",
+      "text": "bank account.",
+      "starttime": 118.12
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. first EMI plan select कर लिया आपने अपने amount select करिए EMI plan select",
+      "starttime": 119.51
+    },
+    {
+      "speaker": "customer",
+      "text": "एक  मेरा हां",
+      "starttime": 123.27
+    },
+    {
+      "speaker": "customer",
+      "text": "have ###rupees into 36 months.",
+      "starttime": 124.91
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी",
+      "starttime": 125.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, 36 months और नीचे में EMI option होगा EMI date change करने दो सौ सात तक आप modify कर सकते हैं. आप modification",
+      "starttime": 130.34
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां उसमें लिखा रहा है आपका next यह November की बात नहीं होगा duration.",
+      "starttime": 137.48
+    },
+    {
+      "speaker": "agent",
+      "text": "duration नहीं आप नीचे में check कर आप जब duration select करते हैं उसके नीचे में आपको item",
+      "starttime": 143.84
+    },
+    {
+      "speaker": "customer",
+      "text": "duration में 36 36 months का EMI 50 rupees 1 month.",
+      "starttime": 148.7
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, पर month वह",
+      "starttime": 153.32
+    },
+    {
+      "speaker": "customer",
+      "text": "selected amount",
+      "starttime": 154.49
+    },
+    {
+      "speaker": "customer",
+      "text": "हां sir selected  4 lakh ###",
+      "starttime": 156.09
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. आप",
+      "starttime": 158.69
+    },
+    {
+      "speaker": "customer",
+      "text": "उसके बाद में select your bank account में select कर रहा हूं. मेरा bank जो है यह जो sale account का RBI",
+      "starttime": 159.75
+    },
+    {
+      "speaker": "agent",
+      "text": "यह salary account है same  account होना चाहिए.",
+      "starttime": 165.52
+    },
+    {
+      "speaker": "customer",
+      "text": "चले account में नहीं जाता",
+      "starttime": 168.54
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं इसीलिए account में यह disburse नहीं होता",
+      "starttime": 170.05
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok तो फिर मेरे पास में यह है कौन सा",
+      "starttime": 173.61
+    },
+    {
+      "speaker": "customer",
+      "text": "SBI का करूंगी",
+      "starttime": 177.34
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर लेता हूं हमारे list में available नहीं",
+      "starttime": 179.67
+    },
+    {
+      "speaker": "customer",
+      "text": "State Bank of India.",
+      "starttime": 183.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok,",
+      "starttime": 184.53
+    },
+    {
+      "speaker": "agent",
+      "text": "State Bank SBI हां जी State Bank of India का account select कर",
+      "starttime": 185.77
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन इसका तो रहा है क्योंकि लिए मेरा फिर से का है यह जो मेरा account number",
+      "starttime": 191.21
+    },
+    {
+      "speaker": "customer",
+      "text": "पूरा मैं पता करके आपको करूं क्योंकि exactly मुझे account number बता नहीं इसका किया",
+      "starttime": 196.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. तो आप",
+      "starttime": 201.48
+    },
+    {
+      "speaker": "customer",
+      "text": "क्योंकि मेरा",
+      "starttime": 202.29
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मेरे पास AM तो है लेकिन मेरे पास इसका check book",
+      "starttime": 203.51
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं, check book का ज़रूरत है check book का ज़रूरत नहीं है. आप  card भी mention कर सकते",
+      "starttime": 206.75
+    },
+    {
+      "speaker": "customer",
+      "text": "समय",
+      "starttime": 206.78
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, item mention कर सकता है. मेरे पास  लेकिन account number नहीं है sir,  मैं वही बोल रहा हूं आपके पास.  3 digit को show कर रहा है sir, लेकिन मेरे पास में full account number नहीं.",
+      "starttime": 211.86
+    },
+    {
+      "speaker": "agent",
+      "text": "हां",
+      "starttime": 213.6
+    },
+    {
+      "speaker": "agent",
+      "text": "a account",
+      "starttime": 217.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Am मेरे पास मिला",
+      "starttime": 221.95
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 222.12
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, वहां पर क्या  आपको show कर रहा है क्या update करने के",
+      "starttime": 223.44
+    },
+    {
+      "speaker": "customer",
+      "text": "हां तो यह सब चीज़ duration plus EMI होने के बाद में नीचे दिखा रहा है select your bank account.",
+      "starttime": 225.97
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी select कर लीजिए.",
+      "starttime": 232.59
+    },
+    {
+      "speaker": "customer",
+      "text": "उसके बाद में आपने बोला RBL नहीं होता बोला तो फिर मेरा alternate option से SBI State Bank of India.",
+      "starttime": 232.74
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी State Bank of India select करने के बाद क्या बता रहा है",
+      "starttime": 239.3
+    },
+    {
+      "speaker": "customer",
+      "text": "एक second. उसमें click करूंगा",
+      "starttime": 243.0
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी click करिए.",
+      "starttime": 244.75
+    },
+    {
+      "speaker": "customer",
+      "text": "very for setup हां, एक link होने के बाद में इसमें लिखा रहा है enter your bank account number",
+      "starttime": 245.82
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. तो आप enter करके bank account number आपके पास नहीं है",
+      "starttime": 251.86
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं वही तो बोल रहा हूं. मेरे पास",
+      "starttime": 256.55
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. तो आप bank account आप क्या करिए bank account number आप ले लीजिए उसके बाद आप try करिए withdraw करने के लिए, ok?",
+      "starttime": 257.53
+    },
+    {
+      "speaker": "agent",
+      "text": "एक आपको कोई दिक्कत आता है तो आप दुबारा से call me back request raise कर",
+      "starttime": 265.8
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है. तो फिर ऐसे नहीं हुआ था अगर मेरा किसी friend का account number डालने RBL",
+      "starttime": 270.54
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद.",
+      "starttime": 271.33
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं नहीं, आपका यह आप आपका ही account होना चाहिए आप एक और savings account होना चाहिए withdrawal receive करेंगे.",
+      "starttime": 275.01
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है. चलो मैं एक बार SBI में try करता हूं service.",
+      "starttime": 283.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok धन्यवाद.",
+      "starttime": 286.11
+    },
+    {
+      "speaker": "customer",
+      "text": "इसका last 3 digit number, car digit number show कर रहा",
+      "starttime": 287.14
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां. आप एक बार check कर लीजिए  हां जी आप account में",
+      "starttime": 290.31
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं account",
+      "starttime": 291.19
+    },
+    {
+      "speaker": "customer",
+      "text": "पता करके",
+      "starttime": 292.91
+    },
+    {
+      "speaker": "customer",
+      "text": "हां फिर नहीं हुआ तो फिर मैं आपको connect करूंगा.",
+      "starttime": 294.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok sir. और कोई मदद कर सकते",
+      "starttime": 297.35
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं sir है यह thank you so much.",
+      "starttime": 299.28
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. Welcome एक छोटी सी request है इस call को end करने से पहले क्या मैं आपके call को हमारे feedback IVR पर transfer कर सकता",
+      "starttime": 300.25
+    },
+    {
+      "speaker": "customer",
+      "text": "Definitely definitely definitely.",
+      "starttime": 306.06
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. मैं आपकी call को हमारे feedback IVR पर transfer कर रहा हूं. जहां पर आप हमारे बातचीत के  को एक से पांच के beach में rate कर सकते हैं. एक सबसे कम है पांच सबसे ज़्यादा. Cred को use करने के लिए धन्यवाद. आपका दिन शुभ",
+      "starttime": 307.0
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you. Thank",
+      "starttime": 316.76
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 316.88
+    },
+    {
+      "speaker": "agent",
+      "text": "Please, you have just helped us improve the credit experience for all our members.",
+      "starttime": 324.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 329.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 333.4
+    }
+  ]
+}

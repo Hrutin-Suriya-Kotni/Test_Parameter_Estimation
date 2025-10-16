@@ -1,0 +1,2300 @@
+{
+  "conversation_id": "ebc71356-5ccd-4ed5-846a-692401c05997",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. My name is सोनाली. I am here to assist you today. Am I speaking with राकेश?",
+      "starttime": 18.41
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, आगे here. What's your name?",
+      "starttime": 23.52
+    },
+    {
+      "speaker": "agent",
+      "text": "My name is को.",
+      "starttime": 25.82
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible राजेश",
+      "starttime": 30.34
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I couldn't get your",
+      "starttime": 32.01
+    },
+    {
+      "speaker": "agent",
+      "text": "my name is call.",
+      "starttime": 35.96
+    },
+    {
+      "speaker": "customer",
+      "text": "See, I had raised 1 complaint regarding my",
+      "starttime": 39.38
+    },
+    {
+      "speaker": "customer",
+      "text": "3 of my vouchers not working.",
+      "starttime": 43.32
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 46.84
+    },
+    {
+      "speaker": "customer",
+      "text": "I was told within 24 hours you will get either the new vouchers or",
+      "starttime": 48.19
+    },
+    {
+      "speaker": "customer",
+      "text": "will deposit that cash into your wallet. but till now I have not received any call any solution",
+      "starttime": 55.48
+    },
+    {
+      "speaker": "agent",
+      "text": "I can see here you have received 1 voucher during the coins on 20 ninth of September and the voucher name is more.",
+      "starttime": 63.94
+    },
+    {
+      "speaker": "agent",
+      "text": "you're talking about",
+      "starttime": 71.55
+    },
+    {
+      "speaker": "customer",
+      "text": "voucher name",
+      "starttime": 73.17
+    },
+    {
+      "speaker": "agent",
+      "text": "So",
+      "starttime": 74.8
+    },
+    {
+      "speaker": "customer",
+      "text": "there are 3 complaints 1 was for some",
+      "starttime": 77.69
+    },
+    {
+      "speaker": "customer",
+      "text": "other was for BigBasket",
+      "starttime": 81.91
+    },
+    {
+      "speaker": "customer",
+      "text": "and the third 1 was for",
+      "starttime": 86.46
+    },
+    {
+      "speaker": "customer",
+      "text": "So  address",
+      "starttime": 90.35
+    },
+    {
+      "speaker": "agent",
+      "text": "I can see your some and BigBasket voucher like a voucher regarding",
+      "starttime": 90.73
+    },
+    {
+      "speaker": "agent",
+      "text": "concern you have raised another 1 you are saying some different voucher.",
+      "starttime": 96.1
+    },
+    {
+      "speaker": "customer",
+      "text": "हरी राम, and I have sent all the 3 attachment you can check.",
+      "starttime": 100.76
+    },
+    {
+      "speaker": "agent",
+      "text": "हरी राम, से.",
+      "starttime": 102.02
+    },
+    {
+      "speaker": "customer",
+      "text": "the lady had asked me for",
+      "starttime": 105.5
+    },
+    {
+      "speaker": "customer",
+      "text": "the  screenshots for each  for each voucher.",
+      "starttime": 108.33
+    },
+    {
+      "speaker": "customer",
+      "text": "So, the landing page, the cart page, the voucher applied page the error page.",
+      "starttime": 114.31
+    },
+    {
+      "speaker": "customer",
+      "text": "So I have sent 4 attachment for all the 3 vouchers",
+      "starttime": 121.9
+    },
+    {
+      "speaker": "customer",
+      "text": "as per the requirement.",
+      "starttime": 127.13
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand, I can see that previously also it means",
+      "starttime": 129.77
+    },
+    {
+      "speaker": "agent",
+      "text": "9 days ago, also 1 time you have reached us regarding the BigBasket voucher on 20 eighth of September. After that also you have received another BigBasket voucher",
+      "starttime": 134.58
+    },
+    {
+      "speaker": "agent",
+      "text": "which you are unable to redeem",
+      "starttime": 144.87
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand. Really sorry for the issue राजेश Do not worry. I will be trying my best to help you.",
+      "starttime": 148.89
+    },
+    {
+      "speaker": "agent",
+      "text": "So I would like to inform you 1 thing राजेश regarding the BigBasket voucher that few days ago, also we have provided you the same BigBasket voucher. So according to the merchant terms and conditions. If you have already redeem that but previous voucher successfully.",
+      "starttime": 154.02
+    },
+    {
+      "speaker": "agent",
+      "text": "So, then if you are getting another voucher then you are unable to redeem the same from the same device.",
+      "starttime": 168.66
+    },
+    {
+      "speaker": "customer",
+      "text": "No.",
+      "starttime": 171.75
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam",
+      "starttime": 181.29
+    },
+    {
+      "speaker": "customer",
+      "text": "This was",
+      "starttime": 182.47
+    },
+    {
+      "speaker": "customer",
+      "text": "The new voucher in new",
+      "starttime": 183.85
+    },
+    {
+      "speaker": "agent",
+      "text": "I do understand राजेश. but according to the companies terms and policy conditions. like company means BigBasket",
+      "starttime": 187.17
+    },
+    {
+      "speaker": "agent",
+      "text": "they have only mentioned that if you have already redeemed the same kind of voucher previously once",
+      "starttime": 193.42
+    },
+    {
+      "speaker": "agent",
+      "text": "from your credit account or the device, then you are unable to redeem it 1 more time.",
+      "starttime": 200.46
+    },
+    {
+      "speaker": "agent",
+      "text": "Really sorry राजेश that regarding BigBasket voucher",
+      "starttime": 206.26
+    },
+    {
+      "speaker": "agent",
+      "text": "we are unable to help you further because due to the terms and conditions you will be unable to redeem that 1 more",
+      "starttime": 210.88
+    },
+    {
+      "speaker": "customer",
+      "text": "No, you you are not getting my point",
+      "starttime": 217.63
+    },
+    {
+      "speaker": "customer",
+      "text": "that voucher is not giving that error what you are saying",
+      "starttime": 221.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, then what kind of error you are getting Can you please mention me?",
+      "starttime": 227.52
+    },
+    {
+      "speaker": "customer",
+      "text": "So basically you have not checked the screenshot and your you started talking.",
+      "starttime": 229.82
+    },
+    {
+      "speaker": "customer",
+      "text": "I would have appreciate and you understood the issue first.",
+      "starttime": 237.36
+    },
+    {
+      "speaker": "agent",
+      "text": "I have already gone through the screenshot.",
+      "starttime": 241.56
+    },
+    {
+      "speaker": "customer",
+      "text": "open open open open.",
+      "starttime": 241.71
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 244.47
+    },
+    {
+      "speaker": "customer",
+      "text": "open the BigBasket letter talk  by 1 less talk about BigBasket first.",
+      "starttime": 246.2
+    },
+    {
+      "speaker": "customer",
+      "text": "open the BigBasket listing",
+      "starttime": 251.84
+    },
+    {
+      "speaker": "customer",
+      "text": "there are 4 attachment.",
+      "starttime": 255.21
+    },
+    {
+      "speaker": "agent",
+      "text": "I am currently checking the BigBasket vouchers only. please continue.",
+      "starttime": 255.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok no So go on the error page.",
+      "starttime": 259.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes I am checking the error page only.",
+      "starttime": 264.9
+    },
+    {
+      "speaker": "agent",
+      "text": "it is",
+      "starttime": 267.18
+    },
+    {
+      "speaker": "customer",
+      "text": "What is the",
+      "starttime": 267.25
+    },
+    {
+      "speaker": "agent",
+      "text": "is mentioned here the voucher won't be applicable to the method, right? It is mentioned here.",
+      "starttime": 268.36
+    },
+    {
+      "speaker": "customer",
+      "text": "to",
+      "starttime": 273.73
+    },
+    {
+      "speaker": "agent",
+      "text": "so basically to the other method. it is mentioned here.",
+      "starttime": 274.17
+    },
+    {
+      "speaker": "customer",
+      "text": "Exactly. So the error is about the payment method",
+      "starttime": 278.54
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually I understand I have already gone through that actually company is restricted to use the voucher 1 more time. As I have mentioned you earlier, that if you have already redeemed the BigBasket voucher Just few days ago, when we have provided you, then you are unable to redeem it 1 more time. According to the merchant terms and conditions.",
+      "starttime": 284.31
+    },
+    {
+      "speaker": "customer",
+      "text": "other",
+      "starttime": 284.7
+    },
+    {
+      "speaker": "agent",
+      "text": "for that reason only they are repeating",
+      "starttime": 305.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam",
+      "starttime": 305.1
+    },
+    {
+      "speaker": "agent",
+      "text": "to use",
+      "starttime": 307.8
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, you have not understood the thing",
+      "starttime": 313.15
+    },
+    {
+      "speaker": "customer",
+      "text": "if there is an issue with using the voucher second time or using the",
+      "starttime": 317.08
+    },
+    {
+      "speaker": "customer",
+      "text": "the other voucher second time",
+      "starttime": 324.08
+    },
+    {
+      "speaker": "customer",
+      "text": "on on the same number same device whatever.",
+      "starttime": 327.17
+    },
+    {
+      "speaker": "customer",
+      "text": "So that gives this error",
+      "starttime": 330.63
+    },
+    {
+      "speaker": "customer",
+      "text": "that says that you are use, you cannot use this voucher second time or you cannot use",
+      "starttime": 334.16
+    },
+    {
+      "speaker": "customer",
+      "text": "the voucher on this device, once you have already used that kind of error appears",
+      "starttime": 341.55
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry, I'm sorry to interrupt but it can be given you any error, Ok?",
+      "starttime": 347.07
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, this is is it ok hold on hold on hold on hold. I'm rest my time. So this BigBasket I'll speak with the senior. just talk about the other",
+      "starttime": 350.36
+    },
+    {
+      "speaker": "customer",
+      "text": "Because you will keep on talking and no solution will",
+      "starttime": 361.95
+    },
+    {
+      "speaker": "customer",
+      "text": "come out of that talking.",
+      "starttime": 367.52
+    },
+    {
+      "speaker": "customer",
+      "text": "So it's not  your time and my time on that BigBasket I will speak with someone senior in the credit",
+      "starttime": 369.41
+    },
+    {
+      "speaker": "customer",
+      "text": "and get that sorted out. You talk about",
+      "starttime": 375.94
+    },
+    {
+      "speaker": "customer",
+      "text": "it's almost and all.",
+      "starttime": 379.35
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm checking that some voucher at that moment.  But really sorry regarding ही voucher I can't  previous ticket you have raised because only regarding the",
+      "starttime": 384.41
+    },
+    {
+      "speaker": "agent",
+      "text": "BigBasket and the some voucher I can see there is 2 ticket.",
+      "starttime": 396.75
+    },
+    {
+      "speaker": "agent",
+      "text": "I am coming to the most voucher 1. You",
+      "starttime": 400.93
+    },
+    {
+      "speaker": "customer",
+      "text": "long hold  ok ठीक है. So you talk about जो then we will talk about हरजन also. I have mentioned it in the description in the complaint",
+      "starttime": 403.23
+    },
+    {
+      "speaker": "customer",
+      "text": "that वीरा voucher is not appearing to raise the complaint.",
+      "starttime": 414.65
+    },
+    {
+      "speaker": "customer",
+      "text": "you have to select the voucher to raise the complaint.",
+      "starttime": 420.08
+    },
+    {
+      "speaker": "customer",
+      "text": "So have you gone through the description now, that is the reason I said you have not checked anything you keep talking The moment the call was connected, you started talking without knowing the issue?",
+      "starttime": 424.56
+    },
+    {
+      "speaker": "customer",
+      "text": "whatever you wanted to talk you or you keep talking?",
+      "starttime": 438.12
+    },
+    {
+      "speaker": "customer",
+      "text": "First understand the issue with the complaint. I have mentioned in the complaint",
+      "starttime": 443.64
+    },
+    {
+      "speaker": "customer",
+      "text": "Since the  voucher  is not showing",
+      "starttime": 448.67
+    },
+    {
+      "speaker": "customer",
+      "text": "In the list of vouchers which are available",
+      "starttime": 453.33
+    },
+    {
+      "speaker": "customer",
+      "text": "I have",
+      "starttime": 457.09
+    },
+    {
+      "speaker": "customer",
+      "text": "I am raising this complaint",
+      "starttime": 458.61
+    },
+    {
+      "speaker": "customer",
+      "text": "is the voucher complaint.",
+      "starttime": 462.09
+    },
+    {
+      "speaker": "customer",
+      "text": "Because there was there  voucher was I was not able to select it was not showing",
+      "starttime": 466.19
+    },
+    {
+      "speaker": "customer",
+      "text": "Please check the complaint.",
+      "starttime": 471.94
+    },
+    {
+      "speaker": "agent",
+      "text": "राजेश I would like to inform you, you have reached us through the door ticket only. So I am checking with some ticket currently.",
+      "starttime": 475.48
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, so don't don't say that  thing is not in the complaint. it is there.",
+      "starttime": 482.64
+    },
+    {
+      "speaker": "customer",
+      "text": "It is because of your fault I was not able to select the  voucher. So I have raised the complaint.",
+      "starttime": 487.95
+    },
+    {
+      "speaker": "customer",
+      "text": "for me and दीना in 1 ticket.",
+      "starttime": 495.24
+    },
+    {
+      "speaker": "customer",
+      "text": "To check the complaint description first what I have return there.",
+      "starttime": 500.54
+    },
+    {
+      "speaker": "customer",
+      "text": "and I have attached both the  screenshot for each the voucher, Each voucher.",
+      "starttime": 504.46
+    },
+    {
+      "speaker": "agent",
+      "text": "you have attached the screenshot in the some ticket only.",
+      "starttime": 514.52
+    },
+    {
+      "speaker": "agent",
+      "text": "राजेश",
+      "starttime": 518.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Of course because because the voucher was not showing to raise  a  complaint",
+      "starttime": 518.46
+    },
+    {
+      "speaker": "agent",
+      "text": "and you have attached the BigBasket screenshots also in the some",
+      "starttime": 525.7
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes because I spoke to that lady and I asked specifically should I  send a separate screenshot to  to both the complaints",
+      "starttime": 530.06
+    },
+    {
+      "speaker": "customer",
+      "text": "she said no sir, not required.",
+      "starttime": 542.7
+    },
+    {
+      "speaker": "customer",
+      "text": "You send all the screenshots in 1 to 1 ticket only.",
+      "starttime": 545.19
+    },
+    {
+      "speaker": "customer",
+      "text": "and we will take care of",
+      "starttime": 549.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Do not worry. I will I will create a new ticket regarding the has voucher. Ok. Do not worry about",
+      "starttime": 550.31
+    },
+    {
+      "speaker": "customer",
+      "text": "that is all up to you, I book to that lady she said, I ask I asked  specifically Should I saying the separate screenshot to the separate complaint ticket ticket raise This is   not required. we know  what is what is the issue, you send all the screenshot here only.",
+      "starttime": 556.53
+    },
+    {
+      "speaker": "agent",
+      "text": "So I can",
+      "starttime": 557.31
+    },
+    {
+      "speaker": "customer",
+      "text": "and we will  just it  for both the complaint. I said ok.",
+      "starttime": 577.85
+    },
+    {
+      "speaker": "customer",
+      "text": "So that was the reason I sent all the complaints know all all these screenshots.",
+      "starttime": 582.96
+    },
+    {
+      "speaker": "customer",
+      "text": "for the  ticket",
+      "starttime": 588.16
+    },
+    {
+      "speaker": "customer",
+      "text": "I said",
+      "starttime": 591.18
+    },
+    {
+      "speaker": "customer",
+      "text": "whatever the  screenshot required for 1 1 voucher. I send it separately. so that there should not be any minister",
+      "starttime": 592.56
+    },
+    {
+      "speaker": "customer",
+      "text": "and tomorrow you will say, we don't know what this  is for what voucher we don't know what is for this voucher.",
+      "starttime": 602.2
+    },
+    {
+      "speaker": "customer",
+      "text": "So I send  in group of code.",
+      "starttime": 610.35
+    },
+    {
+      "speaker": "customer",
+      "text": "हरी राम.",
+      "starttime": 613.61
+    },
+    {
+      "speaker": "customer",
+      "text": "then another attachment of 4   some",
+      "starttime": 615.61
+    },
+    {
+      "speaker": "customer",
+      "text": "another attachment of    BigBasket.",
+      "starttime": 619.85
+    },
+    {
+      "speaker": "customer",
+      "text": "So that there should not be any confusion.",
+      "starttime": 623.92
+    },
+    {
+      "speaker": "customer",
+      "text": "now you want to create separate ticket",
+      "starttime": 627.87
+    },
+    {
+      "speaker": "customer",
+      "text": "whatever you want to do intermittent it is your problem.",
+      "starttime": 630.45
+    },
+    {
+      "speaker": "customer",
+      "text": "I have sent you whatever was the required thing.",
+      "starttime": 633.91
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand राजेश but what previous agent has instead you that information I am not having So it's our job to ask you to get the issue properly from our side, ok? So for that reason only I am just point.",
+      "starttime": 639.78
+    },
+    {
+      "speaker": "customer",
+      "text": "I have told you everything now I have told you everything",
+      "starttime": 650.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Whatever what you want to handle this complaint you can do.",
+      "starttime": 654.39
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm checking the details राजेश. So you have mentioned here that you are unable to redeem the so more voucher previously, correct?",
+      "starttime": 668.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah and have I not mentioned हरी राम, thing  this complaint description",
+      "starttime": 677.93
+    },
+    {
+      "speaker": "agent",
+      "text": "I am checking that also I will be going through the details  by once. So do not worry about that.",
+      "starttime": 682.76
+    },
+    {
+      "speaker": "agent",
+      "text": "So previously you have mentioned us that some voucher you are unable to redeem that. For that reason only you have reached us and already shared the screenshot. Correct? So for that purpose only, I would just request you please be on the line. So that I can just do the needful steps. Ok? I need to check you of your details. if you allow me may I place the call on hold for 1 minute?",
+      "starttime": 689.04
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 724.02
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 852.07
+    },
+    {
+      "speaker": "agent",
+      "text": "you for staying connected राजेश and really sorry for the long hold.",
+      "starttime": 854.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, so राजेश regarding your some voucher based on the screenshot which you have already provided to us",
+      "starttime": 860.2
+    },
+    {
+      "speaker": "agent",
+      "text": "I have raised the concern to our internal team",
+      "starttime": 866.38
+    },
+    {
+      "speaker": "agent",
+      "text": "After raising the concern, I am getting a system generated maximum timeline till tenth of October",
+      "starttime": 869.73
+    },
+    {
+      "speaker": "agent",
+      "text": "on or before that provided date from our",
+      "starttime": 875.32
+    },
+    {
+      "speaker": "agent",
+      "text": "are going to share the further update through your registered WhatsApp.",
+      "starttime": 878.26
+    },
+    {
+      "speaker": "customer",
+      "text": "So after I send the attachment",
+      "starttime": 883.47
+    },
+    {
+      "speaker": "customer",
+      "text": "Nothing was done on that from last 5 days right?",
+      "starttime": 887.64
+    },
+    {
+      "speaker": "agent",
+      "text": "because you need to reach us again after sharing the screenshot and I can see here that after you have shared the screenshot there is no communication happened.",
+      "starttime": 892.45
+    },
+    {
+      "speaker": "customer",
+      "text": "there is no communication happen.",
+      "starttime": 903.42
+    },
+    {
+      "speaker": "customer",
+      "text": "because the callback request was raised twice and nobody called",
+      "starttime": 905.71
+    },
+    {
+      "speaker": "agent",
+      "text": "Really sorry for that.",
+      "starttime": 911.87
+    },
+    {
+      "speaker": "customer",
+      "text": "So I thought you guys  Yeah yeah I thought you guys are working on that",
+      "starttime": 911.87
+    },
+    {
+      "speaker": "customer",
+      "text": "that lead told me sir you send  the screenshot and will shot it is address.",
+      "starttime": 916.41
+    },
+    {
+      "speaker": "customer",
+      "text": "this was something me.",
+      "starttime": 924.98
+    },
+    {
+      "speaker": "customer",
+      "text": "that you need to call up 2 times",
+      "starttime": 926.65
+    },
+    {
+      "speaker": "customer",
+      "text": "just sending the screenshots will not",
+      "starttime": 931.02
+    },
+    {
+      "speaker": "customer",
+      "text": "profile",
+      "starttime": 935.21
+    },
+    {
+      "speaker": "customer",
+      "text": "you call up, you tell",
+      "starttime": 937.45
+    },
+    {
+      "speaker": "customer",
+      "text": "I have sent you the screenshot. Please check",
+      "starttime": 940.15
+    },
+    {
+      "speaker": "customer",
+      "text": "then we will acknowledge otherwise you sending it screenshot",
+      "starttime": 944.63
+    },
+    {
+      "speaker": "customer",
+      "text": "are not received or are not acknowledge by",
+      "starttime": 950.43
+    },
+    {
+      "speaker": "customer",
+      "text": "it's all in the error.",
+      "starttime": 954.68
+    },
+    {
+      "speaker": "customer",
+      "text": "now you as the callback request",
+      "starttime": 957.67
+    },
+    {
+      "speaker": "customer",
+      "text": "We will not call you.",
+      "starttime": 961.62
+    },
+    {
+      "speaker": "customer",
+      "text": "It doesn't mean that we have acknowledge your complaint.",
+      "starttime": 963.56
+    },
+    {
+      "speaker": "customer",
+      "text": "unless until a communication happens with us,",
+      "starttime": 968.64
+    },
+    {
+      "speaker": "customer",
+      "text": "You keep trying you keep trying, you keep trying, we will not acknowledge your complaint.",
+      "starttime": 973.11
+    },
+    {
+      "speaker": "customer",
+      "text": "you keep trying,",
+      "starttime": 979.54
+    },
+    {
+      "speaker": "customer",
+      "text": "after 7 days also you call up and communication happens, then we will say ok, now we have received your screenshot. 5 days your screenshots where in the air",
+      "starttime": 981.57
+    },
+    {
+      "speaker": "customer",
+      "text": "you did not receive the screenshot, right?",
+      "starttime": 995.89
+    },
+    {
+      "speaker": "customer",
+      "text": "Now you have received it. Now you have raised the complaint.",
+      "starttime": 998.66
+    },
+    {
+      "speaker": "customer",
+      "text": "contest.",
+      "starttime": 1002.73
+    },
+    {
+      "speaker": "customer",
+      "text": "I hope this call recording is somebody some time  line to the call recording and the voice of the customer.",
+      "starttime": 1007.13
+    },
+    {
+      "speaker": "customer",
+      "text": "or the call recording and the voice of the customer is also in the  I don't",
+      "starttime": 1016.97
+    },
+    {
+      "speaker": "customer",
+      "text": "I am going to speak with some of the senior also.",
+      "starttime": 1026.66
+    },
+    {
+      "speaker": "customer",
+      "text": "So whatever you want to say you say Now you have raised the complaint after 3 days I will get the resolution, ok. So most capture is over.",
+      "starttime": 1031.41
+    },
+    {
+      "speaker": "agent",
+      "text": "So you have another concern regarding your हरिराम. voucher. So  now I can see that",
+      "starttime": 1044.22
+    },
+    {
+      "speaker": "agent",
+      "text": "your  voucher was provided to you on 20 ninth of September correct?",
+      "starttime": 1049.55
+    },
+    {
+      "speaker": "agent",
+      "text": "So regarding that voucher  you are facing some issue   rupees ###off on chat and  from राम, correct?",
+      "starttime": 1054.18
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, I have now check. I have mentioned  voucher is not showing to raise the complaint",
+      "starttime": 1063.09
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand, I have seen it because it was mentioned in a different ticket So previously I haven't seen it because you reached  through a different ticket for that reason only. Really sorry for that. So I am checking the  voucher you have mentioned this that you are unable to redeem that also, correct?",
+      "starttime": 1069.4
+    },
+    {
+      "speaker": "customer",
+      "text": "have you said",
+      "starttime": 1069.5
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok",
+      "starttime": 1071.75
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah and I have attached the screenshots of the voucher which was valid on the date of complaint. that screenshot also, I have attached",
+      "starttime": 1086.39
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand. definitely you have reached us before the expiry",
+      "starttime": 1096.26
+    },
+    {
+      "speaker": "customer",
+      "text": "No, because Yeah yeah  because I know",
+      "starttime": 1097.61
+    },
+    {
+      "speaker": "customer",
+      "text": "you guys would come and say. No sir on the date when you are trying that voucher was not it was expired.",
+      "starttime": 1101.87
+    },
+    {
+      "speaker": "customer",
+      "text": "we cannot do anything, sir.",
+      "starttime": 1110.05
+    },
+    {
+      "speaker": "customer",
+      "text": "That was  that was the reason I have taken those screenshots and send those screenshot also.",
+      "starttime": 1113.02
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand but I haven't",
+      "starttime": 1113.12
+    },
+    {
+      "speaker": "customer",
+      "text": "that at the time of using the complaint, my voucher was valid.",
+      "starttime": 1118.91
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand",
+      "starttime": 1119.37
+    },
+    {
+      "speaker": "agent",
+      "text": "I have never paid such things to you. राजेश because I can see that you have",
+      "starttime": 1123.65
+    },
+    {
+      "speaker": "customer",
+      "text": "No no  no",
+      "starttime": 1125.93
+    },
+    {
+      "speaker": "customer",
+      "text": "I know I know you guys you guys are will work with finding the",
+      "starttime": 1128.04
+    },
+    {
+      "speaker": "agent",
+      "text": "reach us on time.",
+      "starttime": 1128.58
+    },
+    {
+      "speaker": "customer",
+      "text": "exclusive",
+      "starttime": 1134.27
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, Sir that voucher was not valid.",
+      "starttime": 1135.55
+    },
+    {
+      "speaker": "customer",
+      "text": "If I have not taken the screenshot, now I would not have done   I couldn't do anything.",
+      "starttime": 1138.37
+    },
+    {
+      "speaker": "customer",
+      "text": "fortunately",
+      "starttime": 1145.46
+    },
+    {
+      "speaker": "customer",
+      "text": "Because I have date with credit for my",
+      "starttime": 1147.28
+    },
+    {
+      "speaker": "customer",
+      "text": "pending payments and",
+      "starttime": 1151.16
+    },
+    {
+      "speaker": "customer",
+      "text": "credit card payment not getting credited on immediately it took 24 hours it took 48 hours",
+      "starttime": 1153.61
+    },
+    {
+      "speaker": "customer",
+      "text": "I know I have deal with credit in the past then",
+      "starttime": 1163.21
+    },
+    {
+      "speaker": "customer",
+      "text": "I have",
+      "starttime": 1167.11
+    },
+    {
+      "speaker": "customer",
+      "text": "I know the work time.",
+      "starttime": 1168.78
+    },
+    {
+      "speaker": "customer",
+      "text": "that was on the paper side I",
+      "starttime": 1170.9
+    },
+    {
+      "speaker": "customer",
+      "text": "document everything I sent and sent everything.",
+      "starttime": 1173.62
+    },
+    {
+      "speaker": "customer",
+      "text": "Now, then also, you said so  we have received this screenshot now, communication has happened now.",
+      "starttime": 1177.03
+    },
+    {
+      "speaker": "customer",
+      "text": "So what way of finding the exclude",
+      "starttime": 1185.18
+    },
+    {
+      "speaker": "customer",
+      "text": "carry on care.",
+      "starttime": 1194.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Because if I keep talking I have lots of thing things to talk.",
+      "starttime": 1196.25
+    },
+    {
+      "speaker": "customer",
+      "text": "not aware the issue.",
+      "starttime": 1200.92
+    },
+    {
+      "speaker": "customer",
+      "text": "you carry on",
+      "starttime": 1206.17
+    },
+    {
+      "speaker": "agent",
+      "text": "So thank you for sharing the screenshot राजेश which you have shared previously regarding the  voucher as well. So based on the particular screenshot I will be raising this concern also to our internal team that you are unable to redeem that. Right? So if you allow me may I place the call on hold for a minute so that I can raise the concern.",
+      "starttime": 1206.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah.",
+      "starttime": 1225.46
+    },
+    {
+      "speaker": "agent",
+      "text": "thanks a lot.",
+      "starttime": 1226.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for staying connected राजेश.",
+      "starttime": 1335.54
+    },
+    {
+      "speaker": "agent",
+      "text": "sorry for the long hold. So regarding your  voucher as well. I have raised the concern to our dedicated team.",
+      "starttime": 1339.28
+    },
+    {
+      "speaker": "agent",
+      "text": "After raising the concern, I am getting the system generated maximum timeline till tenth of October.",
+      "starttime": 1346.59
+    },
+    {
+      "speaker": "agent",
+      "text": "So  before that provided date from our end, we are going to share the further update through your registered WhatsApp. Ok?",
+      "starttime": 1351.82
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah and for the BigBasket",
+      "starttime": 1361.34
+    },
+    {
+      "speaker": "customer",
+      "text": "connect hold on hold on.",
+      "starttime": 1364.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Really sorry I'm unable to help you with that.",
+      "starttime": 1364.7
+    },
+    {
+      "speaker": "customer",
+      "text": "don't rest your time in my",
+      "starttime": 1370.31
+    },
+    {
+      "speaker": "customer",
+      "text": "I did not complete my payment. I paid",
+      "starttime": 1372.47
+    },
+    {
+      "speaker": "customer",
+      "text": "for the BigBasket connect me to the sir.",
+      "starttime": 1375.85
+    },
+    {
+      "speaker": "agent",
+      "text": "I have to if I connect with our super  they will also provide you the same update which I have already mentioned.",
+      "starttime": 1380.66
+    },
+    {
+      "speaker": "customer",
+      "text": "are you are you are you are you from escalation days no?",
+      "starttime": 1385.33
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok? So connect me with this",
+      "starttime": 1390.11
+    },
+    {
+      "speaker": "agent",
+      "text": "I would repeat the same if I connect with the senior, they will also provide you the same update as I have provided",
+      "starttime": 1392.61
+    },
+    {
+      "speaker": "customer",
+      "text": "I would repeat the same. You are not the escalation manager connect me with this senior.",
+      "starttime": 1398.43
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Then I have to check it if they are available, then please be on the line.",
+      "starttime": 1404.18
+    },
+    {
+      "speaker": "customer",
+      "text": "refund   every  Yeah yeah, interest.",
+      "starttime": 1405.77
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So may I place your call on hold for a minute so that I can check?",
+      "starttime": 1409.45
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes yes yes.",
+      "starttime": 1412.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Thanks lot.",
+      "starttime": 1413.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for staying connected.",
+      "starttime": 1588.09
+    },
+    {
+      "speaker": "agent",
+      "text": "I am really sorry for the long hold राजेश. So I can see here",
+      "starttime": 1592.2
+    },
+    {
+      "speaker": "agent",
+      "text": "that regarding the BigBasket voucher which you have reached with us. If it is a",
+      "starttime": 1595.92
+    },
+    {
+      "speaker": "agent",
+      "text": "Like regarding the voucher which you have got on 20 eighth of September Am I correct?",
+      "starttime": 1602.01
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, but I can see  the screenshot which you have provided",
+      "starttime": 1609.92
+    },
+    {
+      "speaker": "agent",
+      "text": "per the code is different.",
+      "starttime": 1613.38
+    },
+    {
+      "speaker": "agent",
+      "text": "than the voucher which you have received by Cred.",
+      "starttime": 1615.36
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I don't",
+      "starttime": 1620.91
+    },
+    {
+      "speaker": "agent",
+      "text": "So how you tried to check",
+      "starttime": 1621.01
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I don't remember the date and the code.",
+      "starttime": 1623.24
+    },
+    {
+      "speaker": "customer",
+      "text": "whatever code",
+      "starttime": 1627.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Because please listen to me once I can see that in the screenshot which code you have applied That is only Cred BB 2. But if I go through the voucher details",
+      "starttime": 1627.57
+    },
+    {
+      "speaker": "agent",
+      "text": "There is a lot more digits and the codes over there after  BB",
+      "starttime": 1639.1
+    },
+    {
+      "speaker": "agent",
+      "text": "So please copy the",
+      "starttime": 1645.88
+    },
+    {
+      "speaker": "customer",
+      "text": "No hold",
+      "starttime": 1647.93
+    },
+    {
+      "speaker": "agent",
+      "text": "So code.",
+      "starttime": 1648.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Hold on hold on hold.",
+      "starttime": 1649.61
+    },
+    {
+      "speaker": "customer",
+      "text": "whatever code I had received",
+      "starttime": 1652.9
+    },
+    {
+      "speaker": "customer",
+      "text": "the latest not through your complaint resolution mail.",
+      "starttime": 1656.03
+    },
+    {
+      "speaker": "customer",
+      "text": "or the message center.",
+      "starttime": 1660.95
+    },
+    {
+      "speaker": "customer",
+      "text": "I am not talking about that. I am talking about the code which was claimed in the",
+      "starttime": 1664.31
+    },
+    {
+      "speaker": "customer",
+      "text": "coins.",
+      "starttime": 1670.71
+    },
+    {
+      "speaker": "customer",
+      "text": "offer",
+      "starttime": 1672.38
+    },
+    {
+      "speaker": "customer",
+      "text": "I am talking about that code.",
+      "starttime": 1673.69
+    },
+    {
+      "speaker": "customer",
+      "text": "which has the validity of 36 3 days 4 days whatever",
+      "starttime": 1676.28
+    },
+    {
+      "speaker": "customer",
+      "text": "I am talking about that code which was claimed",
+      "starttime": 1681.3
+    },
+    {
+      "speaker": "customer",
+      "text": "the date must be there you can check in your system.",
+      "starttime": 1684.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I can check that in my system as well, there is a long code but you have only entered  the screenshot query   after that also",
+      "starttime": 1688.78
+    },
+    {
+      "speaker": "customer",
+      "text": "Now I cannot",
+      "starttime": 1688.81
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no, ok ok I I got your point what you are trying to say.",
+      "starttime": 1695.95
+    },
+    {
+      "speaker": "customer",
+      "text": "It it is a long code only. Because in the when the long code is applied",
+      "starttime": 1700.19
+    },
+    {
+      "speaker": "customer",
+      "text": "it becomes show it it becomes short code there.",
+      "starttime": 1706.5
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok? Since the code is long it is not 4   or 5  or 10 bit code. It is some 26 28 bit code.",
+      "starttime": 1710.82
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok?",
+      "starttime": 1721.69
+    },
+    {
+      "speaker": "customer",
+      "text": "So once the code is applied",
+      "starttime": 1722.61
+    },
+    {
+      "speaker": "customer",
+      "text": "So that code become sort there.",
+      "starttime": 1726.33
+    },
+    {
+      "speaker": "customer",
+      "text": "I got your point you are saying  BB 2 only showing HDB 2, right?",
+      "starttime": 1729.13
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah, no no no that that's not the point entire code was applied.",
+      "starttime": 1737.03
+    },
+    {
+      "speaker": "agent",
+      "text": "So I can check here which previous ticket was raised regarding the BigBasket on 20 eighth of September we have provided you an alternative code as well. So have you tried with the alternative code that you are able to redeem it or not?",
+      "starttime": 1742.83
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, madam.  that code was redeem in this 1 month.",
+      "starttime": 1756.99
+    },
+    {
+      "speaker": "customer",
+      "text": "and for every month, there is an offer This is not the first time I am doing",
+      "starttime": 1760.85
+    },
+    {
+      "speaker": "customer",
+      "text": "So when I'm trying to redeem  I got the code in the new month this month.",
+      "starttime": 1767.11
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok?  September month.",
+      "starttime": 1773.64
+    },
+    {
+      "speaker": "customer",
+      "text": "So the September month code was not working. So, immediately I  sorry October not September my   my",
+      "starttime": 1776.7
+    },
+    {
+      "speaker": "customer",
+      "text": "So October month code which was given for BigBasket. So that code was not working, if the code for the October was not working there was an error",
+      "starttime": 1785.15
+    },
+    {
+      "speaker": "customer",
+      "text": "about the payment method.",
+      "starttime": 1796.68
+    },
+    {
+      "speaker": "customer",
+      "text": "last time also if you check my last complaint",
+      "starttime": 1798.94
+    },
+    {
+      "speaker": "customer",
+      "text": "there was an error for the payment method.",
+      "starttime": 1802.65
+    },
+    {
+      "speaker": "customer",
+      "text": "check my complaint last complaint what you are talking ना, you had given me new code.",
+      "starttime": 1806.92
+    },
+    {
+      "speaker": "customer",
+      "text": "in the message enter through the complaint resolution you have given me new",
+      "starttime": 1812.79
+    },
+    {
+      "speaker": "customer",
+      "text": "Why that new code was given check that complaint.",
+      "starttime": 1818.28
+    },
+    {
+      "speaker": "customer",
+      "text": "There also I have attached the screenshot in which it says",
+      "starttime": 1822.23
+    },
+    {
+      "speaker": "customer",
+      "text": "There is no payment method applicable for this payment code.",
+      "starttime": 1827.04
+    },
+    {
+      "speaker": "customer",
+      "text": "for this voucher code.",
+      "starttime": 1833.52
+    },
+    {
+      "speaker": "customer",
+      "text": "this same error I'm facing no October also.",
+      "starttime": 1836.06
+    },
+    {
+      "speaker": "customer",
+      "text": "I would have understood is the error was this the BigBasket offer was for life time once in a once in a life time for the customer.",
+      "starttime": 1840.38
+    },
+    {
+      "speaker": "customer",
+      "text": "and any any further code is not",
+      "starttime": 1851.45
+    },
+    {
+      "speaker": "customer",
+      "text": "applicable for this number or for this mobile device.",
+      "starttime": 1855.05
+    },
+    {
+      "speaker": "customer",
+      "text": "I will not have any complaint.",
+      "starttime": 1859.27
+    },
+    {
+      "speaker": "customer",
+      "text": "you check my previous complaint also.",
+      "starttime": 1865.14
+    },
+    {
+      "speaker": "customer",
+      "text": "there is the same.",
+      "starttime": 1867.86
+    },
+    {
+      "speaker": "customer",
+      "text": "payment",
+      "starttime": 1869.48
+    },
+    {
+      "speaker": "customer",
+      "text": "gateway or payment error.",
+      "starttime": 1870.69
+    },
+    {
+      "speaker": "customer",
+      "text": "for that particular code.",
+      "starttime": 1874.17
+    },
+    {
+      "speaker": "customer",
+      "text": "The moment you gave me new code in September that was",
+      "starttime": 1876.83
+    },
+    {
+      "speaker": "customer",
+      "text": "if there was",
+      "starttime": 1885.9
+    },
+    {
+      "speaker": "agent",
+      "text": "I do understand.",
+      "starttime": 1886.1
+    },
+    {
+      "speaker": "customer",
+      "text": "there was an issue if there was an issue was not using",
+      "starttime": 1887.47
+    },
+    {
+      "speaker": "agent",
+      "text": "So",
+      "starttime": 1887.69
+    },
+    {
+      "speaker": "agent",
+      "text": "after",
+      "starttime": 1888.95
+    },
+    {
+      "speaker": "customer",
+      "text": "the BigBasket offer",
+      "starttime": 1892.39
+    },
+    {
+      "speaker": "customer",
+      "text": "multiple times",
+      "starttime": 1894.6
+    },
+    {
+      "speaker": "customer",
+      "text": "I would have understood.",
+      "starttime": 1896.43
+    },
+    {
+      "speaker": "customer",
+      "text": "Why why would I raise the complaint",
+      "starttime": 1897.79
+    },
+    {
+      "speaker": "customer",
+      "text": "But the issue was not for that reason, issue  was for the payment page payment more",
+      "starttime": 1900.9
+    },
+    {
+      "speaker": "customer",
+      "text": "So you check my previous complaint also?",
+      "starttime": 1910.47
+    },
+    {
+      "speaker": "customer",
+      "text": "for which you had given me the code and that code more in September",
+      "starttime": 1913.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Now the same error is happening in in the month of October.",
+      "starttime": 1918.72
+    },
+    {
+      "speaker": "customer",
+      "text": "So if you give me view code",
+      "starttime": 1923.38
+    },
+    {
+      "speaker": "customer",
+      "text": "any just new code gives me the error that you cannot apply  BigBasket offer multiple times",
+      "starttime": 1925.77
+    },
+    {
+      "speaker": "customer",
+      "text": "I will not was for the complaint.",
+      "starttime": 1932.98
+    },
+    {
+      "speaker": "agent",
+      "text": "I do understand. So if you are facing the concern regarding a new BigBasket voucher that you want to say",
+      "starttime": 1941.33
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं EMI.",
+      "starttime": 1950.22
+    },
+    {
+      "speaker": "customer",
+      "text": "हां Sorry?",
+      "starttime": 1951.96
+    },
+    {
+      "speaker": "agent",
+      "text": "I can see there is only 1 BigBasket voucher you have received on 20 eighth of September.",
+      "starttime": 1954.26
+    },
+    {
+      "speaker": "agent",
+      "text": "I just want to confirm that you are talking about that only, right?",
+      "starttime": 1960.32
+    },
+    {
+      "speaker": "customer",
+      "text": "I don't know the date and I don't know the  what what was the voucher code you tell me now you are on the",
+      "starttime": 1965.06
+    },
+    {
+      "speaker": "agent",
+      "text": "Because you are saying previously you have received the September and again you have received it on October So for that reason only I just want to confirm because recently I can see there is only 1 BigBasket voucher which was given by credit that is also on 20 eighth of September. So this month it means October you haven't received any Big Basket voucher",
+      "starttime": 1973.87
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam.",
+      "starttime": 1993.56
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam madam madam.",
+      "starttime": 1995.28
+    },
+    {
+      "speaker": "customer",
+      "text": "Could you please listen to",
+      "starttime": 1997.76
+    },
+    {
+      "speaker": "customer",
+      "text": "I",
+      "starttime": 1999.63
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I am only listening to you.",
+      "starttime": 1999.85
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 2000.71
+    },
+    {
+      "speaker": "customer",
+      "text": "No, you are only talking. I said",
+      "starttime": 2001.95
+    },
+    {
+      "speaker": "customer",
+      "text": "there are multiple vouchers, which are not reflecting in the voucher list, First thing, sometimes they reflect sometimes they don't reflect.",
+      "starttime": 2005.47
+    },
+    {
+      "speaker": "customer",
+      "text": "First thing, second thing, I do not remember the date and the voucher code. You are on this time. If you are saying that  2.",
+      "starttime": 2014.53
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok?",
+      "starttime": 2023.71
+    },
+    {
+      "speaker": "customer",
+      "text": "So whatever is the voucher I have claimed on 20 eighth of September 20 ninth of September of first of October of second of October",
+      "starttime": 2024.76
+    },
+    {
+      "speaker": "customer",
+      "text": "whether that voucher is ending with  2",
+      "starttime": 2034.13
+    },
+    {
+      "speaker": "customer",
+      "text": "or starting with BB",
+      "starttime": 2037.82
+    },
+    {
+      "speaker": "customer",
+      "text": "check that only.",
+      "starttime": 2040.45
+    },
+    {
+      "speaker": "agent",
+      "text": "I have checked it राजेश that you have received the BigBasket voucher in month of September only on 20 eighth of September. So I just want to confirm that are you talking about that voucher? Please inform me",
+      "starttime": 2044.5
+    },
+    {
+      "speaker": "customer",
+      "text": "I don't know could you please check the voucher code",
+      "starttime": 2056.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I'm telling you the I'm telling you the voucher code Please be on the line.",
+      "starttime": 2060.2
+    },
+    {
+      "speaker": "customer",
+      "text": "Could you please please",
+      "starttime": 2060.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, so I can see here that 20 eighth of September you have received the BigBasket voucher and it's a rupees   shop and more from BigBasket and the code is    2  0 0     4 5",
+      "starttime": 2066.63
+    },
+    {
+      "speaker": "agent",
+      "text": "5   9  That is the given code in the voucher, then we have provided you an alternative code as well.",
+      "starttime": 2082.19
+    },
+    {
+      "speaker": "agent",
+      "text": "So if you want, then I can also tell that as well.",
+      "starttime": 2090.71
+    },
+    {
+      "speaker": "customer",
+      "text": "madam, I have used that alternative code",
+      "starttime": 2096.6
+    },
+    {
+      "speaker": "customer",
+      "text": "So if you are talking about the complaint",
+      "starttime": 2099.77
+    },
+    {
+      "speaker": "customer",
+      "text": "for which I have received the alternative code",
+      "starttime": 2103.9
+    },
+    {
+      "speaker": "customer",
+      "text": "So I am not talking about the same code now.",
+      "starttime": 2107.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, I am talking about the other code.",
+      "starttime": 2112.63
+    },
+    {
+      "speaker": "customer",
+      "text": "I am not talking about",
+      "starttime": 2116.76
+    },
+    {
+      "speaker": "agent",
+      "text": "which date which date you have received the other code?",
+      "starttime": 2117.02
+    },
+    {
+      "speaker": "customer",
+      "text": "बोल रहे हैं amount",
+      "starttime": 2118.99
+    },
+    {
+      "speaker": "customer",
+      "text": "So see the BigBasket screenshot what does it show how much time is left to expire",
+      "starttime": 2122.11
+    },
+    {
+      "speaker": "agent",
+      "text": "if I go through the details which you have received on 20 eighth of September the voucher has been already expired on thirtieth September.",
+      "starttime": 2132.41
+    },
+    {
+      "speaker": "customer",
+      "text": "I think no no",
+      "starttime": 2137.96
+    },
+    {
+      "speaker": "customer",
+      "text": "I asked you 1 thing. I asked you 1 thing. I have attached the screenshot there.",
+      "starttime": 2139.88
+    },
+    {
+      "speaker": "customer",
+      "text": "I have attached the screenshot for BigBasket right?",
+      "starttime": 2146.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I can see that you have attached the screenshot.",
+      "starttime": 2150.48
+    },
+    {
+      "speaker": "customer",
+      "text": "No problem.",
+      "starttime": 2151.88
+    },
+    {
+      "speaker": "customer",
+      "text": "Hold on just tell me.",
+      "starttime": 2153.38
+    },
+    {
+      "speaker": "customer",
+      "text": "there is 1  screenshot where the validity of voucher is mentioned What is that validity you tell",
+      "starttime": 2156.44
+    },
+    {
+      "speaker": "customer",
+      "text": "So that I can tell you when did I claim this voucher?",
+      "starttime": 2164.32
+    },
+    {
+      "speaker": "agent",
+      "text": "When you have shared the voucher on that day, the validity was showing it is expiring in 2 days.",
+      "starttime": 2170.49
+    },
+    {
+      "speaker": "customer",
+      "text": "within 2 days,",
+      "starttime": 2177.45
+    },
+    {
+      "speaker": "customer",
+      "text": "Correct. So, when did I raise the complaint.",
+      "starttime": 2180.48
+    },
+    {
+      "speaker": "customer",
+      "text": "tell me the",
+      "starttime": 2185.58
+    },
+    {
+      "speaker": "agent",
+      "text": "on the line, I'm checking.",
+      "starttime": 2187.18
+    },
+    {
+      "speaker": "agent",
+      "text": "So you have connected us on third October.",
+      "starttime": 2193.87
+    },
+    {
+      "speaker": "customer",
+      "text": "October. So any voucher issue by the credit",
+      "starttime": 2196.75
+    },
+    {
+      "speaker": "customer",
+      "text": "as the validate of 3",
+      "starttime": 2201.61
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok 36 months.",
+      "starttime": 2204.51
+    },
+    {
+      "speaker": "agent",
+      "text": "that completely depends",
+      "starttime": 2204.78
+    },
+    {
+      "speaker": "customer",
+      "text": "No madam.",
+      "starttime": 2207.42
+    },
+    {
+      "speaker": "customer",
+      "text": "You can check all the voucher.",
+      "starttime": 2209.31
+    },
+    {
+      "speaker": "customer",
+      "text": "you can check all the voucher.",
+      "starttime": 2211.53
+    },
+    {
+      "speaker": "customer",
+      "text": "all this wing voucher. You can check all all all the vouchers You can check expect more.",
+      "starttime": 2213.69
+    },
+    {
+      "speaker": "customer",
+      "text": "interest you  type of thing.",
+      "starttime": 2219.3
+    },
+    {
+      "speaker": "customer",
+      "text": "any food related voucher as the valid of this",
+      "starttime": 2221.96
+    },
+    {
+      "speaker": "customer",
+      "text": "So if at the time of applying the offer it shows 2 days or balance.",
+      "starttime": 2228.76
+    },
+    {
+      "speaker": "customer",
+      "text": "So it means 1 day try to that   claim that voucher.",
+      "starttime": 2234.69
+    },
+    {
+      "speaker": "customer",
+      "text": "maybe on the first of exactly.",
+      "starttime": 2241.99
+    },
+    {
+      "speaker": "customer",
+      "text": "I know it was October month",
+      "starttime": 2245.35
+    },
+    {
+      "speaker": "customer",
+      "text": "why would I raise a complaint for the September voucher in the month of October",
+      "starttime": 2249.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Tell me",
+      "starttime": 2257.6
+    },
+    {
+      "speaker": "agent",
+      "text": "I am checking all of the recent vouchers which you have received.",
+      "starttime": 2260.59
+    },
+    {
+      "speaker": "customer",
+      "text": "please",
+      "starttime": 2263.29
+    },
+    {
+      "speaker": "customer",
+      "text": "and and for the 20 eighth of September you have given me when you had given me the new voucher and the new voucher is working",
+      "starttime": 2265.75
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. It was in the month of September I'm accepting that",
+      "starttime": 2275.17
+    },
+    {
+      "speaker": "customer",
+      "text": "this voucher was claimed  month of October.",
+      "starttime": 2279.94
+    },
+    {
+      "speaker": "customer",
+      "text": "third the complaint was raised.",
+      "starttime": 2284.77
+    },
+    {
+      "speaker": "customer",
+      "text": "I would use the voucher immediately or any next  next",
+      "starttime": 2286.83
+    },
+    {
+      "speaker": "customer",
+      "text": "will I wait for 5 days",
+      "starttime": 2292.87
+    },
+    {
+      "speaker": "agent",
+      "text": "I do understand. I can check here you have received another BigBasket voucher as well.",
+      "starttime": 2297.39
+    },
+    {
+      "speaker": "agent",
+      "text": "So regarding this only I was saying in the beginning of the call that if you have already redeemed the voucher previously in September month or few days ago, then you are unable to redeem it once again according to the merchant terms and conditions.",
+      "starttime": 2303.33
+    },
+    {
+      "speaker": "customer",
+      "text": "No madam, again you are you are coming back to the same thing. Now you have accepted that this voucher was issued in the month of October, right?",
+      "starttime": 2318.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Because previously I am seeing that that you have created 1 ticket",
+      "starttime": 2326.91
+    },
+    {
+      "speaker": "customer",
+      "text": "No no",
+      "starttime": 2329.71
+    },
+    {
+      "speaker": "customer",
+      "text": "don't get confused",
+      "starttime": 2331.33
+    },
+    {
+      "speaker": "customer",
+      "text": "I will not get confused you yourself will get confused I'm just telling you few simple teams.",
+      "starttime": 2334.11
+    },
+    {
+      "speaker": "customer",
+      "text": "this voucher was of October",
+      "starttime": 2339.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Fine.",
+      "starttime": 2343.26
+    },
+    {
+      "speaker": "customer",
+      "text": "talk   this voucher is of October",
+      "starttime": 2344.69
+    },
+    {
+      "speaker": "customer",
+      "text": "if there was an issue with  using that voucher, in a nice time",
+      "starttime": 2349.37
+    },
+    {
+      "speaker": "customer",
+      "text": "that then that error appears",
+      "starttime": 2357.38
+    },
+    {
+      "speaker": "customer",
+      "text": "that this voucher you cannot",
+      "starttime": 2360.0
+    },
+    {
+      "speaker": "customer",
+      "text": "Since this offer is once you  like time or once you know year.",
+      "starttime": 2362.89
+    },
+    {
+      "speaker": "customer",
+      "text": "for the customer for the same mobile number and for the same.",
+      "starttime": 2367.75
+    },
+    {
+      "speaker": "customer",
+      "text": "issue is of the payment more",
+      "starttime": 2373.82
+    },
+    {
+      "speaker": "customer",
+      "text": "voucher is getting applied, Could you please check, I have attached that screenshot  show",
+      "starttime": 2378.21
+    },
+    {
+      "speaker": "customer",
+      "text": "voucher is successfully applied.",
+      "starttime": 2385.75
+    },
+    {
+      "speaker": "customer",
+      "text": "Good that  and asked me the  screenshot for every voucher.",
+      "starttime": 2390.09
+    },
+    {
+      "speaker": "customer",
+      "text": "So could you please check that screenshot",
+      "starttime": 2394.91
+    },
+    {
+      "speaker": "customer",
+      "text": "There are  screenshot code.",
+      "starttime": 2398.49
+    },
+    {
+      "speaker": "agent",
+      "text": "I have already checked the screenshot but I would like to repeat to the same that if you have already redeem the voucher previously on September month then you are unable to redeem it 1 more time according to the merchant terms and conditions.",
+      "starttime": 2398.88
+    },
+    {
+      "speaker": "customer",
+      "text": "जी बोलिए.",
+      "starttime": 2401.43
+    },
+    {
+      "speaker": "customer",
+      "text": "No  no no no  then why would that voucher will get apply successfully.",
+      "starttime": 2409.46
+    },
+    {
+      "speaker": "customer",
+      "text": "and sir, I'm sim simply answer this question. why would that voucher get applied successfully. have I not attach the screenshot",
+      "starttime": 2418.99
+    },
+    {
+      "speaker": "agent",
+      "text": "the reason why I have already told you that the code you are unable to redeem",
+      "starttime": 2429.12
+    },
+    {
+      "speaker": "customer",
+      "text": "voucher",
+      "starttime": 2429.37
+    },
+    {
+      "speaker": "customer",
+      "text": "No madam,   also you have against my 2 2 minutes further. Ok? Just transfer this call to someone   to speak with  you have not understood did",
+      "starttime": 2432.12
+    },
+    {
+      "speaker": "customer",
+      "text": "the voucher is getting applied. Otherwise, at the time of applying the voucher error offer.",
+      "starttime": 2442.75
+    },
+    {
+      "speaker": "agent",
+      "text": "That is the error only.  code you have got but why you are trying to redeem it, you are getting the error for that reason only I'm just telling you explaining",
+      "starttime": 2448.9
+    },
+    {
+      "speaker": "customer",
+      "text": "this",
+      "starttime": 2455.48
+    },
+    {
+      "speaker": "customer",
+      "text": "No no,    just just answer just answer my question. Why did the voucher get applied successfully.",
+      "starttime": 2456.56
+    },
+    {
+      "speaker": "customer",
+      "text": "Why did the voucher code",
+      "starttime": 2464.96
+    },
+    {
+      "speaker": "customer",
+      "text": "apply successfully.",
+      "starttime": 2467.32
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes  sir.",
+      "starttime": 2469.21
+    },
+    {
+      "speaker": "agent",
+      "text": "It is not applied successfully I can see that it is giving you the error.",
+      "starttime": 2470.73
+    },
+    {
+      "speaker": "customer",
+      "text": "I have attached Is this screenshot",
+      "starttime": 2472.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I have checked the screenshot. Please try to understand.",
+      "starttime": 2475.85
+    },
+    {
+      "speaker": "customer",
+      "text": "is not  last time for this call to someone  20 minutes back I told you, I want to speak with senior,",
+      "starttime": 2480.52
+    },
+    {
+      "speaker": "customer",
+      "text": "and after 10 minutes making that all you",
+      "starttime": 2488.01
+    },
+    {
+      "speaker": "customer",
+      "text": "you are talking about the same thing 20 minutes you spoke with me now.",
+      "starttime": 2493.58
+    },
+    {
+      "speaker": "customer",
+      "text": "Why did you get to my time?",
+      "starttime": 2499.52
+    },
+    {
+      "speaker": "customer",
+      "text": "and now now I just want about your time,  not  more was about my time. transfer this call to someone senior now don't was my time.",
+      "starttime": 2502.8
+    },
+    {
+      "speaker": "agent",
+      "text": "Please be on the line. I am checking again.",
+      "starttime": 2513.29
+    },
+    {
+      "speaker": "customer",
+      "text": "and don't give me the  that  will tell you the same thing.",
+      "starttime": 2513.34
+    },
+    {
+      "speaker": "agent",
+      "text": "be on the line. I'm checking it. Please be on the line.",
+      "starttime": 2517.98
+    },
+    {
+      "speaker": "agent",
+      "text": "May I place your call on hold for a minute?",
+      "starttime": 2520.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for staying connected राजेश and really sorry for the long hold.",
+      "starttime": 2764.0
+    },
+    {
+      "speaker": "agent",
+      "text": "राजेश are you on the line?",
+      "starttime": 2771.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, I am there.",
+      "starttime": 2773.47
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, so राजेश really sorry for the long hold. So I have checked  available to of our super ice at the moment they are not available. So, please allow us some time. Whenever our supervisor will be available we will be get back to you, ok? via calling.",
+      "starttime": 2774.82
+    },
+    {
+      "speaker": "customer",
+      "text": "raise a senior callback request",
+      "starttime": 2790.26
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, we can arrange a callback for you.",
+      "starttime": 2793.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Have you arrange the callback?",
+      "starttime": 2798.41
+    },
+    {
+      "speaker": "agent",
+      "text": "I will be arranging the callback if you allow me",
+      "starttime": 2801.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, do",
+      "starttime": 2804.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so within maximum next 4 to 5 hours you will receive the callback from our side, ok?",
+      "starttime": 2805.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, thank you.",
+      "starttime": 2813.75
+    },
+    {
+      "speaker": "agent",
+      "text": "So is there anything else at this moment I can help",
+      "starttime": 2815.29
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no no.",
+      "starttime": 2818.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. So before I end this call, may I request you to share your feedback based upon our conversation?",
+      "starttime": 2820.54
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah sure.",
+      "starttime": 2825.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. So I will be transferring the call to our feedback IVR. You can rate the conversation between 1 to 5 where 5 is excellent and 1 is 4 and thank you for choosing. Have a great day.",
+      "starttime": 2826.95
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5. You have just helped us improve the credit experience for all our members.",
+      "starttime": 2836.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 2846.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 2850.67
+    }
+  ]
+}

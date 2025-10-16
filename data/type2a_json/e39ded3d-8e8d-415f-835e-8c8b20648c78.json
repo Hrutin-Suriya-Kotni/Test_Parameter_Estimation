@@ -1,0 +1,140 @@
+{
+  "conversation_id": "e39ded3d-8e8d-415f-835e-8c8b20648c78",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is नीता. I'm here to help you today. Am I speaking with कपिल?",
+      "starttime": 17.88
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes. My name is समन.",
+      "starttime": 22.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for the confirmation. So I see that you have raised a call me now request regarding the  from Cred and it is due for KYC, right?",
+      "starttime": 24.63
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, it is regarding the motor insurance.",
+      "starttime": 31.55
+    },
+    {
+      "speaker": "customer",
+      "text": "and I was not able to upload the KYC Actually, I",
+      "starttime": 37.39
+    },
+    {
+      "speaker": "customer",
+      "text": "but somehow it got it is getting rejected.",
+      "starttime": 40.78
+    },
+    {
+      "speaker": "customer",
+      "text": "So I have updated to attachment this time, 1 is in picture from 1 is in PDF form",
+      "starttime": 43.57
+    },
+    {
+      "speaker": "customer",
+      "text": "Just to have a mode better clarity",
+      "starttime": 50.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for this operation Let me check the document you have sent and you go  for KYC I can keep  it. So, allow me a moment.",
+      "starttime": 54.87
+    },
+    {
+      "speaker": "agent",
+      "text": "the name of",
+      "starttime": 66.55
+    },
+    {
+      "speaker": "customer",
+      "text": "That is my father.",
+      "starttime": 69.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, thank you.",
+      "starttime": 72.48
+    },
+    {
+      "speaker": "customer",
+      "text": "little lose message I'm able to hear",
+      "starttime": 76.88
+    },
+    {
+      "speaker": "agent",
+      "text": "जी.",
+      "starttime": 84.81
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible?",
+      "starttime": 91.88
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible?",
+      "starttime": 93.54
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, now you are audible.",
+      "starttime": 95.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. So अपन thank you so much for sharing the document with us. It's",
+      "starttime": 96.88
+    },
+    {
+      "speaker": "agent",
+      "text": "it's clear it's  clear document. Thank you so much. And I'm raising your concern to the internal team. We'll get back to you with an update on it very soon. maximum timeline would be tenth of October. But don't worry, since this is a system generated timeline So it might be possible that we'll get back to you with an update on it on or before the given  or by the end of the day date. Ok?",
+      "starttime": 101.47
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you so much.",
+      "starttime": 123.76
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright  anything else that I may assist you with regarding?",
+      "starttime": 125.01
+    },
+    {
+      "speaker": "customer",
+      "text": "No.",
+      "starttime": 128.72
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So before we end this call, may I request you to please share your valuable feedback based on the conversation. It would just take a moment.",
+      "starttime": 130.04
+    },
+    {
+      "speaker": "customer",
+      "text": "No no, I am not  with it.  my issue is still processing. until I get an issue resolved.",
+      "starttime": 137.33
+    },
+    {
+      "speaker": "customer",
+      "text": "I won't be able to return",
+      "starttime": 144.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright no problem.",
+      "starttime": 147.08
+    },
+    {
+      "speaker": "agent",
+      "text": "And  so thank you for choosing. Have a great day ahead. Thank you so much.",
+      "starttime": 148.67
+    }
+  ]
+}

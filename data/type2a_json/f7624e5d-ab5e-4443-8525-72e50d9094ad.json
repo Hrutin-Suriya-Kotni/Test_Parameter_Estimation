@@ -1,0 +1,270 @@
+{
+  "conversation_id": "f7624e5d-ab5e-4443-8525-72e50d9094ad",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is शुभम. I'm here to assist you today. Am I speaking with सबा?",
+      "starttime": 16.97
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, correct.",
+      "starttime": 22.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming.",
+      "starttime": 23.23
+    },
+    {
+      "speaker": "agent",
+      "text": "As I can see you raised a concern regarding the payment issue, right?",
+      "starttime": 24.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, ma'am.",
+      "starttime": 28.58
+    },
+    {
+      "speaker": "customer",
+      "text": "I checked with my bank Axis bank they are the amount is not debited from   that account",
+      "starttime": 30.19
+    },
+    {
+      "speaker": "customer",
+      "text": "if that automatically will debited today or I need to pay in the credit app.",
+      "starttime": 37.41
+    },
+    {
+      "speaker": "agent",
+      "text": "I am so sorry exactly I didn't understand, can  repeat  the question again?",
+      "starttime": 44.11
+    },
+    {
+      "speaker": "customer",
+      "text": "I I already called credit this morning regarding the payment that the payment amount is debited",
+      "starttime": 49.81
+    },
+    {
+      "speaker": "customer",
+      "text": "But they have otherwise you need to check with my account in my Axis Bank account from which account the automatic debit",
+      "starttime": 59.31
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 67.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry for the inconvenience call you are facing",
+      "starttime": 68.43
+    },
+    {
+      "speaker": "agent",
+      "text": "you were saying that",
+      "starttime": 71.33
+    },
+    {
+      "speaker": "agent",
+      "text": "you for your  your payment",
+      "starttime": 73.57
+    },
+    {
+      "speaker": "customer",
+      "text": "No no, just just just 1 minute that in my account the amount is I mean  pay",
+      "starttime": 75.11
+    },
+    {
+      "speaker": "customer",
+      "text": "the amount is not debited from my account. I need to pay through Cred app or it will automatically debit from my account.",
+      "starttime": 81.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I understand. You need to say like your",
+      "starttime": 90.03
+    },
+    {
+      "speaker": "agent",
+      "text": "your EMI date was today, right?",
+      "starttime": 93.45
+    },
+    {
+      "speaker": "customer",
+      "text": "yesterday on sixth",
+      "starttime": 95.98
+    },
+    {
+      "speaker": "agent",
+      "text": "But yesterday, Ok, I'm so sorry.",
+      "starttime": 96.76
+    },
+    {
+      "speaker": "customer",
+      "text": "but it was not debited.",
+      "starttime": 98.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I'm so sorry. you're saying that your EMI date was yesterday but it's not debited from it's not auto debited from your account, right? But you have you was",
+      "starttime": 100.79
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes,",
+      "starttime": 108.37
+    },
+    {
+      "speaker": "customer",
+      "text": "I did not maintain the sufficient balance yesterday.",
+      "starttime": 110.63
+    },
+    {
+      "speaker": "customer",
+      "text": "that the amount is not debited and",
+      "starttime": 115.54
+    },
+    {
+      "speaker": "customer",
+      "text": "I need to it will today it will automatically debit or I need to pay through credit",
+      "starttime": 119.84
+    },
+    {
+      "speaker": "agent",
+      "text": "you have to do manually payment. Just give me a minute, so I can check it. Can I put your call on hold for a minute, so I can check it.",
+      "starttime": 124.65
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you.",
+      "starttime": 133.56
+    },
+    {
+      "speaker": "agent",
+      "text": "I am so sorry for the long hold.",
+      "starttime": 159.16
+    },
+    {
+      "speaker": "agent",
+      "text": "and thank you for being connected, as you said you have to do manually payment because means you have to  payment by your own because it will not auto debit from your account. Because the due date has already done.",
+      "starttime": 161.47
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am, I will pay through credit app.",
+      "starttime": 174.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Anything else I can help you?",
+      "starttime": 177.02
+    },
+    {
+      "speaker": "customer",
+      "text": "No ma'am. Thank",
+      "starttime": 179.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you",
+      "starttime": 180.59
+    },
+    {
+      "speaker": "customer",
+      "text": "If if it's debit from the auto debit auto debit from the account, you can refunded",
+      "starttime": 181.54
+    },
+    {
+      "speaker": "agent",
+      "text": "I didn't understand. Can you repeat question",
+      "starttime": 190.55
+    },
+    {
+      "speaker": "customer",
+      "text": "suppose I have paid through credit app and it also auto debit from the Axis Bank from my  the auto from the account.",
+      "starttime": 193.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 203.44
+    },
+    {
+      "speaker": "customer",
+      "text": "you can refund",
+      "starttime": 203.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, you mean to say you mean to say like if you will going to pay today, it will auto debit or not right?",
+      "starttime": 204.99
+    },
+    {
+      "speaker": "agent",
+      "text": "No, it will not do it because your expire the due date was by",
+      "starttime": 213.42
+    },
+    {
+      "speaker": "agent",
+      "text": "sixth",
+      "starttime": 219.24
+    },
+    {
+      "speaker": "agent",
+      "text": "third October and it's already gone So you have to manually payment if you will manually it by today if you pay the EMI by today then it will not take then it will not auto debit again. Ok?",
+      "starttime": 220.52
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am. Ok.",
+      "starttime": 232.74
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Anything else I can help you?",
+      "starttime": 233.53
+    },
+    {
+      "speaker": "customer",
+      "text": "No ma'am. Thank you so",
+      "starttime": 236.37
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you before before we end this call, may I request  you to share a valuable feedback basis of our conversation.",
+      "starttime": 237.33
+    },
+    {
+      "speaker": "agent",
+      "text": "will take just a moment to give a feedback.",
+      "starttime": 245.04
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am, I will",
+      "starttime": 248.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Awesome, I will transfer your call to the feedback IVR. You can select between 1 to 5",
+      "starttime": 249.07
+    },
+    {
+      "speaker": "agent",
+      "text": "5 being excellent and 1 being poor. Thank you for choosing Cred. Have a",
+      "starttime": 255.86
+    },
+    {
+      "speaker": "agent",
+      "text": "have a great day.",
+      "starttime": 260.13
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert.",
+      "starttime": 264.39
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "conversation_id": "f765063e-85be-47a5-9fb0-eeecf3906e84",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 0.72
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 9.4
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. जाना this side. I am here to assist you today. Am I speaking with विपिन?",
+      "starttime": 16.62
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes sir.",
+      "starttime": 21.88
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming your name. I can check you are concerned about the payment of #### rupees and 5 पैसे which you did towards भारत gas cylinder on 20 sixth of September using credit UPI",
+      "starttime": 23.07
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming the details of the transaction. I can check that this payment was successfully settled from our end towards your भारत gas cylinder",
+      "starttime": 36.03
+    },
+    {
+      "speaker": "agent",
+      "text": "and we also receive the payment  confirmation from their end regarding this transaction. But your concern is that this payment is not updated on your account from भारत cylinder",
+      "starttime": 44.19
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming. We sincerely apologize for the inconvenience caused to you regarding this transaction. Rest assured we are there to help you with the same. I will request you to please provide us with a screenshot or PDF.",
+      "starttime": 55.75
+    },
+    {
+      "speaker": "agent",
+      "text": "from the official account of your भारत gas cylinder from the official portal any official website or official application.",
+      "starttime": 68.44
+    },
+    {
+      "speaker": "agent",
+      "text": "of भारत gas cylinder",
+      "starttime": 75.72
+    },
+    {
+      "speaker": "agent",
+      "text": "where this payment which you date from Cred application is not reflecting on your account from भारत case cylinder",
+      "starttime": 77.5
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. already checked the history.",
+      "starttime": 85.54
+    },
+    {
+      "speaker": "customer",
+      "text": "it's not showing me",
+      "starttime": 88.88
+    },
+    {
+      "speaker": "customer",
+      "text": "order booking order itself.",
+      "starttime": 91.36
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So we need the screenshot of the same thing that payment which you did from Cred is not showing on your official portal of भारत gas cylinder",
+      "starttime": 94.04
+    },
+    {
+      "speaker": "agent",
+      "text": "please provide us with the screenshot of the same.",
+      "starttime": 103.58
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok but I want but I won't get the customer are in that  is it?",
+      "starttime": 103.9
+    },
+    {
+      "speaker": "agent",
+      "text": "I can really apologize",
+      "starttime": 110.29
+    },
+    {
+      "speaker": "agent",
+      "text": "could you please tell me again your voice was not clear.",
+      "starttime": 112.17
+    },
+    {
+      "speaker": "customer",
+      "text": "We won't get that customer ID consumer ID details in that  just have the purchase history.",
+      "starttime": 115.2
+    },
+    {
+      "speaker": "customer",
+      "text": "have",
+      "starttime": 121.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "starttime": 121.31
+    },
+    {
+      "speaker": "customer",
+      "text": "I have I have to take the photo  another mobile actually the on the screenshot.",
+      "starttime": 122.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I am understanding your point. We apologize for the inconvenience. You can click a picture or make a video using another mobile device. and attach the same on the link. I have provided you a link on your registered mobile number via SMS. Please attach the required file on this link.",
+      "starttime": 127.22
+    },
+    {
+      "speaker": "agent",
+      "text": "And please also check that the consumer number is visible in the screenshot which you are providing with",
+      "starttime": 143.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Sure.",
+      "starttime": 150.93
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for understanding will you be attaching it right now over the call or after this call?",
+      "starttime": 151.99
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah I will do",
+      "starttime": 157.0
+    },
+    {
+      "speaker": "agent",
+      "text": "After this call or over this call, sorry.",
+      "starttime": 158.99
+    },
+    {
+      "speaker": "customer",
+      "text": "call.",
+      "starttime": 161.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So I am waiting.",
+      "starttime": 163.4
+    },
+    {
+      "speaker": "agent",
+      "text": "Could you please confirm me have you received that link?",
+      "starttime": 191.7
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah yeah. have",
+      "starttime": 197.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, please confirm me once the file is successfully uploaded.",
+      "starttime": 198.26
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you attaching the file सतीश?",
+      "starttime": 230.17
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah  do. Yes",
+      "starttime": 232.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok Take your time.",
+      "starttime": 233.46
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 265.44
+    },
+    {
+      "speaker": "agent",
+      "text": "you for providing the side. Yes. I'll check",
+      "starttime": 265.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a",
+      "starttime": 268.83
+    },
+    {
+      "speaker": "agent",
+      "text": "May I place this call on hold for 1",
+      "starttime": 273.03
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 292.91
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 296.74
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for providing the relevant file. So on the basis of the file which you have attached with us. We have forwarded this concern further",
+      "starttime": 321.13
+    },
+    {
+      "speaker": "agent",
+      "text": "to our internal team. The maximum time which we have received from our team is of fifteenth October, but I would like to inform you that it is just a very maximum time frame. Within this time frame. As soon as we will get any update from our internal team we will update you with the same.",
+      "starttime": 329.3
+    },
+    {
+      "speaker": "agent",
+      "text": "we will update you via WhatsApp notification and you will you can also check the update in support section in Cred application. Ok?",
+      "starttime": 345.85
+    },
+    {
+      "speaker": "customer",
+      "text": "So what is the out come have expect?",
+      "starttime": 353.17
+    },
+    {
+      "speaker": "agent",
+      "text": "The as we can check as of now, this payment was successfully settled from our end towards your भारत gas cylinder, you can also find the transaction reference ID for this payment over the Cred application only.",
+      "starttime": 356.45
+    },
+    {
+      "speaker": "agent",
+      "text": "So as soon as we will receive any update regarding your concern from our internal team, then only we will be able to update you with the same.",
+      "starttime": 368.55
+    },
+    {
+      "speaker": "agent",
+      "text": "I will request you to please allow us within the maximum time frame.",
+      "starttime": 376.7
+    },
+    {
+      "speaker": "customer",
+      "text": "so",
+      "starttime": 379.13
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I guess the time frame",
+      "starttime": 380.51
+    },
+    {
+      "speaker": "customer",
+      "text": "but",
+      "starttime": 382.74
+    },
+    {
+      "speaker": "customer",
+      "text": "See, should I  actually    second  week like",
+      "starttime": 383.65
+    },
+    {
+      "speaker": "customer",
+      "text": "So should I do another booking or will get a refund only  Saturday.",
+      "starttime": 388.05
+    },
+    {
+      "speaker": "agent",
+      "text": "If you need your cylinder in like it is urgent then you can do another booking if this payment as we can check has been already settle towards your भारत gas cylinder, So this will be adjusted with your next bill or else if there would be any issue from our end, then in that case we will be refunding that amount.",
+      "starttime": 392.36
+    },
+    {
+      "speaker": "agent",
+      "text": "But as of now we can check that this payment has been successfully settle towards भारत gas cylinder",
+      "starttime": 412.41
+    },
+    {
+      "speaker": "agent",
+      "text": "So I will request you to please allow us some time. As soon as we will get any update  from our internal team regarding your concern then only we will be able to update you with the same.",
+      "starttime": 418.24
+    },
+    {
+      "speaker": "agent",
+      "text": "and we will try our best to give you the update as soon as possible from our",
+      "starttime": 427.34
+    },
+    {
+      "speaker": "customer",
+      "text": "So the",
+      "starttime": 432.47
+    },
+    {
+      "speaker": "agent",
+      "text": "within the maximum time frame",
+      "starttime": 432.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for understanding. Is there anything else apart from this for which I can help you right now related to",
+      "starttime": 435.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, thank you, वेंकट. Before we end with this call, would you like to share your valuable feedback based on our conversation?",
+      "starttime": 442.78
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, sure.",
+      "starttime": 450.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. So for that I am transferring your call now to our feedback IVR. There you can select between 1 to 5. 5 being excellent and 1 being poor. Thank you for choosing Cred. Have a great day ahead.",
+      "starttime": 451.07
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 you have just",
+      "starttime": 465.49
+    }
+  ]
+}

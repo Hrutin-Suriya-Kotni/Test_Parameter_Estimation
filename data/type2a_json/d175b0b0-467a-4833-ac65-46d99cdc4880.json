@@ -1,0 +1,770 @@
+{
+  "conversation_id": "d175b0b0-467a-4833-ac65-46d99cdc4880",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. My name is. I'm here to assist you today.",
+      "starttime": 17.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I having conversation?",
+      "starttime": 20.62
+    },
+    {
+      "speaker": "agent",
+      "text": "with आयुष?",
+      "starttime": 22.51
+    },
+    {
+      "speaker": "customer",
+      "text": "no  this is",
+      "starttime": 24.36
+    },
+    {
+      "speaker": "customer",
+      "text": "आयुष speaking here.",
+      "starttime": 26.02
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, आयुष. Thank you for confirming your",
+      "starttime": 27.82
+    },
+    {
+      "speaker": "agent",
+      "text": "So, as I can check, you raised a call me back request",
+      "starttime": 30.54
+    },
+    {
+      "speaker": "agent",
+      "text": "in regards to mandate account change correct?",
+      "starttime": 34.2
+    },
+    {
+      "speaker": "customer",
+      "text": "I'm so sorry. I just share a wrong screenshot. I do apologize for that. I was about to share a different",
+      "starttime": 38.12
+    },
+    {
+      "speaker": "customer",
+      "text": "screenshot unfortunately.",
+      "starttime": 45.14
+    },
+    {
+      "speaker": "customer",
+      "text": "no problem.",
+      "starttime": 46.79
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 48.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you just small check?",
+      "starttime": 49.9
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you first of all check  my flexi cash of September for the amount of 1 lakh ###rupees.",
+      "starttime": 52.14
+    },
+    {
+      "speaker": "customer",
+      "text": "something was",
+      "starttime": 59.35
+    },
+    {
+      "speaker": "agent",
+      "text": "reflect the amount",
+      "starttime": 59.7
+    },
+    {
+      "speaker": "customer",
+      "text": "has been credited to the loan account",
+      "starttime": 61.14
+    },
+    {
+      "speaker": "agent",
+      "text": "flexi amount.",
+      "starttime": 65.02
+    },
+    {
+      "speaker": "customer",
+      "text": "the amount that was withdrawn on September for amount of 1 lakh ###rupees or something like",
+      "starttime": 67.18
+    },
+    {
+      "speaker": "agent",
+      "text": "1 lakh ###.",
+      "starttime": 73.64
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 73.93
+    },
+    {
+      "speaker": "agent",
+      "text": "be on the line.",
+      "starttime": 75.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, on tenth September you tried to withdraw for the amount of 1 lakh ###.",
+      "starttime": 80.71
+    },
+    {
+      "speaker": "agent",
+      "text": "it has been successfully credited towards your account.",
+      "starttime": 85.37
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no, I'm not talking about. I'm talking about the first EMI.",
+      "starttime": 90.09
+    },
+    {
+      "speaker": "agent",
+      "text": "first EMI.",
+      "starttime": 93.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, seventh October fifth. already this ###sorry EMI has been",
+      "starttime": 95.39
+    },
+    {
+      "speaker": "agent",
+      "text": "debited",
+      "starttime": 105.55
+    },
+    {
+      "speaker": "agent",
+      "text": "auto debit you have done the manual payment of it",
+      "starttime": 108.66
+    },
+    {
+      "speaker": "agent",
+      "text": "and the auto debit as I can check",
+      "starttime": 111.66
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes. I have done a manual payment of 37 the auto debit failed because I needed to change my mandate account to a different account actually because this account is no no longer active.",
+      "starttime": 111.79
+    },
+    {
+      "speaker": "customer",
+      "text": "So that is the reason the auto debit failed and it's showing me return charges will be it. So what sort of return charges is there because I have already paid the amount and I have paid the amount on the  due date. I have I have not skip the amount.",
+      "starttime": 125.55
+    },
+    {
+      "speaker": "agent",
+      "text": "I do understand. So sorry you are facing this issue. definitely we are going to assist",
+      "starttime": 139.92
+    },
+    {
+      "speaker": "agent",
+      "text": "we would like to inform you actually what happened",
+      "starttime": 145.58
+    },
+    {
+      "speaker": "agent",
+      "text": "seventh is your due date. Correct?",
+      "starttime": 148.43
+    },
+    {
+      "speaker": "agent",
+      "text": "on the due date auto debit is selected. So it will initiate   But if your mandate account is having some issue. So you have to contact us. beforehand from your end you can    will to change your mandate account.",
+      "starttime": 150.25
+    },
+    {
+      "speaker": "agent",
+      "text": "So because of the due date already",
+      "starttime": 164.04
+    },
+    {
+      "speaker": "agent",
+      "text": "auto debit got initiated and the message has been given to you from the bank side that the  charges which is the ECS bounce charges has been applied to you. What happened",
+      "starttime": 166.92
+    },
+    {
+      "speaker": "agent",
+      "text": "when auto debit gets fail this charge ECS charges applied",
+      "starttime": 177.22
+    },
+    {
+      "speaker": "agent",
+      "text": "this is applied from the bank side itself. Ok? So what I can suggest if you want to do any manual payment do it want  2 day prior  the due date so that on the due date auto debit does not get figure and is already",
+      "starttime": 182.37
+    },
+    {
+      "speaker": "customer",
+      "text": "So what amount I have to pay now for bouncing charges.",
+      "starttime": 192.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Every   different different bank as the different charges for this bounce charges of it, ok? have to check at the moment, your mandate account for this particular loan is from the bank ICICI, correct.",
+      "starttime": 197.87
+    },
+    {
+      "speaker": "agent",
+      "text": "be on the line.",
+      "starttime": 218.43
+    },
+    {
+      "speaker": "agent",
+      "text": "So in regards to",
+      "starttime": 220.22
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm just checking",
+      "starttime": 222.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Because the bank is ICICI what will be the bounce charges.",
+      "starttime": 223.59
+    },
+    {
+      "speaker": "customer",
+      "text": "So where this particular amount will be debited from my personal account  from my ICICI bank account or",
+      "starttime": 227.29
+    },
+    {
+      "speaker": "agent",
+      "text": "be online.",
+      "starttime": 227.78
+    },
+    {
+      "speaker": "agent",
+      "text": "from your mandate account.",
+      "starttime": 236.13
+    },
+    {
+      "speaker": "agent",
+      "text": "bank account from ICICI. because",
+      "starttime": 238.15
+    },
+    {
+      "speaker": "customer",
+      "text": "मुझे ही नहीं समझ में आ रहा है यह जो पहली बात तो मुझे पता नहीं था याद नहीं था कि यह यह account बंद हो गया",
+      "starttime": 240.25
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने payment  कर दिया है. वह payment late नहीं हुआ है आपको मतलब आपको IDFC bank",
+      "starttime": 246.52
+    },
+    {
+      "speaker": "customer",
+      "text": "जिस जो जिसमें हमको मतलब pay cash दिया",
+      "starttime": 252.85
+    },
+    {
+      "speaker": "customer",
+      "text": "वह हां seventh of October है today is my due date. Ok? और auto debit fail हो गया यह मेरी मतलब unfortunate situation है क्योंकि मेरा जो bank account जो mandate है वह actually क्या बोलते हैं उसमें कोई problem चल रही है इसलिए मैंने उसमें withdraw किया हुआ है.",
+      "starttime": 256.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. तो",
+      "starttime": 272.95
+    },
+    {
+      "speaker": "customer",
+      "text": "उसमें KYC नहीं है पूरी तो मुझे मैं actually क्या बोलते हैं अभी बस समय नहीं है कि मैं KYC complete करा पाऊं. तो मैंने उसको change करने की मैं हमेशा manual payment करता हूं हमेशा तीन या चार दिन पहले ही manual payment कर देता हूं. आज तक कभी auto debit कभी हुआ ही नहीं हमारे account.",
+      "starttime": 274.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं माफ़ी चाहूंगी जो आप face कर रहे हैं आयुष मैं ज़रूर आपको इसमें assist करूंगी.",
+      "starttime": 290.03
+    },
+    {
+      "speaker": "customer",
+      "text": "अब मैं मैं bouncing charges हूं. मैं एक तो payment भी समय से कर रहा हूं सब कुछ कर रहा हूं bouncing charges This is not accept madam.",
+      "starttime": 293.1
+    },
+    {
+      "speaker": "agent",
+      "text": "होता क्या है ना generally",
+      "starttime": 300.83
+    },
+    {
+      "speaker": "customer",
+      "text": "और शायद यह आपकी गलती नहीं है यह तो शायद bank bank अपना charges लेता है तो आपकी गलती नहीं है उसमें लेकिन this is not accept able to be very owner.",
+      "starttime": 300.91
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, मैं समझ सकती हूं. माफी चाहूंगी आयुष जी आप ऐसा face किए हैं.",
+      "starttime": 309.25
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मैंने समय से payment किया हमेशा मैं समय से payment कर रहा हूं. अच्छा मेरा flexi cash भी reduce हो गया. 1 lakh 5500 दिखा रहा था 15000 ही दिखा रहा",
+      "starttime": 312.74
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं एक बार check कर लेती हूं उसके लिए लेकिन पहले मैं आपको इसके लिए pay कर देती हूं अगर",
+      "starttime": 322.66
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका mandate account ऐसे कभी future में  कोई issue हो ना हमारे पास reach out कीजिए जल्द से जल्द ताकि मैं आपका change करा सके mandate account ठीक",
+      "starttime": 327.47
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका यहां पर क्योंकि auto debit due date के दिन selected  एक दिन पहले अपने account में sufficient balance maintain कीजिए ताकि auto debit  के debit हो सके easily और अगर  आपको कोई mandate account  आपको पता  के account में कुछ issue चल रही है तो उतना payment ना एक या दो दिन पहले कर दीजिए ताकि due date के दिन auto debit trigger ना करें ठीक",
+      "starttime": 336.91
+    },
+    {
+      "speaker": "customer",
+      "text": "अब यह bouncing charges किससे मेरे मेरे loan account में add हो जाएगा.",
+      "starttime": 354.05
+    },
+    {
+      "speaker": "agent",
+      "text": "loan account में add नहीं होगा यह आपका ECS charge   ना bank की तरफ से लगता है यह आपके bank के account में reflect होगा. ठीक है? तो यह आपका loan के account में या फिर credit score में इसका कोई भी reflecting नहीं होगा.",
+      "starttime": 358.73
+    },
+    {
+      "speaker": "agent",
+      "text": "है क्योंकि credit score में जो reflect on होती है वह आपके repayment से होती है. अगर  आपका repayment time से होता है तो आपको आपका positive impact करता है. Correct? तो आपने manually payment due date के दिन कर दिया जोकि  अच्छी बात है क्योंकि आपका due date के दिन payment हो चुकी है manually.",
+      "starttime": 371.08
+    },
+    {
+      "speaker": "agent",
+      "text": "और इसके regarding जो है ना देखिए ECS का जो होता है कोई भी correction के manual payment से नहीं है, charges इससे correction auto debit के failure है, ठीक",
+      "starttime": 387.63
+    },
+    {
+      "speaker": "customer",
+      "text": "कितना रुपए  यह cancellation charge  bouncing charge है देखिए जा रहा पता नहीं पता",
+      "starttime": 395.9
+    },
+    {
+      "speaker": "agent",
+      "text": "जी आपका जो कि mandate account ICICI bank की तरफ से है तो उस account में आपको  bank की तरफ से charge होगी होगी ###rupees जिसमें GST भी add होगी 8 percent.",
+      "starttime": 401.52
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है और इसके अलावा जो आपका concern था वह था limit के regarding कि आपका limit अभी #### दिख रहा",
+      "starttime": 412.44
+    },
+    {
+      "speaker": "customer",
+      "text": "तो यह पांच सौ plus GST जो होगी वह क्या बोलते हैं हमारे account से cut जाएगी.",
+      "starttime": 418.41
+    },
+    {
+      "speaker": "customer",
+      "text": "या तो मैं ICICI bank वाले से बात",
+      "starttime": 423.76
+    },
+    {
+      "speaker": "agent",
+      "text": "अगर आप चाहते हैं आप उनसे बात कर सकते हैं लेकिन आपको  हमारे पास ही guide करें क्योंकि हमारे लिए auto debit figure हुआ",
+      "starttime": 426.63
+    },
+    {
+      "speaker": "agent",
+      "text": "तो इसी के लिए क्योंकि",
+      "starttime": 436.65
+    },
+    {
+      "speaker": "customer",
+      "text": "उसके लिए कुछ करिए madam यह मैं क्या करूं फिर यह तो बड़ी problem हो जाएगी",
+      "starttime": 437.52
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं समझ सकता",
+      "starttime": 443.2
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मेरी गलती इसमें नहीं है. मुझे तो अभी पता चला दो दिन तीन दिन पहले",
+      "starttime": 443.49
+    },
+    {
+      "speaker": "customer",
+      "text": "दो दिन पहले",
+      "starttime": 448.55
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं समझ सकती हूं लेकिन unfortunately आयुष. यह जो amount है ना यह आपको तभी लगता है जब आपका auto debit fail होता",
+      "starttime": 450.21
+    },
+    {
+      "speaker": "agent",
+      "text": "है और आपको auto debit already fail हो चुका है ना  unfortunately हम इसमें आपको ना help आपको इसमें  charge लग चुके हैं ना इसमें आपको help नहीं कर पाएंगे unfortunately क्योंकि एक ऐसा charge जो आपको  auto debit के   वजह से लगता है, ठीक है? और limit के regarding जो आपका concern था ना",
+      "starttime": 458.56
+    },
+    {
+      "speaker": "customer",
+      "text": "जी  बिल्कुल.",
+      "starttime": 475.52
+    },
+    {
+      "speaker": "agent",
+      "text": "जो आपको अभी #### दिखा रहा है. माफ़ी चाहूंगी इसके लिए  face किया तो मैं आपको बताना चाहूंगी कि हम लोग ना credit cash user के लिए priority as करते हैं. ठीक है? तो आपके लिए भी ना यह priority के लिए assessment, हुई है जिसके लिए ना आपको जो अभी limit दिख  refresh हुई है आपके लिए. तो अभी जो आपको limit दिख रही है ###यह best possible offer है आपके लिए through हमारे lending partner के द्वारा. ठीक है?",
+      "starttime": 478.76
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 481.59
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 492.48
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 503.06
+    },
+    {
+      "speaker": "agent",
+      "text": "तो अगर आपको withdraw करना है further तो आप इस amount से withdraw कर सकते",
+      "starttime": 503.29
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं पहले तो यह 1 50 दिखा रहा था अभी यह change हो",
+      "starttime": 507.63
+    },
+    {
+      "speaker": "agent",
+      "text": "जी क्योंकि priority के लिए re assist करते हैं ना तो इसी के",
+      "starttime": 510.97
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या मतलब",
+      "starttime": 512.54
+    },
+    {
+      "speaker": "customer",
+      "text": "वह repayment history तो मेरी आप देख रहे हैं कितनी अच्छी",
+      "starttime": 513.91
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं देखिए इसका repayment history से correction है क्योंकि यह eligibility criteria सारा check करके आपको दिया जाता है लेकिन होता क्या है कि re assessment, होता है credit cash user के लिए refresh करते हैं हम लोग ठीक है. तो renew करने पर ही ना आपको यह re assessment, हुआ है credit तो क्योंकि आप हमारे credit cash users है तो इसी के लिए आपके लिए priority के लिए  हुआ है limited.",
+      "starttime": 517.23
+    },
+    {
+      "speaker": "customer",
+      "text": "that",
+      "starttime": 531.26
+    },
+    {
+      "speaker": "agent",
+      "text": "और अभी जो आपके लिए review हुआ है ना यह जो आपको limit दिख रहा है यह best possible offer है हमारे lender partner के द्वारा",
+      "starttime": 540.01
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 547.2
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है? तो क्योंकि यह फिर यह फिर भी refresh हो सकता है in future. अभी at the moment  नहीं हुआ क्योंकि अभी अभी हुआ है. In future अगर से हुआ आपके लिए दोबारा से priority reason हम आपको notify भी कर देंगे WhatsApp और SMS के माध्यम",
+      "starttime": 547.32
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा मान लीजिए मैंने अगर यह पूरी वह जो यह amount जो मैंने withdraw किया",
+      "starttime": 560.08
+    },
+    {
+      "speaker": "customer",
+      "text": "यह अगर पूरा मैं foreclose कर देता हूं एक हफ्ते",
+      "starttime": 565.61
+    },
+    {
+      "speaker": "customer",
+      "text": "मान लीजिए In case",
+      "starttime": 568.65
+    },
+    {
+      "speaker": "customer",
+      "text": "क्योंकि मैंने तो sir जाने उसको लिया था क्योंकि मुझे अपना credit score credit score अच्छा करना",
+      "starttime": 570.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 575.28
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मैं तो अपनी पहली salary मैं इसको पूरा complete कर दूंगा मेरी मतलब मैं तो पहले ही repayment उसको foreclose.",
+      "starttime": 576.11
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी जी.",
+      "starttime": 582.71
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन अभी माननी चलिए कि",
+      "starttime": 583.42
+    },
+    {
+      "speaker": "customer",
+      "text": "by the end of this day",
+      "starttime": 585.46
+    },
+    {
+      "speaker": "customer",
+      "text": "जब मैं यह पूरा वापस payment करूंगा तो यह तो credit cash limit हमारी refresh जाएगी",
+      "starttime": 589.1
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए यह हो सकता है कि refresh हो अगर  आपका priority assist दोबारा हुआ तो  उसके assurance आपको नहीं दे पाएंगे.",
+      "starttime": 595.38
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा मतलब आप यह जो payment हम पूरा आपको वापस करेंगे तो पूरा नहीं जाएगा फिर वह  दिखाएगा हमेशा",
+      "starttime": 602.1
+    },
+    {
+      "speaker": "agent",
+      "text": "जी हो सकता है. हो सकता है कि आपका वह restore हो  हो सकता है कि  आपके लिए priority  को  आपको यह नया limit भी आपको show कर सकता",
+      "starttime": 608.68
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है और",
+      "starttime": 617.12
+    },
+    {
+      "speaker": "customer",
+      "text": "को मिला कर मतलब आपने हमारी limit को कम कर दिया है कल मिला कि यह situation",
+      "starttime": 617.5
+    },
+    {
+      "speaker": "agent",
+      "text": "क्योंकि reason जब होता है ना unfortunately वह आपका कम भी हो सकता है limit और आपका limit बढ़ भी सकता है. क्योंकि यह जो limit होता है  totally",
+      "starttime": 621.62
+    },
+    {
+      "speaker": "customer",
+      "text": "बड़ा था तभी तो वह आ रहा था ###",
+      "starttime": 627.7
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, क्योंकि होता क्या है ना क्योंकि limit तो lending partner set करते",
+      "starttime": 629.96
+    },
+    {
+      "speaker": "agent",
+      "text": "तो अगर यह refresh होता है आपको जो भी limit दिया जाता है वह lender partner की तरफ से  आपको दिया जाता है आपके लिए जो भी best possible offer होता",
+      "starttime": 634.23
+    },
+    {
+      "speaker": "agent",
+      "text": "तो इसी के लिए इसका assurance नहीं है कि आपका limit घंटे या फिर बड़ी तो यह हो सकता है कि आपका जो पहले दिख रहा था उससे कम  दिखे हो सकता है कि दोबारा से  हो तो आपको और भी ज़्यादा दिखे limit ठीक है? और",
+      "starttime": 642.21
+    },
+    {
+      "speaker": "customer",
+      "text": "और यह कब यह assistant होता",
+      "starttime": 655.05
+    },
+    {
+      "speaker": "agent",
+      "text": "का कोई  time नहीं है. अभी अभी आपके लिए हुआ है यह",
+      "starttime": 657.48
+    },
+    {
+      "speaker": "agent",
+      "text": "तो अभी at the moment  यह दुबारा से modify नहीं होगा in future में फिर से दुबारा  से priority assist होगा तो हम आपको",
+      "starttime": 661.62
+    },
+    {
+      "speaker": "customer",
+      "text": "this is something which is now IDFC Bank.",
+      "starttime": 667.66
+    },
+    {
+      "speaker": "customer",
+      "text": "is suddenly decided to lower my credit limit. Although",
+      "starttime": 673.26
+    },
+    {
+      "speaker": "customer",
+      "text": "I have a great credit score to be very owner.",
+      "starttime": 677.65
+    },
+    {
+      "speaker": "agent",
+      "text": "I do understand. So sorry that you experiencing this but yes because the  assistant for credit cash   done. So it depends whether it will be decrease or increase by the lending partner itself. Because this limit are totally decided by the lending partner.",
+      "starttime": 682.68
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 683.22
+    },
+    {
+      "speaker": "agent",
+      "text": "and regarding to this query because you also mention regarding the foreclosure आयुष. So I would also like to inform you that if you want to do any foreclosure at the moment as a",
+      "starttime": 699.57
+    },
+    {
+      "speaker": "agent",
+      "text": "EMI has happened. So from the due date which is seventh of October from this due date 7 days it will take to update this. within this time is going to be updated and the option of the foreclosure will be visible in the application. Ok? You can proceed with the foreclosure of the loan.",
+      "starttime": 709.73
+    },
+    {
+      "speaker": "customer",
+      "text": "और foreclosure अगर हम करते हैं तो जो amount हमको देना है जो amount हमको actually में देना है वही interest उठते ही दिन का रहेगा ना  तो वही ना",
+      "starttime": 723.48
+    },
+    {
+      "speaker": "agent",
+      "text": "Correct correct.",
+      "starttime": 731.9
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आपको कोई भी foreclosure charges नहीं लगेगा  foreclosure का जो amount होगा वह consider incim l amount plus आपका interest जिस दिन तक का foreclose कीजिएगा.",
+      "starttime": 733.96
+    },
+    {
+      "speaker": "customer",
+      "text": "second एक second, एक second, एक second,",
+      "starttime": 742.31
+    },
+    {
+      "speaker": "customer",
+      "text": "आप जिस व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold. Please stay on the line. आप जिस व्यक्ति से बात कर रहे हैं, उन्होंने आपके call को hold पर रखा है. कृपया line पर बने रहें. The person you are speaking with has put your call on hold.",
+      "starttime": 746.43
+    },
+    {
+      "speaker": "agent",
+      "text": "जी आपको मेरी आवाज़ आ रही है आयुष.",
+      "starttime": 767.56
+    },
+    {
+      "speaker": "customer",
+      "text": "Please stay on the",
+      "starttime": 771.89
+    },
+    {
+      "speaker": "agent",
+      "text": "आयुष आपको मेरी आवाज़ आ रही",
+      "starttime": 772.21
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes. So ok. So for that  पांच सौ रुपए plus GST तो कल मिला कर मान के चाहिए वह account से हमारे मतलब होगा",
+      "starttime": 775.86
+    },
+    {
+      "speaker": "agent",
+      "text": "तो जैसे कि मैं आपको बता रही थी कि",
+      "starttime": 776.03
+    },
+    {
+      "speaker": "customer",
+      "text": "ICICI bank वाले",
+      "starttime": 787.59
+    },
+    {
+      "speaker": "agent",
+      "text": "जी आप चाहे तो उनसे आप conversation कर सकते हो तो इसके अलावा आयुष और query है आपको?",
+      "starttime": 790.14
+    },
+    {
+      "speaker": "customer",
+      "text": "वह यही चाहेंगे कि आप अपने lender partner से बात करिए",
+      "starttime": 795.4
+    },
+    {
+      "speaker": "agent",
+      "text": "जी क्योंकि हमारे ही loan के लिए आपको  debit try  किया था",
+      "starttime": 798.71
+    },
+    {
+      "speaker": "agent",
+      "text": "तो इसी के",
+      "starttime": 802.15
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा अच्छा अच्छा.",
+      "starttime": 803.7
+    },
+    {
+      "speaker": "agent",
+      "text": "जी तो इसके लिए",
+      "starttime": 804.88
+    },
+    {
+      "speaker": "customer",
+      "text": "तो वह कुछ नहीं करेंगे  यह भी कह दे कि आप please बात करके",
+      "starttime": 805.31
+    },
+    {
+      "speaker": "customer",
+      "text": "हम कह देंगे मैंने बात किया तो कोई use करने per निकलेगा",
+      "starttime": 809.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Anyway by any chance यह मतलब reverse हो सकता है कभी reverse नहीं होता",
+      "starttime": 813.42
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं, unfortunately क्योंकि यह bank की तरफ से यह charges होती है ना यह तो charges हमें receive नहीं हो सकती है तो unfortunately हम इसका reversal नहीं दे पाएंगे.",
+      "starttime": 819.73
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं आप की बात नहीं कह रहे हैं. मतलब जैसे अच्छा चलिए ठीक है मैं मांग",
+      "starttime": 828.17
+    },
+    {
+      "speaker": "agent",
+      "text": "जी इसके अलावा कोई और query आपको आयुष?",
+      "starttime": 834.21
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं thank you",
+      "starttime": 836.61
+    },
+    {
+      "speaker": "agent",
+      "text": "जी तो call end करने से पहले आयुष क्या मैं आपकी call को हमारे feedback IVR पर transfer करने के लिए request कर सकती हूं अगर आप चाहते",
+      "starttime": 838.48
+    },
+    {
+      "speaker": "agent",
+      "text": "जी धन्यवाद मैं आपकी call को",
+      "starttime": 845.92
+    }
+  ]
+}

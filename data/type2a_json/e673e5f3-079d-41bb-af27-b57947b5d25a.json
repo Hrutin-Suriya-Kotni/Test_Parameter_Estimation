@@ -1,0 +1,125 @@
+{
+  "conversation_id": "e673e5f3-079d-41bb-af27-b57947b5d25a",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "Hello. Hello.",
+      "starttime": 0.96
+    },
+    {
+      "speaker": "agent",
+      "text": "morning. This is प्रियंका  recorded line from Cred. Am I speaking with",
+      "starttime": 2.01
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 5.33
+    },
+    {
+      "speaker": "agent",
+      "text": "morning. This is प्रियंका. on a recorded line from Cred. Am I speaking with नारायण?",
+      "starttime": 8.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for the confirmation रहना. Is this a good",
+      "starttime": 13.85
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 17.65
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much.  you have raised a concern like 1 of your related have raised a concern on Instagram handle.",
+      "starttime": 19.32
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 20.52
+    },
+    {
+      "speaker": "agent",
+      "text": "stating that you are not able to you know login into the credit account. Right?",
+      "starttime": 29.33
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 32.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, so you wanted to reactivate that account is",
+      "starttime": 33.85
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. So I know please be inform that your account has been reactivated successfully. Ok. So now you can login into the application and you can use this credit account. Ok?",
+      "starttime": 38.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok thank you.",
+      "starttime": 49.19
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. Apart from this anything else I can help you with?",
+      "starttime": 50.01
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok no no  thanks.",
+      "starttime": 53.58
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much. Just a small request before you end this call, may I transfer your call to IVR where we can rate a conversation between 1 to 5.",
+      "starttime": 55.57
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 63.16
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much. I'll be just transferring the call to IVR where you can rate our conversation between 1 to 5 1 being list and 5 being excellent. Thank you so much for choosing Cred. Have a great day.",
+      "starttime": 63.99
+    },
+    {
+      "speaker": "customer",
+      "text": "there so",
+      "starttime": 73.96
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 74.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 82.63
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 88.3
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 92.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 96.56
+    }
+  ]
+}

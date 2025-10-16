@@ -1,0 +1,165 @@
+{
+  "conversation_id": "e37c760c-9f6a-4776-a3e1-284814dedf35",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. My name is तनुश्री. I am here to assist you today. Am I speaking with  राज?",
+      "starttime": 16.99
+    },
+    {
+      "speaker": "customer",
+      "text": "हां madam.",
+      "starttime": 22.98
+    },
+    {
+      "speaker": "agent",
+      "text": "जी नाम confirm करने के लिए धन्यवाद. जैसे कि मैं check कर पा रही हूं आपने call back request raise किया  आपके vehicle inspection के regarding. तो exactly क्या issue आ रहा  बताइए ताकि मैं आपकी help कर सकूं.",
+      "starttime": 24.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am मैं एक comprehensive policy insurance policy purchase करने की वह कर रहा",
+      "starttime": 35.55
+    },
+    {
+      "speaker": "customer",
+      "text": "पिछले वाला भी cancel हो गया",
+      "starttime": 42.74
+    },
+    {
+      "speaker": "customer",
+      "text": "Go Digit से कर रहा था. इस बार वाला भी मैंने pay तो कर दिया है अभी तक inspection",
+      "starttime": 45.04
+    },
+    {
+      "speaker": "customer",
+      "text": "आज मैंने बात किया तो वह कह रहा था कि अभी तक वही नहीं हुई",
+      "starttime": 50.67
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है मैं बिल्कुल समझ पा रही",
+      "starttime": 56.9
+    },
+    {
+      "speaker": "customer",
+      "text": "approval नहीं",
+      "starttime": 57.9
+    },
+    {
+      "speaker": "agent",
+      "text": "जी  बिल्कुल",
+      "starttime": 61.68
+    },
+    {
+      "speaker": "customer",
+      "text": "कब तक होगा यह?",
+      "starttime": 61.84
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं बिल्कुल समझ पा रही हूं आपकी परेशानी  माफी चाहती हूं इसके लिए अगर आप निश्चिंत रहिए मैं आपको ज़रूर help करूंगी. तो जैसे कि मैं check कर पा रही हूं आपने छह October यानी कल ग्यारह चार am से आपने physical inspection के लिए details submit किया था. तो आपका  please मुझे confirm करेंगे inspection हो चुका है.",
+      "starttime": 65.27
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं हुआ ना ma'am अभी",
+      "starttime": 83.66
+    },
+    {
+      "speaker": "agent",
+      "text": "अभी तक inspection assign  हुआ",
+      "starttime": 85.32
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको कोई call वगैरह कुछ नहीं आया है inspection agent.",
+      "starttime": 88.0
+    },
+    {
+      "speaker": "customer",
+      "text": "कल एक call आया था तो वह कह रहे थे कि file आई है हमारे पास listen approved नहीं हुआ  just approved",
+      "starttime": 92.66
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है मैं समझ पा रही हूं आपकी परेशानी  माफी चाहती हूं इसके लिए जैसे कि मैं check कर पा रही हूं  जी मुझे कुछ आपका concern जो है वह forward करना पड़ेगा तो इसके लिए क्या मैं call को just एक minute के लिए hold पर रख सकती हूं please?",
+      "starttime": 101.31
+    },
+    {
+      "speaker": "customer",
+      "text": "हां कर दो.",
+      "starttime": 113.4
+    },
+    {
+      "speaker": "agent",
+      "text": "जी धन्यवाद.",
+      "starttime": 114.88
+    },
+    {
+      "speaker": "agent",
+      "text": "Hold पर बने रहने के लिए धन्यवाद.",
+      "starttime": 176.36
+    },
+    {
+      "speaker": "customer",
+      "text": "Hello. हां",
+      "starttime": 179.01
+    },
+    {
+      "speaker": "agent",
+      "text": "जी hold पर बने रहने के लिए धन्यवाद. मैं आपको बताना चाहूंगी कि जैसे कि आपको अभी तक कोई update नहीं मिला  inspection agent की तरफ से कोई भी आपको update नहीं दिया गया है. तो मैं आपको बताना चाहूंगी कि आपकी सहायता के लिए मैं आपका concern जो है आगे forward कर रही हूं ताकि हमारे internal team inspection agent के regarding साथ इसको check करके जैसे inspection करवा से और जो maximum timeline है update आने का वह तेरह October का है उसके अंदर ही हम आपसे get back करके WhatsApp notification पर आपको update provide कर देंगे.",
+      "starttime": 180.36
+    },
+    {
+      "speaker": "customer",
+      "text": "phone तो आया था ma'am वह कह रहा था कि वह listen",
+      "starttime": 211.95
+    },
+    {
+      "speaker": "customer",
+      "text": "यह cancel तो नहीं हो जाएगी ना file आप यहां complaint किया मैंने  file cancel होगी.",
+      "starttime": 217.43
+    },
+    {
+      "speaker": "agent",
+      "text": "जी समझ पा रही हूं लेकिन आप निश्चिंत रहिए ऐसे without any reason यह cancel नहीं हो पाएगा cancel नहीं होगा तो आप wait कर लीजिए हम update के साथ आपको get back कर लेंगे WhatsApp notification",
+      "starttime": 223.44
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है.",
+      "starttime": 236.69
+    },
+    {
+      "speaker": "agent",
+      "text": "और कोई सहायता कर सकती हूं आपको credit से संबंधित?",
+      "starttime": 239.44
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं ma'am.",
+      "starttime": 243.01
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है और यह call end करने से पहले हमारी बातचीत के basis पर क्या मैं आपको एक feedback के लिए request कर सकती",
+      "starttime": 244.72
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है ma'am.",
+      "starttime": 250.79
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है मैं आपके call को हमारे feedback IVR पर transfer कर रही हूं. आप हमारे बातचीत के basis पर एक से पांच तक rating दे सकते हैं. जिसमें एक सबसे कम है और पांच सबसे ज़्यादा. Cred को choose करने के लिए धन्यवाद. आपका दिन बहुत शुभ",
+      "starttime": 252.43
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience.",
+      "starttime": 266.08
+    }
+  ]
+}

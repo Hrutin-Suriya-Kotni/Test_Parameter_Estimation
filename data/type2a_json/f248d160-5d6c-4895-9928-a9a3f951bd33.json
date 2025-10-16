@@ -1,0 +1,435 @@
+{
+  "conversation_id": "f248d160-5d6c-4895-9928-a9a3f951bd33",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is सुमित. I am here to assist you today.",
+      "starttime": 20.04
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you speak कमल?",
+      "starttime": 23.39
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you speak कमल?",
+      "starttime": 27.12
+    },
+    {
+      "speaker": "agent",
+      "text": "No sir only हिंदी and English.",
+      "starttime": 28.74
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am  to    take loan in",
+      "starttime": 32.04
+    },
+    {
+      "speaker": "customer",
+      "text": "Last EMI hello.",
+      "starttime": 40.36
+    },
+    {
+      "speaker": "customer",
+      "text": "need  some time",
+      "starttime": 42.93
+    },
+    {
+      "speaker": "customer",
+      "text": "Today last date  already",
+      "starttime": 44.68
+    },
+    {
+      "speaker": "customer",
+      "text": "No,  not available.",
+      "starttime": 46.64
+    },
+    {
+      "speaker": "customer",
+      "text": "currently",
+      "starttime": 48.36
+    },
+    {
+      "speaker": "customer",
+      "text": "So I need to time  or  today",
+      "starttime": 50.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I'm unable to hear Just I'm putting your call on hold for a minute. Just be online.",
+      "starttime": 56.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank",
+      "starttime": 100.05
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 102.26
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 108.44
+    },
+    {
+      "speaker": "customer",
+      "text": "है ना",
+      "starttime": 112.54
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 115.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Hi मैं.",
+      "starttime": 122.16
+    },
+    {
+      "speaker": "agent",
+      "text": "So your problem is regarding the credit cash. Am I right?",
+      "starttime": 126.14
+    },
+    {
+      "speaker": "customer",
+      "text": "right ma'am today last",
+      "starttime": 130.17
+    },
+    {
+      "speaker": "customer",
+      "text": "yesterday fund is payment into your account but I have",
+      "starttime": 132.92
+    },
+    {
+      "speaker": "customer",
+      "text": "no balance. you need to  2 days.",
+      "starttime": 136.4
+    },
+    {
+      "speaker": "customer",
+      "text": "I need to some time. Last EMI",
+      "starttime": 140.16
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I can completely understand. I can completely understand what you are going to and I'm really sorry.",
+      "starttime": 143.96
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 147.28
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 148.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Just give me a few minutes, ok? while I'm looking into your profile, I'm just putting your call on hold for a minute while I'm checking this. Ok?",
+      "starttime": 149.27
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am, no  no problem.",
+      "starttime": 155.04
+    },
+    {
+      "speaker": "agent",
+      "text": "you for being on hold my concern.",
+      "starttime": 218.73
+    },
+    {
+      "speaker": "agent",
+      "text": "So as I can check that the auto debit has been already initiated to your account. So as you told that you do not have fund right now. So I would request you to please arrange the fund because auto debit already has been done to your account and if in today you are unable to pay then the EMI charge will be done. So I request you to please arrange the fund.",
+      "starttime": 222.81
+    },
+    {
+      "speaker": "customer",
+      "text": "1 more time please I don't understand     passed.",
+      "starttime": 245.82
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I'm unable to hear",
+      "starttime": 250.32
+    },
+    {
+      "speaker": "customer",
+      "text": "English solution",
+      "starttime": 250.41
+    },
+    {
+      "speaker": "customer",
+      "text": "No,  what  ma'am? Yeah, I need to some time, please don't have to initiate it. The fine amount is charged to the bank amount.",
+      "starttime": 252.82
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, what I can tell you that please arrange the fund because the auto debit already has been credited to your account. So I would request you to please arrange the fund and please pay",
+      "starttime": 264.34
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am. arrange the ma'am. I know",
+      "starttime": 277.74
+    },
+    {
+      "speaker": "customer",
+      "text": "I need to maximum today or tomorrow ma'am. So today I need to",
+      "starttime": 281.05
+    },
+    {
+      "speaker": "agent",
+      "text": "today is the yes, today is the last date so I would request you to do it today.",
+      "starttime": 286.05
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am, In case  today I will pay  ना fine amount is not applicable",
+      "starttime": 292.29
+    },
+    {
+      "speaker": "customer",
+      "text": "Fine fine amount is applicable or not applicable",
+      "starttime": 299.12
+    },
+    {
+      "speaker": "agent",
+      "text": "No sir. If you do not pay today, then if you pay tomorrow, then there will be a fine, what you say     So it's Yes. It's fine  only. So you will find that.",
+      "starttime": 302.3
+    },
+    {
+      "speaker": "customer",
+      "text": "fine amount is applicable tomorrow.",
+      "starttime": 315.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes tomorrow I will pay fine amount is applicable",
+      "starttime": 317.38
+    },
+    {
+      "speaker": "customer",
+      "text": "today  paid  fine amount not applicable",
+      "starttime": 321.48
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, absolutely.",
+      "starttime": 324.57
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am bank side PAN amount is applicable",
+      "starttime": 328.79
+    },
+    {
+      "speaker": "customer",
+      "text": "already initiated he told in auto debit already initiated",
+      "starttime": 332.06
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, auto debit is already has been initiated.",
+      "starttime": 335.93
+    },
+    {
+      "speaker": "customer",
+      "text": "So bank side fine amount is applicable right?",
+      "starttime": 338.36
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I can't hear",
+      "starttime": 344.04
+    },
+    {
+      "speaker": "customer",
+      "text": "bank side bank side bank side pin amount is applicable",
+      "starttime": 345.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I want to tell you that, Please arrange the fund and please do it by today. Ok? Because the auto debit already has been arranged to your account.",
+      "starttime": 348.89
+    },
+    {
+      "speaker": "customer",
+      "text": "Right, ma'am. already  ICICI bank  morning showing.",
+      "starttime": 359.74
+    },
+    {
+      "speaker": "customer",
+      "text": "message",
+      "starttime": 365.66
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 368.04
+    },
+    {
+      "speaker": "customer",
+      "text": "6  8 81 rupees towards to",
+      "starttime": 369.54
+    },
+    {
+      "speaker": "customer",
+      "text": "page of  to",
+      "starttime": 375.9
+    },
+    {
+      "speaker": "customer",
+      "text": "refunded to the   October 25 minute in   applicable to the written charges will be  in",
+      "starttime": 379.31
+    },
+    {
+      "speaker": "customer",
+      "text": "was",
+      "starttime": 387.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes yes, I can hear you. So what I can tell you that if you do not pay by today  ECS  will be charged",
+      "starttime": 393.66
+    },
+    {
+      "speaker": "agent",
+      "text": "after tomorrow Means, after today, the ECS will be charged.",
+      "starttime": 400.9
+    },
+    {
+      "speaker": "customer",
+      "text": "In case today I  paid  any pin amount is not applicable right?",
+      "starttime": 405.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, if you pay by today then no final   But if there is tomorrow, then I will be charged.",
+      "starttime": 410.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am, I will arrange",
+      "starttime": 417.62
+    },
+    {
+      "speaker": "agent",
+      "text": "and I am so sorry that the inconvenience has to you. I really understand your concern.",
+      "starttime": 421.57
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm so sorry.",
+      "starttime": 426.19
+    },
+    {
+      "speaker": "customer",
+      "text": "this  ma'am 1 month EMI,  this month only travel  the month   time  actually.",
+      "starttime": 426.56
+    },
+    {
+      "speaker": "agent",
+      "text": "I completely yes. I can completely understand but I'm so sorry. But what I can do I can look after this matter ok. In future, if I am taking this as a feedback in future if I could",
+      "starttime": 432.72
+    },
+    {
+      "speaker": "agent",
+      "text": "I could",
+      "starttime": 443.2
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 444.92
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. Is there anything else I can help you with?",
+      "starttime": 446.21
+    },
+    {
+      "speaker": "customer",
+      "text": "credit cash is not available.",
+      "starttime": 449.75
+    },
+    {
+      "speaker": "agent",
+      "text": "credit cash is why not available. Just let me check. Just I'm putting your call on hold for a minute while I look into this.",
+      "starttime": 453.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 461.14
+    },
+    {
+      "speaker": "agent",
+      "text": "you for being on hold.",
+      "starttime": 497.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. So what I can check that your drawn request can be processed at this point due to  change in our lending partners approval criteria which has made credit cash unavailable",
+      "starttime": 500.54
+    },
+    {
+      "speaker": "agent",
+      "text": "So I would request you to please pay the EMI on time. So that we can approve it from our end also. And because also checking in our letting partner criteria this problem has paid. But I would request you to please pay this EMI on time, so that it will be available for you and I will be looking this for you in future. Ok?",
+      "starttime": 511.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. Is there anything else I can help you with?",
+      "starttime": 532.13
+    },
+    {
+      "speaker": "customer",
+      "text": "No ma'am, thank",
+      "starttime": 535.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Great, before we end this call, may I request you to share your valuable feedback basis on our conversation. It will just take a few",
+      "starttime": 536.61
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 544.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Great. I am transferring my call to our feedback IVR. You can select between 1 to 5, 5 being excellent and 1 being 4. Thank you for choosing Cred. I hope you have",
+      "starttime": 545.87
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am. Yeah.  Ok.",
+      "starttime": 553.53
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 557.04
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 you have just helped us improve the credit experience for all our members.",
+      "starttime": 558.54
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concern.",
+      "starttime": 567.98
+    }
+  ]
+}

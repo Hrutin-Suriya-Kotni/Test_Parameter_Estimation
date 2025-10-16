@@ -1,19 +1,19 @@
 import pandas as pd
 import os
 from typing import Tuple, Optional
-from config import (
-    CRED_DATA_PATH, 
-    CRED_FILE_NAME, 
-    CRED_TRANSCRIPT_SHEET, 
-    CRED_PRIMARY_INFO_SHEET
-)
+from model_config import ModelConfig
 
 class CREDDataLoader:
     """Handles loading and processing CRED conversation data"""
     
-    def __init__(self, data_path: str = CRED_DATA_PATH):
-        self.data_path = data_path
-        self.file_path = os.path.join(data_path, CRED_FILE_NAME)
+    def __init__(self, data_path: str = None):
+        data_cfg = ModelConfig.get_data_config()
+        project_root = os.path.dirname(os.path.abspath(__file__))
+        resolved_data_dir = data_path or os.path.join(project_root, data_cfg.get('data_dir', 'data'))
+        self.transcript_sheet = data_cfg.get('transcript_sheet', 'Transcript')
+        self.primary_info_sheet = data_cfg.get('primary_info_sheet', 'Primary Info')
+        self.data_path = resolved_data_dir
+        self.file_path = os.path.join(resolved_data_dir, data_cfg.get('file_name', 'TAReport (30).xlsx'))
         print(f"🔍 Data loader initialized with:")
         print(f"   Data path: {self.data_path}")
         print(f"   File path: {self.file_path}")
@@ -30,13 +30,13 @@ class CREDDataLoader:
             # Load transcript data
             transcript_df = pd.read_excel(
                 self.file_path, 
-                sheet_name=CRED_TRANSCRIPT_SHEET
+                sheet_name=self.transcript_sheet
             )
             
             # Load primary info data
             primary_info_df = pd.read_excel(
                 self.file_path, 
-                sheet_name=CRED_PRIMARY_INFO_SHEET
+                sheet_name=self.primary_info_sheet
             )
             
             print(f"Loaded transcript data: {len(transcript_df)} rows")

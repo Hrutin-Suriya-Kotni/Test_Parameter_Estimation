@@ -1,0 +1,145 @@
+{
+  "conversation_id": "e8142bf0-fc93-4a08-9143-decff227d39f",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is  calling you from Cred on a recorded line. Am I speaking to पूजा.",
+      "starttime": 1.3
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी पूरा जी आपका एक concern था आपका जो product है broken मिला है आपको अपने inform किया है. क्या मैं जान सकती हूं कि product के related आपका concern है?",
+      "starttime": 7.84
+    },
+    {
+      "speaker": "customer",
+      "text": "वह",
+      "starttime": 18.12
+    },
+    {
+      "speaker": "agent",
+      "text": "के लिए. मैं देख पा रही हूं दो concern है एक है make up resolution का super  जिसमें आपने concern raise किया था और वह already raised है  issue के लिए मैं देख पा रही हूं मैं से आपने कुछ  issue face किया था इस concern पर and आपने mention किया था  price जो है वह सही नहीं",
+      "starttime": 20.42
+    },
+    {
+      "speaker": "customer",
+      "text": "हां  सही नहीं है और वह broken भी थोड़ा सा ना उसका text capture जो  किया है ना वह मतलब ऐसे खराब type कि",
+      "starttime": 42.81
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी.",
+      "starttime": 48.5
+    },
+    {
+      "speaker": "customer",
+      "text": "तो हो नहीं नहीं है बड़ी ऐसा  तो लिखा हुआ है उसमें.",
+      "starttime": 51.99
+    },
+    {
+      "speaker": "agent",
+      "text": "जी",
+      "starttime": 52.39
+    },
+    {
+      "speaker": "customer",
+      "text": "जी type का है वह हां.",
+      "starttime": 55.48
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी.",
+      "starttime": 55.75
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं समझ पा रही हूं माफ़ी चाहूंगी पूजा जी आपको ऐसे issue face करनी पड़ी क्या मैं जान सकती हूं आपने दो   order किया था दोनों के related ही आपको same concern है?",
+      "starttime": 58.11
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 66.32
+    },
+    {
+      "speaker": "agent",
+      "text": "so दोनों का ही आपको second product जो है वह broken मिला है, correct?",
+      "starttime": 68.14
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा क्या मैं request कर सकती हूं कि आप वह broken product का images share कर सकते हैं ताकि further हम आपको इस पर assistance provide कर",
+      "starttime": 74.2
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी मैं कर दूंगी मुझे  थोड़ा सा time दे दो",
+      "starttime": 82.5
+    },
+    {
+      "speaker": "agent",
+      "text": "कोई issue नहीं है. मैं आपको एक link share कर दे रही हूं आपके registered number पर जब भी आप चाहे आप attach कर सकते हैं images आपको कुछ ही देर में हमारे end से call back मिल जाएगा.",
+      "starttime": 85.94
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है ok.",
+      "starttime": 94.8
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है. मैंने आपको share कर दिया है  link 7 double ###double में kindly एक बार check करके देखिए आपको मिला है कि",
+      "starttime": 95.48
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी",
+      "starttime": 106.43
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं request करूंगी kindly इसके related जो broken part है वह  image में visible होना चाहिए इसके अलावा",
+      "starttime": 107.81
+    },
+    {
+      "speaker": "agent",
+      "text": "जितना भी चाहिए मुझे share",
+      "starttime": 114.68
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है",
+      "starttime": 116.86
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है. धन्यवाद धन्यवाद समझने के लिए और कोई भी सहायता कर सकती हूं मैं credit related?",
+      "starttime": 117.13
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you. Thank you.",
+      "starttime": 122.39
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी जी जी  call को end करने से पहले क्या मैं एक request रख सकती हूं हमारे बातचीत के आधार पर एक छोटा सा feedback",
+      "starttime": 122.61
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am.",
+      "starttime": 130.14
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी फिर मैं आपकी call को feedback IVR में transfer कर दे रही हूं वहां पर आपको एक से पांच तक select करना होगा. पांच सबसे अच्छा है और एक सबसे बुरा है. Credit को choose करने के लिए धन्यवाद. आपका दिन शुभ हो.",
+      "starttime": 131.2
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert.",
+      "starttime": 142.35
+    }
+  ]
+}

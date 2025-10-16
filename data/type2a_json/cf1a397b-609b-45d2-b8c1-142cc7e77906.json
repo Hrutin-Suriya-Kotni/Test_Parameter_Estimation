@@ -1,0 +1,325 @@
+{
+  "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is रेनी. I am here to assist you today. Am I speaking with नरेश?",
+      "starttime": 17.16
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, hi  good morning and",
+      "starttime": 21.9
+    },
+    {
+      "speaker": "customer",
+      "text": "for taking my call. रेशमा I want to close foreclose  loan today or tomorrow",
+      "starttime": 24.97
+    },
+    {
+      "speaker": "customer",
+      "text": "just 1 last loan.",
+      "starttime": 32.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Now",
+      "starttime": 35.72
+    },
+    {
+      "speaker": "customer",
+      "text": "I give you the amount ना for today am tomorrow.",
+      "starttime": 37.26
+    },
+    {
+      "speaker": "agent",
+      "text": "So you want to know the foreclosure amount if you foreclose the loan today or tomorrow",
+      "starttime": 41.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. I will surely help you out regarding your query. So as I can check that in credit cash you have 1 loan and for that loan the total principle amount",
+      "starttime": 46.72
+    },
+    {
+      "speaker": "agent",
+      "text": "3 lakh rupees, right?",
+      "starttime": 55.45
+    },
+    {
+      "speaker": "customer",
+      "text": "Hello.",
+      "starttime": 58.57
+    },
+    {
+      "speaker": "agent",
+      "text": "that is the loan which you wish to foreclose?",
+      "starttime": 59.23
+    },
+    {
+      "speaker": "agent",
+      "text": "So I would like to tell you that if you wish to foreclose your loan till the foreclosure date the interest charge to you on a daily basis that is the interest which you have to pay on the remaining principle amount. Ok?",
+      "starttime": 61.61
+    },
+    {
+      "speaker": "agent",
+      "text": "So if you foreclose your loan today the amount will be just give me a moment let me just check the details",
+      "starttime": 72.88
+    },
+    {
+      "speaker": "agent",
+      "text": "So I would like to tell you that if you wish to foreclose your loan today, the foreclosure amount will be 2 lakh ###rupees पैसा.",
+      "starttime": 89.96
+    },
+    {
+      "speaker": "agent",
+      "text": "including your remaining principle amount and the interest charge to you till the foreclosure",
+      "starttime": 100.71
+    },
+    {
+      "speaker": "customer",
+      "text": "and tomorrow.",
+      "starttime": 106.8
+    },
+    {
+      "speaker": "agent",
+      "text": "and if you",
+      "starttime": 106.85
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, tomorrow it will be 2 lakh ###rupees 0.5 can.",
+      "starttime": 108.3
+    },
+    {
+      "speaker": "customer",
+      "text": "with this.",
+      "starttime": 115.52
+    },
+    {
+      "speaker": "customer",
+      "text": "once",
+      "starttime": 116.79
+    },
+    {
+      "speaker": "agent",
+      "text": "there will be a flat difference because the interest is charged to you on a daily basis.",
+      "starttime": 117.04
+    },
+    {
+      "speaker": "agent",
+      "text": "there will be a difference between the amount.",
+      "starttime": 121.53
+    },
+    {
+      "speaker": "customer",
+      "text": "And",
+      "starttime": 124.11
+    },
+    {
+      "speaker": "customer",
+      "text": "is there any link that you can send me because I can't transfer the  जी.",
+      "starttime": 125.83
+    },
+    {
+      "speaker": "agent",
+      "text": "you cannot make the payment through UPI but you can make the payment through net banking and debit card you will get the option to make the payment from the credit application.",
+      "starttime": 130.83
+    },
+    {
+      "speaker": "agent",
+      "text": "You will get  options UPI debit card and net banking through UPI you cannot make the payment because UPI daily transaction limit is just 1 lakh rupees, but you can definitely make the payment through net banking and debit card.",
+      "starttime": 139.52
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 148.6
+    },
+    {
+      "speaker": "customer",
+      "text": "bank",
+      "starttime": 152.36
+    },
+    {
+      "speaker": "agent",
+      "text": "but you",
+      "starttime": 152.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, but you have to make sure that your daily transaction limit is created in the foreclosure amount.",
+      "starttime": 153.8
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 159.75
+    },
+    {
+      "speaker": "customer",
+      "text": "investment I don't understand. Kindly give me an example,",
+      "starttime": 161.59
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, for example, your debit card limit should be you know, great than the foreclosure amount your foreclosure amount is 2 lakh #### rupees   right? So there is a limit provided to you whenever you are taking a debit card",
+      "starttime": 164.9
+    },
+    {
+      "speaker": "agent",
+      "text": "So that limit should be create than the foreclosure amount because if the limit is lesser then you won't be able to make the payment",
+      "starttime": 179.28
+    },
+    {
+      "speaker": "agent",
+      "text": "So",
+      "starttime": 187.77
+    },
+    {
+      "speaker": "customer",
+      "text": "Understood.  decline ना because of",
+      "starttime": 187.77
+    },
+    {
+      "speaker": "agent",
+      "text": "Correct limit.",
+      "starttime": 189.64
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. Like And once this is done, then I call you and can you send me a",
+      "starttime": 191.29
+    },
+    {
+      "speaker": "customer",
+      "text": "NOC are foreclosure letter because I have to submit it to the",
+      "starttime": 197.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I do understand but as I can check that your lending partner is IDFC First Bank.",
+      "starttime": 201.84
+    },
+    {
+      "speaker": "agent",
+      "text": "regarding that it takes 10 working days to close the loan in the record post which within 24 hours the NOC will be generated.",
+      "starttime": 207.37
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 216.66
+    },
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 218.09
+    },
+    {
+      "speaker": "customer",
+      "text": "No problem.",
+      "starttime": 220.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. You're welcome. So is there anything else I may assist you",
+      "starttime": 222.29
+    },
+    {
+      "speaker": "customer",
+      "text": "No no. That's all. Thanks a lot, yeah.",
+      "starttime": 226.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So before we end this",
+      "starttime": 230.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Can I",
+      "starttime": 231.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. Before we end this call, just so",
+      "starttime": 232.52
+    },
+    {
+      "speaker": "customer",
+      "text": "you give me the third day amount to be payable just side?",
+      "starttime": 235.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, just give me a moment.",
+      "starttime": 239.96
+    },
+    {
+      "speaker": "agent",
+      "text": "I am so sorry but we do not have the visibility of the",
+      "starttime": 245.56
+    },
+    {
+      "speaker": "agent",
+      "text": "ninth of October regarding that, we only have the visibility for 7 and",
+      "starttime": 249.36
+    },
+    {
+      "speaker": "customer",
+      "text": "fine. No problem.",
+      "starttime": 253.75
+    },
+    {
+      "speaker": "customer",
+      "text": "Thanks a lot,",
+      "starttime": 256.58
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome. So, before we end this call, may I request you to share your valuable feedback basis on the conversation we  had?",
+      "starttime": 257.97
+    },
+    {
+      "speaker": "customer",
+      "text": "Definitely. I'll do that.",
+      "starttime": 265.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. So I will transfer this call to the feedback IVR. Over there you can select between 1 to 5, 1 being poor and 5 being excellent. Ok?",
+      "starttime": 267.52
+    },
+    {
+      "speaker": "customer",
+      "text": "I'll do that. definitely.",
+      "starttime": 275.23
+    },
+    {
+      "speaker": "agent",
+      "text": "So thank you for choosing Cred. I hope you have a great day.",
+      "starttime": 277.64
+    },
+    {
+      "speaker": "customer",
+      "text": "Due to  some Take care what placed.",
+      "starttime": 280.97
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank",
+      "starttime": 283.13
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 285.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial. You have just helped us improve the credit experience for all our member.",
+      "starttime": 292.76
+    }
+  ]
+}

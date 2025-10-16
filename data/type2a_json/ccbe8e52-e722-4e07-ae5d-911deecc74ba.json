@@ -1,0 +1,245 @@
+{
+  "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning, साकिब this side I'm here to assist you today. Am I speaking with जगदीश?",
+      "starttime": 17.87
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. Hi, good morning.",
+      "starttime": 22.22
+    },
+    {
+      "speaker": "agent",
+      "text": "you for the name confirmation जगदीश.",
+      "starttime": 23.76
+    },
+    {
+      "speaker": "agent",
+      "text": "I can see that you raised the concern for your insurance payment which you  towards HDFC Life Insurance.",
+      "starttime": 26.04
+    },
+    {
+      "speaker": "agent",
+      "text": "of amount 1 lakh ###rupees.",
+      "starttime": 31.69
+    },
+    {
+      "speaker": "agent",
+      "text": "this  credit balance that you used of 5 rupees",
+      "starttime": 35.27
+    },
+    {
+      "speaker": "agent",
+      "text": "you paid the amount on fourth of October from the HDFC Bank account ending with ###. are using the mode of  UPI.",
+      "starttime": 38.02
+    },
+    {
+      "speaker": "agent",
+      "text": "and गणेश as far as I can see from my",
+      "starttime": 46.47
+    },
+    {
+      "speaker": "agent",
+      "text": "that your payment you have made 2 attempts May I exactly know how many times your amount is debited",
+      "starttime": 50.01
+    },
+    {
+      "speaker": "customer",
+      "text": "I made only 1 attempt and it was debited",
+      "starttime": 56.29
+    },
+    {
+      "speaker": "customer",
+      "text": "and currently, it failed. I'm looking for a refund.",
+      "starttime": 61.39
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 65.15
+    },
+    {
+      "speaker": "customer",
+      "text": "credited into my bank account",
+      "starttime": 66.42
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, जगदीश. So I do understand your concern very कल. Thank you for rating rating your concern.",
+      "starttime": 68.54
+    },
+    {
+      "speaker": "agent",
+      "text": "I really apologize for the inconvenience that you have faced on the credit application. I will surely try my best to help you.",
+      "starttime": 73.84
+    },
+    {
+      "speaker": "agent",
+      "text": "And as   I can see that your transaction was also complete almost completed from our end. But at the very last moment, the transaction got failed due to some technical issue or may be due to some connectivity issues गणेश",
+      "starttime": 79.61
+    },
+    {
+      "speaker": "agent",
+      "text": "and as per as I can see from my end that the refund is also initiated from our end.",
+      "starttime": 90.53
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok? towards the source account from where you just make the payment as IDFC Bank ending with 20 25. It is completed from our end. But to reflect in your bank account. It will take transaction plus 5 to 7 working days.",
+      "starttime": 95.97
+    },
+    {
+      "speaker": "agent",
+      "text": "to reflect in your banking account. Ok?",
+      "starttime": 108.33
+    },
+    {
+      "speaker": "customer",
+      "text": "Why is it that",
+      "starttime": 112.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually,",
+      "starttime": 113.99
+    },
+    {
+      "speaker": "customer",
+      "text": "make  too much right?",
+      "starttime": 114.12
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I do understand that it's too much for but I would like to inform you that  the standard timeline as per the banking",
+      "starttime": 116.28
+    },
+    {
+      "speaker": "agent",
+      "text": "So whatever transaction,   third party do it takes transaction to 5 to 7 working days to reflect on your bank",
+      "starttime": 123.42
+    },
+    {
+      "speaker": "agent",
+      "text": "Even that some time, even from our end, I can see on fifth of October itself. The refund is completed.",
+      "starttime": 130.58
+    },
+    {
+      "speaker": "agent",
+      "text": "that we have initiated the amount and it is completed from our end. It has reached to bank but it takes transaction of 5 to 7 working days to reflect which is the maximum time frame जगदीश. It may happen that it will reflect soon.",
+      "starttime": 136.87
+    },
+    {
+      "speaker": "agent",
+      "text": "or I would like to inform you also the transaction for 5 to 7 working days does not co the second Saturday, Sundays and the bank holidays,",
+      "starttime": 147.64
+    },
+    {
+      "speaker": "agent",
+      "text": "on fourth Saturday, that's why it is taking fourteenth of October at the maximum timeline.",
+      "starttime": 154.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. If",
+      "starttime": 160.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, fourteenth of October.",
+      "starttime": 161.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Which is the maximum time frame जगदीश. If your refund is not received by you till fourteenth of October. After that, you can always raise a call me back request that you haven't received any kind of refund. We will surely assist you with that.",
+      "starttime": 165.25
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, is there any way to expire it",
+      "starttime": 178.72
+    },
+    {
+      "speaker": "agent",
+      "text": "I really apologize जगदीश. but the refund has been completed from our end and now it's depending on the bank end. It is transaction plus 5 to 7 working Just   to reflect over there.",
+      "starttime": 182.47
+    },
+    {
+      "speaker": "agent",
+      "text": "you can connect with your bank with",
+      "starttime": 192.2
+    },
+    {
+      "speaker": "agent",
+      "text": "today",
+      "starttime": 194.5
+    },
+    {
+      "speaker": "agent",
+      "text": "to find about the refund.",
+      "starttime": 196.2
+    },
+    {
+      "speaker": "agent",
+      "text": "after the 7 hours to the 7 days  to be completed. If still you haven't received any kind of refund. You can connect with your bank and request  to check you are you have got any kind of refund",
+      "starttime": 198.63
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok fine. So from your side, you cannot help me  that",
+      "starttime": 210.55
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. from our end जगदीश. the most we have done is the refund is completed from our end.",
+      "starttime": 214.17
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok जगदीश. So anything else I can help you related to credit apart from",
+      "starttime": 222.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, जगदीश. Then may I please request your valuable feedback? This is based on the conversation that we",
+      "starttime": 227.98
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much.",
+      "starttime": 235.29
+    },
+    {
+      "speaker": "agent",
+      "text": "I'll be transferring your call to our IVR feedback over there you can rate between 5 to 1, 5 being excellent and 1 being poor. Ok?",
+      "starttime": 236.35
+    },
+    {
+      "speaker": "agent",
+      "text": "you for choosing. Have a great day.",
+      "starttime": 243.17
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 246.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to rate. You have just helped us improve the credit experience for all our members.",
+      "starttime": 254.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 262.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 265.8
+    }
+  ]
+}

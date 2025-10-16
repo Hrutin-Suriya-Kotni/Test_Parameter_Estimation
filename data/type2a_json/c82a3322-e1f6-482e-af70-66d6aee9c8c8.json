@@ -1,0 +1,310 @@
+{
+  "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is  I'm here to assist you today. Am I speaking with",
+      "starttime": 19.22
+    },
+    {
+      "speaker": "agent",
+      "text": "Can",
+      "starttime": 23.08
+    },
+    {
+      "speaker": "agent",
+      "text": "you for confirming.",
+      "starttime": 26.74
+    },
+    {
+      "speaker": "agent",
+      "text": "As I can see that you have a request regards to repayment Am I right? of the fourth of the second seventh October.",
+      "starttime": 28.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Can you please tell me what is the exact issue you are facing regarding the auto payment sorry, the repayment?",
+      "starttime": 36.26
+    },
+    {
+      "speaker": "customer",
+      "text": "my amount was paid not deducted the amount  amount is refunded us today",
+      "starttime": 40.35
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry but I couldn't understand your query. Can you please reach",
+      "starttime": 49.63
+    },
+    {
+      "speaker": "customer",
+      "text": "amount not my amount pay in today",
+      "starttime": 54.45
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 59.72
+    },
+    {
+      "speaker": "customer",
+      "text": "transfer problem is payment is pending, so  15 minutes amount credited to my account repayment",
+      "starttime": 60.97
+    },
+    {
+      "speaker": "agent",
+      "text": "So as I can understand what you are trying to say is that on seventh  October the auto debit got tracked right?",
+      "starttime": 72.66
+    },
+    {
+      "speaker": "agent",
+      "text": "and on second seventh October itself. you tried to pay the EMI manually but it failed.",
+      "starttime": 80.98
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, ok.",
+      "starttime": 81.12
+    },
+    {
+      "speaker": "agent",
+      "text": "and the",
+      "starttime": 86.89
+    },
+    {
+      "speaker": "agent",
+      "text": "a  refund of it?",
+      "starttime": 88.2
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, today auto debited  not debited.",
+      "starttime": 91.27
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so you want to know whether the whether you auto debit  to be trigger or not?",
+      "starttime": 96.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Just allow me some time. I'm checking the details and I'm really sorry for the inconvenience  you are facing but don't worry I will try my best to help you.",
+      "starttime": 102.36
+    },
+    {
+      "speaker": "agent",
+      "text": "Please be online.",
+      "starttime": 113.41
+    },
+    {
+      "speaker": "agent",
+      "text": "can I please put your call on hold for a minute?",
+      "starttime": 115.42
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 165.03
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 167.65
+    },
+    {
+      "speaker": "agent",
+      "text": "you for staying on hold. and really sorry for the long hold. As I can see that the auto debit is still in processing state. ok? So I would request you to wait for 48 hours within that 48 hours. The payment  the auto debit but",
+      "starttime": 176.46
+    },
+    {
+      "speaker": "agent",
+      "text": "auto debit might be failed or completed. Ok? If you get an update from regarding",
+      "starttime": 192.63
+    },
+    {
+      "speaker": "customer",
+      "text": "auto auto debited in last day  today,",
+      "starttime": 196.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, auto debit your due is seventh of every month. So definitely it is",
+      "starttime": 200.56
+    },
+    {
+      "speaker": "agent",
+      "text": "date of auto debit. Ok. So I request you to wait for 48 hours. Ok?",
+      "starttime": 206.18
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok,   charge  No  ma'am, no no.",
+      "starttime": 209.64
+    },
+    {
+      "speaker": "customer",
+      "text": "charge charge  चारों",
+      "starttime": 215.02
+    },
+    {
+      "speaker": "agent",
+      "text": "there is a extra charge for EMI, but see if it fail, then there might be some ECS charges ok?",
+      "starttime": 218.16
+    },
+    {
+      "speaker": "agent",
+      "text": "from your",
+      "starttime": 224.45
+    },
+    {
+      "speaker": "agent",
+      "text": "So for that, if you need any help you can call us back. Ok? We will help you regarding",
+      "starttime": 225.94
+    },
+    {
+      "speaker": "customer",
+      "text": "auto debit auto debit at the timing",
+      "starttime": 229.31
+    },
+    {
+      "speaker": "agent",
+      "text": "see auto debit doesn't have any exact time because it can be the anytime within the due date within the 24 hours of the due date. Ok? So we don't have any kind of fix time  auto debit.",
+      "starttime": 232.67
+    },
+    {
+      "speaker": "agent",
+      "text": "ok? So I would request you to maintain  sufficient funds",
+      "starttime": 245.09
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 245.51
+    },
+    {
+      "speaker": "customer",
+      "text": "again today",
+      "starttime": 246.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am today in last day  man was manually pay so auto",
+      "starttime": 248.65
+    },
+    {
+      "speaker": "agent",
+      "text": "I would request you to wait for 48 hours. even  after 48 hours if the payment",
+      "starttime": 256.4
+    },
+    {
+      "speaker": "agent",
+      "text": "auto debit got failed, gets fail then after that, you can pay the EMI manually.",
+      "starttime": 261.75
+    },
+    {
+      "speaker": "agent",
+      "text": "But as of now, I would request you to wait because if you pay  again, there might be some double debit problem.",
+      "starttime": 266.66
+    },
+    {
+      "speaker": "agent",
+      "text": "ok? So I would request you to wait for 48 hours.",
+      "starttime": 272.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 272.51
+    },
+    {
+      "speaker": "agent",
+      "text": "So is there anything else I can help you with?",
+      "starttime": 277.41
+    },
+    {
+      "speaker": "customer",
+      "text": "No,",
+      "starttime": 282.28
+    },
+    {
+      "speaker": "customer",
+      "text": "the credit  customer contact now.",
+      "starttime": 283.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Unfortunately, we don't have any kind of customer care number for",
+      "starttime": 288.17
+    },
+    {
+      "speaker": "agent",
+      "text": "But you can call us back to the voucher that you made previously calling us.",
+      "starttime": 292.68
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok ok.",
+      "starttime": 297.77
+    },
+    {
+      "speaker": "agent",
+      "text": "and if you need any help, please feel free to reach out to us.",
+      "starttime": 299.83
+    },
+    {
+      "speaker": "customer",
+      "text": "No no.",
+      "starttime": 302.08
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 304.14
+    },
+    {
+      "speaker": "agent",
+      "text": "is there anything else I can help you",
+      "starttime": 305.92
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So before ending this call, can I ask you to give us valuable feedback on the basis of our conversation?",
+      "starttime": 310.21
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 316.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So I will transfer your call to feedback IVR. You can select between 1 to 5. 5 being excellent and 1 being 4. Thank you for choosing. I hope you have a great day.",
+      "starttime": 318.19
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 327.86
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok",
+      "starttime": 328.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Please, you have just helped us improve the credit experience for all our members.",
+      "starttime": 335.49
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 340.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 344.35
+    }
+  ]
+}

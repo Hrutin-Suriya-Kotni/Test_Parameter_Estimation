@@ -1,0 +1,405 @@
+{
+  "conversation_id": "f107d468-c4c5-46ee-926a-66c62a1ad910",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This side सुमित. May I assist you today? Am I speaking with उमेश?",
+      "starttime": 17.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, am I speaking with सुरेश?",
+      "starttime": 23.3
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am बोलिए.",
+      "starttime": 25.85
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद आपका नाम confirm करने के लिए भी.",
+      "starttime": 27.91
+    },
+    {
+      "speaker": "agent",
+      "text": "तो जैसे कि मैं देख पा रही",
+      "starttime": 30.59
+    },
+    {
+      "speaker": "customer",
+      "text": "एक second mail एक second.",
+      "starttime": 31.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, so जैसे कि मैं देख पा रही हूं उमेश जी आपने अपना concern raise किया है regarding withdrawal issue की क्या यह सही",
+      "starttime": 39.7
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am actually मैंने कल एक payment किया था परसो sorry.",
+      "starttime": 47.1
+    },
+    {
+      "speaker": "customer",
+      "text": "उसमें मेरी limit ना refresh दिखा रही है जो कि मैंने foreclose करके एक amount submit किया",
+      "starttime": 51.69
+    },
+    {
+      "speaker": "customer",
+      "text": "और वह limit foreclose दिखाने के बाद भी मेरे को ना limit नहीं दिख रही अपनी",
+      "starttime": 57.56
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually मेरा exact concern यही है कि मेरे को limit क्यों नहीं दिखा जब वह refresh हो चुकी",
+      "starttime": 61.78
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या reason है उसका?",
+      "starttime": 67.16
+    },
+    {
+      "speaker": "agent",
+      "text": "है.  आपकी परेशानी",
+      "starttime": 68.58
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं request करवाना",
+      "starttime": 68.97
+    },
+    {
+      "speaker": "agent",
+      "text": "परेशानी के लिए हमें खेद है. आप निश्चिंत रहिए. मैं आपको ज़रूर बता दूंगी पहली बात तो देखिए कि मैं देख पा रही हूं कि आपका अभी तक",
+      "starttime": 70.55
+    },
+    {
+      "speaker": "agent",
+      "text": "ongoing  loan चल रहा है और आप बता रहे हैं कि आपने परसों पर एक  foreclose करके.",
+      "starttime": 78.11
+    },
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 83.85
+    },
+    {
+      "speaker": "agent",
+      "text": "आपकी बात बिल्कुल सही है कि loan close करने के बाद वह amount जो है वह restore हो जाते हैं. लेकिन अभी फिर आपका lending partner है ना वह क्या करें कि priority आपका जो internal assessment, policies है उसका data rate कर रहे हैं.   करने के बाद वह आपको offer provide करते हैं. ठीक है? तो right now अभी आपके लिए जो offer चल रहा था वह offer अभी नहीं है. In future आपका data  करने के बाद अगर कोई नया offer आते हैं या कोई दूसरा landing partner आपको कोई offer देता है preapproved loan के लिए तब जाकर आपको वहां पर application में show करेंगे. तो अभी आपका जो once loan चल रहा है या फिर जो loan आपने foreclose करने वह   loan foreclose करने के बाद भी वह आपका store नहीं",
+      "starttime": 83.95
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am क्या  reason क्या उसका?",
+      "starttime": 125.72
+    },
+    {
+      "speaker": "agent",
+      "text": "वही है कि अभी कीजिए वह offer खत्म हो चुका है और अभी के लिए lending partner जो है नया offer नहीं किया है. अगर नया offer देते हैं तो वहां पर आपको show करते हैं. तो अगर आपका जो ongoing loan है वह अगर आप for close भी कर देते हैं तो वह आपका restore नहीं होगा क्योंकि वह offer खत्म हो चुके",
+      "starttime": 128.11
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am मेरा total 2  2 lakh का था ना total जो loan था 2 lakh का sanction letter था वह तो है उसमें से ऐसे कैसे खत्म कर सकते हैं cancel letter तो already उन्होंने provide कराया था ना",
+      "starttime": 144.24
+    },
+    {
+      "speaker": "agent",
+      "text": "sanction sanction letter आपको दिया गया था. ठीक है? लेकिन loan लेने के बाद आप loan foreclose करते हैं तो वह आपका limit approved मतलब store हो जाता है तो आप second loan ले सकते",
+      "starttime": 153.73
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 157.14
+    },
+    {
+      "speaker": "agent",
+      "text": "क्योंकि जो loan का जो  होता है time वह चल रहा है आपका approved loan तब तक चल रहा है जब तक आप  close करके दूसरा loan ले रहे हैं. लेकिन अभी जो है आपका वह offer नहीं है. तो अगर आप अपना previous loan close कर लेते हैं. तो अभी के नहीं आप कोई loan नहीं दे पाएंगे. अगर in future आपका date दुबारा से   किया जाता है. तो any करने के बाद अगर कोई नया offer आता है आपका same lending partner या दूसरा कोई lending partners से तब जाकर आप दुबारा से loan दे पाएंगे. तो अभी के लिए आपके पास pre approved का कोई loan का offer",
+      "starttime": 164.38
+    },
+    {
+      "speaker": "customer",
+      "text": "जी exactly.",
+      "starttime": 164.44
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको यह बताना",
+      "starttime": 194.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam यह  पता कैसे चलेगा यह चीज़ पता कैसे चलेगा  Actually मैं कुछ plan कर रहा हूं कि मैं अपना foreclose करने के लिए कि मैं foreclose करूंगा तो मेरे को जो मेरा  amount था वह मैं वहां से निकाल पाऊंगा. इस चीज़ का update कैसे होगा यह तो customer को ना तो बताने वाला का मैं कि आपका pre approved है restore हो जाएगा आपके application पर दिखा 24 hours के बाद में restore हो जाएगा. Even जो payment हो चुका है उसमें आप timing भी दे",
+      "starttime": 195.29
+    },
+    {
+      "speaker": "customer",
+      "text": "पीछे October को बारह बजे तीस minute पर आपका refresh हो चुका",
+      "starttime": 219.93
+    },
+    {
+      "speaker": "agent",
+      "text": "के बाद मैं समझ पा रही हूं. वही तो मैं आपको बता रही हूं आपकी बात बिल्कुल सही है. loan foreclose करने के बाद वह आपका restore हो जाता है. However, अभी आपके पास कोई offer नहीं है क्योंकि lender ने आपको offer नहीं",
+      "starttime": 225.5
+    },
+    {
+      "speaker": "customer",
+      "text": "update है ना वह तो",
+      "starttime": 225.51
+    },
+    {
+      "speaker": "customer",
+      "text": "तो ma'am  पहले पहले दिखना चाहिए ना कि आप जब मैं customer को foreclose करने जा रहा है तो वहां पर mention होना चाहिए कि आपका pre approved further नहीं है आप फिर भी close करना चाहते तो कर सकते",
+      "starttime": 235.89
+    },
+    {
+      "speaker": "customer",
+      "text": "वह चीज़  mention होनी चाहिए ना customer को भी plan कर रहा है उस plan के साथ में वह अपने आगे बढ़ रहा है आपको payment दे रहा है. मैं आपको EMI  तीन तारीख को EMI दिया चार तारीख को मैं क्यों foreclose करूंगा.",
+      "starttime": 248.06
+    },
+    {
+      "speaker": "customer",
+      "text": "कुछ reasons होगा तभी तो करूंगा?",
+      "starttime": 258.59
+    },
+    {
+      "speaker": "customer",
+      "text": "और मैंने उसको mention भी किया कि  नहीं आपने reason भी पुछा कि आप क्यों foreclose कर रहे हैं  उसमें reasons पुछा जाता है तो मैंने उसको mention लीजिए.",
+      "starttime": 260.7
+    },
+    {
+      "speaker": "agent",
+      "text": "आपकी बात बिल्कुल सही है.",
+      "starttime": 260.72
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या want again",
+      "starttime": 269.51
+    },
+    {
+      "speaker": "agent",
+      "text": "वह बात आपकी बिल्कुल सही है. ठीक है? जैसे मैं आपको बता रही हूं कि आपका internal assist policy date  and करने के बाद आपको offer दिया जा",
+      "starttime": 272.53
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am assessment, क्या हुआ है? Ma'am assessment, क्या हुआ है मेरी EMI bounce नहीं",
+      "starttime": 279.09
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या मेरे last जब से आपका credit cash मैंने लिया है कोई भी  EMI bounce हुई है क्या क्या assistant किया उन्होंने",
+      "starttime": 283.94
+    },
+    {
+      "speaker": "agent",
+      "text": "उसके ऊपर नहीं होता है उसके अलग से criteria होता है जिसका",
+      "starttime": 289.4
+    },
+    {
+      "speaker": "customer",
+      "text": "किस चीज़ के ऊपर होता है ना किस चीज़ के ऊपर होता है ma'am किस चीज़ के ऊपर",
+      "starttime": 291.61
+    },
+    {
+      "speaker": "agent",
+      "text": "वही मैं बता रही हूं please kindly मुझे बताना दीजिए माफ़ी चाहती हूं आपको interrupt करने के.",
+      "starttime": 293.79
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपको यह बता रही हूं",
+      "starttime": 298.79
+    },
+    {
+      "speaker": "agent",
+      "text": "का जो criterias होते हैं वह lender to lender depend करते हैं और हमारे पास उसका clear visibility नहीं है. तो अगर कोई lender आपको offer नहीं दे रहे हैं तो आप उससे loan of नहीं कर पाएंगे. मैं आपको यह बता रही हूं कि हमारे different lender भी है. अगर वह आपका assistant देखने के बाद अगर कोई offer आता है तो आपको notify दिया जाएंगे जैसे आपको पहले दिया गया था SMS और WhatsApp notification के द्वारा. लेकिन अभी के लिए आपकी currently कोई offer",
+      "starttime": 300.76
+    },
+    {
+      "speaker": "customer",
+      "text": "आप पता कीजिए ना कौन से lender के पास offer है मेरी जो limit आपने आपके यहां से दो लाख रुपए की थी थी मेरे को उसमें से मैंने आपका #### का close कर दिया तो वह #### बाकी मतलब मेरा वह sent letter restore हो गया खत्म हो",
+      "starttime": 327.24
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं आपका remaining amount नहीं देता हूं तो मेरे को कोई कुछ भी legal visa कुछ नहीं होगा",
+      "starttime": 342.19
+    },
+    {
+      "speaker": "customer",
+      "text": "As per agreement आपके हिसाब से agreement खत्म हो गया ना वह मुझे दो लाख रुपए का जो दिया गया था benefit मैंने foreclose किया वह खत्म हो गया. तो बचा हुआ amount  क्यों",
+      "starttime": 347.25
+    },
+    {
+      "speaker": "agent",
+      "text": "जो",
+      "starttime": 347.3
+    },
+    {
+      "speaker": "agent",
+      "text": "अगर आप loan foreclose करते हैं तभी होगा क्योंकि आपको already on   loan चल रहे",
+      "starttime": 354.71
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am foreclose foreclose कहां किया है मैंने एक किया है ना वह amount क्यों नहीं दिख रही है फिर मुझे बात तो पूरा थोड़ी ना किया foreclose.",
+      "starttime": 360.11
+    },
+    {
+      "speaker": "agent",
+      "text": "क्योंकि आपका जो offer का limit होता है time वह आपका अभी नहीं है. अगर आपको loan foreclose करके वह आपको  दूंगी.",
+      "starttime": 366.0
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am आप मुझे आप मुझे पता नहीं है. आप मुझे बताएंगे मेरी offer limit कब generate ही कितने time के लिए valid",
+      "starttime": 371.21
+    },
+    {
+      "speaker": "agent",
+      "text": "देखिए वह हमारे पास visibility नहीं है. अभी के लिए आपका जो system में देख रहे हैं. मैं आपको उसी के basis पर आपको information दे सकती हूं. तो अगर in future कोई offer आएगा आपको ज़रूर notify कर दे जाएंगे.",
+      "starttime": 379.45
+    },
+    {
+      "speaker": "customer",
+      "text": "करे ma'am आपसे तो बिल्कुल नहीं लेंगे फिर यह तो बहुत गलत बात है कि customer को कुछ भी बोलकर कुछ भी देना बाद में कुछ भी visibility आपके पास  नहीं तो क्यों फिर हम credit को use करने",
+      "starttime": 390.96
+    },
+    {
+      "speaker": "agent",
+      "text": "क्योंकि जो होता है वह lending partner देते हैं तो उसके ऊपर depend कर जाएगा.",
+      "starttime": 400.85
+    },
+    {
+      "speaker": "customer",
+      "text": "I am using the",
+      "starttime": 401.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am lending partner के साथ आपके अभी तो कुछ banking होंगे  customer आपका है ना मैं customer आपका हूं ना lending partner का थोड़ी ना आप.",
+      "starttime": 404.12
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं credit का customer नया lending partner का  lending partner का होता direct lending partner  जाएगा",
+      "starttime": 411.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Definitely.",
+      "starttime": 411.56
+    },
+    {
+      "speaker": "agent",
+      "text": "आप हमारे platform से loan  है यह बात बिल्कुल सही है. लेकिन आपको offer जो करते हैं वह lending partner करते हैं. तो अभी के लिए वह offer नहीं है पर यह नहीं बोल रहा हूं कि यह permanent है. यह temporary के लिए है. जब in future होगा आपको बता दे",
+      "starttime": 413.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am मेरे को मेरे को कल किसी ma'am मेरे को कल किसी को payment देना है तो मैं आपके offer का इंतज़ार करूं और जिसको payment करना था वह नहीं   या मेरे को CRED जब Cred का lending partner offer देगा तब मैं तो मैं payment करूंगा.",
+      "starttime": 426.09
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या आप मेरी  बात सुनो गए मैं आपकी EMI में हूं तो आप मेरी बात सुनो गए कि नहीं भाई  मेरे को दूसरे partner ने अभी offer नहीं दिया है जब offer आएगा मैं वहां से पैसे लूंगा तब आपकी EMI चुका",
+      "starttime": 439.22
+    },
+    {
+      "speaker": "agent",
+      "text": "उमेश जी मैंने already आपको इस पर",
+      "starttime": 453.18
+    },
+    {
+      "speaker": "customer",
+      "text": "यही जब आप दे रहे हैं ma'am  ma'am क्या ही जब आप दे रहे हैं आप मुझे संतुष्ट करने की वजह उल्टा हमारे हैं आपको कि नहीं ऐसा नहीं होता है ऐसा होता",
+      "starttime": 453.68
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपको कोई गलत information यहां से provide नहीं कर सकते. हमारे पास  information मैं आपको वही बता",
+      "starttime": 459.33
+    },
+    {
+      "speaker": "agent",
+      "text": "अभी आपको कोई offer नहीं है. अगर होगा   inform किया जाएंगे. तब अगर आपको request होंगे तो तब आप loan ले सकते हैं. अगर request",
+      "starttime": 465.48
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am यह offer ma'am यह offer आज से दो महीने पहले तक था आज खत्म हो.",
+      "starttime": 472.18
+    },
+    {
+      "speaker": "customer",
+      "text": "foreclose करने के time पर खत्म हो",
+      "starttime": 476.78
+    },
+    {
+      "speaker": "customer",
+      "text": "दो महीने पहले आप offer लिया दो महीने पहले मैंने आपका लिया है ना एक दो महीने पहले मैंने आपका एक लिया  ना 2000 का उसमें से मेरी limit में ऐसे  ही limit खत्म कर दिया आपने",
+      "starttime": 480.01
+    },
+    {
+      "speaker": "agent",
+      "text": "foreclose के time पर",
+      "starttime": 480.19
+    },
+    {
+      "speaker": "customer",
+      "text": "payment की ना",
+      "starttime": 489.44
+    },
+    {
+      "speaker": "customer",
+      "text": "शादी limit कैसे खत्म कर सकते हैं या पूरी खत्म किसी",
+      "starttime": 492.65
+    },
+    {
+      "speaker": "agent",
+      "text": "है अभी आपका approved limit 0 दिखा रहा है क्योंकि अभी वहां पर कोई offer नहीं है. मैं आपको बार बार यह बता रही हूं कि beach में आपका offer change हो चुका है. अभी के लिए कोई offer नहीं है. तो अभी आप loan withdraw नहीं कर सकते.",
+      "starttime": 496.71
+    },
+    {
+      "speaker": "customer",
+      "text": "कोई बात नहीं है madam धन्यवाद आपका बहुत बहुत",
+      "starttime": 509.2
+    },
+    {
+      "speaker": "customer",
+      "text": "आधार यह हम आपके कि आपने हमें बता दिया वह तो हमें भी दिख रहा था उसमें नहीं",
+      "starttime": 512.02
+    },
+    {
+      "speaker": "customer",
+      "text": "बहुत बहुत धन्यवाद आपका",
+      "starttime": 516.88
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you so much.",
+      "starttime": 519.58
+    },
+    {
+      "speaker": "agent",
+      "text": "और कोई जानकारी देकर आपको सहायता कर सकते",
+      "starttime": 523.12
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am कोई और जानकारी की ज़रूरत ही नहीं है. तो जानकारी चाहिए थी वह आप  correct नहीं दे पा रहे हो तो मैं क्या करूंगा जानकारी",
+      "starttime": 524.69
+    },
+    {
+      "speaker": "agent",
+      "text": "छोटी सी request है",
+      "starttime": 534.83
+    }
+  ]
+}

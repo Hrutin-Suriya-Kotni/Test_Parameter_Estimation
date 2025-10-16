@@ -13,6 +13,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from model_clients.base_client import BaseModelClient
 from dotenv import load_dotenv
+from model_config import ModelConfig
 
 # Load environment variables
 load_dotenv()
@@ -26,6 +27,12 @@ class GeminiClient(BaseModelClient):
         self.api_key = None
         self.model = None
         self.safety_settings = None
+        # Load model settings from ModelConfig
+        gemini_cfg = ModelConfig.get_model_config('gemini') or {}
+        cfg = gemini_cfg.get('config', {})
+        self._configured_model_name = cfg.get('model', 'gemini-2.0-flash-exp')
+        self._configured_temperature = cfg.get('temperature', 0.1)
+        self._configured_max_tokens = cfg.get('max_output_tokens', 256)
     
     def initialize(self) -> bool:
         """Initialize the Gemini client"""
@@ -40,7 +47,7 @@ class GeminiClient(BaseModelClient):
                 raise ValueError("GEMINI_API_KEY not found in .env file. Please add it to your .env file.")
             
             genai.configure(api_key=self.api_key)
-            self.model = genai.GenerativeModel('gemini-2.0-flash-exp')
+            self.model = genai.GenerativeModel(self._configured_model_name)
             
             # Safety settings to avoid blocking
             self.safety_settings = {
@@ -81,8 +88,8 @@ Transcript:
                 enhanced_prompt,
                 safety_settings=self.safety_settings,
                 generation_config={
-                    'temperature': 0.1,  # Low temperature for consistent results
-                    'max_output_tokens': 256  # Reduced for faster inference
+                    'temperature': self._configured_temperature,  # Config-driven temperature
+                    'max_output_tokens': self._configured_max_tokens  # Config-driven tokens
                 }
             )
             return response.text

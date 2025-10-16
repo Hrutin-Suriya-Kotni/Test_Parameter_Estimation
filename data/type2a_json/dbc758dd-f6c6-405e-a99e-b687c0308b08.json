@@ -1,0 +1,955 @@
+{
+  "conversation_id": "dbc758dd-f6c6-405e-a99e-b687c0308b08",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning, this is शुमित. I'm here to help you today. Am I speaking with विजया प्रसाद?",
+      "starttime": 16.91
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning, this is सुमित. I am here to help you today. Am I speaking with विजय प्रसाद?",
+      "starttime": 25.65
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, madam. Yes, I am   madam. Good morning, Very good morning.",
+      "starttime": 30.32
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much for confirming. And very good morning. So I can check your concern is regarding  vehicle insurance.",
+      "starttime": 34.76
+    },
+    {
+      "speaker": "agent",
+      "text": "for 1 of your vehicle and vehicle number end with double 6 double 2. right?",
+      "starttime": 40.33
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes madam. Yes",
+      "starttime": 45.0
+    },
+    {
+      "speaker": "agent",
+      "text": "So can you please tell me  detail what issue you are facing regarding this policy? So that I can help",
+      "starttime": 46.54
+    },
+    {
+      "speaker": "customer",
+      "text": "हां. Madam actually I I want to know where is the garage in the other products in rate Monday.",
+      "starttime": 52.55
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so you want to know the network garage?",
+      "starttime": 62.81
+    },
+    {
+      "speaker": "agent",
+      "text": "for your vehicle Ok ok. Understood.",
+      "starttime": 65.81
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 65.91
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me just 1 minute so that I",
+      "starttime": 68.7
+    },
+    {
+      "speaker": "customer",
+      "text": "Are you comfortable हिंदी madam?",
+      "starttime": 69.91
+    },
+    {
+      "speaker": "agent",
+      "text": "जी बिल्कुल हिंदी में बात कर सकते",
+      "starttime": 73.05
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, हिंदी में थोड़ा सा बोल दीजिए राज entry  मैं  face कर रहने वाला  और  money है. कल ही मैंने आपका renewal किया था आपका credit insurance or insurance.",
+      "starttime": 75.04
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन  मालूम नहीं हो रहा है where is the जो garage your",
+      "starttime": 87.56
+    },
+    {
+      "speaker": "customer",
+      "text": "consult garage, ok?",
+      "starttime": 94.6
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं check कर लेती हूं please call पर बने रहिएगा.",
+      "starttime": 96.71
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 100.54
+    },
+    {
+      "speaker": "agent",
+      "text": "आप एक बार confirm कीजिए जो policy आप करते हैं यह go digit से आप करते हैं",
+      "starttime": 101.87
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes madam.",
+      "starttime": 107.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं check करने की कोशिश करती हूं मेरे end से go digit के लिए आपके location के आस पास जो network garage है वह कहां available",
+      "starttime": 108.1
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आप एक बार क्या confirm करेंगे अंदर प्रदेश के location जो आप बताएंगे  और एक बार आप बता पाएंगे.",
+      "starttime": 116.23
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, राज महेंद्र here राज मंडल both are same. राज My",
+      "starttime": 122.36
+    },
+    {
+      "speaker": "agent",
+      "text": "Can you आप क्या spelling एक बार बता पाएंगे.",
+      "starttime": 128.03
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, r  j   m  n d r",
+      "starttime": 130.85
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं check कर लेती हूं एक बार Ok राज महेंद्र",
+      "starttime": 142.34
+    },
+    {
+      "speaker": "customer",
+      "text": "Otherwise राज महेंद्र  अभी latest  change किया था राज महेंद्र वन करके.",
+      "starttime": 145.48
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, राज महेंद्र बार   राजेंद्र",
+      "starttime": 151.69
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, राजेंद्र",
+      "starttime": 154.57
+    },
+    {
+      "speaker": "agent",
+      "text": "दोनों same",
+      "starttime": 155.16
+    },
+    {
+      "speaker": "customer",
+      "text": "पुराना नाम था राज मन अभी जो latest change किया था राज महेंद्र",
+      "starttime": 156.06
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं एक बार कोशिश करती हूं मेरे end से  details को check करने के लिए मैं request करूंगी please call पर बने रहिएगा.",
+      "starttime": 164.28
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या इसके लिए मैं आपके call को बस एक minute के लिए hold पर रख सकती हूं ताकि मैं details check कर",
+      "starttime": 170.28
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok madam.",
+      "starttime": 170.38
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, रख लीजिए रख लीजिए exactly.",
+      "starttime": 173.98
+    },
+    {
+      "speaker": "agent",
+      "text": "please call पर बने रहिएगा.",
+      "starttime": 175.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Hold पर रहने के लिए बहुत बहुत धन्यवाद आप मुझे sun पा रहे",
+      "starttime": 292.71
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes madam. बोलिए.",
+      "starttime": 296.59
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी लंबे hold के लिए. तो आप एक बार confirm करेंगे राजेंद्र report के पास आप देखना चाह रहे हैं मधुरा पूरी या Railway station",
+      "starttime": 298.5
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मगर को report में कोई charges नहीं madam.",
+      "starttime": 305.7
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok तो आप  राज मत कर कौन से education पर आप देखना चाह रहे हैं हमारे यहां पर कुछ details available  जैसे हम देख पा रहे हैं",
+      "starttime": 310.16
+    },
+    {
+      "speaker": "customer",
+      "text": "लालच डाला कर दिया देव  अगर नहीं तो वह compa",
+      "starttime": 316.0
+    },
+    {
+      "speaker": "customer",
+      "text": "or",
+      "starttime": 324.47
+    },
+    {
+      "speaker": "agent",
+      "text": "लाल",
+      "starttime": 324.94
+    },
+    {
+      "speaker": "agent",
+      "text": "लाल  डाला",
+      "starttime": 326.17
+    },
+    {
+      "speaker": "agent",
+      "text": "भानवर?",
+      "starttime": 330.17
+    },
+    {
+      "speaker": "customer",
+      "text": "or more more  come back",
+      "starttime": 333.73
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा",
+      "starttime": 333.84
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं कोशिश करती हूं check करने के",
+      "starttime": 337.38
+    },
+    {
+      "speaker": "agent",
+      "text": "तो पहले आपने जो बताया कि राज मेरे लाल  road जो है वहां पर कुछ",
+      "starttime": 344.33
+    },
+    {
+      "speaker": "agent",
+      "text": "cashless garage दिख रहे हैं go digit",
+      "starttime": 351.5
+    },
+    {
+      "speaker": "agent",
+      "text": "एक का नाम है universal model",
+      "starttime": 354.54
+    },
+    {
+      "speaker": "agent",
+      "text": "4  राज मोदी.",
+      "starttime": 357.43
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 359.76
+    },
+    {
+      "speaker": "agent",
+      "text": "जो जिसका location हम देख पा रहे हैं query number   1 market state 11 color.",
+      "starttime": 361.54
+    },
+    {
+      "speaker": "agent",
+      "text": "बार नगर, राज महेंद्र.",
+      "starttime": 368.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 371.37
+    },
+    {
+      "speaker": "agent",
+      "text": "एक और दिख रहे हैं 3  auto part राजन जी एक है universal model 4",
+      "starttime": 371.38
+    },
+    {
+      "speaker": "agent",
+      "text": "राजन जी एक   auto part राजन जी साथ साथ एक दिख रहे हैं गोवा very auto scanner",
+      "starttime": 377.59
+    },
+    {
+      "speaker": "agent",
+      "text": "for",
+      "starttime": 383.79
+    },
+    {
+      "speaker": "agent",
+      "text": "सात सात और",
+      "starttime": 385.52
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam यह सब यह जो garage है actually  physical का चाहिए ना  garage चाहिए.",
+      "starttime": 385.79
+    },
+    {
+      "speaker": "agent",
+      "text": "तो",
+      "starttime": 395.63
+    },
+    {
+      "speaker": "customer",
+      "text": "वह हर garage में हर card तो repeat नहीं करेगा.",
+      "starttime": 395.73
+    },
+    {
+      "speaker": "customer",
+      "text": "garage जो है वह particular mark bill   जो repay करता है वह जो mark का garage जाइए.",
+      "starttime": 399.46
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check करने की कोशिश करती",
+      "starttime": 408.57
+    },
+    {
+      "speaker": "agent",
+      "text": "कि इसमें अलग से यहां पर mention किया है कि नहीं ok.",
+      "starttime": 413.25
+    },
+    {
+      "speaker": "customer",
+      "text": "यह  में देखिए  में    garage का ऐसा कुछ",
+      "starttime": 415.56
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर लेती हूं please call पर बने रहिएगा.",
+      "starttime": 423.66
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने अभी बताया था कि लाल  वहां पर ही हम search कर रहे",
+      "starttime": 428.23
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर लेती हूं हम  बता आपका",
+      "starttime": 433.58
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, 1 more tomorrow.",
+      "starttime": 435.98
+    },
+    {
+      "speaker": "agent",
+      "text": "मधुरा?",
+      "starttime": 447.72
+    },
+    {
+      "speaker": "agent",
+      "text": "राजेंद्र नरेश? Ok.",
+      "starttime": 449.09
+    },
+    {
+      "speaker": "customer",
+      "text": "हां क्या garage का नाम क्या",
+      "starttime": 450.8
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर लेती हूं वो रुपए आप  बता देखने को बताए",
+      "starttime": 454.36
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी",
+      "starttime": 458.52
+    },
+    {
+      "speaker": "agent",
+      "text": "सही के नहीं है तो कुछ details",
+      "starttime": 458.74
+    },
+    {
+      "speaker": "customer",
+      "text": "यह मेरा nearest पड़ता है वो मोलिक",
+      "starttime": 460.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok और गाड़ी जो है आपके power है मानते ले",
+      "starttime": 462.84
+    },
+    {
+      "speaker": "customer",
+      "text": "हां,  hello.  Hello.",
+      "starttime": 466.2
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check करने की कोशिश करती",
+      "starttime": 472.24
+    },
+    {
+      "speaker": "agent",
+      "text": "एक दिख रहे हैं गोपाल auto mobile.",
+      "starttime": 480.7
+    },
+    {
+      "speaker": "agent",
+      "text": "Please got very survey number 5  2 slash 1.",
+      "starttime": 485.37
+    },
+    {
+      "speaker": "agent",
+      "text": "लाल   राज मुरी यहां पर दिख रहे हैं और एक   auto mobile",
+      "starttime": 490.13
+    },
+    {
+      "speaker": "agent",
+      "text": "एक S B मारुति राज",
+      "starttime": 498.74
+    },
+    {
+      "speaker": "customer",
+      "text": "address बता as  a",
+      "starttime": 501.91
+    },
+    {
+      "speaker": "agent",
+      "text": "जी राजेंद्र का जो address है वह है राज अंदर.",
+      "starttime": 504.61
+    },
+    {
+      "speaker": "agent",
+      "text": "###",
+      "starttime": 509.96
+    },
+    {
+      "speaker": "agent",
+      "text": "flash",
+      "starttime": 514.77
+    },
+    {
+      "speaker": "agent",
+      "text": "opposite f I go down.",
+      "starttime": 517.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 520.83
+    },
+    {
+      "speaker": "agent",
+      "text": "I go down.",
+      "starttime": 522.89
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 524.69
+    },
+    {
+      "speaker": "agent",
+      "text": "नारायण? पूरा.",
+      "starttime": 526.11
+    },
+    {
+      "speaker": "agent",
+      "text": "लाल   राज मोदी  प्रदेश PIN code है 5 double   0",
+      "starttime": 527.63
+    },
+    {
+      "speaker": "customer",
+      "text": "हां pin code correct है लालच  लाल",
+      "starttime": 534.09
+    },
+    {
+      "speaker": "customer",
+      "text": "तो यह बगल में",
+      "starttime": 537.72
+    },
+    {
+      "speaker": "agent",
+      "text": "लाल चार पर देखे.",
+      "starttime": 537.84
+    },
+    {
+      "speaker": "agent",
+      "text": "वो से ही हम search कर रहे हैं तो यहां पर यह details आ रहे",
+      "starttime": 540.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah,   motor ना.",
+      "starttime": 545.65
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर लेती हूं. जी  motor   model मारुति राज मोदी ऐसे नाम",
+      "starttime": 548.52
+    },
+    {
+      "speaker": "customer",
+      "text": "यह tap है उससे आपका tap",
+      "starttime": 553.46
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually हम तो Cred से बात कर रहे हैं तो usually हम जो details check कर रहे हैं cashless garage go digit के",
+      "starttime": 556.87
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको बेहतर",
+      "starttime": 563.72
+    },
+    {
+      "speaker": "customer",
+      "text": "वही वही मैं बोल रहा हूं cashless का है वह जो यह जो आपका यह जो SBI model है आपसे tap है क्या?",
+      "starttime": 563.77
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually हमारे Cred से directly यह usually  up नहीं है insurer",
+      "starttime": 572.77
+    },
+    {
+      "speaker": "agent",
+      "text": "insurer के साथ usually",
+      "starttime": 577.95
+    },
+    {
+      "speaker": "agent",
+      "text": "partner ship पर है क्योंकि यह cash  go digit के ही दिख रहे",
+      "starttime": 580.33
+    },
+    {
+      "speaker": "agent",
+      "text": "तो बेहतर जानकारी के लिए आप मैं आपको",
+      "starttime": 584.19
+    },
+    {
+      "speaker": "agent",
+      "text": "जो",
+      "starttime": 587.35
+    },
+    {
+      "speaker": "agent",
+      "text": "website detail है जिसके द्वारा आप network garage आपके location के आस पास check कर सकते हैं वह मैं आपको share कर",
+      "starttime": 589.0
+    },
+    {
+      "speaker": "customer",
+      "text": "हां वह तो वह दे दीजिए वह कर दीजिए.",
+      "starttime": 595.67
+    },
+    {
+      "speaker": "agent",
+      "text": "ताकि आप check कर पाए और या तो मैं आपको go digit का contact number भी provide कर सकती",
+      "starttime": 599.11
+    },
+    {
+      "speaker": "agent",
+      "text": "ताकि आप Go Digit से बात करके भी आपके location के आस पास का जो network जैसे वह check कर",
+      "starttime": 604.73
+    },
+    {
+      "speaker": "customer",
+      "text": "हां ठीक है madam. ठीक",
+      "starttime": 611.33
+    },
+    {
+      "speaker": "customer",
+      "text": "code number provide कर दीजिए.",
+      "starttime": 613.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Go Digit का insurance insurance का जो number है",
+      "starttime": 616.1
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं insurance का नहीं अगर मेरा गाड़ी आपसे Cred से type किया है Cred से मैंने renewal किया था अभी policy.",
+      "starttime": 620.0
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok madam.",
+      "starttime": 628.86
+    },
+    {
+      "speaker": "customer",
+      "text": "अगर मेरा गाड़ी कुछ problem आया तो आपका जो का   जो garage रहते हैं",
+      "starttime": 630.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually इसमें जो service in होता है जो claim होते हैं वह insurer के द्वारा ही किया जाता है. हम सिर्फ एक third party platform है जहां पर insurer हमें plan offer करते हैं और हम वह plans आपको show करते हैं ताकि आप खरीद पाएं और यह जो service in है या जो claim है यह insurer द्वारा ही किया जाता है. तो आप जिस insurer से policy खरीदते हैं Usually उनके network garage में जाते ही आपको cashless claim मिल सकते",
+      "starttime": 639.0
+    },
+    {
+      "speaker": "customer",
+      "text": "हां वही कह रहा हूं मैं वही बोल रहा हूं वह जो garage का नाम बताइए कौन सा मेरे वाला का मैं कौन सा garage है आपका cashback मैं कर सकता",
+      "starttime": 664.35
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok तो उसके लिए मैं आपको actual में अलग से कोई number provide नहीं कर पा रही हूं पर हम मैं website detail आपको भेज सकती हूं ताकि आप उसमें check करके आप location enter करके details check कर",
+      "starttime": 674.93
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes sir.  website बोल  दे दीजिए थोड़ा",
+      "starttime": 687.37
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok मैं check कर लेती हूं मैं  आपको provide कर सकती हूं please call पर बने रहिएगा. क्या इसके लिए मैं आपकी call को बस  एक minute के लिए hold पर रख सकती हूं",
+      "starttime": 690.78
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी  जी  करी.",
+      "starttime": 699.31
+    },
+    {
+      "speaker": "agent",
+      "text": "please call पर बने रहिएगा.",
+      "starttime": 700.5
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 898.96
+    },
+    {
+      "speaker": "agent",
+      "text": "Hold पर रहने के लिए बहुत बहुत धन्यवाद आप मुझे sun पा रहे हैं ना",
+      "starttime": 901.07
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am yes ma'am बोलिए.",
+      "starttime": 905.14
+    },
+    {
+      "speaker": "agent",
+      "text": "माफ़ी चाहूंगी लंबे hold के लिए तो हम check कर रहे थे मैं आपको कैसे यह detail भेज पाऊंगी.",
+      "starttime": 906.52
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आपने जो बताया कि अभी आपको मैं  detail भेज पाऊं ताकि आप भी आपके end से check कर पाए कि आपके  जो location है उसके आस पास कौन से garage है वहां पर जैसे कि process हो सकता है यह March के लिए यह available है कि नहीं. इसके लिए मैं आपको एक link provide कर कर सकते हो website detail जिसमें जाकर आप यह सारे details है आपके location enter करके  details check कर पाएंगे. ok?",
+      "starttime": 911.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you madam. Thank",
+      "starttime": 938.58
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आप kindly एक बार बताएंगे please आपका जो mail ID है वह है कम ###at the rate Gmail dot",
+      "starttime": 938.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes madam. Yes.",
+      "starttime": 945.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok तो मुझे बस एक minute का समय दीजिए मैं अभी यह mail compare ही कर रही हूं कि मैं यह आपको भेज पाऊं और मुझे वहां से आप आपके location के आस पास जो",
+      "starttime": 948.05
+    },
+    {
+      "speaker": "agent",
+      "text": "cash garage है go digit के वह देख",
+      "starttime": 957.59
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you madam. Thank you. Thank",
+      "starttime": 960.98
+    },
+    {
+      "speaker": "agent",
+      "text": "मुझे बस और एक minute का समय चाहिए क्या इसके लिए मैं आपके call को बस और एक minute के लिए hold पर रख सकती",
+      "starttime": 962.4
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok madam.",
+      "starttime": 967.83
+    },
+    {
+      "speaker": "agent",
+      "text": "please call पर बने रहिएगा.",
+      "starttime": 969.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Hold पर रहने के लिए बहुत बहुत धन्यवाद आप मुझे sun पा रहे हैं ना विजय प्रसाद?",
+      "starttime": 1082.33
+    },
+    {
+      "speaker": "customer",
+      "text": "madam",
+      "starttime": 1085.8
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी  परेशानी के लिए. माफी चाहूंगी लंबे hold के लिए",
+      "starttime": 1087.56
+    },
+    {
+      "speaker": "agent",
+      "text": "मैंने mail post कर लिया है तो आपको यह जो mail ID आप बताए लक्ष्य लक्ष्मी actually मैं spelling बता रही हूं",
+      "starttime": 1091.32
+    },
+    {
+      "speaker": "agent",
+      "text": "####",
+      "starttime": 1099.71
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, right.",
+      "starttime": 1099.77
+    },
+    {
+      "speaker": "customer",
+      "text": "Correct madam Correct.",
+      "starttime": 1101.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok, इस mail ID पर at the rate Gmail dot com. तो इस mail ID पर मैं आपको  mail भेज रही हूं जिसमें मैं यह link provide कर रही हूं go digit के जिसके द्वारा आपसे   इस link पर जाकर आप आपके location के आस पास का जो network garage है जो cash  garage है वह check कर पाएंगे. ok?",
+      "starttime": 1102.49
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Madam यह go digit क्या बोल रहे हैं आप?",
+      "starttime": 1119.05
+    },
+    {
+      "speaker": "agent",
+      "text": "यह जो insurer का नाम है Go Digit.",
+      "starttime": 1122.78
+    },
+    {
+      "speaker": "agent",
+      "text": "जिसके",
+      "starttime": 1125.24
+    },
+    {
+      "speaker": "customer",
+      "text": "Go Digit, Go Digit.",
+      "starttime": 1125.66
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा अच्छा. Ok madam, thank you.",
+      "starttime": 1128.8
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, तो आप एक बार check कर लीजिए आपको mail मिल गया है कि नहीं already मैं आपको  share कर चुकी",
+      "starttime": 1131.09
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok. Welcome madam.",
+      "starttime": 1136.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok और अगर आपको इसमें further कोई भी help चाहिए हो आप बिल्कुल ऐसे ही हमारे साथ contact कर सकते",
+      "starttime": 1138.71
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok madam. Thank you very much madam.",
+      "starttime": 1144.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Most welcome. तो मैं आपको और कोई सहायता कर सकती हूं credit के बारे",
+      "starttime": 1147.04
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं thank you madam बहुत धन्यवाद आपने बहुत मत करके मेरे को link भेजा है thank you madam.",
+      "starttime": 1150.59
+    },
+    {
+      "speaker": "agent",
+      "text": "Most welcome.",
+      "starttime": 1152.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Most welcome और इस link पर जाकर ही आपके गाड़ी का details साथ साथ location details सारे enter करके आप यह details check कर पाएंगे वहां पर usually address और contact details जो है वह usually आपको मिल सकते",
+      "starttime": 1157.25
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok madam. Thank you. Thank you.",
+      "starttime": 1169.08
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपको और कोई सहायता कर सकता हूं विजय जी  के बारे",
+      "starttime": 1171.7
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं नहीं नहीं thank you.  madam madam but धन्यवाद.",
+      "starttime": 1173.77
+    },
+    {
+      "speaker": "agent",
+      "text": "Most welcome. तो call खत्म करने से पहले क्या मैं आपसे एक छोटी सी feedback मांग सकता हूं हमारे call के basis पर इसमें सिर्फ तीन से पांच second लगेंगे.",
+      "starttime": 1176.91
+    },
+    {
+      "speaker": "customer",
+      "text": "हां ठीक है.",
+      "starttime": 1184.61
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है. मैं इस call को feedback IVR में भेज रही हूं जहां एक से पांच के अंदर आप rating share कर पाएंगे. पांच होते हैं इसमें बहुत अच्छा एक होते हैं ख़राब.  को choose करने के लिए बहुत बहुत",
+      "starttime": 1185.74
+    },
+    {
+      "speaker": "customer",
+      "text": "मेरा पांच madam पांच पांच देना चाहता",
+      "starttime": 1194.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok actually मेरे पास  option नहीं है कि मैं feedback enter कर पाऊं. तो आप आपकी तरफ",
+      "starttime": 1197.97
+    },
+    {
+      "speaker": "agent",
+      "text": "अगर feedback देना चाहेंगे  आपको enter कर सकते हैं, ok?",
+      "starttime": 1203.02
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you madam. Thank",
+      "starttime": 1206.1
+    },
+    {
+      "speaker": "agent",
+      "text": "तो मैं इस call को feedback IVR पर भेज रही हूं. वहां एक से पांच के अंदर आप rating share कर पाएंगे.",
+      "starttime": 1207.69
+    },
+    {
+      "speaker": "agent",
+      "text": "Credit को choose करने के लिए बहुत बहुत धन्यवाद. आपका दिन शुभ रहे. धन्यवाद.",
+      "starttime": 1213.66
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok madam.",
+      "starttime": 1213.66
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank",
+      "starttime": 1218.36
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 1218.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 1226.39
+    },
+    {
+      "speaker": "agent",
+      "text": "We won't able to register any input.",
+      "starttime": 1234.91
+    },
+    {
+      "speaker": "agent",
+      "text": "Please rate your interaction with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 1237.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 1245.1
+    },
+    {
+      "speaker": "customer",
+      "text": "madam. Madam 1 minute madam.",
+      "starttime": 1250.08
+    },
+    {
+      "speaker": "agent",
+      "text": "We won't able to register any input.",
+      "starttime": 1253.61
+    },
+    {
+      "speaker": "customer",
+      "text": "1 minute.",
+      "starttime": 1253.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Please rate your interaction with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 1256.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 1263.8
+    },
+    {
+      "speaker": "customer",
+      "text": "1 minute.",
+      "starttime": 1264.66
+    },
+    {
+      "speaker": "customer",
+      "text": "something",
+      "starttime": 1271.46
+    }
+  ]
+}

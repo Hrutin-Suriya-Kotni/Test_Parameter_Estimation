@@ -1,0 +1,275 @@
+{
+  "conversation_id": "f86f4040-413a-4292-b61e-bfbc2f81461c",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is नीता. I'm here to help you today. Am I speaking with दक्षित, पांच.",
+      "starttime": 17.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is रफीक. I'm here to help you today. Am I speaking with दीक्षित पांच",
+      "starttime": 25.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to",
+      "starttime": 33.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to you?",
+      "starttime": 38.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to you?",
+      "starttime": 49.93
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes you are audible.",
+      "starttime": 52.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So  I'm here to help you today. Am I speaking with दक्षित, पांच right?",
+      "starttime": 55.2
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 60.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 62.3
+    },
+    {
+      "speaker": "agent",
+      "text": "So  so I can see that you have raised a call me now request regarding the vehicle number ending with ###. It's a own damage policy from Go Digit, but the policy is not issued  yet.",
+      "starttime": 63.36
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 75.01
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I'm really sorry for the inconvenience caused you, but definitely  assist you with the same. So in that case, I have to raise this concern to the internal team.",
+      "starttime": 76.96
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a",
+      "starttime": 85.84
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 85.92
+    },
+    {
+      "speaker": "customer",
+      "text": "if  I have renewed",
+      "starttime": 87.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Your voice is very low actually I cannot hear",
+      "starttime": 89.27
+    },
+    {
+      "speaker": "customer",
+      "text": "Just just hold for 1 minute.",
+      "starttime": 92.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, am I audible to",
+      "starttime": 110.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So I am saying that I",
+      "starttime": 113.58
+    },
+    {
+      "speaker": "customer",
+      "text": "No",
+      "starttime": 114.6
+    },
+    {
+      "speaker": "agent",
+      "text": "I did",
+      "starttime": 117.87
+    },
+    {
+      "speaker": "customer",
+      "text": "My voice is that",
+      "starttime": 120.15
+    },
+    {
+      "speaker": "agent",
+      "text": "is",
+      "starttime": 122.17
+    },
+    {
+      "speaker": "agent",
+      "text": "I am saying that",
+      "starttime": 125.53
+    },
+    {
+      "speaker": "agent",
+      "text": "the policy which is not get issued to you and pending. I'm raising the concern to the internal team to work on it. We'll get back to you with an update on very soon. the maximum timeline would be thirteenth of October. But don't worry, since this is a system generated timeline. So it might be possible that we will get back to you with an update on it on or before the given  Ok?",
+      "starttime": 126.93
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 148.65
+    },
+    {
+      "speaker": "customer",
+      "text": "But in  credit, there is showing like your KYC   right?",
+      "starttime": 149.9
+    },
+    {
+      "speaker": "customer",
+      "text": "and  for    also renewed the ICICI Lombard.",
+      "starttime": 155.52
+    },
+    {
+      "speaker": "customer",
+      "text": "it  in in that  this kind of this is app. So I have received the policy  this is both are different.",
+      "starttime": 162.47
+    },
+    {
+      "speaker": "agent",
+      "text": "I can understand  very sorry for the experience which you have. But I would like to inform you that don't worry it is there",
+      "starttime": 172.51
+    },
+    {
+      "speaker": "agent",
+      "text": "we will get back to you with  on this. Ok? Don't",
+      "starttime": 179.7
+    },
+    {
+      "speaker": "customer",
+      "text": "No, that is fine.",
+      "starttime": 185.27
+    },
+    {
+      "speaker": "customer",
+      "text": "But people are calling me everyday 1 or 2 times  messaging me like the policy is expired in that kind of both  extra app.",
+      "starttime": 186.75
+    },
+    {
+      "speaker": "agent",
+      "text": "But as I can see over here there is",
+      "starttime": 197.62
+    },
+    {
+      "speaker": "agent",
+      "text": "you are saying  complete alright?",
+      "starttime": 201.37
+    },
+    {
+      "speaker": "customer",
+      "text": "Right. So, if you can there is no",
+      "starttime": 207.22
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 211.15
+    },
+    {
+      "speaker": "customer",
+      "text": "saying that",
+      "starttime": 213.08
+    },
+    {
+      "speaker": "agent",
+      "text": "So in that case, I would like to tell you that more than call and if any  KYC  request you, it will be definitely informed by us. Ok? So,",
+      "starttime": 223.49
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible?",
+      "starttime": 243.25
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok then Yes yes अभी.",
+      "starttime": 243.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. So anything else I can assist you with regarding this?",
+      "starttime": 246.29
+    },
+    {
+      "speaker": "customer",
+      "text": "No",
+      "starttime": 250.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Before we end this call, may I request you to share your valuable feedback based on the conversation I would just take a",
+      "starttime": 252.55
+    },
+    {
+      "speaker": "customer",
+      "text": "is",
+      "starttime": 262.32
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 265.54
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I'll just transfer your call to the feedback IVR. You can rate your experience on the  1 to 5   and 1 being",
+      "starttime": 268.6
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for choosing Cred. Have a great day.",
+      "starttime": 276.44
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 279.94
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 282.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 289.72
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 297.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 302.46
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 306.21
+    }
+  ]
+}
