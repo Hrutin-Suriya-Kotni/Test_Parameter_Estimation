@@ -1,175 +1,306 @@
-# CRED Conversation Analysis - Generic Framework
+# 🎯 Ultimate Testing Framework
 
-A **reusable, zero-duplication** Python framework for analyzing CRED customer service conversations using **ANY AI model**.
+**Multi-Model Call Center Analysis Testing System**
 
-## ⚡ What's New - Generic Components
+[![Branch](https://img.shields.io/badge/branch-Ultimate--Magic-purple)](https://github.com)
+[![Status](https://img.shields.io/badge/status-Ready-green)]()
+[![Python](https://img.shields.io/badge/python-3.8+-blue)]()
 
-✅ **`generic_client.py`** - Template to add ANY AI API in minutes  
-✅ **`generic_test.py`** - One test runner for ALL models (no duplication!)  
-✅ **`INTEGRATION_GUIDE.md`** - Step-by-step guide for new models  
-
-**No more creating separate test files for each model!**
+---
 
 ## 🚀 Quick Start
 
-### 1. Setup Environment
 ```bash
-# Install dependencies
-pip install -r requirements.txt
+# 1. Install dependencies
+pip install -r requirements_ultimate.txt
 
-# Create .env file with your API keys
-echo "GEMINI_API_KEY=your_gemini_api_key_here" > .env
+# 2. Configure your server
+vim config.yaml  # Enable your model
+
+# 3. Run your first test
+python run_ultimate_test.py --model multi_gpu_v100 --data-types type1 --categories opening
 ```
 
-### 2. Run Tests (Generic Way - Works with ALL Models!)
-```bash
-# Universal test runner - works with ANY model
-python3 generic_test.py
+**See full guide:** [QUICK_START_ULTIMATE.md](QUICK_START_ULTIMATE.md)
 
-# Or use the old way
-python3 run_tests.py
-```
+---
 
-### 3. Add Your Own Model (Takes 5 Minutes!)
-```bash
-# 1. Copy template
-cp model_clients/generic_client.py model_clients/my_model_client.py
+## 📊 What Is This?
 
-# 2. Edit 3 methods in my_model_client.py
+A comprehensive testing framework to evaluate Large Language Models on **call center transcript analysis** across:
 
-# 3. Add config to model_config.py
+- ✅ **5 Models**: Mistral base/finetuned on different hardware + Gemini API
+- ✅ **3 Data Formats**: Type1 (paragraph), Type2a (JSON), Type2b (labeled)
+- ✅ **5 Categories**: Opening, Closing, Hold, Reassurance, Further Assistance
+- ✅ **Total**: 1,275 test cases per model
 
-# 4. Test it!
-python3 generic_test.py
+---
 
-# See INTEGRATION_GUIDE.md for details
-```
+## 🎯 Project Goals
 
-### 4. Check Model Status
-```bash
-python3 model_config.py
-```
+**Find the optimal combination of:**
+1. **Model** (base vs finetuned)
+2. **Hardware** (single GPU vs multi-GPU)
+3. **Data format** (Type1 vs Type2a vs Type2b)
+
+That delivers the best **accuracy**, **latency**, and **evidence quality** - as close to Gemini as possible!
+
+---
 
 ## 📁 Project Structure
 
 ```
 Parameter_Testing/
-├── 🆕 generic_test.py           # Universal test runner (works with ALL models!)
-├── 🆕 INTEGRATION_GUIDE.md      # How to add your own model
-├── model_clients/                # AI model implementations
-│   ├── 🆕 generic_client.py     # Template for ANY API (copy & customize)
-│   ├── base_client.py           # Abstract base class
-│   ├── mistral_client.py        # Mistral model client
-│   └── gemini_client.py         # Gemini model client
-├── test_runners/                 # Individual test runners (legacy)
-│   ├── base_test_runner.py     # Shared test functionality
-│   ├── test_mistral.py          # Mistral tests (use generic_test.py instead!)
-│   ├── test_gemini.py           # Gemini tests (use generic_test.py instead!)
-│   ├── test_comparison.py       # Model comparison
-│   └── run_all_models.py        # Master test runner
-├── results/                      # Organized results storage
-│   ├── mistral/                 # Mistral results
-│   ├── gemini/                  # Gemini results
-│   └── comparison/              # Comparison results
-├── run_tests.py                 # Menu launcher (legacy)
-├── model_config.py              # Centralized model configuration
-├── prompts.py                   # Assessment prompts & guidelines
-├── data_loader.py               # Data loading utilities
-└── requirements.txt             # Python dependencies
+├── ultimate_framework/          # 🆕 Core framework
+│   ├── data_handler.py          # Multi-format data loading
+│   ├── model_client.py          # vLLM + Gemini API clients
+│   ├── json_extractor.py        # Robust JSON parsing
+│   └── test_runner.py           # Test orchestration
+│
+├── data/                        # Test data (85 conversations)
+│   ├── type1_overall_paragraph.csv
+│   ├── type2a_json/             # 85 JSON files
+│   └── type2b_labeled_paragraph.csv
+│
+├── config.yaml                  # 🆕 Model configuration
+├── run_ultimate_test.py         # 🆕 CLI entry point
+├── prompts.py                   # ✅ Fixed assessment prompts
+│
+├── ultimate_results/            # Test results (auto-created)
+├── logs/                        # Log files (auto-created)
+│
+├── ULTIMATE_FRAMEWORK_README.md # 📖 Comprehensive guide
+├── QUICK_START_ULTIMATE.md      # ⚡ Quick start
+├── FEASIBILITY_ANALYSIS.md      # 📊 Project analysis
+└── PROMPT_FIXES_APPLIED.md      # 🔧 Prompt corrections
 ```
 
-**🔥 Use `generic_test.py` instead of individual test runners!**
+---
 
-## 🎯 Why Use Generic Components?
+## 🛠️ Models Under Test
 
-### Before (Code Duplication 😞)
-```python
-# Had to create separate files for each model:
-test_mistral.py      # 147 lines
-test_gemini.py       # 147 lines  
-test_claude.py       # 147 lines
-test_gpt4.py         # 147 lines
-# = 588 lines of duplicated code!
-```
+| # | Model | Hardware | Status | Config ID |
+|---|-------|----------|--------|-----------|
+| 1 | Mistral Base | RTX 4000 | ⏳ Pending | `server3_rtx4000` |
+| 2 | OpenChat Mistral 3.5 | 2x Tesla V100 | ✅ **Ready** | `multi_gpu_v100` |
+| 3 | Mistral Finetuned | RTX 4000 | ⏳ Pending | `server3_rtx4000_finetuned` |
+| 4 | Mistral Finetuned | 2x V100 | ⏳ Pending | `multi_gpu_v100_finetuned` |
+| 5 | Gemini 1.5 Flash | Cloud API | 🔑 Need Key | `gemini_flash` |
 
-### After (Zero Duplication 🎉)
-```python
-# One file works for ALL models:
-generic_test.py      # 300 lines, works with ANY model!
-generic_client.py    # Template with examples
-
-# To add a new model:
-# 1. Copy template (30 seconds)
-# 2. Implement 3 methods (5 minutes)
-# 3. Add config (1 minute)
-# Done! Automatic integration with all test runners
-```
-
-## 🤖 Available Models
-
-- **Mistral** (Local) - Via OpenChat server
-- **Gemini** (Cloud) - Google Gemini 2.0 Flash API
-- **🆕 Your Model** - Add any API in 5 minutes! See `INTEGRATION_GUIDE.md`
-
-## 📊 Test Types
-
-1. **Opening** - Agent greeting and introduction protocols
-2. **Closing** - Call closing and feedback request protocols  
-3. **Reassurance** - Customer reassurance statements
-4. **Hold** - Proper hold request procedures
-5. **Further Assistance** - Additional help offers
-
-## 🔧 Adding New Models (Easy!)
-
-### Option 1: Use Generic Template (Recommended)
-```bash
-# 1. Copy template
-cp model_clients/generic_client.py model_clients/my_api_client.py
-
-# 2. Edit just 3 methods:
-#    - initialize()         # Load API key
-#    - analyze_conversation()  # Make API call
-#    - test_connection()    # Test API
-
-# 3. Add to model_config.py:
-'my_api': {
-    'class_name': 'MyAPIClient',
-    'module_path': 'model_clients.my_api_client',
-    'display_name': 'My API',
-    'description': 'My custom API',
-    'requires_api_key': True,
-    'api_key_env_var': 'MY_API_KEY',
-    'config': {
-        'api_url': 'https://api.myapi.com/chat',
-        'model': 'my-model-v1',
-        'max_tokens': 512,
-        'temperature': 0.1
-    }
-}
-
-# 4. Add API key to .env:
-echo "MY_API_KEY=your_key_here" >> .env
-
-# 5. Test it!
-python3 generic_test.py
-```
-
-**No need to create separate test runners anymore!** `generic_test.py` works with any model automatically.
-
-### Option 2: Legacy Way (Not Recommended)
-1. Create model client in `model_clients/new_model_client.py`
-2. Add configuration to `model_config.py`
-3. Create test runner in `test_runners/test_new_model.py` (lots of duplicated code!)
+---
 
 ## 📖 Documentation
 
-- **`INTEGRATION_GUIDE.md`** - Complete guide to add your own AI model (5 minutes!)
-- **`MODULAR_README.md`** - Detailed architecture and legacy usage instructions
-- **`README.md`** - This file (quick start & overview)
+- **[QUICK_START_ULTIMATE.md](QUICK_START_ULTIMATE.md)** - Get started in 5 minutes
+- **[ULTIMATE_FRAMEWORK_README.md](ULTIMATE_FRAMEWORK_README.md)** - Complete documentation
+- **[FEASIBILITY_ANALYSIS.md](FEASIBILITY_ANALYSIS.md)** - Project feasibility study
+- **[PROMPT_FIXES_APPLIED.md](PROMPT_FIXES_APPLIED.md)** - Prompt corrections made
 
-## 🆘 Support
+---
 
-- Check console output for error messages
-- Verify API keys in `.env` file
-- Ensure data files are in correct location
-- Run `python3 model_config.py` to check model status
+## 💻 Usage Examples
+
+### Test One Server
+
+```bash
+python run_ultimate_test.py \
+  --model multi_gpu_v100 \
+  --data-types type1 \
+  --categories opening
+```
+
+### Full Test Suite
+
+```bash
+# All enabled models × all data types × all categories
+python run_ultimate_test.py
+```
+
+### Specific Combination
+
+```bash
+python run_ultimate_test.py \
+  --model multi_gpu_v100 \
+  --data-types type1 type2a \
+  --categories opening closing hold
+```
+
+---
+
+## 📊 Expected Results
+
+After running tests, you'll get CSV files with:
+
+- ✅ **Success rate** (target: ≥95%)
+- ⚡ **Latency metrics** (avg, P95, max)
+- 📝 **Classification** (Met/Not Met)
+- 🔍 **Evidence extraction**
+- ⚠️ **Error tracking**
+
+Example output:
+```
+Total Tests: 85
+Successful: 81 (95.3%) ✅
+Failed: 4
+Avg Latency: 2.12s
+```
+
+---
+
+## 🔧 Configuration
+
+Edit `config.yaml` to:
+- Enable/disable models
+- Configure endpoints
+- Adjust test parameters
+- Set rate limits
+
+Example:
+```yaml
+models:
+  multi_gpu_v100:
+    enabled: true  # ← Change this
+    endpoint: "http://192.168.30.252:8000/v1/chat/completions"
+```
+
+---
+
+## 🌟 Key Features
+
+### Robust Testing
+- ✅ Automatic retry logic
+- ✅ Error handling & recovery
+- ✅ Rate limiting
+- ✅ Comprehensive logging
+
+### Flexible JSON Extraction
+- ✅ 4-strategy fallback system
+- ✅ Handles markdown code blocks
+- ✅ Fixes common JSON errors
+- ✅ Validates output format
+
+### Multi-Model Support
+- ✅ vLLM servers (any model)
+- ✅ Gemini API
+- ✅ Easy to extend
+
+---
+
+## 📈 Testing Workflow
+
+```
+1. Configure Model → 2. Run Smoke Test → 3. Verify ≥95% Success
+                                              ↓
+              6. Generate Report ← 5. Analyze Results ← 4. Run Full Test
+```
+
+---
+
+## 🐛 Troubleshooting
+
+### Connection Issues
+```bash
+# Test server connectivity
+curl http://192.168.30.252:8000/health
+```
+
+### JSON Extraction Fails
+- Check `raw_response` in results CSV
+- Review prompts in `prompts.py`
+- Increase `max_tokens` in config
+
+### Low Success Rate (<95%)
+1. Check error messages in CSV
+2. Review logs: `ultimate_test.log`
+3. Verify server stability
+4. Consider prompt adjustments
+
+---
+
+## 📦 Requirements
+
+```bash
+pip install -r requirements_ultimate.txt
+```
+
+**Dependencies:**
+- pandas >= 2.0.0
+- pyyaml >= 6.0
+- requests >= 2.28.0
+- google-generativeai >= 0.3.0 (for Gemini)
+
+---
+
+## 🚦 Current Status
+
+### ✅ Completed
+- [x] Framework architecture
+- [x] Data handlers (all 3 types)
+- [x] Model clients (vLLM + Gemini)
+- [x] Robust JSON extraction
+- [x] Test runner with retry logic
+- [x] Prompt fixes & validation
+- [x] Comprehensive documentation
+
+### 🔄 In Progress
+- [ ] Testing multi-GPU server (ready to test!)
+- [ ] Finetuned model deployment
+- [ ] Gemini API integration
+
+### 📋 Planned
+- [ ] Results comparison tool
+- [ ] Performance visualization
+- [ ] Automated reporting
+
+---
+
+## 🤝 Contributing
+
+This is a research project. To test a new model:
+
+1. Add configuration to `config.yaml`
+2. Set `enabled: true`
+3. Run: `python run_ultimate_test.py --model YOUR_MODEL_ID`
+
+---
+
+## 📝 Change Log
+
+### v1.0.0 - Ultimate-Magic Branch (Oct 2025)
+- ✨ Complete framework rewrite
+- ✨ Modular architecture
+- ✨ YAML-based configuration
+- ✨ Robust JSON extraction
+- ✨ CLI interface
+- ✅ Prompt fixes applied
+- 📚 Comprehensive documentation
+
+---
+
+## 📞 Support
+
+Need help?
+1. Check [QUICK_START_ULTIMATE.md](QUICK_START_ULTIMATE.md)
+2. Read [ULTIMATE_FRAMEWORK_README.md](ULTIMATE_FRAMEWORK_README.md)
+3. Review [FEASIBILITY_ANALYSIS.md](FEASIBILITY_ANALYSIS.md)
+4. Check `ultimate_test.log` for details
+
+---
+
+## 🎯 Next Steps
+
+**Ready to start?**
+
+```bash
+# Quick test (2-3 minutes)
+python run_ultimate_test.py --model multi_gpu_v100 --data-types type1 --categories opening
+
+# Full test (30-45 minutes)
+python run_ultimate_test.py --model multi_gpu_v100
+```
+
+---
+
+**Branch:** `Ultimate-Magic` 🎩✨  
+**Status:** Ready for Testing 🚀  
+**Last Updated:** October 2025

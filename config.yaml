@@ -1,0 +1,108 @@
+# Ultimate Testing Framework Configuration
+# For testing multiple models across different data types
+
+# Model Configurations
+models:
+  # Server 1: Single GPU RTX 4000 - Mistral Base
+  server3_rtx4000:
+    name: "Mistral Base (RTX 4000)"
+    type: "vllm"
+    endpoint: "http://SERVER3_IP:PORT/v1/chat/completions"
+    model_name: "mistral"
+    enabled: false  # Set to true when ready
+    temperature: 0.3
+    max_tokens: 500
+    timeout: 30
+    
+  # Server 2: Multi-GPU 2xV100 - OpenChat Mistral  
+  multi_gpu_v100:
+    name: "OpenChat Mistral 3.5 (2x V100)"
+    type: "vllm"
+    endpoint: "http://192.168.30.252:8000/v1/chat/completions"
+    model_name: "openchat/openchat-3.5-1210"
+    enabled: true  # This one is ready!
+    temperature: 0.3
+    max_tokens: 500
+    timeout: 30
+    
+  # Server 3: Single GPU RTX 4000 - Mistral Finetuned
+  server3_rtx4000_finetuned:
+    name: "Mistral Finetuned (RTX 4000)"
+    type: "vllm"
+    endpoint: "http://SERVER3_IP:PORT/v1/chat/completions"
+    model_name: "mistral-finetuned"
+    enabled: false  # Set to true when ready
+    temperature: 0.3
+    max_tokens: 500
+    timeout: 30
+    
+  # Server 4: Multi-GPU 2xV100 - Mistral Finetuned
+  multi_gpu_v100_finetuned:
+    name: "Mistral Finetuned (2x V100)"
+    type: "vllm"
+    endpoint: "http://MULTI_GPU_IP:PORT/v1/chat/completions"
+    model_name: "mistral-finetuned"
+    enabled: false  # Set to true when ready
+    temperature: 0.3
+    max_tokens: 500
+    timeout: 30
+    
+  # Gemini API (Baseline)
+  gemini_flash:
+    name: "Gemini 1.5 Flash"
+    type: "gemini"
+    api_key_env: "GEMINI_API_KEY"
+    model_name: "gemini-1.5-flash"
+    enabled: false  # Set to true when API key is available
+    temperature: 0.3
+    max_tokens: 500
+    timeout: 30
+
+# Data Configuration
+data:
+  base_path: "./data"
+  types:
+    type1:
+      file: "type1_overall_paragraph.csv"
+      format: "csv"
+      description: "Overall paragraph - full conversation as single text"
+    type2a:
+      directory: "type2a_json"
+      format: "json"
+      description: "JSON structured - detailed turn-by-turn with timestamps"
+    type2b:
+      file: "type2b_labeled_paragraph.csv"
+      format: "csv"
+      description: "Labeled paragraph - turn-by-turn with speaker labels"
+
+# Test Categories (5 parameters)
+test_categories:
+  - opening
+  - closing
+  - hold
+  - reassurance
+  - further_assistance
+
+# Output Configuration
+output:
+  results_dir: "./ultimate_results"
+  save_format: "csv"
+  include_raw_responses: true
+  include_timestamps: true
+  include_latency: true
+  
+# Testing Configuration
+testing:
+  retry_on_failure: true
+  max_retries: 3
+  retry_delay_seconds: 2
+  save_intermediate_results: true
+  rate_limit_delay: 1  # seconds between requests
+  
+# Logging Configuration
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  save_to_file: true
+  log_dir: "./logs"
+  console_output: true
+
