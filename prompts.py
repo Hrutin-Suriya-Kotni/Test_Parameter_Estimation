@@ -111,17 +111,19 @@ PROMPT_OPENING = f"""
     {ASSESSMENT_GUIDELINES}
     **Examples:**
     - If the agent said "विजय calling from Cred" and "Am I speaking with गोविंद?", the output should be:
-    json
+    ```json
     {{
-        "Value": "Yes",
+        "Value": "Met",
         "Evidence": "The agent introduced themselves as 'विजय calling from Cred' and confirmed the customer's name with 'Am I speaking with गोविंद?'"
     }}
+    ```
     - If the agent said "Hello, this is from Cred" without a name, and "Is this गोविंद?", the output should be:
-    json
+    ```json
     {{
         "Value": "Not Met",
         "Evidence": "The agent did not provide their name and only confirmed the customer's name with 'Is this गोविंद?'."
     }}
+    ```
     **Notice 1:** The agent may combine Hindi and English guidelines in a sentence, and this is acceptable.
     **Notice 2:** The agent's and customer's names can be in Hindi or English, and either is correct.
 """
@@ -143,15 +145,15 @@ PROMPT_CLOSING = f"""
     - If the agent said "Is there anything else I can help you with?" and "Great! Before we end this call, may I request you to share your valuable feedback basis our conversation?," the output should be:
     ```json
     {{
-        'Value': 'Met'
-        'Evidence': 'The agent asked if there was anything else they could help with and requested feedback before ending the call.'
+        "Value": "Met",
+        "Evidence": "The agent asked if there was anything else they could help with and requested feedback before ending the call."
     }}
     ```
     - If the agent did not ask for feedback but did ask if there was anything else to help with, the output should be:
     ```json
     {{
-        'Value': 'Not Met',
-        'Evidence': 'The agent asked if there was anything else to help with but did not request feedback before ending the call.'
+        "Value": "Not Met",
+        "Evidence": "The agent asked if there was anything else to help with but did not request feedback before ending the call."
     }}
     ```
     **Notice 1:** The agent may combine Hindi and English in a sentence, which is acceptable.
@@ -171,8 +173,8 @@ PROMPT_REASSURANCE = f"""
     **Output Format:**
     ```json
     {{
-        'Value': 'Met' or 'Not Met',
-        'Evidence': <detailed evidence>
+        "Value": "Met" or "Not Met",
+        "Evidence": "<detailed evidence>"
     }}
     ```
     **Notice 1:** The agent may combine Hindi and English in a sentence, which is acceptable.
@@ -196,7 +198,7 @@ PROMPT_HOLD = f"""
 PROMPT_FURTHER_ASSISTANCE = f"""
     **Assessment Instructions**
     {LLM_INSTRUCTIONS}
-    You need to identify if the agent has used any of these or similar statements anywhere in the conversation for putting a customer on hold
+    You need to identify if the agent has used any of these or similar statements anywhere in the conversation for asking if the customer needs further assistance
     **Guidelines:**
     {ASSISTANCE_GUIDELINES}
     **Output formatting considerations**
