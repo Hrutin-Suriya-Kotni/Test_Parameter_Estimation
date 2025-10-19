@@ -89,11 +89,25 @@ class vLLMClient(BaseModelClient):
             messages.append({"role": "system", "content": system_prompt})
         messages.append({"role": "user", "content": prompt})
         
+        # Smart max_tokens calculation to avoid context length errors
+        # Rough estimate: 1 token ≈ 4 characters
+        estimated_input_tokens = (len(prompt) + len(system_prompt or "")) // 4
+        model_max_length = 8192  # OpenChat Mistral context limit
+        
+        # Calculate available tokens with 5% safety buffer
+        available_tokens = int((model_max_length - estimated_input_tokens) * 0.95)
+        adjusted_max_tokens = min(self.max_tokens, max(available_tokens, 50))
+        
+        # Log if adjustment needed
+        if adjusted_max_tokens < self.max_tokens:
+            logger.warning(f"Long input (~{estimated_input_tokens} tokens). " +
+                         f"Adjusted max_tokens: {self.max_tokens} → {adjusted_max_tokens}")
+        
         payload = {
             "model": self.model_name,
             "messages": messages,
             "temperature": self.temperature,
-            "max_tokens": self.max_tokens
+            "max_tokens": adjusted_max_tokens
         }
         
         try:
