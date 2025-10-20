@@ -15,12 +15,23 @@ models:
     timeout: 30
     
   # Server 2: Multi-GPU 2xV100 - OpenChat Mistral  
-  multi_gpu_v100:
+  multi_gpu_v100_openchat:
     name: "OpenChat Mistral 3.5 (2x V100)"
     type: "vllm"
     endpoint: "http://192.168.30.252:8000/v1/chat/completions"
     model_name: "openchat/openchat-3.5-1210"
-    enabled: true  # This one is ready!
+    enabled: false  # Context too small, weak reasoning
+    temperature: 0.3
+    max_tokens: 500
+    timeout: 30
+    
+  # Server 2: Multi-GPU 2xV100 - Qwen 2.5 7B (RECOMMENDED)
+  multi_gpu_v100_qwen:
+    name: "Qwen 2.5 7B Instruct (2x V100)"
+    type: "vllm"
+    endpoint: "http://192.168.30.252:8000/v1/chat/completions"
+    model_name: "Qwen/Qwen2.5-7B-Instruct"
+    enabled: true  # Better reasoning + 128K context!
     temperature: 0.3
     max_tokens: 500
     timeout: 30
