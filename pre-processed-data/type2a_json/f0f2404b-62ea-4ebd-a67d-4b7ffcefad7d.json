@@ -1,0 +1,420 @@
+{
+  "conversation_id": "f0f2404b-62ea-4ebd-a67d-4b7ffcefad7d",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. My name is सौरव. I am here to assist you today. Am I speaking with मोहम्मद माल जी?",
+      "starttime": 17.99
+    },
+    {
+      "speaker": "agent",
+      "text": "बताइए मोहन.",
+      "starttime": 25.56
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी मैं कैसे आपकी help कर सकता",
+      "starttime": 26.88
+    },
+    {
+      "speaker": "customer",
+      "text": "insurance they",
+      "starttime": 30.59
+    },
+    {
+      "speaker": "customer",
+      "text": "click होगा.",
+      "starttime": 34.39
+    },
+    {
+      "speaker": "agent",
+      "text": "I am sorry मैं sun नहीं पा   repeat करेंगे, please?",
+      "starttime": 37.92
+    },
+    {
+      "speaker": "customer",
+      "text": "जो मेरा insurance हुआ था deliver yesterday उसमें insurance में",
+      "starttime": 41.31
+    },
+    {
+      "speaker": "agent",
+      "text": "जी",
+      "starttime": 42.94
+    },
+    {
+      "speaker": "customer",
+      "text": "मेरा जो address है वह गलत  लिखा हुआ है",
+      "starttime": 46.5
+    },
+    {
+      "speaker": "customer",
+      "text": "proper name.",
+      "starttime": 49.51
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा insurance document में address  है आप निश्चिंत रहिए मैं ज़रूर check कर लेता हूं और मैं माफ़ी चाहूंगा जो परेशानी हुई आपको",
+      "starttime": 51.03
+    },
+    {
+      "speaker": "agent",
+      "text": "insurance policy जिसकी आप बात कर रहे हैं यह app में comprehensive policy करा है Kotak",
+      "starttime": 58.52
+    },
+    {
+      "speaker": "agent",
+      "text": "और गाड़ी का number है कि ###",
+      "starttime": 64.29
+    },
+    {
+      "speaker": "agent",
+      "text": "4 5  इसी के आप बात कर रहे",
+      "starttime": 67.92
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर लेता हूं please line पर बने",
+      "starttime": 72.86
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका जो policy document है इसमें जो address mention है, मैं एक बार पढ़कर बताना चाहूंगा यह address है  icon and",
+      "starttime": 92.94
+    },
+    {
+      "speaker": "agent",
+      "text": "app real limited.",
+      "starttime": 101.43
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं चाहिए मुझे",
+      "starttime": 101.85
+    },
+    {
+      "speaker": "agent",
+      "text": "पूरा change हो जाएगा",
+      "starttime": 105.04
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां.",
+      "starttime": 106.38
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं एक बार check कर लेता हूं. आप please line पर बने",
+      "starttime": 109.38
+    },
+    {
+      "speaker": "customer",
+      "text": "यह address कैसे",
+      "starttime": 112.57
+    },
+    {
+      "speaker": "customer",
+      "text": "How it is possible?",
+      "starttime": 114.83
+    },
+    {
+      "speaker": "agent",
+      "text": "हां, आपने जो भी KYC document",
+      "starttime": 117.35
+    },
+    {
+      "speaker": "agent",
+      "text": "submit किया था उसमें क्या यह यह address",
+      "starttime": 120.33
+    },
+    {
+      "speaker": "customer",
+      "text": "all the KYC document.",
+      "starttime": 121.85
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने जब KYC किया था यह insurance  करी थी",
+      "starttime": 124.53
+    },
+    {
+      "speaker": "customer",
+      "text": "कोई KYC नहीं हो",
+      "starttime": 128.2
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 130.39
+    },
+    {
+      "speaker": "customer",
+      "text": "आपके link से हमने payment",
+      "starttime": 131.67
+    },
+    {
+      "speaker": "customer",
+      "text": "आपका जो है भाई आपका",
+      "starttime": 134.42
+    },
+    {
+      "speaker": "customer",
+      "text": "उसमें KYC का कुछ भी नहीं",
+      "starttime": 136.65
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं, जब आप insurance policy खरीदते हैं उसमें KYC भी करना ज़रूरी होता है. जैसे मैं check करके देख पा रहा",
+      "starttime": 141.31
+    },
+    {
+      "speaker": "customer",
+      "text": "KYC के तो कोई link नहीं आया ना मेरे पास कुछ भी नहीं  payment",
+      "starttime": 147.21
+    },
+    {
+      "speaker": "customer",
+      "text": "हां  मेरे को यह mail पर  policy",
+      "starttime": 151.62
+    },
+    {
+      "speaker": "customer",
+      "text": "वह भी customer care कर बात करने के बाद वह payment fail करके बता रहा",
+      "starttime": 156.16
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है मैं एक बार देख लेता हूं. यह जैसे मैं देख पा रहा हूं आपने Kotak से ही insurance का redirect",
+      "starttime": 161.41
+    },
+    {
+      "speaker": "agent",
+      "text": "तो इस बारे में आप Kotak General Insurance के help line पर बात कर सकते हैं. मैं आपको उनका phone number",
+      "starttime": 166.59
+    },
+    {
+      "speaker": "customer",
+      "text": "और",
+      "starttime": 171.46
+    },
+    {
+      "speaker": "customer",
+      "text": "तो करना है आपको",
+      "starttime": 175.18
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा कोई बात नहीं.",
+      "starttime": 177.57
+    },
+    {
+      "speaker": "customer",
+      "text": "आपका select form होगा.",
+      "starttime": 178.06
+    },
+    {
+      "speaker": "agent",
+      "text": "आप चाहे तो मैं उनका email ID भी आपको share कर सकता",
+      "starttime": 180.48
+    },
+    {
+      "speaker": "customer",
+      "text": "and",
+      "starttime": 183.38
+    },
+    {
+      "speaker": "customer",
+      "text": "police mam.",
+      "starttime": 186.3
+    },
+    {
+      "speaker": "agent",
+      "text": "जी कोई बात नहीं मैं एक बार देख लेता",
+      "starttime": 189.57
+    },
+    {
+      "speaker": "customer",
+      "text": "document  upload कर दिया है आधार card और",
+      "starttime": 192.36
+    },
+    {
+      "speaker": "customer",
+      "text": "registration",
+      "starttime": 196.56
+    },
+    {
+      "speaker": "agent",
+      "text": "इसमें address change के लिए कुछ document हमें चाहिए होगा जैसे RC को भी दोनों side का",
+      "starttime": 199.81
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका ID proof आधार card या PAN card owner का दोनों side का और एक endorsement कौन से  चाहिए.",
+      "starttime": 205.64
+    },
+    {
+      "speaker": "agent",
+      "text": "नितिन document चाहिए.",
+      "starttime": 217.26
+    },
+    {
+      "speaker": "customer",
+      "text": "check कर",
+      "starttime": 217.6
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, बताइए.",
+      "starttime": 221.23
+    },
+    {
+      "speaker": "customer",
+      "text": "एक minute में क्या चाहिए?",
+      "starttime": 221.63
+    },
+    {
+      "speaker": "agent",
+      "text": "document में तीन document चाहिए. आपकी को भी दोनों side",
+      "starttime": 224.0
+    },
+    {
+      "speaker": "agent",
+      "text": "एक photo ID proof या तो आधार card या PAN card दोनों",
+      "starttime": 228.0
+    },
+    {
+      "speaker": "customer",
+      "text": "आधार card",
+      "starttime": 230.58
+    },
+    {
+      "speaker": "agent",
+      "text": "owner का और एक endorsement कौनसे चाहिए.",
+      "starttime": 232.65
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 233.18
+    },
+    {
+      "speaker": "customer",
+      "text": "मुझे समझ में नहीं आता आपके platform से  सारी चीज़ें उसके बाद में सब कुछ customer को ही करना है मुझे से बिल्कुल talk लग रहा",
+      "starttime": 240.36
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं समझ सकता हूं मैं",
+      "starttime": 250.84
+    },
+    {
+      "speaker": "customer",
+      "text": "customer को को दिखाना  कुमार platform से क्यों करेगा  direct नहीं चला जाएगा policy.",
+      "starttime": 251.86
+    },
+    {
+      "speaker": "customer",
+      "text": "जिसके पास है उसे करेगा.",
+      "starttime": 257.24
+    },
+    {
+      "speaker": "customer",
+      "text": "सारी चीज़ें अभी   मैं नहीं देखूंगा  तो कोई एक दिन हो जाएगा. मैं claim मिले जाऊंगा claim मिलेगा क्या",
+      "starttime": 260.4
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ सकता हूं आपकी बात मैं यह feedback ज़रूर मेरी team तक पहुंचा हूं.",
+      "starttime": 268.12
+    },
+    {
+      "speaker": "agent",
+      "text": "और आप line पर बने रहिए. मोहम्मद सारी जी मैं detail check करके यह request forward कर देता हूं.",
+      "starttime": 272.11
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, मुझे आधार card receive हो चुका है आपका",
+      "starttime": 299.68
+    },
+    {
+      "speaker": "agent",
+      "text": "RC copy भी receive हो चुका है.",
+      "starttime": 303.38
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 306.89
+    },
+    {
+      "speaker": "agent",
+      "text": "एक endorsement consent चाहिए होगा जिसमें",
+      "starttime": 308.57
+    },
+    {
+      "speaker": "agent",
+      "text": "blank paper पर एक generate तरीके से यह insurance policy number के साथ mention करके देंगे कि आपका policy में address का है और आपको ice correction कराना है और क्या address होना चाहिए वह आप address mention करके देंगे.",
+      "starttime": 311.66
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 327.37
+    },
+    {
+      "speaker": "customer",
+      "text": "सारे complete",
+      "starttime": 333.43
+    },
+    {
+      "speaker": "agent",
+      "text": "आप अभी",
+      "starttime": 337.08
+    },
+    {
+      "speaker": "agent",
+      "text": "आप अभी दे सकते हैं तो मैं line पर",
+      "starttime": 338.34
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी तो तीन  में देखा",
+      "starttime": 340.21
+    },
+    {
+      "speaker": "customer",
+      "text": "तो  समय लगेगा लेकिन  वह  policy जो नहीं पड़ेगी.",
+      "starttime": 344.21
+    },
+    {
+      "speaker": "agent",
+      "text": "कोई बात नहीं.",
+      "starttime": 349.88
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मैं attach कर देता हूं आपको आप जो है उसको",
+      "starttime": 350.19
+    },
+    {
+      "speaker": "agent",
+      "text": "जी कोई बात नहीं नहीं.",
+      "starttime": 354.52
+    },
+    {
+      "speaker": "agent",
+      "text": "मोहम्मद ना जी. आप यह document भेज दीजिए.",
+      "starttime": 356.77
+    },
+    {
+      "speaker": "agent",
+      "text": "document receive होता है यह request मैं हम मैं यह हमारी team से कोई request forward कर देंगे.",
+      "starttime": 359.52
+    },
+    {
+      "speaker": "agent",
+      "text": "और इस बारे में आपको notification भी भेज दिया जाएगा कितना समय लग सकता है. ठीक",
+      "starttime": 366.02
+    }
+  ]
+}

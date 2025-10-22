@@ -1,0 +1,175 @@
+{
+  "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Very good morning. My name is नीतीश. I'm here to assist you today. I am talking to रानी?",
+      "starttime": 16.3
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, बोल रहा हूं कि मैं  paid money से  loan लिया था",
+      "starttime": 20.57
+    },
+    {
+      "speaker": "customer",
+      "text": "तो  एक तारीख को उस दिन ही मैं आपका executive से बात करके executive  मुझे link भेजा था मैं repay कर दिया था उसका screenshot",
+      "starttime": 25.73
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 35.0
+    },
+    {
+      "speaker": "customer",
+      "text": "But आपका  हो चुका है मेरा loan अभी active दिखा रहा है  मेरा due amount दिखा रहा है  लाख ####",
+      "starttime": 36.28
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं बोल पाएंगे वह कब तक close होगा?",
+      "starttime": 44.45
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं माफ़ी चाहेंगे आपकी परेशानी के लिए. आपको जो total जो है हमारे records में जो close होने में total सात दिन का समय लगता है. Ok. तो आपने",
+      "starttime": 47.37
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका जो repayment किया है. हां जी. मैं check कर लेता",
+      "starttime": 56.19
+    },
+    {
+      "speaker": "customer",
+      "text": "payment कर दिया",
+      "starttime": 56.66
+    },
+    {
+      "speaker": "agent",
+      "text": "एक minute का समय",
+      "starttime": 59.48
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने loan cancellation की request raise की थी उस समय",
+      "starttime": 61.34
+    },
+    {
+      "speaker": "customer",
+      "text": "ना उसी दिन   भी amount credit हुआ",
+      "starttime": 64.63
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok मैं check",
+      "starttime": 67.9
+    },
+    {
+      "speaker": "customer",
+      "text": "उस दिन  में payment",
+      "starttime": 68.16
+    },
+    {
+      "speaker": "agent",
+      "text": "But हमारे मैं check कर पा रहा हूं हमारे पास अभी तक कोई भी आपने दो तारीख को यह concern raise किया था फिर चार तारीख को",
+      "starttime": 70.42
+    },
+    {
+      "speaker": "agent",
+      "text": "फिर आपने चार तारीख को एक concern raise किया है एक minute का समय दीजिए.",
+      "starttime": 77.03
+    },
+    {
+      "speaker": "customer",
+      "text": "क्या concern आपका screenshot एक तारीख को share किया गया है मैं payment कर दिया हूं एक तारीख",
+      "starttime": 80.78
+    },
+    {
+      "speaker": "agent",
+      "text": "एक तारीख को आपने payment किया है. मैं check कर लेता हूं एक तारीख को  ticket raise है या नहीं. एक October को आपका एक ticket raise है. Ok, मैं check कर लेता हूं payment का screenshot आपने भी share कर दिया है. तो आप आज तक का wait कर लीजिए हमारे records में जो close होने का  7 days का समय लगता है. आज तक के अंदर यह close हो जाएगा.",
+      "starttime": 86.33
+    },
+    {
+      "speaker": "customer",
+      "text": "मतलब आप confirm कर रहे हैं ना ना क्या बोल रहे हैं उसका एक तारीख को loan  pending",
+      "starttime": 104.61
+    },
+    {
+      "speaker": "agent",
+      "text": "एक तारीख का payment आपने कर दिया है loan cancellation का जो payment होता है आपने कर दिया है. आपने return कर दिया है पैसा आपने screenshot भी attach कर दिया है तो उसको close होने में maximum 7 हमारे 7 days का समय लगता है उसको close होने में cancel होने में. तो 7 days तक का  आज सात दिन है. तो आज तक का wait कर लीजिए end of the day तक का wait कर लीजिए.",
+      "starttime": 111.3
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 131.55
+    },
+    {
+      "speaker": "customer",
+      "text": "मतलब कल तक I think  visible हो जाएगा ना वह amount",
+      "starttime": 132.67
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, यह  हां जी, यह कल तक आपको visible होएगा",
+      "starttime": 135.91
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. ठीक है मैं आज से wait कर लेता हूं मैं कल  तो phone करेंगे.",
+      "starttime": 140.13
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. और कोई मदद कर सकते",
+      "starttime": 142.73
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no thank you.",
+      "starttime": 145.65
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much. एक छोटी सी request है इस call को end करने से पहले क्या मैं आपके call को हमारे feedback IVR पर transfer कर सकता",
+      "starttime": 146.81
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद. मैं आपके call को हमारे feedback IVR पर transfer कर रहा हूं. जहां पर आप हमारे बातचीत के अनुभव को एक से पांच के beach में rate कर सकते हैं. एक सबसे कम है पांच सबसे ज़्यादा. Cred को use करने के लिए धन्यवाद. आपका दिन शुभ",
+      "starttime": 153.17
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 163.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial factor. Looks like the number you picked is outside of",
+      "starttime": 171.3
+    },
+    {
+      "speaker": "agent",
+      "text": "request you to rate the interaction on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 177.27
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 184.2
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 188.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of.",
+      "starttime": 192.78
+    }
+  ]
+}

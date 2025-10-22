@@ -1,0 +1,330 @@
+{
+  "conversation_id": "e8ede3f5-fd93-4c12-abf6-ac4f43cc3221",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is निकिता. I'm here to assist you today. Am I speaking with  जी?",
+      "starttime": 18.24
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes.",
+      "starttime": 22.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming. As I can see that you have request regards to foreclosure.",
+      "starttime": 25.02
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Can you please tell me that what is the exact issue you are facing regarding the",
+      "starttime": 30.81
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually I tried 2 days before",
+      "starttime": 36.21
+    },
+    {
+      "speaker": "customer",
+      "text": "and at that moment, I saw that option for foreclosure But currently I paid 1 EMI yesterday.  after that, I don't having that option of foreclosure.",
+      "starttime": 39.01
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok,  really sorry for the inconvenience which you are facing but don't worry I will try my best to help you. Ok? So please allow me some time I am checking the details.",
+      "starttime": 50.39
+    },
+    {
+      "speaker": "agent",
+      "text": "As I can see that you have only 1 ongoing loan and you want to close this loan",
+      "starttime": 58.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Please allow me सोहन.",
+      "starttime": 64.34
+    },
+    {
+      "speaker": "agent",
+      "text": "you for staying connected. As I can see that you have made a payment of #### rupees, right? on sixth October as an EMI.  So, that's why unfortunately, is showing on on hold  as of your loan.",
+      "starttime": 94.65
+    },
+    {
+      "speaker": "agent",
+      "text": "So I would request you to wait for 7 days from the due date. because it takes   from the due date to update the EMI in our records only after that, you can foreclose the loan. anytime you want.",
+      "starttime": 109.8
+    },
+    {
+      "speaker": "customer",
+      "text": "and the second question is I want to foreclose the loan.",
+      "starttime": 120.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok? But the amount is present in Bank of India. Ok? And in that option of foreclosure, there is a temporary unavailable y of Bank of India",
+      "starttime": 125.77
+    },
+    {
+      "speaker": "customer",
+      "text": "facing.",
+      "starttime": 136.74
+    },
+    {
+      "speaker": "customer",
+      "text": "So how to resolve that matter",
+      "starttime": 137.82
+    },
+    {
+      "speaker": "agent",
+      "text": "So what I can understand you trying to say  that you are trying to foreclose but your Bank of India is not showing on the list right? Yes.",
+      "starttime": 141.68
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yeah, but  No no, it's showing but it shows like, temporary unavailable",
+      "starttime": 148.97
+    },
+    {
+      "speaker": "customer",
+      "text": "on the on that at",
+      "starttime": 155.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, please allow me a moment.",
+      "starttime": 158.71
+    },
+    {
+      "speaker": "agent",
+      "text": "can I please put your call on hold for a minute while check?",
+      "starttime": 161.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you.",
+      "starttime": 166.84
+    },
+    {
+      "speaker": "agent",
+      "text": "you for staying on call and really sorry for the long hold. So I would request you that to wait for few days and 7 days from the due date. After that, when the EMI gets updated.",
+      "starttime": 241.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. You can check the",
+      "starttime": 252.65
+    },
+    {
+      "speaker": "agent",
+      "text": "available of your bank and even after that if you face the same problem, I would request you to reach out to us. Ok?",
+      "starttime": 255.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, is it problem from your end or from the bank side?",
+      "starttime": 261.9
+    },
+    {
+      "speaker": "agent",
+      "text": "See, for that we don't have the visibility of it. Because usually doesn't happen.",
+      "starttime": 266.18
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok because currently what I'm, I mean, what I saw that I have amount is  only that bank and  I have to switch to other bank I have to wait for 2 days because for  day is 1 lakh rupees transaction limit.",
+      "starttime": 269.04
+    },
+    {
+      "speaker": "customer",
+      "text": "that's my issue.",
+      "starttime": 284.24
+    },
+    {
+      "speaker": "customer",
+      "text": "I'm not able to do that within 1 day.",
+      "starttime": 286.28
+    },
+    {
+      "speaker": "customer",
+      "text": "So if it is, ok, to resolve that Bank of India वाला issue,",
+      "starttime": 291.82
+    },
+    {
+      "speaker": "customer",
+      "text": "It's ok for",
+      "starttime": 297.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I can understand that. see. If you want to foreclose please try to check your transaction limit before for closing Ok? That might be a problem while  showing that might be issue. I mean, reason why it is",
+      "starttime": 298.94
+    },
+    {
+      "speaker": "customer",
+      "text": "No. Actually, that's not that's not an issue because initially there there is no such calling for amount. Ok? I saw other bank also means I have the कोटक account and all all and they are showing but कोटक is like Balance account and all those stuff. and Bank of   having net banking but there is 1 more issue, that is",
+      "starttime": 308.81
+    },
+    {
+      "speaker": "customer",
+      "text": "we have to do net banking with known person that there  will be 1 lakh limit and if beneficial is added then we can have the  the amount means",
+      "starttime": 331.51
+    },
+    {
+      "speaker": "customer",
+      "text": "between 10 lakhs. Ok.",
+      "starttime": 343.35
+    },
+    {
+      "speaker": "customer",
+      "text": "So what my brand manager told me that you just take details of your loan.",
+      "starttime": 345.19
+    },
+    {
+      "speaker": "customer",
+      "text": "means account details and other ICICI code.",
+      "starttime": 351.22
+    },
+    {
+      "speaker": "customer",
+      "text": "so that we can put directly whole amount to their to that person.",
+      "starttime": 354.49
+    },
+    {
+      "speaker": "agent",
+      "text": "See for that we cannot unfortunately, we don't have any kind of account number  to give it to you. We are very sorry for that. But I would request you to wait for few days. even after I mean, after it gets updated  got the EMI. Even after that if it happened like if you face the same problem.  to reach out to us. Ok? We will help",
+      "starttime": 360.19
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, understand.",
+      "starttime": 364.45
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 365.81
+    },
+    {
+      "speaker": "customer",
+      "text": "Sure sure sure. Thank you.   last question is there any any such possibility that we can have a  UPI payment",
+      "starttime": 379.85
+    },
+    {
+      "speaker": "customer",
+      "text": "but that means currently what I am paying is only EMI. So, if I want to pay more than that  1 lakh  time. Because UPI only support 1 lakh rupees limit, ok? As you know. So if I want to pay 1 lakh rupees in 1 EMI so is is it possible?",
+      "starttime": 387.41
+    },
+    {
+      "speaker": "agent",
+      "text": "are you  talking about the part payment?",
+      "starttime": 405.32
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, Yeah yeah, you can you can select",
+      "starttime": 408.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Ok. unfortunately, we don't support part payment that you can foreclose the loan at 1 go or you can do the EMI monthly Ok?",
+      "starttime": 409.77
+    },
+    {
+      "speaker": "customer",
+      "text": "for for 1 good ma'am, it will we require some details as I mentioned  that for 1 time, it only give us option for 1 lakh",
+      "starttime": 418.65
+    },
+    {
+      "speaker": "customer",
+      "text": "and if we add the beneficial in our  the account, then it will ok to do payments more than month in between 1 to 10 lakh.",
+      "starttime": 429.62
+    },
+    {
+      "speaker": "customer",
+      "text": "So that's why what my bank told me to take some details so that we can do payment of above  because my payment is 24  2.5  lakh pending. Right?",
+      "starttime": 438.81
+    },
+    {
+      "speaker": "customer",
+      "text": "Total",
+      "starttime": 452.28
+    },
+    {
+      "speaker": "customer",
+      "text": "I can do 1 time payment.",
+      "starttime": 453.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok for that",
+      "starttime": 453.36
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, for that case you can try with debit card also.",
+      "starttime": 455.54
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Ok.",
+      "starttime": 459.5
+    },
+    {
+      "speaker": "agent",
+      "text": "If you have it   try with that. But before the   you need to check your transaction limit. If it's lowest then your foreclosure amount you need to increase it. Ok?",
+      "starttime": 459.96
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok understand understand.",
+      "starttime": 465.93
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok. Thank you so much.",
+      "starttime": 469.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Welcome. So is there anything else I can help you?",
+      "starttime": 471.45
+    },
+    {
+      "speaker": "customer",
+      "text": "No no, thank you so much. Thank you. Ok.",
+      "starttime": 473.86
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Before ending this call, can I ask you to give us a valuable feedback on the basis of a conversation?",
+      "starttime": 475.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So I will transfer your call to feedback IVR   between 1 to 5. 5 being  and 1 being 4. Thank you for choosing. I hope you have a great day.",
+      "starttime": 482.13
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you.",
+      "starttime": 491.04
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 491.3
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack. You have just helped us improve the credit experience for all our members.",
+      "starttime": 498.91
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other.",
+      "starttime": 505.59
+    }
+  ]
+}

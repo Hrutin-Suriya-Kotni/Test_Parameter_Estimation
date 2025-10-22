@@ -1,0 +1,435 @@
+{
+  "conversation_id": "e6a215f7-b5d2-4901-b59a-e3201543253b",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is कृष्णा here to assist you today. Am I speaking with विवेक कौशिक",
+      "starttime": 15.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible?",
+      "starttime": 21.65
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 23.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible?",
+      "starttime": 26.42
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sorry. I am unable to hear from your side so I request you to come  and then you can",
+      "starttime": 30.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "starttime": 35.45
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I speaking with  कौशिक",
+      "starttime": 37.66
+    },
+    {
+      "speaker": "agent",
+      "text": "नमस्कार बात कर रही हूं क्या मेरी बात विवेक कौशिक जी से हो रही",
+      "starttime": 43.84
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 48.01
+    },
+    {
+      "speaker": "agent",
+      "text": "जी Mister कौशिक नाम confirm करने के लिए धन्यवाद तो check कर पा रही हूं concern जो raise किया है इसमें आपने mention किया है कि जो एक email है आप वह verify नहीं कर पा रहे हैं correct product में आप issue face कर रहे हैं",
+      "starttime": 49.09
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 58.76
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी असुविधा के लिए कोशिश करूंगी इस concern मैं आपकी पूरी सहायता कर पाऊं. तो जैसे कि आप यह बता रहे हैं जब आप Cred product concern यह है कि Cred product ना mail ID डाल रहे हैं तो आपको verify के लिए बार बार खोल रहे",
+      "starttime": 59.7
+    },
+    {
+      "speaker": "agent",
+      "text": "जी इसके लिए हमारी एक relevant team है Mister की तो अगर आप अलावा करें आपकी call एक से दो minute के लिए hold पर  रख सकती हूं. जैसे मैं एक बार team से consult करना और फिर call transfer कर दूं. ठीक है मैं कौशिक main  यह बताना चाहूंगी कि अगर आपको कोई error message receive हो रहा है तो उसका screenshot भी आप हमें provide कर सकते हैं over",
+      "starttime": 70.97
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है.",
+      "starttime": 79.19
+    },
+    {
+      "speaker": "agent",
+      "text": "इससे हम further आपको help कर पाएं.",
+      "starttime": 87.27
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी",
+      "starttime": 89.77
+    },
+    {
+      "speaker": "agent",
+      "text": "जी तो",
+      "starttime": 91.09
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है उसे कौशिक तो एक से दो minute के लिए call hold पर रखिए call पर आप बने रहिएगा. call disconnect नहीं कीजिएगा अपने end से. ठीक है उसे कौशिक जी धन्यवाद.",
+      "starttime": 92.34
+    },
+    {
+      "speaker": "agent",
+      "text": "जी hold पर बने रहने के लिए धन्यवाद.",
+      "starttime": 170.15
+    },
+    {
+      "speaker": "agent",
+      "text": "करना करती हूं आपके समय और patience की तो हमारे साथ हमारे relevant team से  जो good  है और आगे इस concern में वह आपकी सहायता करेंगे  Over to  I am talking of the call from  thank you so much.   नमस्कार Mister कौशिक",
+      "starttime": 173.32
+    },
+    {
+      "speaker": "agent",
+      "text": "नमस्कार, Mister कौशिक",
+      "starttime": 192.9
+    },
+    {
+      "speaker": "agent",
+      "text": "नमस्कार Mister कौशिक",
+      "starttime": 200.61
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको मेरी आवाज़",
+      "starttime": 203.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Mister कौशिक क्या आप call पर रह  आपको मेरी आवाज़",
+      "starttime": 210.77
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जैसे कि मैं देख पा रही हूं आपका concern है आप credit protect पर अपनी email verification verify नहीं कर पाए.",
+      "starttime": 215.88
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 221.63
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी. Mister कौशिक क्या आप मुझे यह बता सकते हैं कि आपको exactly error या face हो रहा है email verification करने के time",
+      "starttime": 222.63
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं हर बार verify कर रहा हूं मुझे दिखा रहा है यह email has been verified but दुबारा से  लिखा रहा है",
+      "starttime": 229.45
+    },
+    {
+      "speaker": "agent",
+      "text": "दुबारा से क्या लिखा रहा है सब आपकी आवाज़ नहीं आई मुझे मैं माफ़ी चाहूंगी.",
+      "starttime": 238.63
+    },
+    {
+      "speaker": "customer",
+      "text": "please verify your email",
+      "starttime": 242.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. तो    की मैं देख पा रही हूं आपकी credit product email ID already registered है जो कि है    9 at the rate Gmail dot com.",
+      "starttime": 245.17
+    },
+    {
+      "speaker": "agent",
+      "text": "मुझे अपने end से already registered दिख",
+      "starttime": 255.33
+    },
+    {
+      "speaker": "agent",
+      "text": "आपकी  protect email ID.",
+      "starttime": 257.93
+    },
+    {
+      "speaker": "customer",
+      "text": "बता मेरी इसमें दिखा रहा है कि मैं जब भी अभी statement fetch नहीं कर पा रहा दिखा रहा हैं to fetch your statement you have to verify your email.",
+      "starttime": 259.96
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I completely",
+      "starttime": 271.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Card का मैं कुछ  card का मैं कुछ  नहीं देख पा रहा हूं कि pending  है क्या है कुछ नहीं है कुछ नहीं आ रहा update",
+      "starttime": 273.02
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok आप अपनी जब   fetch करने जा रहे हैं तब आपको यह issue आ रहा है कि आपकी email verified नहीं",
+      "starttime": 279.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 288.07
+    },
+    {
+      "speaker": "customer",
+      "text": "मैंने कम से कम पचास बार email verify कर",
+      "starttime": 288.75
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok मैं आपका concern के लिए समझ सकती हूं Mister कौशिक Mister कि क्या आप मुझे एक minute का समय देंगे ताकि मैं आपको बेहतर  कर",
+      "starttime": 291.65
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 298.14
+    },
+    {
+      "speaker": "agent",
+      "text": "जी क्या मैं आपकी call को एक minute के लिए hold पर रख सकती",
+      "starttime": 299.12
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 301.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok धन्यवाद.",
+      "starttime": 302.79
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 395.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Hold पर बने रहने के लिए धन्यवाद Mister कौशिक",
+      "starttime": 399.46
+    },
+    {
+      "speaker": "customer",
+      "text": "जी madam बताइए.",
+      "starttime": 402.23
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं मैं माफ़ी चाहूंगी long hold के लिए. तो Mister पांच क्या आप जो आपको error आ रहा है email verified का जो आपकी email verify नहीं है उसका जो error है क्या आप मुझे उसके screen recording बनाकर भेज सकते",
+      "starttime": 402.8
+    },
+    {
+      "speaker": "customer",
+      "text": "एक minute. हां मैं",
+      "starttime": 414.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Mister  मैं आपको एक और  एक और information देना चाहूंगी कि अगर आप अपने ही phone से screen recording बनाएंगे तो security reasons की वजह से  screen screen recording नहीं बस पाएगी. तो मैं आपसे request करती हूं कि अगर आपके पास अभी कोई दूसरा phone available है तो अब उससे उसके record करके कृपया करके हमें",
+      "starttime": 418.04
+    },
+    {
+      "speaker": "customer",
+      "text": "कैसे भेजूं मैं आपको",
+      "starttime": 434.65
+    },
+    {
+      "speaker": "agent",
+      "text": "आपके पास अभी कोई दूसरा device available",
+      "starttime": 436.17
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 438.68
+    },
+    {
+      "speaker": "agent",
+      "text": "हां, तो आप उससे record कर सकते हैं या फिर हमें भेज सकते",
+      "starttime": 439.56
+    },
+    {
+      "speaker": "customer",
+      "text": "जैसे     email",
+      "starttime": 443.91
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं मैं आपको एक text SMS के through आपको एक message receive होगा उसमें एक link होगी उस link पर आप attach कर सकते",
+      "starttime": 447.25
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 454.95
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है आप please  message.",
+      "starttime": 459.05
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपका पाटिल?",
+      "starttime": 462.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Mister  सिर्फ आप एक बार share कीजिए आपको मैं text message के through एक message भी हुआ.",
+      "starttime": 465.63
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 473.61
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी तो receive नहीं हुआ है.",
+      "starttime": 478.94
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको अभी तक receive नहीं",
+      "starttime": 481.85
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है मैं अपने end से आपको एक और बात",
+      "starttime": 485.41
+    },
+    {
+      "speaker": "customer",
+      "text": "हां भी आया",
+      "starttime": 487.97
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी धन्यवाद.",
+      "starttime": 488.88
+    },
+    {
+      "speaker": "customer",
+      "text": "have",
+      "starttime": 490.06
+    },
+    {
+      "speaker": "customer",
+      "text": "relevant",
+      "starttime": 493.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 495.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Mister कौशिक मैं माफ़ी चाहूंगी तो आपकी आवाज़ मुझे clear नहीं आ रही है. आप repeat कर सकते हैं आपने क्या कहा",
+      "starttime": 498.75
+    },
+    {
+      "speaker": "customer",
+      "text": "आप hold करेंगे.",
+      "starttime": 503.48
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां मैं call पर ही हूं. आप अपना time दीजिए",
+      "starttime": 505.4
+    },
+    {
+      "speaker": "customer",
+      "text": "Please एक  जी.",
+      "starttime": 508.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok.",
+      "starttime": 510.28
+    },
+    {
+      "speaker": "customer",
+      "text": "the amount",
+      "starttime": 515.19
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 567.6
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, आप आपने भेज दिया है screen recording?",
+      "starttime": 570.59
+    },
+    {
+      "speaker": "customer",
+      "text": "Hello एक minute",
+      "starttime": 574.32
+    },
+    {
+      "speaker": "agent",
+      "text": "हां आप अपना time दीजिए Mister",
+      "starttime": 576.68
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या आप call पर रह mister कौशिक",
+      "starttime": 663.24
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी, हां जी बिल्कुल.",
+      "starttime": 665.31
+    },
+    {
+      "speaker": "agent",
+      "text": "जी  जी जब आप भेज  आप एक बार please मेरे को confirm कर दीजिएगा",
+      "starttime": 666.76
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मैं   करूंगा एक minute.",
+      "starttime": 671.34
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है Mister कौशिक आप अपने",
+      "starttime": 673.7
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है, ठीक है.",
+      "starttime": 676.63
+    },
+    {
+      "speaker": "customer",
+      "text": "Tomorrow",
+      "starttime": 697.27
+    }
+  ]
+}

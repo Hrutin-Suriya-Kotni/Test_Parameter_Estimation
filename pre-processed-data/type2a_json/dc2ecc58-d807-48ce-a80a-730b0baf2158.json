@@ -1,0 +1,455 @@
+{
+  "conversation_id": "dc2ecc58-d807-48ce-a80a-730b0baf2158",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is रितिका. I am here to assist you today.",
+      "starttime": 18.04
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I speaking with नितिन?",
+      "starttime": 22.64
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes. Actually, I have  a transaction",
+      "starttime": 25.43
+    },
+    {
+      "speaker": "customer",
+      "text": "of 3 90 rupees for a credit card payment with that",
+      "starttime": 28.99
+    },
+    {
+      "speaker": "customer",
+      "text": "actually the app offered me hundred hundred the up",
+      "starttime": 33.21
+    },
+    {
+      "speaker": "customer",
+      "text": "Flipkart voucher.",
+      "starttime": 38.61
+    },
+    {
+      "speaker": "customer",
+      "text": "But I didn't find any voucher I have received.",
+      "starttime": 41.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually voice was",
+      "starttime": 45.31
+    },
+    {
+      "speaker": "customer",
+      "text": "After that after that time",
+      "starttime": 46.13
+    },
+    {
+      "speaker": "agent",
+      "text": "I am really sorry your voice  is very low. So I'm not able to hear you properly. Can you repeat once again?",
+      "starttime": 49.19
+    },
+    {
+      "speaker": "customer",
+      "text": "No no. Actually I have  did a transaction of credit card payment was rupees ###",
+      "starttime": 55.36
+    },
+    {
+      "speaker": "customer",
+      "text": "For that you offered from your side that offer is hundred rupees Flipkart voucher.",
+      "starttime": 62.43
+    },
+    {
+      "speaker": "customer",
+      "text": "So after that transaction I didn't receive any voucher from your side.",
+      "starttime": 69.4
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, understood.",
+      "starttime": 74.7
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for the confirmation. And apologize for the inconvenience which you faced. Don't worry. I will assist you for the same.",
+      "starttime": 76.86
+    },
+    {
+      "speaker": "agent",
+      "text": "you told me you should receive  hundred rupees fifth at voucher. So let me check the details of that, ok? be online please allow me some time.",
+      "starttime": 83.85
+    },
+    {
+      "speaker": "agent",
+      "text": "But you already claimed",
+      "starttime": 102.92
+    },
+    {
+      "speaker": "agent",
+      "text": "हां.",
+      "starttime": 105.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Today is you have made the payment",
+      "starttime": 108.25
+    },
+    {
+      "speaker": "agent",
+      "text": "In the gift I mean in the Cred application itself in the voucher section there is no gift card, I mean, sorry, there is no voucher is showing",
+      "starttime": 116.2
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah but offer was there so I did the solution.",
+      "starttime": 128.62
+    },
+    {
+      "speaker": "agent",
+      "text": "are you sure that the offer was for your payment?",
+      "starttime": 133.85
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes. Actually, the offer is  pop up, so I select the offer and  the transaction.",
+      "starttime": 138.83
+    },
+    {
+      "speaker": "agent",
+      "text": "just a second. Let me",
+      "starttime": 150.59
+    },
+    {
+      "speaker": "customer",
+      "text": "I will tell you the transaction  is in the particular transaction I will tell you.",
+      "starttime": 152.87
+    },
+    {
+      "speaker": "customer",
+      "text": "1 minute.",
+      "starttime": 158.49
+    },
+    {
+      "speaker": "customer",
+      "text": "it is for 3 99 rupees",
+      "starttime": 174.03
+    },
+    {
+      "speaker": "agent",
+      "text": "Again, your voice is breaking.",
+      "starttime": 181.79
+    },
+    {
+      "speaker": "customer",
+      "text": "actually the transaction is for 3 9 credit card payment.",
+      "starttime": 184.07
+    },
+    {
+      "speaker": "customer",
+      "text": "and yes it on seventh  ###AM.",
+      "starttime": 188.25
+    },
+    {
+      "speaker": "customer",
+      "text": "For that   from your side, the offer is actually pop up on your",
+      "starttime": 197.03
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 203.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me check that.  Ok. May I place your call on hold for a minute I can check the details?",
+      "starttime": 205.75
+    },
+    {
+      "speaker": "customer",
+      "text": "एक",
+      "starttime": 210.41
+    },
+    {
+      "speaker": "customer",
+      "text": "your time,",
+      "starttime": 212.17
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 288.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for being on the hold. Sorry for the long hold. So I wanted a screenshot of your reward section in the Cred app, ok?",
+      "starttime": 296.78
+    },
+    {
+      "speaker": "agent",
+      "text": "So I am sending you a link on a calling number through SMS receive that link. While using that link, it will redirect you to the Cred application itself.",
+      "starttime": 306.13
+    },
+    {
+      "speaker": "agent",
+      "text": "So share the screenshot you will get 2 option.",
+      "starttime": 316.07
+    },
+    {
+      "speaker": "agent",
+      "text": "1 will be add attachment and the second 1 will be call me now request.",
+      "starttime": 320.1
+    },
+    {
+      "speaker": "agent",
+      "text": "you have to click on the add attachment and you can attach the screenshot.",
+      "starttime": 324.45
+    },
+    {
+      "speaker": "agent",
+      "text": "reward section. Cred app it will go  reward section.",
+      "starttime": 328.54
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 330.41
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok sir. I don't have that  Ok, no problem.",
+      "starttime": 333.18
+    },
+    {
+      "speaker": "agent",
+      "text": "you can send the screenshot and",
+      "starttime": 338.41
+    },
+    {
+      "speaker": "agent",
+      "text": "you are not able to",
+      "starttime": 342.98
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 343.02
+    },
+    {
+      "speaker": "customer",
+      "text": "No     sir, but no problem.",
+      "starttime": 345.56
+    },
+    {
+      "speaker": "agent",
+      "text": "you will not able to send us the screenshot",
+      "starttime": 349.48
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I don't have received that  offer pickup  before",
+      "starttime": 352.85
+    },
+    {
+      "speaker": "customer",
+      "text": "offer up  that time, so I didn't take any screenshot",
+      "starttime": 357.27
+    },
+    {
+      "speaker": "customer",
+      "text": "No problem, it  is not showing from your side, no problem.",
+      "starttime": 362.52
+    },
+    {
+      "speaker": "agent",
+      "text": "See, you can go to the Cred app reward section on there you can check it showing or not, it a reward section.",
+      "starttime": 369.49
+    },
+    {
+      "speaker": "customer",
+      "text": "No.",
+      "starttime": 378.3
+    },
+    {
+      "speaker": "customer",
+      "text": "that time actually,",
+      "starttime": 379.48
+    },
+    {
+      "speaker": "customer",
+      "text": "on the time of transaction that that that offer is so but now",
+      "starttime": 381.09
+    },
+    {
+      "speaker": "customer",
+      "text": "There is no offer because I have done did the transaction.",
+      "starttime": 386.72
+    },
+    {
+      "speaker": "customer",
+      "text": "offer as per",
+      "starttime": 389.89
+    },
+    {
+      "speaker": "agent",
+      "text": "So you will be not able to send us the screenshot.",
+      "starttime": 394.13
+    },
+    {
+      "speaker": "customer",
+      "text": "No   no",
+      "starttime": 397.56
+    },
+    {
+      "speaker": "customer",
+      "text": "why anyone anyone take the screenshot?",
+      "starttime": 400.0
+    },
+    {
+      "speaker": "agent",
+      "text": "See what screenshot I want from you",
+      "starttime": 404.14
+    },
+    {
+      "speaker": "agent",
+      "text": "you have to go to the Cred app.",
+      "starttime": 407.63
+    },
+    {
+      "speaker": "agent",
+      "text": "and the reward section in the rewards section if you receive a voucher, it should reflect So that screenshot I want.",
+      "starttime": 410.38
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, no problem. In the credit",
+      "starttime": 421.25
+    },
+    {
+      "speaker": "customer",
+      "text": "app.",
+      "starttime": 423.71
+    },
+    {
+      "speaker": "customer",
+      "text": "the  you are",
+      "starttime": 425.85
+    },
+    {
+      "speaker": "customer",
+      "text": "Then",
+      "starttime": 434.78
+    },
+    {
+      "speaker": "customer",
+      "text": "the voucher voucher section.",
+      "starttime": 436.54
+    },
+    {
+      "speaker": "customer",
+      "text": "The voucher section there is no voucher like",
+      "starttime": 441.11
+    },
+    {
+      "speaker": "customer",
+      "text": "only 5 voucher are showing",
+      "starttime": 444.42
+    },
+    {
+      "speaker": "customer",
+      "text": "and that vouchers are not voucher that offer  showing",
+      "starttime": 447.0
+    },
+    {
+      "speaker": "customer",
+      "text": "and the voucher offer reflect",
+      "starttime": 451.79
+    },
+    {
+      "speaker": "customer",
+      "text": "credit card SBI credit card offers",
+      "starttime": 454.53
+    },
+    {
+      "speaker": "customer",
+      "text": "security offer there is no",
+      "starttime": 458.09
+    },
+    {
+      "speaker": "customer",
+      "text": "voucher available hundred rupees voucher available in that.",
+      "starttime": 460.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, so send us that screenshot.",
+      "starttime": 466.32
+    },
+    {
+      "speaker": "customer",
+      "text": "but all the screen not how",
+      "starttime": 471.21
+    },
+    {
+      "speaker": "agent",
+      "text": "take a screenshot.",
+      "starttime": 471.35
+    },
+    {
+      "speaker": "customer",
+      "text": "how",
+      "starttime": 473.83
+    },
+    {
+      "speaker": "customer",
+      "text": "the voucher so all the screenshot because 1 time 1 screenshot is",
+      "starttime": 475.28
+    },
+    {
+      "speaker": "customer",
+      "text": "5 vouchers  there is voucher section.",
+      "starttime": 479.53
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, so that  future, I want only if you can share so I can look for the",
+      "starttime": 482.35
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 488.7
+    },
+    {
+      "speaker": "customer",
+      "text": "So where I can see",
+      "starttime": 489.96
+    },
+    {
+      "speaker": "agent",
+      "text": "on a calling number  so in the Cred app, you will go support and he section.",
+      "starttime": 492.88
+    },
+    {
+      "speaker": "agent",
+      "text": "there will be a access support option you will get option for  add attachment. So attach the screenshot from there.",
+      "starttime": 500.02
+    },
+    {
+      "speaker": "customer",
+      "text": "limit I don't want any hundred rupees because it's a  process.",
+      "starttime": 513.03
+    },
+    {
+      "speaker": "customer",
+      "text": "जी thank",
+      "starttime": 518.35
+    },
+    {
+      "speaker": "agent",
+      "text": "he will not able",
+      "starttime": 519.81
+    }
+  ]
+}

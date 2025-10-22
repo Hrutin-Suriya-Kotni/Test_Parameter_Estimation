@@ -1,0 +1,80 @@
+{
+  "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is समित calling from Cred on a recorded line. Am I speaking with प्रतीक?",
+      "starttime": 2.12
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes  taking.",
+      "starttime": 7.15
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much for confirming your name. As the last call got disconnected due to some technical issues. Is this the right time to",
+      "starttime": 8.57
+    },
+    {
+      "speaker": "customer",
+      "text": "So please tell",
+      "starttime": 15.12
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok so I was informing you that I am forwarding your concern to our internal team so that they can check it on their end as to why the bill has not received the payment and we will share  update regarding your concern प्रतीक by the maximum time frame of fifteenth of October. But please be rest assured. This is just the maximum time frame as soon as we have an update regarding your concern we will connect with you via WhatsApp and you can also see these updates on the credit application also. Ok?",
+      "starttime": 16.92
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok   ok.",
+      "starttime": 42.84
+    },
+    {
+      "speaker": "agent",
+      "text": "actually your प्रतीक is there anything else I can help you with?",
+      "starttime": 44.9
+    },
+    {
+      "speaker": "customer",
+      "text": "No,",
+      "starttime": 49.22
+    },
+    {
+      "speaker": "agent",
+      "text": "You're most welcome. Before we end this call may I request for your valuable feedback on the basis of our conversation, it will only take a moment.",
+      "starttime": 50.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, great. I will be connecting your call to our feedback IVR where you can rate between 1 to 5. 5 being excellent and 1 being 4. Thank you for choosing Cred. I hope you have a great day ahead.",
+      "starttime": 59.09
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 69.24
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 70.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press, you have just helped us improve the credit experience for all our members.",
+      "starttime": 77.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 83.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 86.99
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "conversation_id": "df26472f-cdcc-45cc-b9fa-debaa9e761c7",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. My name is तनुश्री. I am here to assist you today. Am I speaking with अखिल?",
+      "starttime": 16.91
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, you are speaking with अंकित?",
+      "starttime": 22.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. Thank you so much for confirming your name. So as I can check you have raised a ticket for the concern that you have made the payment but it is not the transaction was failed and you haven't received any refund or the policy for",
+      "starttime": 26.32
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. I completely understand your concern. I'm extremely sorry for facing this issue. But please do not be worried. I will definitely help you on this. So, I'll be discussing about the payment that you have made for rupees ####.",
+      "starttime": 41.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. Thank you so much for confirming. So I would like to inform you that here the payment has been failed, but from our end, we have initiated the refund of rupees ###on seventh of October and it will reflect your source account within 5 to 7 working days. Ok?",
+      "starttime": 56.95
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. So the insurance did not go through. I have to pay before I can",
+      "starttime": 74.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, the insurance is not completed. So you can try again to purchase the policy and for this refund it will reflect within 5 to 7 working days. Ok?",
+      "starttime": 78.84
+    },
+    {
+      "speaker": "customer",
+      "text": "1 more thing.",
+      "starttime": 88.74
+    },
+    {
+      "speaker": "customer",
+      "text": "So when I try to purchase this insurance for        actually just showing you for the coverage of on",
+      "starttime": 90.03
+    },
+    {
+      "speaker": "customer",
+      "text": "damage.",
+      "starttime": 101.37
+    },
+    {
+      "speaker": "customer",
+      "text": "So it is not letting me to use the type of mention that I need to whether it's comprehensive",
+      "starttime": 102.51
+    },
+    {
+      "speaker": "customer",
+      "text": "for third party including third party damage as well as own damage So it's directly",
+      "starttime": 108.12
+    },
+    {
+      "speaker": "customer",
+      "text": "go and search for the plan, it is actually it was only we own damage plans.",
+      "starttime": 113.67
+    },
+    {
+      "speaker": "customer",
+      "text": "how do include the other steps.",
+      "starttime": 119.27
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure understood. So are you  about the vehicle number  with ###.",
+      "starttime": 121.83
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, that's",
+      "starttime": 127.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Thank you so much for confirming. So  as I can check you have on active you have a active third party policy from relate General Insurance that is active to 20 third of September 20 26. Ok?",
+      "starttime": 129.02
+    },
+    {
+      "speaker": "agent",
+      "text": "and also you have an active own damage policy that you have updated in credit, that is from go digit that is also",
+      "starttime": 141.31
+    },
+    {
+      "speaker": "agent",
+      "text": "valid till first of October 20 26.",
+      "starttime": 150.54
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok? So that's why you're not getting the quotation for the third party  comprehensive at the moment because we show you the quotation before 90 days of the expiry day.",
+      "starttime": 153.54
+    },
+    {
+      "speaker": "customer",
+      "text": "I'm sorry, hold for a sec.",
+      "starttime": 164.29
+    },
+    {
+      "speaker": "customer",
+      "text": "So do I have a policy active policy with go digit",
+      "starttime": 166.01
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. You have just updated this from your end that you have active own damage policy that is active till first of October 26 from GodiG",
+      "starttime": 172.14
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 182.69
+    },
+    {
+      "speaker": "customer",
+      "text": "No no. That's",
+      "starttime": 185.5
+    },
+    {
+      "speaker": "customer",
+      "text": "I don't think so  I'm not sure where it's showing up that",
+      "starttime": 187.87
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 191.87
+    },
+    {
+      "speaker": "customer",
+      "text": "and you said that I have the active insurance  with the line.",
+      "starttime": 193.22
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes,  active third party policy from relate that is active till 20 third of September 20 26.",
+      "starttime": 196.84
+    },
+    {
+      "speaker": "customer",
+      "text": "Alright. maybe that that the reason I'm not getting option to select the very app.",
+      "starttime": 206.16
+    },
+    {
+      "speaker": "customer",
+      "text": "I can I can I access the information because I don't see it in my policy",
+      "starttime": 211.04
+    },
+    {
+      "speaker": "customer",
+      "text": "I couldn't find it that that I have I have policy with third party in general sentence insurance General Insurance.",
+      "starttime": 217.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure you sure you can check it in Cred application from garage insurance section.",
+      "starttime": 223.59
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, would you mind working me through the process",
+      "starttime": 230.46
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure sure sure. not a problem. So kindly open your",
+      "starttime": 233.82
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, I'm going to put you on speak.",
+      "starttime": 237.61
+    },
+    {
+      "speaker": "customer",
+      "text": "I think",
+      "starttime": 240.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. So",
+      "starttime": 251.72
+    },
+    {
+      "speaker": "customer",
+      "text": "हां     in the credit",
+      "starttime": 252.36
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, kindly go to the garage section.",
+      "starttime": 255.37
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. garage it is, right?",
+      "starttime": 261.83
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 264.41
+    },
+    {
+      "speaker": "agent",
+      "text": "and then select the particular vehicle number and there you will get the option of motor insurance.",
+      "starttime": 266.93
+    },
+    {
+      "speaker": "customer",
+      "text": "give me 1",
+      "starttime": 272.43
+    },
+    {
+      "speaker": "customer",
+      "text": "And garage.",
+      "starttime": 274.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, then selecting the",
+      "starttime": 276.24
+    },
+    {
+      "speaker": "customer",
+      "text": "vehicle that",
+      "starttime": 279.08
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, I",
+      "starttime": 284.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So in the motor have you in the mode are you in the motor section?",
+      "starttime": 285.74
+    },
+    {
+      "speaker": "customer",
+      "text": "Sorry, what section?",
+      "starttime": 292.14
+    },
+    {
+      "speaker": "agent",
+      "text": "motor insurance",
+      "starttime": 293.86
+    },
+    {
+      "speaker": "customer",
+      "text": "most insurance, ok. I selected this today and it's I mean, I am going to   option that I am saying",
+      "starttime": 296.27
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, insurance a call on update UC",
+      "starttime": 303.07
+    },
+    {
+      "speaker": "customer",
+      "text": "tell me. these are the thing  I'm showing",
+      "starttime": 307.43
+    },
+    {
+      "speaker": "agent",
+      "text": "you're not getting the insurance, option?",
+      "starttime": 311.22
+    },
+    {
+      "speaker": "customer",
+      "text": "I am getting the insurance of. You  me to",
+      "starttime": 315.75
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, selected the insurance",
+      "starttime": 322.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.   party policy  I pay  now, I",
+      "starttime": 326.71
+    },
+    {
+      "speaker": "customer",
+      "text": "and  this this is a confusion because I  didn't select the digit go digit  in fact  you know, you know the day failed.",
+      "starttime": 332.67
+    },
+    {
+      "speaker": "customer",
+      "text": "पर  white showing.",
+      "starttime": 342.53
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 345.18
+    },
+    {
+      "speaker": "agent",
+      "text": "So got 1 is not correct.",
+      "starttime": 346.39
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, that's that's not right  I'm not I'm not sure   actually when  or something but  just",
+      "starttime": 351.06
+    },
+    {
+      "speaker": "customer",
+      "text": "transaction was failed.",
+      "starttime": 357.02
+    },
+    {
+      "speaker": "customer",
+      "text": "I I reach out that policy active actually we gone through something.",
+      "starttime": 359.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, that's the reason that's the maintain for the call, I just wanted to confirm with the policy actually was   not and and I got the policy.",
+      "starttime": 363.91
+    },
+    {
+      "speaker": "agent",
+      "text": "जो",
+      "starttime": 364.19
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure understood. But for this amount there is no such policy from credit only and that's why you have refunded the amount. However, you can update these details from your end so that you can get the own damage  plan from credit again. Ok?  So are you getting any edit type of there to update these details?",
+      "starttime": 372.9
+    },
+    {
+      "speaker": "customer",
+      "text": "I am saying update",
+      "starttime": 393.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. Please click on",
+      "starttime": 395.48
+    },
+    {
+      "speaker": "customer",
+      "text": "and it's",
+      "starttime": 398.82
+    },
+    {
+      "speaker": "customer",
+      "text": "update latest policy or update policy details enter enter the latest policy details. This is policies?",
+      "starttime": 400.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, kindly update the previous own damage policy details, so that it can show you as expired and then only we can show you the noting",
+      "starttime": 406.92
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, I see it. Alright. I'll check and update that.",
+      "starttime": 419.71
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. So is there anything else I can assist you with?",
+      "starttime": 425.16
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 428.99
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I in this as soon as I get that refund.",
+      "starttime": 430.04
+    },
+    {
+      "speaker": "customer",
+      "text": "back to me and",
+      "starttime": 433.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure sure. So before we end this call, may I request you to share your valuable feedback based on our conversation?",
+      "starttime": 436.55
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, sure ना.",
+      "starttime": 443.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Great. I will transfer your call to the feedback IVR. You can select between 1 to 5. 5 being excellent and 1 being poor. Thank you so much for choosing Cred. Have a wonderful",
+      "starttime": 445.35
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank",
+      "starttime": 455.37
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 457.8
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 465.41
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 469.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 474.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 477.86
+    }
+  ]
+}

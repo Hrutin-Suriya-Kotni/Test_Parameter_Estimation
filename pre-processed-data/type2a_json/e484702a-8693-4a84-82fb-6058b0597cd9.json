@@ -1,0 +1,190 @@
+{
+  "conversation_id": "e484702a-8693-4a84-82fb-6058b0597cd9",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is   today. Am I speaking with मेरा?",
+      "starttime": 16.67
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am.",
+      "starttime": 20.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming. I see is in regards to your credit cash.",
+      "starttime": 21.92
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am.",
+      "starttime": 26.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Can you please elaborate the concern so that I can help you with that? Yes.",
+      "starttime": 27.62
+    },
+    {
+      "speaker": "customer",
+      "text": "can you talk in हिंदी?",
+      "starttime": 31.55
+    },
+    {
+      "speaker": "agent",
+      "text": "ज़रूर",
+      "starttime": 34.14
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am मुझे credit cash related बात करनी थी मुझे video KYC में issue हो रहा",
+      "starttime": 36.04
+    },
+    {
+      "speaker": "customer",
+      "text": "जब भी मैं video KYC कर रहा हूं. हां उन्हें problem यह  और यह है कि मेरा PAN card उन्हें blur दिख रहा है camera",
+      "starttime": 43.82
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा.",
+      "starttime": 52.63
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हालांकि मेरा camera अच्छा है mobile phone भी अच्छा",
+      "starttime": 53.83
+    },
+    {
+      "speaker": "customer",
+      "text": "और मैं other bank  video KYC करता हूं same phone से तो successfully हो जाता है लेकिन उनकी तरफ से नहीं हो पा रहा",
+      "starttime": 57.69
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा.",
+      "starttime": 65.71
+    },
+    {
+      "speaker": "agent",
+      "text": "हां  concern लेकर  withdrawal करने का try कर रहे थे आपको video का blur  photo नहीं ले पाया",
+      "starttime": 67.11
+    },
+    {
+      "speaker": "customer",
+      "text": "जी जी. वह photo click नहीं कर पा",
+      "starttime": 74.35
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या मैं call एक minute के लिए hold में रख सकती हूं details check करने",
+      "starttime": 79.29
+    },
+    {
+      "speaker": "customer",
+      "text": "जी ma'am बिल्कुल.",
+      "starttime": 82.53
+    },
+    {
+      "speaker": "agent",
+      "text": "शुक्रिया.",
+      "starttime": 83.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Line पर रहने शुक्रिया.   माफ़ी चाहते हैं. जैसे कि मैं देख पा रही",
+      "starttime": 143.25
+    },
+    {
+      "speaker": "agent",
+      "text": "आपकी try किया था withdrawal करने का पांच को",
+      "starttime": 147.16
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने चार बार try किया था right?",
+      "starttime": 151.8
+    },
+    {
+      "speaker": "customer",
+      "text": "जी ma'am.",
+      "starttime": 153.86
+    },
+    {
+      "speaker": "agent",
+      "text": "जी और आपने आज आपने एक  बार try किया था तो मैं यह ना चाहती हूं आप retry कीजिए. ठीक है आप एक बार retry करके देखिए after 48 hours के बाद ok?",
+      "starttime": 154.88
+    },
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 157.88
+    },
+    {
+      "speaker": "agent",
+      "text": "हां आप एक बार retry करके देखिए   48 hours के",
+      "starttime": 166.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am. इस issue solve हो जाएगा.",
+      "starttime": 172.29
+    },
+    {
+      "speaker": "agent",
+      "text": "हां, जैसे कि मैंने देखा तो आप एक बार retry करके देखिए अगर नहीं होता है वापस recharge के लिए हम आपकी मदद कर",
+      "starttime": 175.41
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok sure.",
+      "starttime": 182.82
+    },
+    {
+      "speaker": "agent",
+      "text": "की और कोई सहायता सहायता कर सकती",
+      "starttime": 185.34
+    },
+    {
+      "speaker": "customer",
+      "text": "No no. Thank you. Thank you so much.",
+      "starttime": 188.0
+    },
+    {
+      "speaker": "agent",
+      "text": "जी call end करने से पहले  छोटा सा",
+      "starttime": 190.14
+    },
+    {
+      "speaker": "agent",
+      "text": "बातचीत के आधार पर?",
+      "starttime": 193.94
+    },
+    {
+      "speaker": "agent",
+      "text": "जी शुक्रिया आपके call को हमारे feedback IVR पर transfer  एक से पांच तक के beach में rating   जिसमें एक सबसे कम है पांच सबसे ज़्यादा  credit को choose करने धन्यवाद. आपका दिन शुभ हो.",
+      "starttime": 197.87
+    },
+    {
+      "speaker": "customer",
+      "text": "No sir. Thank you.",
+      "starttime": 207.54
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 207.75
+    },
+    {
+      "speaker": "agent",
+      "text": "Please, you have just helped us improve the credit experience for all our members.",
+      "starttime": 215.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any",
+      "starttime": 220.44
+    }
+  ]
+}

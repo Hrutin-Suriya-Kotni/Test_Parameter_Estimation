@@ -1,0 +1,250 @@
+{
+  "conversation_id": "ddc8ab21-d052-4fa5-8bf3-f74adffb65bb",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "Hello.",
+      "starttime": 2.48
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I speaking to Mister खाली",
+      "starttime": 4.3
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, सुरेश.",
+      "starttime": 6.39
+    },
+    {
+      "speaker": "agent",
+      "text": "तनूजा you are calling from Cred on a recorded line. right time to talk to",
+      "starttime": 8.0
+    },
+    {
+      "speaker": "customer",
+      "text": "from where?",
+      "starttime": 12.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Cred.",
+      "starttime": 13.89
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. Please",
+      "starttime": 18.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. So this is regarding the thousand rupees refund and you did reply that  account has been considered",
+      "starttime": 19.64
+    },
+    {
+      "speaker": "agent",
+      "text": "last 10 days. Sir I would request you to set up  instant refund account  on the on  we see you linked the mean the UPI ID the UPI but we want the account details   itself. like the account number in the code",
+      "starttime": 26.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Just a second.",
+      "starttime": 42.71
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you help me like where exactly this option",
+      "starttime": 44.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure sir.",
+      "starttime": 47.92
+    },
+    {
+      "speaker": "customer",
+      "text": "I am on Cred app only.",
+      "starttime": 49.46
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, can you go to the settings option?",
+      "starttime": 51.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Settings.",
+      "starttime": 55.11
+    },
+    {
+      "speaker": "customer",
+      "text": "where is the setting.",
+      "starttime": 57.46
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 60.49
+    },
+    {
+      "speaker": "customer",
+      "text": "UPI setting.",
+      "starttime": 62.11
+    },
+    {
+      "speaker": "agent",
+      "text": "wait  Give me a minute. I'll tell",
+      "starttime": 63.63
+    },
+    {
+      "speaker": "customer",
+      "text": "instant refund account setup and in that I have added  my UPI ID",
+      "starttime": 73.07
+    },
+    {
+      "speaker": "customer",
+      "text": "Shall I remove",
+      "starttime": 81.12
+    },
+    {
+      "speaker": "agent",
+      "text": "You can also add other account. If you wish you want if you want that UPID it can be still active. If you  want that you can remove",
+      "starttime": 83.11
+    },
+    {
+      "speaker": "agent",
+      "text": "according to your choice.",
+      "starttime": 91.39
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 93.86
+    },
+    {
+      "speaker": "customer",
+      "text": "Now I I need to add my account details",
+      "starttime": 95.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, the account number I have   to be entered",
+      "starttime": 98.46
+    },
+    {
+      "speaker": "customer",
+      "text": "Just a second.",
+      "starttime": 106.71
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 112.28
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 115.02
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 122.56
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 128.57
+    },
+    {
+      "speaker": "customer",
+      "text": "and then",
+      "starttime": 150.1
+    },
+    {
+      "speaker": "customer",
+      "text": "how should I get that amount back in my",
+      "starttime": 151.15
+    },
+    {
+      "speaker": "agent",
+      "text": "It's account  itself.",
+      "starttime": 154.81
+    },
+    {
+      "speaker": "customer",
+      "text": "Just a second. I am just sharing that  the number.",
+      "starttime": 156.83
+    },
+    {
+      "speaker": "customer",
+      "text": "Because I have to get it right so",
+      "starttime": 160.26
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I'll be online. So like once the account is added you can let me know. I'll get  I'll be raising   the relevant",
+      "starttime": 163.04
+    },
+    {
+      "speaker": "agent",
+      "text": "I would request to wait",
+      "starttime": 169.14
+    },
+    {
+      "speaker": "agent",
+      "text": "24 hours sir, we'll get back to you with the refund details. Ok? Like, once  the refund would be done in 3 to 4 hours once it is been processed like, once it is raised",
+      "starttime": 171.16
+    },
+    {
+      "speaker": "customer",
+      "text": "just see  you can",
+      "starttime": 191.22
+    },
+    {
+      "speaker": "customer",
+      "text": "lot quite.",
+      "starttime": 193.81
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. I have added my account details in a second account.",
+      "starttime": 195.21
+    },
+    {
+      "speaker": "customer",
+      "text": "you can",
+      "starttime": 198.43
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, I'll",
+      "starttime": 200.47
+    },
+    {
+      "speaker": "agent",
+      "text": "It's HDFC Bank account ending with",
+      "starttime": 201.67
+    },
+    {
+      "speaker": "agent",
+      "text": "3 triple",
+      "starttime": 204.27
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah, thank you. So I'll connect back to user. Once the refund has been initiated I'll get back to you.",
+      "starttime": 207.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. Thank you for your time  for the",
+      "starttime": 214.75
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 215.86
+    }
+  ]
+}

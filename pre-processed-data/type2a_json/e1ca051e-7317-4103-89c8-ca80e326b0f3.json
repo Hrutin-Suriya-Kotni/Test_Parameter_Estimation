@@ -1,0 +1,255 @@
+{
+  "conversation_id": "e1ca051e-7317-4103-89c8-ca80e326b0f3",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is रीशा. I'm here to help you today. Am I speaking with मोहन?",
+      "starttime": 55.92
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes ma'am ma'am  madam.",
+      "starttime": 60.51
+    },
+    {
+      "speaker": "agent",
+      "text": "you for the confirmation, मोहन.",
+      "starttime": 62.79
+    },
+    {
+      "speaker": "agent",
+      "text": "I see that you have raised a call me now request regarding the vehicle number ending with ###. Right? That the policy is not confirmed",
+      "starttime": 64.71
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, yes ma'am.",
+      "starttime": 74.25
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry for this inconvenience caused to you, but don't worry   help you with this. I have to raise this concern to the internal team to help you regarding this. Ok? So please allow me a moment.",
+      "starttime": 76.19
+    },
+    {
+      "speaker": "customer",
+      "text": "What",
+      "starttime": 89.7
+    },
+    {
+      "speaker": "agent",
+      "text": "I have to raise this concern to the internal team to work on it and see that why your policy is not issued yet. Alright?",
+      "starttime": 91.36
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am I don't know  this.",
+      "starttime": 101.25
+    },
+    {
+      "speaker": "agent",
+      "text": "आप हिंदी में बात कर सकते हैं.",
+      "starttime": 104.45
+    },
+    {
+      "speaker": "customer",
+      "text": "So",
+      "starttime": 104.96
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 106.93
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I'm really sorry but we are only comfortable with English or हिंदी language. Are you comfortable",
+      "starttime": 109.55
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 115.19
+    },
+    {
+      "speaker": "customer",
+      "text": "saying the same.",
+      "starttime": 120.1
+    },
+    {
+      "speaker": "agent",
+      "text": "English. So I have raised your concern to the internal team to work on",
+      "starttime": 122.7
+    },
+    {
+      "speaker": "agent",
+      "text": "this policy issues, ok?",
+      "starttime": 128.04
+    },
+    {
+      "speaker": "agent",
+      "text": "and we'll get back to",
+      "starttime": 131.18
+    },
+    {
+      "speaker": "agent",
+      "text": "We'll get back to you with an update on it very soon maximum timeline would be",
+      "starttime": 134.78
+    },
+    {
+      "speaker": "agent",
+      "text": "thirteenth of October, but don't worry. Since this is a system generated timeline",
+      "starttime": 139.74
+    },
+    {
+      "speaker": "customer",
+      "text": "second October",
+      "starttime": 143.79
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, that is a system generated timeline but might be possible that will get back to you on or before the given date also.",
+      "starttime": 145.76
+    },
+    {
+      "speaker": "customer",
+      "text": "only.",
+      "starttime": 150.98
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry. I cannot hear you properly.",
+      "starttime": 155.99
+    },
+    {
+      "speaker": "customer",
+      "text": "insurance insurance expiry  ninth ma'am. October ninth.",
+      "starttime": 159.77
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I can understand.",
+      "starttime": 164.33
+    },
+    {
+      "speaker": "customer",
+      "text": "October.",
+      "starttime": 164.71
+    },
+    {
+      "speaker": "agent",
+      "text": "I can understand, but it might be possible that you will get the policy by the end of today's date also. Ok?",
+      "starttime": 166.74
+    },
+    {
+      "speaker": "customer",
+      "text": "Why ma'am delay  and processing.",
+      "starttime": 175.04
+    },
+    {
+      "speaker": "agent",
+      "text": "maybe there is some issue with like, from the team, but I'm really sorry, मोहन. but allow  some time we'll definitely get back to you, ok?",
+      "starttime": 177.99
+    },
+    {
+      "speaker": "agent",
+      "text": "that ok मोहन?",
+      "starttime": 190.85
+    },
+    {
+      "speaker": "customer",
+      "text": "and",
+      "starttime": 194.08
+    },
+    {
+      "speaker": "customer",
+      "text": "Sir वह",
+      "starttime": 196.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright then. Thank you so much for your understanding. Anything else I may assist you with regarding, Correct?",
+      "starttime": 198.11
+    },
+    {
+      "speaker": "customer",
+      "text": "partner.",
+      "starttime": 204.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Anything else that may I assist you with regarding cred?",
+      "starttime": 205.84
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 211.04
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. So, could ease tell me what you want to know apart from this?",
+      "starttime": 212.52
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं  तो कल का होना",
+      "starttime": 217.25
+    },
+    {
+      "speaker": "agent",
+      "text": "will try our level best so that we can get back to you as soon as possible. Ok?",
+      "starttime": 220.65
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 225.68
+    },
+    {
+      "speaker": "agent",
+      "text": "will try level best",
+      "starttime": 226.12
+    },
+    {
+      "speaker": "agent",
+      "text": "So before we end this call, would you like to give a small feedback based on the conversation?",
+      "starttime": 227.81
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much. I'm transferring your call to the feedback IVR. Please rate your experience on the scale 1 to 5, where 5 being excellent and 1 being 4. Thank you for choosing Cred. Have a great day ahead. Thank you.",
+      "starttime": 233.99
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 245.76
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 246.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 253.92
+    },
+    {
+      "speaker": "agent",
+      "text": "We won't able to register any input.",
+      "starttime": 262.45
+    },
+    {
+      "speaker": "agent",
+      "text": "Please rate your interaction with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 265.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 272.65
+    }
+  ]
+}

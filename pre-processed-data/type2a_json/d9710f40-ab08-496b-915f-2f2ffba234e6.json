@@ -1,0 +1,105 @@
+{
+  "conversation_id": "d9710f40-ab08-496b-915f-2f2ffba234e6",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 0.03
+    },
+    {
+      "speaker": "agent",
+      "text": "morning, this    to assist you today. Am I speaking with वीरा?",
+      "starttime": 17.9
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, good morning.",
+      "starttime": 22.42
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming  that you faced regarding the product विनायक",
+      "starttime": 24.42
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 25.88
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 27.49
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes. Actually, I am waiting for that product since long and it's not been delivered yet.",
+      "starttime": 30.59
+    },
+    {
+      "speaker": "customer",
+      "text": "and as I'm checking the status in your app, it's it's showing that it visited. once or twice in a single date.",
+      "starttime": 37.02
+    },
+    {
+      "speaker": "customer",
+      "text": "But I am giving in a society and I didn't even receive the date and of the delivery person.",
+      "starttime": 45.68
+    },
+    {
+      "speaker": "customer",
+      "text": "and  checking on the  car website, it's not showing that",
+      "starttime": 52.68
+    },
+    {
+      "speaker": "customer",
+      "text": "it arrived at my society or address. It's just wrong here and there like,",
+      "starttime": 58.03
+    },
+    {
+      "speaker": "customer",
+      "text": "If I check on the Saturday October fourth",
+      "starttime": 63.65
+    },
+    {
+      "speaker": "customer",
+      "text": "it it it came to create idea. But again on the fourth at dispatched to can do.",
+      "starttime": 68.29
+    },
+    {
+      "speaker": "customer",
+      "text": "and still it's moving like on fifth as well, it's showing सूरज for again, it's showing सूरज पूरा but it didn't  came up to my after.",
+      "starttime": 75.93
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok  sorry for the inconvenience you face  but do not worry. I will try to assist you  regarding this. May I place your call on hold for a minute so that I can check the details for",
+      "starttime": 86.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. Please stay on the line.",
+      "starttime": 97.65
+    },
+    {
+      "speaker": "customer",
+      "text": "bank",
+      "starttime": 130.27
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 136.85
+    },
+    {
+      "speaker": "customer",
+      "text": "So please",
+      "starttime": 141.73
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 144.65
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "conversation_id": "d7eddfa3-946f-4825-a85b-6eb0fe896000",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning, this is लेनी I am here to assist you today. Am I speaking with दीपक?",
+      "starttime": 17.16
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much दीपक for confirming your name. I can see that you have raised a concern regarding your vehicle inspection. Am I correct?",
+      "starttime": 23.17
+    },
+    {
+      "speaker": "customer",
+      "text": "हां madam. हिंदी जानती",
+      "starttime": 30.98
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी बिल्कुल हम हिंदी में बात कर सकते हैं. तो मैं यहां पर check कर पा रही हूं दीप जी कि आपने एक concern raise किया है आपके vehicle  inspection के लिए. क्या मैं सही कह रही",
+      "starttime": 33.38
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 43.82
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok पहले मैं आपकी परेशानी के लिए आपसे माफी चाहूंगी but आप निश्चिंत रहिए मैं details को check करके आपको इसके regarding ज़रूर help करूंगी ok?",
+      "starttime": 45.04
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 53.32
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, तो मैं यहां पर देख पा रही हूं कि आपका जो physical inspection है वह request किया गया है और inspection ID भी credit हुआ है आज की date पर दस बज के",
+      "starttime": 54.49
+    },
+    {
+      "speaker": "agent",
+      "text": "###am में हुआ है यह. तो मैं आपको request करूंगी कि आज की day end तक का  wait कर लीजिए. आपको inspection agent की तरफ से call आ जाना चाहिए और inspection के regarding आपकी उनसे बात हो जाएगी. Ok?",
+      "starttime": 65.1
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा वह inspection agent घर में आएगा ना मतलब  technical",
+      "starttime": 77.01
+    },
+    {
+      "speaker": "agent",
+      "text": "जी वह आपको पहले contact करेंगे आपसे सब कुछ पूछेंगे. कि आप available है या नहीं. सब कुछ details लेकर वह आपके घर पर आ सकते हैं inspection के लिए. अगर आपको कोई issue होती है जैसे कि आज की date पर नहीं आना या कोई और issue होती है. आप उन्हें inform कर सकते हैं कि वह किस address पर आए किस address पर ना आए. ok?",
+      "starttime": 81.01
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok ok.",
+      "starttime": 100.35
+    },
+    {
+      "speaker": "agent",
+      "text": "जी उसके बाद भी अगर inspection pending रह जाती है या कुछ भी issue होता है आप please हमें reach back कीजिएगा हम surely आपको help करेंगे. ok?",
+      "starttime": 101.37
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok. Thank",
+      "starttime": 109.18
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome दीपक जी. इसके अलावा क्या मैं आपकी कोई और मदद कर सकती",
+      "starttime": 110.65
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं ma'am अभी कुछ दिक्कत होगा तो मैं फिर बात",
+      "starttime": 114.9
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी बिल्कुल. sir इस call को खत्म करने से पहले क्या मैं आपसे हमारे बातचीत के आधार पर एक feedback की request कर सकती हूं बस तीन से पांच second का समय लगता",
+      "starttime": 118.17
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 127.69
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद दीप जी. मैं आपकी call को  feedback IVR पर transfer कर दूंगी आप एक से पांच के beach में rating दे पाएंगे. पांच सबसे अच्छा और एक सबसे खराब",
+      "starttime": 128.84
+    },
+    {
+      "speaker": "agent",
+      "text": "जी cred को choose करने के लिए आपका बहुत बहुत धन्यवाद. आपका दिन शुभ रहे.",
+      "starttime": 138.84
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 143.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 151.18
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 154.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 159.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 163.25
+    }
+  ]
+}

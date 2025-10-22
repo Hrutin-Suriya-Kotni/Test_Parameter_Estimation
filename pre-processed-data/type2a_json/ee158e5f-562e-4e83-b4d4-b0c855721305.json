@@ -1,0 +1,150 @@
+{
+  "conversation_id": "ee158e5f-562e-4e83-b4d4-b0c855721305",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning, I am  I am calling from Cred on a recorded line. Am I speaking with Mister सिंह?",
+      "starttime": 1.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 7.22
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, thank you for the confirmation. I am so sorry I took a little bit longer I am transferring the call",
+      "starttime": 8.55
+    },
+    {
+      "speaker": "customer",
+      "text": "No problem. No problem.  query was just related to voucher demand",
+      "starttime": 13.23
+    },
+    {
+      "speaker": "customer",
+      "text": "And",
+      "starttime": 17.94
+    },
+    {
+      "speaker": "customer",
+      "text": "And 1  credit card bill payment?",
+      "starttime": 19.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. Absolutely. I'm so sorry, the call got disconnected I was  transferring the call meanwhile the call got disconnected. Is this the good time",
+      "starttime": 21.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Because it was taking   time so I doing some content work. So that's why I have disconnected call because it was not it was not show important to know the bill   just I can check in my bank account. There is no bill overdue bill payment, it was showing",
+      "starttime": 27.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes yes.",
+      "starttime": 29.21
+    },
+    {
+      "speaker": "agent",
+      "text": "So sorry for",
+      "starttime": 33.83
+    },
+    {
+      "speaker": "customer",
+      "text": "24 under  bill payment. I confirm in my bank application it was  no no such payment. Just I think that  is just a system error.",
+      "starttime": 43.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 43.43
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So",
+      "starttime": 45.63
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok. So you want me not to transfer the",
+      "starttime": 54.13
+    },
+    {
+      "speaker": "customer",
+      "text": "no problem.",
+      "starttime": 59.16
+    },
+    {
+      "speaker": "agent",
+      "text": "If you want, I can transfer the call they can better assist you.",
+      "starttime": 61.93
+    },
+    {
+      "speaker": "customer",
+      "text": "mail loan.",
+      "starttime": 65.78
+    },
+    {
+      "speaker": "agent",
+      "text": "No issues. Is there anything else apart from this?",
+      "starttime": 68.46
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no no no. Nothing else thanks for give information about my voucher",
+      "starttime": 70.74
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok",
+      "starttime": 75.07
+    },
+    {
+      "speaker": "agent",
+      "text": "Before we end this call, may I please request you for your valuable feedback  basis on the conversation.",
+      "starttime": 76.51
+    },
+    {
+      "speaker": "customer",
+      "text": "on IVR?",
+      "starttime": 82.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I will transfer the  call to the IVR should",
+      "starttime": 83.58
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes, no problem.",
+      "starttime": 86.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much  for being excellent and 1 being 4. Thank you for choosing. Hope you have a great day. Thank",
+      "starttime": 87.66
+    },
+    {
+      "speaker": "customer",
+      "text": "Right, right right.",
+      "starttime": 91.38
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. You have just helped us improve the credit experience for all our members.",
+      "starttime": 93.65
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 105.25
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 108.96
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is शुमी. and I'm here to assist you today. Am I speaking with पवन",
+      "starttime": 16.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for the confirmation. So you have raised a concern at credit that when up to ###on",
+      "starttime": 23.32
+    },
+    {
+      "speaker": "agent",
+      "text": "मिंत्रा on all orders above 7 double 9 voucher related issue, right?",
+      "starttime": 29.12
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Very sorry for the inconvenience caused to you. May I know what is the issue you are facing?",
+      "starttime": 36.16
+    },
+    {
+      "speaker": "customer",
+      "text": "हां ma'am जो credit payment directly redeem कर रहा हूं ना तो  मुझे redirect  कर रहा है",
+      "starttime": 42.61
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, but वह amount deduct नहीं कर रहा automatically. So what I have done",
+      "starttime": 48.65
+    },
+    {
+      "speaker": "customer",
+      "text": "हां मैंने उसका code copy करके उसके apply promo code में जा रहा हूं तो वह pin मांग रहा है मेरे.",
+      "starttime": 54.17
+    },
+    {
+      "speaker": "customer",
+      "text": "is promo code.",
+      "starttime": 61.62
+    },
+    {
+      "speaker": "customer",
+      "text": "and I'm unable to find",
+      "starttime": 64.97
+    },
+    {
+      "speaker": "agent",
+      "text": "आप कौन सा promo code डाल रहे हैं क्या मैं जान सकती",
+      "starttime": 65.07
+    },
+    {
+      "speaker": "customer",
+      "text": "हां ma'am जी इस चीज़ का मैंने आपको screenshot दिया",
+      "starttime": 68.46
+    },
+    {
+      "speaker": "customer",
+      "text": "हां Cred",
+      "starttime": 72.73
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 74.53
+    },
+    {
+      "speaker": "customer",
+      "text": "means voucher.",
+      "starttime": 76.02
+    },
+    {
+      "speaker": "customer",
+      "text": "उसका  code होता है.",
+      "starttime": 78.82
+    },
+    {
+      "speaker": "customer",
+      "text": "तो आप उसको copy best कर सकते हो direct redeem कर सकते",
+      "starttime": 81.62
+    },
+    {
+      "speaker": "customer",
+      "text": "to try earlier but I am unable to do anything.",
+      "starttime": 85.49
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर रही हूं please line पर बने रहिए. मैं असुविधा के लिए माफ़ी चाहती",
+      "starttime": 92.17
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपको एक बार इसको redeem करने का steps guide कर रही हूं क्या यह  possible है कि आप पहले एक बार",
+      "starttime": 97.13
+    },
+    {
+      "speaker": "customer",
+      "text": "Just give me a moment let me  check which",
+      "starttime": 102.28
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 106.8
+    },
+    {
+      "speaker": "customer",
+      "text": "Hello. Am I audible?",
+      "starttime": 123.2
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, Yes.",
+      "starttime": 124.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes madam.",
+      "starttime": 126.48
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, tell me. How could team?",
+      "starttime": 127.77
+    },
+    {
+      "speaker": "agent",
+      "text": "Just allow me a minute please.",
+      "starttime": 131.69
+    },
+    {
+      "speaker": "agent",
+      "text": "So he in that case we found this voucher.",
+      "starttime": 142.88
+    },
+    {
+      "speaker": "agent",
+      "text": "Actually, you need to while you are redeeming the voucher, the like this voucher can be redeemed on the curated link only.",
+      "starttime": 146.71
+    },
+    {
+      "speaker": "agent",
+      "text": "So when you are clicking on the voucher go to the Cred",
+      "starttime": 156.48
+    },
+    {
+      "speaker": "agent",
+      "text": "Go to that particular voucher. click on redeem now.",
+      "starttime": 159.85
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Yes.",
+      "starttime": 164.11
+    },
+    {
+      "speaker": "customer",
+      "text": "Now it's direct in me to the Mint. Ok.",
+      "starttime": 166.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, in the curated link whatever the product is available, you need to select from those products only.",
+      "starttime": 168.8
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually ma'am  direct treatment to the interest.",
+      "starttime": 175.6
+    },
+    {
+      "speaker": "customer",
+      "text": "not on the specific product.",
+      "starttime": 179.43
+    },
+    {
+      "speaker": "customer",
+      "text": "it's a home page  में.",
+      "starttime": 181.81
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. The voucher is applicable only  per member. The voucher cannot be clicked with any other offer as per the terms and condition.",
+      "starttime": 183.93
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok sir.",
+      "starttime": 192.25
+    },
+    {
+      "speaker": "agent",
+      "text": "The voucher is applicable on the minimum purchase of 7 double 9",
+      "starttime": 192.29
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 196.78
+    },
+    {
+      "speaker": "agent",
+      "text": "maximum discount that can be availed on the offer is ###.",
+      "starttime": 198.13
+    },
+    {
+      "speaker": "customer",
+      "text": "एक minute.",
+      "starttime": 201.96
+    },
+    {
+      "speaker": "agent",
+      "text": "this voucher is not validate any align partner tell outlet your store.",
+      "starttime": 204.24
+    },
+    {
+      "speaker": "agent",
+      "text": "the balance amount",
+      "starttime": 209.16
+    },
+    {
+      "speaker": "agent",
+      "text": "after the discount is avail we'll have to pay by the member at the time of purchase.",
+      "starttime": 210.88
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok? The discount amount can be refunded in in cash or part in cash.",
+      "starttime": 216.39
+    },
+    {
+      "speaker": "agent",
+      "text": "means a return and exchange policy offers you the option to return or exchange item. purchase on Mint application within 4 days of the receive.",
+      "starttime": 222.06
+    },
+    {
+      "speaker": "agent",
+      "text": "In case of return of the purchase item, Please refer to the return policy on the website or app or call mister customer care.",
+      "starttime": 231.79
+    },
+    {
+      "speaker": "agent",
+      "text": "all others about to select your available at the time of purchase and will be given by the lender terms and condition listed on the app.",
+      "starttime": 240.53
+    },
+    {
+      "speaker": "agent",
+      "text": "the all dispute arranged",
+      "starttime": 250.0
+    },
+    {
+      "speaker": "agent",
+      "text": "out of or in connection or the team are suggest to exclusive section of the code of बैंगलोर only.",
+      "starttime": 252.38
+    },
+    {
+      "speaker": "agent",
+      "text": "the company is not responsible for any type of call error leading to an invalid coupon.",
+      "starttime": 260.72
+    },
+    {
+      "speaker": "agent",
+      "text": "This valid is voucher till fifteenth of October.",
+      "starttime": 267.9
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So as I have red all the terms and conditions, You have followed all of this. Right?",
+      "starttime": 271.04
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Then when you are clicking on redeem now, you are selecting the product.",
+      "starttime": 279.06
+    },
+    {
+      "speaker": "agent",
+      "text": "Please select the product of your choice. then move to the checkout page.",
+      "starttime": 284.22
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok",
+      "starttime": 288.56
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 292.24
+    },
+    {
+      "speaker": "customer",
+      "text": "will   continue",
+      "starttime": 298.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am.",
+      "starttime": 303.88
+    },
+    {
+      "speaker": "customer",
+      "text": "Now I'm on the payment page there there are different method.",
+      "starttime": 305.59
+    },
+    {
+      "speaker": "customer",
+      "text": "and it's asking you  have a gift card or",
+      "starttime": 309.94
+    },
+    {
+      "speaker": "agent",
+      "text": "It's not the gift card, it's coupon.",
+      "starttime": 312.99
+    },
+    {
+      "speaker": "agent",
+      "text": "As you as you have clicked on this gift card option that is why it is requesting you for",
+      "starttime": 316.54
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am there is no option for coupon.",
+      "starttime": 322.98
+    },
+    {
+      "speaker": "agent",
+      "text": "you need",
+      "starttime": 323.25
+    },
+    {
+      "speaker": "agent",
+      "text": "apply coupon option be will be there in the checkout page.",
+      "starttime": 326.29
+    },
+    {
+      "speaker": "customer",
+      "text": "No, there is no option.",
+      "starttime": 329.95
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 333.26
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 334.85
+    },
+    {
+      "speaker": "agent",
+      "text": "Please tell me what are the options are available.",
+      "starttime": 334.88
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 338.56
+    },
+    {
+      "speaker": "customer",
+      "text": "UPI UPI",
+      "starttime": 340.42
+    },
+    {
+      "speaker": "customer",
+      "text": "credit card debit card pay later wallet EMI net banking",
+      "starttime": 342.42
+    },
+    {
+      "speaker": "customer",
+      "text": "then   via UPI have a card",
+      "starttime": 349.06
+    },
+    {
+      "speaker": "agent",
+      "text": "in the upper section you will be able to check that as",
+      "starttime": 358.19
+    },
+    {
+      "speaker": "customer",
+      "text": "There is no option कोटक.",
+      "starttime": 361.43
+    },
+    {
+      "speaker": "agent",
+      "text": "because somewhere multiple offers are getting applied in that place",
+      "starttime": 363.37
+    },
+    {
+      "speaker": "agent",
+      "text": "you will be able to check right?",
+      "starttime": 368.36
+    },
+    {
+      "speaker": "customer",
+      "text": "I don't think",
+      "starttime": 371.8
+    },
+    {
+      "speaker": "customer",
+      "text": "coupon",
+      "starttime": 374.32
+    },
+    {
+      "speaker": "customer",
+      "text": "the",
+      "starttime": 375.9
+    },
+    {
+      "speaker": "agent",
+      "text": "please take the screenshot and share that with us.",
+      "starttime": 375.94
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sharing you a link on your registered mobile numbers SMS.",
+      "starttime": 379.52
+    },
+    {
+      "speaker": "agent",
+      "text": "We are very sorry for the inconvenience caused to you. We would request you to share the link. but the",
+      "starttime": 383.89
+    },
+    {
+      "speaker": "agent",
+      "text": "screen actually, where you're not getting the option of applying",
+      "starttime": 391.41
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 394.43
+    },
+    {
+      "speaker": "customer",
+      "text": "help me the",
+      "starttime": 395.92
+    },
+    {
+      "speaker": "customer",
+      "text": "please check.",
+      "starttime": 422.07
+    },
+    {
+      "speaker": "agent",
+      "text": "If you are going to like gift card option,",
+      "starttime": 441.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Is it giving you the option of card only?",
+      "starttime": 445.18
+    },
+    {
+      "speaker": "agent",
+      "text": "or else you can check that in that page you are getting the option of making the voucher as.",
+      "starttime": 448.86
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, here it's a gift card value will be  which was in credit.",
+      "starttime": 456.03
+    },
+    {
+      "speaker": "customer",
+      "text": "हां, 16 digit gift card number then it's asking for   digit get that.",
+      "starttime": 461.46
+    },
+    {
+      "speaker": "agent",
+      "text": "It is a voucher, it is not a gift card so that you need to make a",
+      "starttime": 468.62
+    },
+    {
+      "speaker": "customer",
+      "text": "where I can apply this voucher?",
+      "starttime": 473.05
+    },
+    {
+      "speaker": "agent",
+      "text": "do understand Very sorry for this inconvenience caused to",
+      "starttime": 476.56
+    },
+    {
+      "speaker": "agent",
+      "text": "do not worry. I'm just raising",
+      "starttime": 480.43
+    },
+    {
+      "speaker": "agent",
+      "text": "concern towards your internal team for further investigation.",
+      "starttime": 485.25
+    },
+    {
+      "speaker": "agent",
+      "text": "from there we will receive a system generated timeline but before that,",
+      "starttime": 489.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Let me just check that without like you are not getting the option at all. right?",
+      "starttime": 494.35
+    },
+    {
+      "speaker": "agent",
+      "text": "So I would request you to  give us a timeline till tenth of October. Now within this mentioned timeline what will happen we will get back to you by the relevant update through your registered mobile numbers WhatsApp communication.",
+      "starttime": 499.87
+    },
+    {
+      "speaker": "agent",
+      "text": "or by the support ticket ID that you are having in the credit",
+      "starttime": 514.01
+    },
+    {
+      "speaker": "agent",
+      "text": "So is there anything else apart from this may I assist you with regarding?",
+      "starttime": 523.36
+    },
+    {
+      "speaker": "customer",
+      "text": "No no. Thank you.",
+      "starttime": 528.45
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank",
+      "starttime": 530.04
+    },
+    {
+      "speaker": "agent",
+      "text": "before I let you go from this call a small request to रितेश.",
+      "starttime": 531.21
+    },
+    {
+      "speaker": "agent",
+      "text": "that you can rate our telephonic conversation between 1 to 5.",
+      "starttime": 535.19
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Sure. Fine.",
+      "starttime": 540.86
+    },
+    {
+      "speaker": "agent",
+      "text": "5 for being excellent and 1 for being poor. So if you permit me and I'll transfer the call to the feedback IVR निखिल.",
+      "starttime": 542.22
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok sure.",
+      "starttime": 548.97
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Thank you so much and sorry पवन. Thank you so much. It was a pleasure to talk to you. Thank you for choosing Cred and have a great day. Thank you.",
+      "starttime": 550.59
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience.",
+      "starttime": 560.2
+    }
+  ]
+}

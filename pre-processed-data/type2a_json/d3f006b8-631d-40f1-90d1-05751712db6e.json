@@ -1,0 +1,110 @@
+{
+  "conversation_id": "d3f006b8-631d-40f1-90d1-05751712db6e",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "यह  amount  का ना multiple",
+      "starttime": 1.38
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 11.1
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 12.79
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 14.97
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is  I'm here to assist you today. Am I speaking with विशाल?",
+      "starttime": 16.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming your name विशाल. I understand your concern is related to the refund of rupees ###. which you have paid towards the HDFC credit card ending with 7 9   on seventh of October correct?",
+      "starttime": 23.01
+    },
+    {
+      "speaker": "agent",
+      "text": "So as the payment was paid by you from the HDFC account through credit UPI and  it was failed, we do have the regret regarding this and we really apologize for",
+      "starttime": 37.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. But please be assured that we are here to assist.",
+      "starttime": 48.21
+    },
+    {
+      "speaker": "agent",
+      "text": "So विशाल the refund has been already initiated from our end completed from our end towards the HDFC account so which is the",
+      "starttime": 51.8
+    },
+    {
+      "speaker": "agent",
+      "text": "the primary account linked with your UPI So HDFC Bank account ending with 1 7  5 Although to reflect the refund in your bank account, it will take up to transaction plus 1 working day which will be completed by 8 of October  11 51 PM. I would request you to please wait till the time frame and within the time frame for sure you will receive the refund from",
+      "starttime": 60.92
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, no problem. Yeah, thank",
+      "starttime": 85.91
+    },
+    {
+      "speaker": "agent",
+      "text": "Welcome so is there any",
+      "starttime": 87.54
+    },
+    {
+      "speaker": "agent",
+      "text": "I can assist you related to",
+      "starttime": 89.27
+    },
+    {
+      "speaker": "customer",
+      "text": "No no, I'm I'm ok. Thank",
+      "starttime": 90.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, great. So before we end this call is there anything else I can assist you?",
+      "starttime": 93.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, great. So before we so may I please request you to give you valuable feedback on the basis of our conversation. It will just take a moment.",
+      "starttime": 98.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Great. So now I will transfer your call to the feedback IVR. You can choose between 1 to 5 1 being 4 and 5 being excellent. Thank you for choosing Cred. I hope you have a great day.",
+      "starttime": 107.44
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 118.97
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 126.42
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the You have just helped us improve the credit experience for all our members.",
+      "starttime": 126.59
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 132.16
+    }
+  ]
+}

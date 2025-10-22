@@ -1,0 +1,250 @@
+{
+  "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is रिया. I am here to assist you today. Am I speaking with मंजीत?",
+      "starttime": 19.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, thank you for confirming. I see you have raised a request in regards to the credit cash issue",
+      "starttime": 24.74
+    },
+    {
+      "speaker": "customer",
+      "text": "Right.",
+      "starttime": 31.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, can you please tell me what you want to",
+      "starttime": 32.43
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually, I was withdrawing amount on second of October",
+      "starttime": 35.91
+    },
+    {
+      "speaker": "customer",
+      "text": "by some take but later on the same day  refunded the money.",
+      "starttime": 41.34
+    },
+    {
+      "speaker": "customer",
+      "text": "But still it is not reflecting credit cash. So I am only   once the  page",
+      "starttime": 47.43
+    },
+    {
+      "speaker": "customer",
+      "text": "perfectly or not.",
+      "starttime": 52.92
+    },
+    {
+      "speaker": "agent",
+      "text": "on the same day as  on  second of October only you have made the payment of the amount?",
+      "starttime": 56.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. Yeah.",
+      "starttime": 61.68
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So",
+      "starttime": 63.63
+    },
+    {
+      "speaker": "customer",
+      "text": "after canceling with you.",
+      "starttime": 63.7
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, so you received the screenshot from so you received the link from us to make the payment",
+      "starttime": 66.75
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 73.52
+    },
+    {
+      "speaker": "customer",
+      "text": "and after that I also send a mail to get  the screenshot of the payment will done what I done.",
+      "starttime": 74.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, so have you shared the screenshot with us?",
+      "starttime": 82.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 85.42
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok just allow me a moment to check",
+      "starttime": 87.07
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes sir.",
+      "starttime": 90.21
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 104.47
+    },
+    {
+      "speaker": "customer",
+      "text": "हां",
+      "starttime": 108.35
+    },
+    {
+      "speaker": "customer",
+      "text": "the",
+      "starttime": 111.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for staying on the call.",
+      "starttime": 121.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, रंजीत. So actually what I can see  we have not received the amount sorry, we have not received the screenshot of the payment. So I'm sharing a link with you. They via the SMS if you click on it, you'll be redirected to the Cred app there on the option called add attachment. I would request you to please add the screenshot of the payment.",
+      "starttime": 124.38
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 138.88
+    },
+    {
+      "speaker": "customer",
+      "text": "But I already attached in the previous  support ticket number if you can see the previous  number of mine, it was clearly attach the",
+      "starttime": 142.81
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand but we do not have that at this moment so I would request you to please share the screenshot once.",
+      "starttime": 154.23
+    },
+    {
+      "speaker": "agent",
+      "text": "1 second, Just allow me a moment.",
+      "starttime": 161.47
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 176.44
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am",
+      "starttime": 178.86
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for staying on the call. Yes. I have found the screenshot that you have shared with us I'd like to inform you that I would request you to please wait for 7 days from the date of the payment and within that time, the loan will be closed.",
+      "starttime": 179.8
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. So it was done  because it is not reflecting  that's why I am little continue with it was done or",
+      "starttime": 194.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes yes.",
+      "starttime": 196.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Definitely.",
+      "starttime": 201.23
+    },
+    {
+      "speaker": "customer",
+      "text": "I have put it in a wrong",
+      "starttime": 201.59
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes yes please do not worry. It will take some time for it to be updated as closed.",
+      "starttime": 204.54
+    },
+    {
+      "speaker": "agent",
+      "text": "but do not worry within 7 days from the payment date it will be updated.",
+      "starttime": 209.38
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 214.61
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes. Is there anything else I can assist you?",
+      "starttime": 216.39
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no thank you.",
+      "starttime": 218.97
+    },
+    {
+      "speaker": "customer",
+      "text": "I just want to confirm this",
+      "starttime": 221.23
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome.",
+      "starttime": 221.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok before we end this call, may I request you to share your valuable feedback on the basis of our conversation.",
+      "starttime": 224.2
+    },
+    {
+      "speaker": "agent",
+      "text": "I will be transferring the call to the feedback IVR. You can select between 1 to 5 or 5 is excellent and 1 is 4. Thank you so much for choosing Cred. I hope that you have a great day ahead. Thank",
+      "starttime": 232.08
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 244.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 252.31
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 256.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 260.85
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 264.58
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "conversation_id": "e7170ac7-2ba4-4443-a280-4e7f0740919b",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "उसी में",
+      "starttime": 2.44
+    },
+    {
+      "speaker": "agent",
+      "text": "वह  भी call है.",
+      "starttime": 4.57
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 6.9
+    },
+    {
+      "speaker": "agent",
+      "text": "bank में बोले",
+      "starttime": 8.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is जी. I'm here to assist you. Am I talking to प्रशांत राघवन?",
+      "starttime": 17.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming your name प्रशांत.",
+      "starttime": 23.88
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 26.59
+    },
+    {
+      "speaker": "agent",
+      "text": "हां",
+      "starttime": 28.55
+    },
+    {
+      "speaker": "agent",
+      "text": "can you elaborate me your concern?",
+      "starttime": 31.64
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am transaction हुई थी एक second October को वह cancel हो गई उसका return नहीं आया अभी",
+      "starttime": 35.4
+    },
+    {
+      "speaker": "agent",
+      "text": "ना",
+      "starttime": 37.43
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 42.96
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने transaction second October को की थी",
+      "starttime": 46.17
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 48.87
+    },
+    {
+      "speaker": "agent",
+      "text": "कितने amount",
+      "starttime": 50.82
+    },
+    {
+      "speaker": "customer",
+      "text": "देख",
+      "starttime": 50.94
+    },
+    {
+      "speaker": "customer",
+      "text": "#### करी.",
+      "starttime": 52.75
+    },
+    {
+      "speaker": "agent",
+      "text": "Yeah. Ok. Yes, as I can see that you have done a transaction of rupees 1 thousand towards Punjab",
+      "starttime": 55.89
+    },
+    {
+      "speaker": "agent",
+      "text": "ending with  ###.",
+      "starttime": 62.38
+    },
+    {
+      "speaker": "agent",
+      "text": "and वह जो credit आपने उसके लिए credit balance use किया था नौ रुपए का.",
+      "starttime": 66.91
+    },
+    {
+      "speaker": "agent",
+      "text": "और आपने जो total amount pay की है वह है सात हज़ार नौ सौ क्या रुपए.",
+      "starttime": 73.23
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने यह payment दो October को की थी",
+      "starttime": 78.31
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी वह cancel हो गई",
+      "starttime": 81.1
+    },
+    {
+      "speaker": "agent",
+      "text": "जी. तो वह payment आपके cancel हो गई तो क्या amount आपके account से deduct हो गया",
+      "starttime": 83.22
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 88.89
+    },
+    {
+      "speaker": "agent",
+      "text": "तो आपने cancel की थी तो फिर वह deduct हुआ",
+      "starttime": 90.5
+    },
+    {
+      "speaker": "customer",
+      "text": "cancel अपने आप हो गई",
+      "starttime": 94.72
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा तो फिर क्या वह amount जो है वह Punjab national bank तक पहुंचा",
+      "starttime": 97.64
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं",
+      "starttime": 102.09
+    },
+    {
+      "speaker": "agent",
+      "text": "और वह payment जो है वह आपके account में भी अभी वापस नहीं आई",
+      "starttime": 103.29
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं ma'am छह October की last date बोला था छह कल थी कल तक वह आई नहीं",
+      "starttime": 106.8
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं अभी के लिए",
+      "starttime": 112.89
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी तक तो",
+      "starttime": 113.31
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं अभी के माफी चाहूंगी आपको जो भी परेशानीयों का सामना करना पड़ रहा है But please be rest assured we are here to help you out. आपने कोई file upload की",
+      "starttime": 114.97
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 124.43
+    },
+    {
+      "speaker": "agent",
+      "text": "जी तो मैं आपका concern जो है वह हमारी internal team को highlight कर देती हूं और वह आपसे दो से तीन दिन में WhatsApp के notification के through आपको update आ जाएगा नहीं तो credit की जो है पर वहां पर update आ जाएगा. अगर फिर भी कोई update नहीं आता है तो आप call me back request raise कर सकते",
+      "starttime": 126.0
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, तो मैं एक बार  document check कर लेती हूं जो आपने send किया",
+      "starttime": 142.89
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी ma'am कर लो आप PDF",
+      "starttime": 147.18
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने कोई document नहीं नहीं कि हमारे पास तो कोई document नहीं आया अभी",
+      "starttime": 151.43
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am मैंने upload किया हुआ CRED support पर आप check कर",
+      "starttime": 156.01
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं वही check कर रही",
+      "starttime": 160.02
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am ###AM पर कर रखिए  मैंने.",
+      "starttime": 165.61
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं जानती हूं आपने भेजा होगा but हमारे पास ऐसा कोई document नहीं आया है. तो क्या आप दुबारा से भेज सकते हैं उसके लिए मैं आपको एक link send करूंगी. आप उस link पर वह document attach कर सकते हैं.",
+      "starttime": 169.14
+    },
+    {
+      "speaker": "customer",
+      "text": "वह",
+      "starttime": 176.32
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी भेज दो",
+      "starttime": 178.77
+    },
+    {
+      "speaker": "agent",
+      "text": "हां   जी.",
+      "starttime": 179.33
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 182.77
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने उसका आप मुझे password share करेंगे जो आपने document set किया है उसका.",
+      "starttime": 199.48
+    },
+    {
+      "speaker": "customer",
+      "text": "double ###",
+      "starttime": 204.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Double ###",
+      "starttime": 207.14
+    },
+    {
+      "speaker": "customer",
+      "text": "triple",
+      "starttime": 209.2
+    },
+    {
+      "speaker": "agent",
+      "text": "triple 0",
+      "starttime": 210.6
+    },
+    {
+      "speaker": "customer",
+      "text": "1  2",
+      "starttime": 212.1
+    },
+    {
+      "speaker": "agent",
+      "text": "1 0 2 0",
+      "starttime": 213.8
+    },
+    {
+      "speaker": "customer",
+      "text": "9 6 triple 4.",
+      "starttime": 216.05
+    },
+    {
+      "speaker": "agent",
+      "text": "9",
+      "starttime": 217.74
+    },
+    {
+      "speaker": "agent",
+      "text": "triple 4.",
+      "starttime": 218.93
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं देख पा रही हूं कि आपने Punjab national bank की एक copy भेजा है जिसके अंदर आपका नाम आपका address आपकी",
+      "starttime": 224.45
+    },
+    {
+      "speaker": "agent",
+      "text": "और आपके  KYC number mention",
+      "starttime": 230.73
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 233.68
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है प्रशांत. मैं आपकी इस concern को highlight कर देती हूं और हमारी team जो है वह आप WhatsApp notification के through नहीं तो credit support पर आपको message आ जाएगा अगर आपको कोई not आपको कोई update नहीं मिलता है तो आप हमें दुबारा से contact कर सकते हैं इसके लिए आपको 48 से 72 hours का wait करना होगा.",
+      "starttime": 235.1
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am.",
+      "starttime": 252.41
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या credit से संबंधित मैं आपकी कोई और सहायता कर सकती",
+      "starttime": 254.49
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं ma'am बस मेरे को आप ID share कर दो यह जो मैंने अभी raise की है ठीक",
+      "starttime": 258.51
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको ID चाहिए इसकी? जी मैं  share कर देती",
+      "starttime": 264.38
+    },
+    {
+      "speaker": "customer",
+      "text": "ticket number आप share कर दो.",
+      "starttime": 268.07
+    },
+    {
+      "speaker": "agent",
+      "text": "2 9.",
+      "starttime": 270.45
+    },
+    {
+      "speaker": "customer",
+      "text": "###",
+      "starttime": 273.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Double",
+      "starttime": 274.64
+    },
+    {
+      "speaker": "agent",
+      "text": "3 double",
+      "starttime": 277.05
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 279.43
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am, जी",
+      "starttime": 285.69
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी.",
+      "starttime": 287.13
+    }
+  ]
+}

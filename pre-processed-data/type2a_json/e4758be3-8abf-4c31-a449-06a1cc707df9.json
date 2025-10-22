@@ -1,0 +1,200 @@
+{
+  "conversation_id": "e4758be3-8abf-4c31-a449-06a1cc707df9",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning.",
+      "starttime": 4.69
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 8.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is जी.",
+      "starttime": 18.12
+    },
+    {
+      "speaker": "agent",
+      "text": "I have I am here to assist you today. Am I talking to अनुभव कुलदीप?",
+      "starttime": 20.06
+    },
+    {
+      "speaker": "customer",
+      "text": "हां yes.",
+      "starttime": 24.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming your name अनूप.",
+      "starttime": 26.49
+    },
+    {
+      "speaker": "agent",
+      "text": "So can you please elaborate me your concern?",
+      "starttime": 31.84
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually ma'am मैंने तीन October को BB card की payment की थी",
+      "starttime": 34.54
+    },
+    {
+      "speaker": "customer",
+      "text": "account से भी deduct हो गई थी और CRED में भी successful show कर रहा",
+      "starttime": 38.76
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 43.21
+    },
+    {
+      "speaker": "customer",
+      "text": "लेकिन अभी तक मेरे भी  भी card में payment reflect नहीं",
+      "starttime": 43.72
+    },
+    {
+      "speaker": "customer",
+      "text": "और अभी  अभी मैं bank से बात की थी तो वह कह रहे थे कि अभी आपकी ऐसी कोई payment नहीं आई",
+      "starttime": 48.58
+    },
+    {
+      "speaker": "agent",
+      "text": "आप निश्चिंत रहिए जैसा कि मैं देख पा रही हूं आपने आठ हज़ार बयालीस रुपए तेईस पैसे की payment की थी towards bank of broad  जी जिसकी last के digit है ###",
+      "starttime": 54.6
+    },
+    {
+      "speaker": "customer",
+      "text": "बड़ा right.",
+      "starttime": 63.55
+    },
+    {
+      "speaker": "agent",
+      "text": "इसमें हमने credit balance आपने credit balance use किया था 33 rupees",
+      "starttime": 67.99
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 71.85
+    },
+    {
+      "speaker": "agent",
+      "text": "और आपने जो total amount pay किया है वह है ###. पैसे.",
+      "starttime": 72.17
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने यह payment तीन October को किया है और आपकी due date जो है वह है बीस October की",
+      "starttime": 77.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Don't worry हमारी side से जो payment का status है वह successful दिखा रहा है. ऐसे मैं हमेशा दो ही scenario होते हैं  तो आपकी payment जो है वह आपके bank of बढ़ता तक पहुंच जाएगी. नहीं तो वह return होगी आपके account में वापस आ जाएगी कि आपने इसके लिए जी क्या आपने आपने  payment करने के लिए UPI का use किया",
+      "starttime": 83.38
+    },
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 87.97
+    },
+    {
+      "speaker": "customer",
+      "text": "यह कब तक रहेगा",
+      "starttime": 95.59
+    },
+    {
+      "speaker": "customer",
+      "text": "हां UPI का use किया",
+      "starttime": 100.84
+    },
+    {
+      "speaker": "agent",
+      "text": "जी इसके लिए आपको दो से तीन working days का time लग सकता है. अगर तब भी आपको कोई update नहीं मिलता है हमारी side से या bank के side से तो आप दुबारा हमसे contact कर सकते",
+      "starttime": 102.56
+    },
+    {
+      "speaker": "customer",
+      "text": "कितना time",
+      "starttime": 112.67
+    },
+    {
+      "speaker": "agent",
+      "text": "जी दो से तीन दिन का समय लगेगा इसके",
+      "starttime": 114.11
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 117.04
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या मैं credit से संबंधित आपकी कोई और सहायता कर सकती हूं?",
+      "starttime": 118.16
+    },
+    {
+      "speaker": "customer",
+      "text": "No, thank you.",
+      "starttime": 121.36
+    },
+    {
+      "speaker": "customer",
+      "text": "इसलिए मुझे तो कुछ नहीं करना रहेगा.",
+      "starttime": 122.8
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं आपको कुछ नहीं करना है आपको आपको इतना time frame का wait करना है जो दो से तीन दिन का समय होता है यह maximum time frame होता है. हो सकता है आपकी payment आ आ जाए या कल आ जाए ऐसा भी होता है लेकिन हम लोग हम हम जो time frame लेकर चलता है वह है दो से तीन दिन का maximum time frame. अगर इस beach आपके transaction successful हो जाती है तो आपको update मिल जाएगा आपके WhatsApp पर नहीं तो फिर आपके SMS notification पर अगर फिर भी आपको कोई update नहीं मिलता है तो आप फिर हमारी team आप वापस से  call  back request raise कर सकते हैं और आपके issue को resolve करके हमें खुशी.",
+      "starttime": 124.8
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है ma'am. Ok, thank you.",
+      "starttime": 155.45
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या मैं आपकी कैसे संबंधित और कोई सहायता कर सकती हूं?",
+      "starttime": 157.17
+    },
+    {
+      "speaker": "customer",
+      "text": "No. Thank",
+      "starttime": 160.24
+    },
+    {
+      "speaker": "agent",
+      "text": "इस call को end करने से पहले क्या मैं आप हमारी बातचीत के आधार पर आप छोटे से feedback की request कर सकती हूं इसमें बस कुछ समय लगेगा.",
+      "starttime": 161.42
+    },
+    {
+      "speaker": "agent",
+      "text": "For that मैं आपकी call को feedback IVR पर transfer करूंगी जहां पर आपको हमारी call को एक से पांच के beach में rate करना होगा जहां एक सबसे कम और पांच सबसे अधिक.",
+      "starttime": 170.47
+    },
+    {
+      "speaker": "agent",
+      "text": "Credit को choose करने के लिए धन्यवाद. आपका दिन शुभ हो.",
+      "starttime": 179.82
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 185.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Please, you have just helped us improve the credit experience for all our members.",
+      "starttime": 192.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 197.59
+    }
+  ]
+}

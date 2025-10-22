@@ -1,0 +1,115 @@
+{
+  "conversation_id": "e575e72f-7087-4c84-9ce6-42d60716882f",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hello.  very good morning.",
+      "starttime": 2.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello. I'm audible?",
+      "starttime": 4.6
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 7.1
+    },
+    {
+      "speaker": "agent",
+      "text": "हां sir it is     call  नाम sir सचिन  तो मतलब",
+      "starttime": 8.1
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 13.26
+    },
+    {
+      "speaker": "agent",
+      "text": "हां sir मेरे को sir insurance     का को.",
+      "starttime": 14.43
+    },
+    {
+      "speaker": "agent",
+      "text": "credit application limit  payment   sir. But unfortunately, मेरी payment proceed",
+      "starttime": 20.38
+    },
+    {
+      "speaker": "customer",
+      "text": "check check     remain",
+      "starttime": 27.22
+    },
+    {
+      "speaker": "agent",
+      "text": "at the around",
+      "starttime": 32.7
+    },
+    {
+      "speaker": "customer",
+      "text": "where    can madam.",
+      "starttime": 33.34
+    },
+    {
+      "speaker": "agent",
+      "text": "on sir,   sir ok but  को  expire",
+      "starttime": 36.4
+    },
+    {
+      "speaker": "customer",
+      "text": "तो",
+      "starttime": 42.27
+    },
+    {
+      "speaker": "agent",
+      "text": "I think    expire on sir",
+      "starttime": 45.12
+    },
+    {
+      "speaker": "agent",
+      "text": "Sir 9 expire  see repay    your    time once.",
+      "starttime": 51.36
+    },
+    {
+      "speaker": "customer",
+      "text": "minute.",
+      "starttime": 58.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok sure. Correct  sir correct भी choose करने   की   10 percent    claim sir.",
+      "starttime": 59.7
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं",
+      "starttime": 69.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok sir. credit   case कल. Ok ना?       any call on IVR calling Now calling rating  call    rating is  and    1 more    Thank you. Have a great",
+      "starttime": 70.64
+    },
+    {
+      "speaker": "customer",
+      "text": "हां,  ok.",
+      "starttime": 73.79
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok",
+      "starttime": 84.61
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok",
+      "starttime": 87.17
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to",
+      "starttime": 89.42
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "conversation_id": "e3866355-2619-46df-8841-45962c1c2f0d",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is पूजा I'm here to assist you today. Am I speaking with अरशद",
+      "starttime": 16.64
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am.",
+      "starttime": 21.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Thank you for the name confirmation. As I can see you've raised a concern that you want  to activate your credit application right?",
+      "starttime": 22.47
+    },
+    {
+      "speaker": "agent",
+      "text": "and as I can see the reason also that you are changing your number that's why you want to delete it?",
+      "starttime": 30.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok. Please be assured I'm here to assist you with the same regarding your concern. So just allow me a moment. I'm checking some of the information.",
+      "starttime": 36.67
+    },
+    {
+      "speaker": "agent",
+      "text": "with this account?",
+      "starttime": 45.1
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 49.15
+    },
+    {
+      "speaker": "agent",
+      "text": "As I can see you have a credit coins of 1 lakh ###. So do you want to use",
+      "starttime": 53.54
+    },
+    {
+      "speaker": "customer",
+      "text": "So if I login with another account with another number, I can use it",
+      "starttime": 60.36
+    },
+    {
+      "speaker": "agent",
+      "text": "No. then this credit coins will be loss if once you delete this account and they cannot be transferred",
+      "starttime": 65.64
+    },
+    {
+      "speaker": "customer",
+      "text": "How can I use this coins.",
+      "starttime": 71.24
+    },
+    {
+      "speaker": "agent",
+      "text": "You can use this coin in the store section whenever you purchase something you can use them to be discount and also for paying game the reward section and whenever you book any travel package, you can use your credit coins there also.",
+      "starttime": 73.13
+    },
+    {
+      "speaker": "agent",
+      "text": "to avail the discount.",
+      "starttime": 87.22
+    },
+    {
+      "speaker": "customer",
+      "text": "how to to this?",
+      "starttime": 89.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes.",
+      "starttime": 92.71
+    },
+    {
+      "speaker": "customer",
+      "text": "auto store the points",
+      "starttime": 94.65
+    },
+    {
+      "speaker": "agent",
+      "text": "You can store the coins you can use them to avail the discount like in the store section in the credit application, there is a store section, right?",
+      "starttime": 97.55
+    },
+    {
+      "speaker": "agent",
+      "text": "So in that whenever you purchase something or any product you can use some amount as well as the these credit coins to avail the discount.",
+      "starttime": 105.92
+    },
+    {
+      "speaker": "agent",
+      "text": "And if there",
+      "starttime": 117.63
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 118.17
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, if you want to use then you can I suggest that please use it use the first and then we will proceed with the delete You can connect to us after using that icon.",
+      "starttime": 119.54
+    },
+    {
+      "speaker": "customer",
+      "text": "ok. Ok then I am  using only",
+      "starttime": 131.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok? And",
+      "starttime": 131.94
+    },
+    {
+      "speaker": "agent",
+      "text": "and also in your credit balance there are 10 rupees. So I would suggest you please utilize all these things and then you can come back to us after sending a call me back request and we will delete your",
+      "starttime": 135.35
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok done.",
+      "starttime": 146.62
+    },
+    {
+      "speaker": "agent",
+      "text": "there anything else I can help you related to correct?",
+      "starttime": 147.89
+    },
+    {
+      "speaker": "customer",
+      "text": "No, nothing",
+      "starttime": 150.49
+    },
+    {
+      "speaker": "agent",
+      "text": "Also before we end this call may I request you a small feedback on the basis of a conversation?",
+      "starttime": 151.45
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah sure. Thank",
+      "starttime": 156.24
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I'll transfer your call to a feedback IVR where you can select between 1 to 5. 5 is excellent and 1 being 4. Thank you for choosing. Have a nice day.",
+      "starttime": 156.78
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes sir.",
+      "starttime": 166.23
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 168.44
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 176.07
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 180.17
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 184.74
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 188.46
+    }
+  ]
+}

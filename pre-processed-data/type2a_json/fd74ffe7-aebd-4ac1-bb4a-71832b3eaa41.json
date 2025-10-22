@@ -1,0 +1,455 @@
+{
+  "conversation_id": "fd74ffe7-aebd-4ac1-bb4a-71832b3eaa41",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good afternoon this is",
+      "starttime": 17.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Good afternoon. This is  I'm here to assist you today. Am I speaking with सौरभ?",
+      "starttime": 19.81
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, speaking.",
+      "starttime": 25.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you.  I'm really sorry good morning. This is किरण.",
+      "starttime": 27.23
+    },
+    {
+      "speaker": "agent",
+      "text": "here to assist you today.",
+      "starttime": 33.16
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I speaking with सौरभ?",
+      "starttime": 35.0
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes speaking.",
+      "starttime": 37.59
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for the confirmation. As I can see that you have raised a call me back request regarding to your concern  insurance policy right?",
+      "starttime": 38.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright.",
+      "starttime": 48.73
+    },
+    {
+      "speaker": "agent",
+      "text": "So  I would like to confirm your vehicle number which is ending with double 1 double 0",
+      "starttime": 51.01
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a moment and let me  check the details.",
+      "starttime": 59.89
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, as I can see that your policy is",
+      "starttime": 66.48
+    },
+    {
+      "speaker": "agent",
+      "text": "activate yet. since the payment got successful, right?",
+      "starttime": 70.74
+    },
+    {
+      "speaker": "customer",
+      "text": "I'm not able to hear you early.",
+      "starttime": 74.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to you?",
+      "starttime": 77.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so I can see that your payment got successful but the policy is not activated yet.",
+      "starttime": 80.85
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 87.48
+    },
+    {
+      "speaker": "customer",
+      "text": "That's what I want to know",
+      "starttime": 88.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok",
+      "starttime": 88.71
+    },
+    {
+      "speaker": "agent",
+      "text": "I am",
+      "starttime": 90.31
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry for the inconvenience that caused but I can see that for that your concern has been already raised on yesterday itself and we have already shared you the maximum timeline as well that by twelfth of October.",
+      "starttime": 91.65
+    },
+    {
+      "speaker": "customer",
+      "text": "No, I can't wait for twelfth October. if it's not possible by today please refund my payment.",
+      "starttime": 104.34
+    },
+    {
+      "speaker": "agent",
+      "text": "I completely understand your",
+      "starttime": 110.97
+    },
+    {
+      "speaker": "customer",
+      "text": "my card my  previous policy is expired so I can't",
+      "starttime": 111.61
+    },
+    {
+      "speaker": "agent",
+      "text": "I completely understand your concern, but I would like to inform you that for the cancellation we have to raise the concern and for that also you have to wait for some time because there will be some maximum timeline which we need to share with",
+      "starttime": 118.53
+    },
+    {
+      "speaker": "customer",
+      "text": "This is not the right way of doing this ना? for that how can I wait for more days for my card will  I am not able to use my",
+      "starttime": 130.85
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, but I would like",
+      "starttime": 143.08
+    },
+    {
+      "speaker": "customer",
+      "text": "Then you will make the refund right now, right?",
+      "starttime": 144.06
+    },
+    {
+      "speaker": "agent",
+      "text": "But refund is not possible from our end to generate right now onwards, But we can generate cancellation request for that it will take another 3 or 4 days",
+      "starttime": 147.62
+    },
+    {
+      "speaker": "agent",
+      "text": "to get an confirmation about the cancellation request on and before we will share you the cancellation request details as",
+      "starttime": 158.74
+    },
+    {
+      "speaker": "agent",
+      "text": "But it will take time. I can raise the concern for the cancellation request.",
+      "starttime": 167.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Then what is the status of my insurance then?",
+      "starttime": 169.96
+    },
+    {
+      "speaker": "agent",
+      "text": "As I can see from my end that the status is showing still in the pending status and our team is working in that and they would request you to please wait for some time.",
+      "starttime": 174.1
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 182.45
+    },
+    {
+      "speaker": "customer",
+      "text": "I'm not getting this  whenever I call you people that you say the same thing you wait for you, it's not under process.",
+      "starttime": 185.55
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, because",
+      "starttime": 196.57
+    },
+    {
+      "speaker": "customer",
+      "text": "but what is like what is the setup If it's possible or not, you should tell me, right?",
+      "starttime": 197.7
+    },
+    {
+      "speaker": "customer",
+      "text": "can I wait for 6 days for  insurance renewal.",
+      "starttime": 203.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, that is",
+      "starttime": 203.49
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, our team is working on that itself.",
+      "starttime": 206.87
+    },
+    {
+      "speaker": "agent",
+      "text": "once we receive any update from our backend team you will be inform immediately via WhatsApp",
+      "starttime": 210.02
+    },
+    {
+      "speaker": "agent",
+      "text": "and the timeline which I have shared with you. That is the maximum timeline.",
+      "starttime": 216.32
+    },
+    {
+      "speaker": "customer",
+      "text": "that that is I made a payment on Saturday.",
+      "starttime": 218.29
+    },
+    {
+      "speaker": "customer",
+      "text": "Now, today is almost 1  day when   today.",
+      "starttime": 222.7
+    },
+    {
+      "speaker": "customer",
+      "text": "you are taking so much time to insurance insurance.",
+      "starttime": 227.44
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry for the inconvenience that caused but",
+      "starttime": 231.67
+    },
+    {
+      "speaker": "customer",
+      "text": "that to my insurance expired I paid before my expiry",
+      "starttime": 233.83
+    },
+    {
+      "speaker": "customer",
+      "text": "What kind of work you are doing what kind of",
+      "starttime": 242.39
+    },
+    {
+      "speaker": "customer",
+      "text": "response you are giving to the customer.",
+      "starttime": 245.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Really sorry for the inconvenience that caused but the concern has been already forwarded सौरभ.",
+      "starttime": 250.78
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं you should have  you should have like transfer right?",
+      "starttime": 254.73
+    },
+    {
+      "speaker": "agent",
+      "text": "no",
+      "starttime": 256.08
+    },
+    {
+      "speaker": "customer",
+      "text": "you are telling me that is  being processed.  your backend team is working What kind of  they are doing for the 3 past 3 days that my insurance policy cannot be generated. Then we refund my money ना?",
+      "starttime": 259.03
+    },
+    {
+      "speaker": "customer",
+      "text": "I can happen that you are not able to process",
+      "starttime": 270.06
+    },
+    {
+      "speaker": "customer",
+      "text": "then you give me my money",
+      "starttime": 272.98
+    },
+    {
+      "speaker": "customer",
+      "text": "let me in a position that I am not able to use my card also and I am not going to get my refund also so that I can write from outside",
+      "starttime": 276.66
+    },
+    {
+      "speaker": "customer",
+      "text": "You please connect me to your senior or any management thing that I can convey my issue.",
+      "starttime": 289.67
+    },
+    {
+      "speaker": "agent",
+      "text": "will also tell you the same thing. Please try to understand but the concern has been already",
+      "starttime": 296.74
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no, I can't understand it now ma'am. Ma'am I have waited for 3  after my expire.  so I waited 1 more",
+      "starttime": 300.46
+    },
+    {
+      "speaker": "customer",
+      "text": "it cannot be done like",
+      "starttime": 309.16
+    },
+    {
+      "speaker": "customer",
+      "text": "you have to connect me to the either the insurance authority or your management",
+      "starttime": 311.48
+    },
+    {
+      "speaker": "customer",
+      "text": "is working on this particular issue,",
+      "starttime": 315.56
+    },
+    {
+      "speaker": "agent",
+      "text": "For that I have to check that whether someone is available or not at this time. For that, may",
+      "starttime": 322.14
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, please check it.  I want a I want a resolution today. Otherwise, it's not possible for me to wait anymore.  I was I have only the and agent people I need the card today.",
+      "starttime": 325.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So for that, may I please place the call on hold for 1 minute so that I can check?",
+      "starttime": 339.69
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, please place it on hold and I want to",
+      "starttime": 343.03
+    },
+    {
+      "speaker": "customer",
+      "text": "I get a resolution today",
+      "starttime": 346.54
+    },
+    {
+      "speaker": "agent",
+      "text": "Please be online. I am just checking it",
+      "starttime": 350.68
+    },
+    {
+      "speaker": "agent",
+      "text": "So",
+      "starttime": 363.5
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much for being on hold.",
+      "starttime": 443.56
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes I am really sorry for the long hold सौरव. so I have checked actually at this time no 1 is available but I can set a callback for",
+      "starttime": 447.64
+    },
+    {
+      "speaker": "agent",
+      "text": "in next 2 hours",
+      "starttime": 455.61
+    },
+    {
+      "speaker": "customer",
+      "text": "in next",
+      "starttime": 457.87
+    },
+    {
+      "speaker": "agent",
+      "text": "in next 2 hours.",
+      "starttime": 459.08
+    },
+    {
+      "speaker": "agent",
+      "text": "our supervisor will give you a callback after 2 hours ok.",
+      "starttime": 460.79
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, please do",
+      "starttime": 465.93
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I am just going to schedule this call back after 2 hours. So please wait for that time.",
+      "starttime": 467.6
+    },
+    {
+      "speaker": "agent",
+      "text": "our super wise and will reach you out for this, ok?",
+      "starttime": 473.51
+    },
+    {
+      "speaker": "customer",
+      "text": "and ma'am please make a note of it that is my insurance is not being done by today I got the money back today.",
+      "starttime": 478.0
+    },
+    {
+      "speaker": "customer",
+      "text": "I know how what your process  backend team whatever they are doing I don't want to know all",
+      "starttime": 484.7
+    },
+    {
+      "speaker": "customer",
+      "text": "Do it either by today or give   my money back just keep a note and inform you supervisor whatever who is this thing person?",
+      "starttime": 489.9
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright. I am just going to take a note of",
+      "starttime": 497.25
+    },
+    {
+      "speaker": "agent",
+      "text": "1 more thing I would like to inform you   that I'm just going to close your new ticket which you have raised now and I'm just going to merge this with the previous 1 where the concern has been already handled Ok?",
+      "starttime": 500.12
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, whatever your",
+      "starttime": 513.12
+    },
+    {
+      "speaker": "customer",
+      "text": "You are doing it.",
+      "starttime": 514.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Is there anything else I can help you with?",
+      "starttime": 518.35
+    },
+    {
+      "speaker": "customer",
+      "text": "No.",
+      "starttime": 520.74
+    },
+    {
+      "speaker": "agent",
+      "text": "before we end the call may I request you to share me your valuable feedback?",
+      "starttime": 523.12
+    },
+    {
+      "speaker": "customer",
+      "text": "No, ma'am. I'm not      something",
+      "starttime": 526.8
+    },
+    {
+      "speaker": "agent",
+      "text": "So before we end the call may I request  ok thank you so much for choosing Cred. Have a wonderful",
+      "starttime": 531.86
+    }
+  ]
+}

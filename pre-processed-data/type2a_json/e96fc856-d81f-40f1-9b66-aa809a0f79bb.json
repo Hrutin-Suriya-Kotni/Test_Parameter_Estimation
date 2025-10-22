@@ -1,0 +1,160 @@
+{
+  "conversation_id": "e96fc856-d81f-40f1-9b66-aa809a0f79bb",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 0.03
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 3.32
+    },
+    {
+      "speaker": "agent",
+      "text": "the date",
+      "starttime": 8.32
+    },
+    {
+      "speaker": "agent",
+      "text": "हां.",
+      "starttime": 13.65
+    },
+    {
+      "speaker": "agent",
+      "text": "तो",
+      "starttime": 14.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is. I am here to assist you today. Am I speaking with चेतन?",
+      "starttime": 17.4
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 22.58
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming your name. As I can see you have raised your concern regarding the payment of rupees ###which you have paid towards the Jio prepaid",
+      "starttime": 25.24
+    },
+    {
+      "speaker": "agent",
+      "text": "on third of October.",
+      "starttime": 35.18
+    },
+    {
+      "speaker": "agent",
+      "text": "and you have used this I can see  2 rupees from the credit balance and the rest amount from the credit UPI.",
+      "starttime": 36.92
+    },
+    {
+      "speaker": "agent",
+      "text": "as the",
+      "starttime": 43.45
+    },
+    {
+      "speaker": "agent",
+      "text": "payment is in processing we really apologize for that. We do understand the situation must be",
+      "starttime": 46.52
+    },
+    {
+      "speaker": "agent",
+      "text": "difficult for you but please be assured",
+      "starttime": 53.22
+    },
+    {
+      "speaker": "agent",
+      "text": "that we are here to assist.",
+      "starttime": 56.26
+    },
+    {
+      "speaker": "agent",
+      "text": "So चेतन the concern has been already highlighted and forwarded to the internal team and they are working on it on a priority basis. So the maximum time frame for the update of the payment will be till October n. I would request you to please wait till the time frame and within the time frame for sure you will receive the update of the payment from our end.",
+      "starttime": 58.38
+    },
+    {
+      "speaker": "customer",
+      "text": "नौ October तक wait करना पड़ेगा.",
+      "starttime": 80.96
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जो नौ October है वह maximum time frame है इस time frame के अंदर आपको payment की update receive हो जाएगी. जैसे ही update आती है हम आपको credit  application के द्वारा notify कर देंगे.",
+      "starttime": 83.7
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ठीक",
+      "starttime": 95.24
+    },
+    {
+      "speaker": "agent",
+      "text": "जी कोई और सहायता कर सकती हूं मैं आपको credit से related?",
+      "starttime": 96.37
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं लेकिन यह बहत्तर घंटे बोले थे उससे पहले आपको  call किया था तो बहत्तर घंटे तो हो",
+      "starttime": 100.08
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं check कर पा रही हूं maximum time frame जो October 9 तक का है आपको ग्यारह जो है घंटे पहले एक email एक notification भी share किया गया था हमारे end से time frame के related.",
+      "starttime": 107.24
+    },
+    {
+      "speaker": "customer",
+      "text": "बाद ठीक है ठीक",
+      "starttime": 120.57
+    },
+    {
+      "speaker": "agent",
+      "text": "जी कोई और सहायता कर सकती हूं आपको credit के related?",
+      "starttime": 122.22
+    },
+    {
+      "speaker": "agent",
+      "text": "जी आपसे बात करके अच्छा लगा call खत्म करने से पहले क्या मैं आपसे एक छोटी सी feedback के लिए request कर सकती हूं बातचीत के आधार पर दो से पांच second लगेंगे",
+      "starttime": 126.9
+    },
+    {
+      "speaker": "customer",
+      "text": "हां लगा.",
+      "starttime": 135.82
+    },
+    {
+      "speaker": "agent",
+      "text": "जी तो अभी मैं आपके call को feedback IVR पर transfer करूंगी. आप एक से पांच तक की rating दे सकते हैं. एक सबसे कम और पांच सबसे ज़्यादा. Cred को चुनने के लिए धन्यवाद चेतन आपका दिन शुभ",
+      "starttime": 136.9
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 142.56
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 150.37
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number. You have just helped us improve the credit experience for all our members.",
+      "starttime": 158.01
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 163.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 167.38
+    }
+  ]
+}

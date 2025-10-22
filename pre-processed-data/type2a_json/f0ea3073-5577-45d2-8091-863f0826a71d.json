@@ -1,0 +1,160 @@
+{
+  "conversation_id": "f0ea3073-5577-45d2-8091-863f0826a71d",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. This is  I'm here to assist you today. Am I speaking to गणेश?",
+      "starttime": 16.8
+    },
+    {
+      "speaker": "agent",
+      "text": "you for confirming your name गणेश. गणेश I can see that you have raised a call request for your vehicle number ending  ###. and you have mentioned that you are facing some of the error and you have mentioned the amount got debited for the insurance but it's not been renewed yet. Right?",
+      "starttime": 21.87
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes. Yes.",
+      "starttime": 33.71
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm extremely sorry for",
+      "starttime": 36.58
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a moment of time, will  check the details once  can help you in a better way.",
+      "starttime": 38.35
+    },
+    {
+      "speaker": "agent",
+      "text": "So may I know रमेश  that when you have purchased this policy?",
+      "starttime": 42.76
+    },
+    {
+      "speaker": "customer",
+      "text": "Just 2 minutes before madam just",
+      "starttime": 46.76
+    },
+    {
+      "speaker": "customer",
+      "text": "I just said",
+      "starttime": 49.59
+    },
+    {
+      "speaker": "customer",
+      "text": "I just proceeded for the payment",
+      "starttime": 52.11
+    },
+    {
+      "speaker": "customer",
+      "text": "shot an error but the money got debited from my account.",
+      "starttime": 56.85
+    },
+    {
+      "speaker": "agent",
+      "text": "I completely understand your concern. I'm extremely sorry for this. Don't worry. Please allow me a moment of time. While I check the  month    help",
+      "starttime": 62.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Please be on the",
+      "starttime": 75.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a moment. While I check the details.",
+      "starttime": 91.46
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 92.96
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so when check  the details  I can see that the payment that you have done can you please confirm me the payment amount once?",
+      "starttime": 98.26
+    },
+    {
+      "speaker": "agent",
+      "text": "It was ####",
+      "starttime": 105.77
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, exactly.",
+      "starttime": 108.64
+    },
+    {
+      "speaker": "agent",
+      "text": "let me inform you that due to some of the glitches the payment that you have done it was not been successful and that is the reason the payment got initiated on today's date only",
+      "starttime": 110.7
+    },
+    {
+      "speaker": "agent",
+      "text": "at ###AM. and  let inform you excluding that excluding the day and you please wait for 1 business day, you will be receiving this amount to  your primary account which is linked with your UPI.",
+      "starttime": 120.84
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah.",
+      "starttime": 122.68
+    },
+    {
+      "speaker": "customer",
+      "text": "it will get back",
+      "starttime": 132.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, you will be receiving Yes you will be receiving the refund back. Please wait for 1 business day excluding today.",
+      "starttime": 135.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 140.48
+    },
+    {
+      "speaker": "agent",
+      "text": "Is there anything else I can help you?",
+      "starttime": 143.45
+    },
+    {
+      "speaker": "customer",
+      "text": "Nothing else. Thank",
+      "starttime": 145.71
+    },
+    {
+      "speaker": "agent",
+      "text": "So before we end this call, may I request you to share your valuable feedback on the basis of our conversation. It will be just taking a few seconds of time.",
+      "starttime": 148.46
+    },
+    {
+      "speaker": "agent",
+      "text": "Awesome, I will be transferring call to the feedback IVR where you can rate   between 1 to 5. Where 1 being 4 and 5 being excellent.",
+      "starttime": 156.72
+    },
+    {
+      "speaker": "agent",
+      "text": "you for choosing Cred. Have a great day.",
+      "starttime": 164.16
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 167.53
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 167.7
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number. You have just",
+      "starttime": 175.31
+    }
+  ]
+}

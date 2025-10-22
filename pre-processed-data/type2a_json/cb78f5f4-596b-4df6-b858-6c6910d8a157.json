@@ -1,0 +1,310 @@
+{
+  "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 28.48
+    },
+    {
+      "speaker": "customer",
+      "text": "जी ma'am   sure से बात कर रहे हैं ma'am.",
+      "starttime": 33.93
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद नाम confirm",
+      "starttime": 36.38
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 38.81
+    },
+    {
+      "speaker": "customer",
+      "text": "हां ma'am आपका hours थोड़ा बहुत कम आ रहा है बहुत",
+      "starttime": 41.37
+    },
+    {
+      "speaker": "agent",
+      "text": "अभी ठीक",
+      "starttime": 45.49
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी ठीक है ma'am. जी",
+      "starttime": 46.56
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी",
+      "starttime": 48.78
+    },
+    {
+      "speaker": "agent",
+      "text": "आपने जो order place किए थे text no sports",
+      "starttime": 49.95
+    },
+    {
+      "speaker": "agent",
+      "text": "नहीं हुआ था  delivered mark हो गया",
+      "starttime": 54.5
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं यह इसमें क्या हुआ है कि ma'am यह deliver हुआ नहीं था मुझे मेरा सामान नहीं मिला है. हां मैं फिर इतना दिनों के बाद में वह deliver mark हो गया है. मैं कितने दिनों के बाद में मैं गया but में गया उनसे बात किया अगर घंटा  घंटा wait करना पड़ा  लोग बोले  कि यह deliver हो चुका है. हां यह आपको नहीं मिला है. मैं बोला मुझे मिला ही नहीं आप ढूंढ  मिलेगा तो उन्होंने थोड़ा हो जा को बाद में उनको मिला",
+      "starttime": 57.61
+    },
+    {
+      "speaker": "customer",
+      "text": "जब मुझे deliver ना हो गया मुझे नहीं किया है तो यह आपके पास में parcel क्या कर",
+      "starttime": 87.02
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं समझ में आया",
+      "starttime": 92.94
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी मैं समझ",
+      "starttime": 94.55
+    },
+    {
+      "speaker": "customer",
+      "text": "उनके पास कहां से आया मुझे जब मेरा parcel on गया तो यह कि इसका parcel है मेरा नाम का मेरा address का वही देख का.",
+      "starttime": 94.95
+    },
+    {
+      "speaker": "customer",
+      "text": "वह by mistake मतलब वह क्या हुआ है कि delivered दूसरा का parcel हुआ है but मेरा parcel का photo check करके उन्होंने  upload कर दिया है वहां से मेरा delivered mark कर दिया है जिसका delivered हुआ है उसका delivered mark नहीं हुआ है but उसका parcel उसको मिल गया",
+      "starttime": 102.56
+    },
+    {
+      "speaker": "customer",
+      "text": "और मेरा parcel का photo check करके वह photo में भी  पड़ा है system में",
+      "starttime": 122.51
+    },
+    {
+      "speaker": "customer",
+      "text": "manually उनको आप नहीं है पांच.",
+      "starttime": 127.69
+    },
+    {
+      "speaker": "customer",
+      "text": "पैसा तीन हो गया मुझे परेशानी हुआ आपका सात दिन तक मैं wait किया उसके बाद में मुझे जाना पड़ा एक तो credit ऐसे ही दस दिन का समय लेता है कम से कम आपका दस दिन का समय लेता  उसके ऊपर आपका दिन और  लग गया पंद्रह दिन का समय लग गया मुझे वहां जाना पड़ा आधार घंटा पैंतालीस मिला उनसे बात करना पड़ा पूरा  खुद ना पड़ा उनका office में  नहीं जा करके मिला  उन्होंने अपना गलती accept किया",
+      "starttime": 130.86
+    },
+    {
+      "speaker": "customer",
+      "text": "यह तो ma'am गलत बात है ना",
+      "starttime": 157.12
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रही हूं. माफी चाहूंगी परेशानी के लिए. इसके regarding.",
+      "starttime": 159.97
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं",
+      "starttime": 161.27
+    },
+    {
+      "speaker": "customer",
+      "text": "यह Amazon credit card थोड़ी है ma'am एक credit card है",
+      "starttime": 162.67
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रहे",
+      "starttime": 169.54
+    },
+    {
+      "speaker": "customer",
+      "text": "ऐसा तो नहीं होना चाहिए ना",
+      "starttime": 169.79
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रहे हैं आपकी बात माफ़ी चाहूंगी परेशानी के लिए. बताना चाहेंगे इसके regarding feedback team के साथ और merchant के साथ ज़रूर share किया जाएगा. लेकिन next time से ऐसा  ना हो और जैसे कि आपका issue दुबारा forward किया गया था team के पास तो team से information आया है कि courier validate किया",
+      "starttime": 175.53
+    },
+    {
+      "speaker": "agent",
+      "text": "आपको order मिला",
+      "starttime": 192.3
+    },
+    {
+      "speaker": "customer",
+      "text": "जी ma'am. मैं तो आपको बोला हूं.",
+      "starttime": 194.14
+    },
+    {
+      "speaker": "agent",
+      "text": "अच्छा अभी आपको मिल गया है आपका",
+      "starttime": 196.17
+    },
+    {
+      "speaker": "customer",
+      "text": "मेरे पर बाद में मिला है but बाद में मिला  है यह दूसरा बार मैं  complaint करने के लिए आपको मैं यह किया दो बार complaint जब किया था,  दूसरा बार के बाद में  गया था लेने के लिए वहां पर वह लोग अपना गलती   मुझे ही नहीं है तो  कि  आपका आपने mail लिया है और एक तब जाकर ले लिया था यह parcel आपके पास कहां से",
+      "starttime": 196.78
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रहे",
+      "starttime": 199.17
+    },
+    {
+      "speaker": "customer",
+      "text": "आप बताइए.",
+      "starttime": 222.29
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रही हूं आपके",
+      "starttime": 223.78
+    },
+    {
+      "speaker": "customer",
+      "text": "बाद में उन्होंने अपना गलती accept किया तो परेशानी तो मुझे हुआ ना मुझे तो अपना parcel मिल",
+      "starttime": 224.15
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं समझ पा रही हूं आपकी बात माफ़ी चाहूंगी परेशानी के लिए. इसके regarding feedback  के साथ  merchant के साथ ज़रूर share किया जाएगा ताकि  time  ना.",
+      "starttime": 232.91
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 234.91
+    },
+    {
+      "speaker": "customer",
+      "text": "आज तक ऐसा नहीं हुआ ma'am कोई भी partner के साथ में कभी नहीं हुआ delivery      के साथ ऐसा नहीं होगा  से ही नहीं हुआ यह first time हुआ तो गलत है कम से कम भेजा ठीक है कोई बात नहीं customer एक आया उसने दूर से एक बार ढूंढने तो  वह ढूंढ भी नहीं रहे हैं time नहीं है ना पड़ेगा ना का का आधे घंटे  पैंतालीस तब जाकर के उन्होंने   निकाला  अपना गलती accept किया तो मैं क्या बोलूंगा जगह थोड़ी करूंगा मुझे में क्या मैं चला आया और क्या बोलूंगा कुछ भी नहीं बोला",
+      "starttime": 241.9
+    },
+    {
+      "speaker": "customer",
+      "text": "यह परेशानी तो हुआ ना ma'am.",
+      "starttime": 273.51
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रही हूं आपको order मिला भी but वह बहुत परेशान के बाद आपको मिला",
+      "starttime": 275.52
+    },
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 277.74
+    },
+    {
+      "speaker": "customer",
+      "text": "वह पैसा नहीं है ना.",
+      "starttime": 279.06
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी हम लोग भी चाहते हैं कि कोई भी customer को ऐसा  face करना पड़े. इसके regarding strong feedback share किया जाएगा कोशिश करेंगे next time",
+      "starttime": 281.61
+    },
+    {
+      "speaker": "customer",
+      "text": "the",
+      "starttime": 286.18
+    },
+    {
+      "speaker": "customer",
+      "text": "यह अगर cash  delivery होता है तो ma'am ऐसा नहीं होता but यह prepaid credit का  prepaid होता है ma'am यह  तो इसीलिए इसीलिए यह side mistake हुआ ठीक है कोई बात नहीं mistake होता है ma'am ऐसा बात नहीं  काम से होता है कम से कम पूरा customer का बात कर सुनने चाहिए.",
+      "starttime": 290.35
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी, credit में",
+      "starttime": 295.7
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं",
+      "starttime": 306.43
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रही हूं. समझ पा रही हूं. धन्यवाद इतना समझने के लिए. आप चिंता मत कीजिए कोशिश करेंगे",
+      "starttime": 306.5
+    },
+    {
+      "speaker": "customer",
+      "text": "जी ठीक है ma'am इसको resolve कर दीजिए इसको दिया था यह ठीक है",
+      "starttime": 315.0
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके अलावा और कुछ सहायता मैं आपको कर सकती?",
+      "starttime": 320.01
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं  बहुत बहुत धन्यवाद मैं  अपना सामने",
+      "starttime": 321.57
+    },
+    {
+      "speaker": "customer",
+      "text": "कोई बात",
+      "starttime": 325.95
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 327.56
+    },
+    {
+      "speaker": "agent",
+      "text": "एक छोटी सी request है call खत्म होने से पहले क्या मैं आपका call feedback के लिए transfer कर सकती हूं इस conversation",
+      "starttime": 328.1
+    },
+    {
+      "speaker": "customer",
+      "text": "जी जी जी ma'am. जी जी जी.",
+      "starttime": 333.6
+    },
+    {
+      "speaker": "agent",
+      "text": "ठीक है. तो उसमें आप एक से पांच के अंदर number check कर पाएंगे. एक होता है, सबसे बुरा पांच होता है सबसे अच्छा. बहुत बहुत धन्यवाद.",
+      "starttime": 335.88
+    },
+    {
+      "speaker": "customer",
+      "text": "मैं पांच दे देता हूं आप कर दीजिए. ठीक है ma'am.",
+      "starttime": 341.4
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद.",
+      "starttime": 342.91
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद  बने रहने के लिए. आपका दिन शुभ",
+      "starttime": 344.08
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our. You have just helped us improve the credit experience for all our members.",
+      "starttime": 348.53
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 355.54
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 359.25
+    }
+  ]
+}

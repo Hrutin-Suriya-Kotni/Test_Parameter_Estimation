@@ -1,0 +1,110 @@
+{
+  "conversation_id": "e53791d2-2cdd-4139-a7ab-b54b23905919",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 0.91
+    },
+    {
+      "speaker": "agent",
+      "text": "morning. This is कृष्णा. I'm here to assist you today. Am I speaking with ऋषभ?",
+      "starttime": 16.03
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 19.57
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming your name विमल. As I can check, you have raised a concern regarding",
+      "starttime": 20.42
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes sir. I have paid the  through    deducted twice from my saving account.",
+      "starttime": 24.99
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, really apologize for the inconvenience but on query we are we are here for your have. So I'm checking the details. right?  the order ID which you have shared with that it is showing amount of    rupees and   that you made towards your  small finance  That is    ###. Right? So concern is regarding this, right? Thank you so much for confirming this. So what I can check that on seventh October you have made this payment and what I can check that yes we captured the money. we tried completing the payment towards credit card  that is a small fine. But we face some issue because of which we  unable to complete the payment for which we really apologize that from our end, I can check that there are 2 debit and 2 times we have refunded the amount towards your primary account that is with our application and that  state Bank of India ending with ###. Right? And",
+      "starttime": 30.78
+    },
+    {
+      "speaker": "customer",
+      "text": "Right right.",
+      "starttime": 76.0
+    },
+    {
+      "speaker": "customer",
+      "text": "you have rate.",
+      "starttime": 77.18
+    },
+    {
+      "speaker": "agent",
+      "text": "So your issue is that yet you have not received the refund",
+      "starttime": 79.29
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं, I have received  just I have received a message.",
+      "starttime": 81.94
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, over the call you have received refund?",
+      "starttime": 85.28
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I am glad to hear that you have received the refund and thank you so much that you have confirmed that you have received the refund. So is there anything else may I assist you apart from this related",
+      "starttime": 88.39
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 92.2
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no no. Thanks a lot,",
+      "starttime": 96.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Most welcome.  So before I end up this call, may I request you to share your valuable feedback basis on our conversation.  Just take a moment to share the feedback",
+      "starttime": 98.65
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much Mister अभिषेक. So I am transfer call to the feedback IVR where you can select between 1 to 5. 5 being excellent.   Thanks for choosing  I hope you have a great day ahead.",
+      "starttime": 107.24
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Thank",
+      "starttime": 115.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Welcome.",
+      "starttime": 116.43
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being. You have just helped us improve the credit experience for all our members.",
+      "starttime": 118.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 128.21
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 131.93
+    }
+  ]
+}

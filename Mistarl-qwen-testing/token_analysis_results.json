@@ -1,0 +1,1417 @@
+{
+  "tokenizer": "openchat/openchat-3.5-1210",
+  "prompts": {
+    "opening": {
+      "token_count": 844,
+      "char_count": 3128,
+      "line_count": 72
+    },
+    "closing": {
+      "token_count": 958,
+      "char_count": 3907,
+      "line_count": 70
+    },
+    "reassurance": {
+      "token_count": 735,
+      "char_count": 2996,
+      "line_count": 64
+    },
+    "hold": {
+      "token_count": 681,
+      "char_count": 2605,
+      "line_count": 52
+    },
+    "further_assistance": {
+      "token_count": 557,
+      "char_count": 2265,
+      "line_count": 47
+    }
+  },
+  "type1": {
+    "total_conversations": 85,
+    "conversations": [
+      {
+        "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+        "token_count": 1775,
+        "char_count": 7639
+      },
+      {
+        "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+        "token_count": 633,
+        "char_count": 2549
+      },
+      {
+        "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+        "token_count": 707,
+        "char_count": 2847
+      },
+      {
+        "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+        "token_count": 893,
+        "char_count": 3510
+      },
+      {
+        "conversation_id": "c977f98b-fbdf-4cc8-8038-54aaae125b01",
+        "token_count": 4409,
+        "char_count": 5935
+      },
+      {
+        "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+        "token_count": 269,
+        "char_count": 937
+      },
+      {
+        "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+        "token_count": 356,
+        "char_count": 1461
+      },
+      {
+        "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+        "token_count": 942,
+        "char_count": 3821
+      },
+      {
+        "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+        "token_count": 3722,
+        "char_count": 4539
+      },
+      {
+        "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+        "token_count": 1454,
+        "char_count": 6186
+      },
+      {
+        "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+        "token_count": 973,
+        "char_count": 3907
+      },
+      {
+        "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+        "token_count": 820,
+        "char_count": 3249
+      },
+      {
+        "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+        "token_count": 1788,
+        "char_count": 2801
+      },
+      {
+        "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+        "token_count": 948,
+        "char_count": 3869
+      },
+      {
+        "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+        "token_count": 1493,
+        "char_count": 2045
+      },
+      {
+        "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+        "token_count": 79,
+        "char_count": 241
+      },
+      {
+        "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+        "token_count": 1116,
+        "char_count": 4767
+      },
+      {
+        "conversation_id": "d175b0b0-467a-4833-ac65-46d99cdc4880",
+        "token_count": 7221,
+        "char_count": 12487
+      },
+      {
+        "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+        "token_count": 716,
+        "char_count": 2916
+      },
+      {
+        "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+        "token_count": 844,
+        "char_count": 3688
+      },
+      {
+        "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+        "token_count": 1726,
+        "char_count": 5791
+      },
+      {
+        "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+        "token_count": 699,
+        "char_count": 2852
+      },
+      {
+        "conversation_id": "d3150932-ae90-43e1-a4d0-4eaf7faf4b81",
+        "token_count": 1606,
+        "char_count": 2515
+      },
+      {
+        "conversation_id": "d32e992f-1915-4170-98d2-2df58b762151",
+        "token_count": 2678,
+        "char_count": 4308
+      },
+      {
+        "conversation_id": "d3f006b8-631d-40f1-90d1-05751712db6e",
+        "token_count": 446,
+        "char_count": 1792
+      },
+      {
+        "conversation_id": "d78e3ed6-ae4e-4310-9925-fb1dd0376bf7",
+        "token_count": 5183,
+        "char_count": 7151
+      },
+      {
+        "conversation_id": "d7eddfa3-946f-4825-a85b-6eb0fe896000",
+        "token_count": 1443,
+        "char_count": 2239
+      },
+      {
+        "conversation_id": "d9335c33-908e-48f6-8bd7-0799432e5cdc",
+        "token_count": 495,
+        "char_count": 2144
+      },
+      {
+        "conversation_id": "d94271a9-3eba-4ea4-83ac-7c575f7d47cb",
+        "token_count": 5193,
+        "char_count": 7095
+      },
+      {
+        "conversation_id": "d9710f40-ab08-496b-915f-2f2ffba234e6",
+        "token_count": 292,
+        "char_count": 1081
+      },
+      {
+        "conversation_id": "db6bfca6-9e9e-48e6-88d1-1bd306fd6bc6",
+        "token_count": 4839,
+        "char_count": 6804
+      },
+      {
+        "conversation_id": "dbc758dd-f6c6-405e-a99e-b687c0308b08",
+        "token_count": 6560,
+        "char_count": 10085
+      },
+      {
+        "conversation_id": "dc2ecc58-d807-48ce-a80a-730b0baf2158",
+        "token_count": 1057,
+        "char_count": 4136
+      },
+      {
+        "conversation_id": "dc7c013a-779e-4b92-8d22-12cd0286a52a",
+        "token_count": 483,
+        "char_count": 2094
+      },
+      {
+        "conversation_id": "ddc8ab21-d052-4fa5-8bf3-f74adffb65bb",
+        "token_count": 475,
+        "char_count": 1805
+      },
+      {
+        "conversation_id": "dead03f9-3291-4cc0-a011-0260996ac80f",
+        "token_count": 1764,
+        "char_count": 2403
+      },
+      {
+        "conversation_id": "df26472f-cdcc-45cc-b9fa-debaa9e761c7",
+        "token_count": 1373,
+        "char_count": 5588
+      },
+      {
+        "conversation_id": "df5c099a-5e3d-4146-aefc-7f64bd36f58c",
+        "token_count": 681,
+        "char_count": 2750
+      },
+      {
+        "conversation_id": "df61128d-85d0-49d8-a55e-86703f29a0bf",
+        "token_count": 1220,
+        "char_count": 3074
+      },
+      {
+        "conversation_id": "dff7584c-2a2f-44db-a578-7c560eb93c6e",
+        "token_count": 364,
+        "char_count": 1545
+      },
+      {
+        "conversation_id": "e09812de-ad54-4772-86de-8cf8d426f571",
+        "token_count": 17133,
+        "char_count": 23269
+      },
+      {
+        "conversation_id": "e1ca051e-7317-4103-89c8-ca80e326b0f3",
+        "token_count": 738,
+        "char_count": 2710
+      },
+      {
+        "conversation_id": "e25ad441-5c02-4b44-8fe7-28227ebb04e5",
+        "token_count": 5098,
+        "char_count": 6805
+      },
+      {
+        "conversation_id": "e3783fd9-233f-4454-981a-acb7bba71ae6",
+        "token_count": 793,
+        "char_count": 3144
+      },
+      {
+        "conversation_id": "e37c760c-9f6a-4776-a3e1-284814dedf35",
+        "token_count": 1963,
+        "char_count": 2712
+      },
+      {
+        "conversation_id": "e3866355-2619-46df-8841-45962c1c2f0d",
+        "token_count": 574,
+        "char_count": 2455
+      },
+      {
+        "conversation_id": "e39ded3d-8e8d-415f-835e-8c8b20648c78",
+        "token_count": 446,
+        "char_count": 1666
+      },
+      {
+        "conversation_id": "e412e53a-faf2-42fd-8993-ac06b93e83b0",
+        "token_count": 631,
+        "char_count": 2644
+      },
+      {
+        "conversation_id": "e453fb0f-afd4-4867-bb48-37b945942148",
+        "token_count": 462,
+        "char_count": 1902
+      },
+      {
+        "conversation_id": "e4758be3-8abf-4c31-a449-06a1cc707df9",
+        "token_count": 1863,
+        "char_count": 2771
+      },
+      {
+        "conversation_id": "e484702a-8693-4a84-82fb-6058b0597cd9",
+        "token_count": 1175,
+        "char_count": 1884
+      },
+      {
+        "conversation_id": "e53791d2-2cdd-4139-a7ab-b54b23905919",
+        "token_count": 532,
+        "char_count": 2168
+      },
+      {
+        "conversation_id": "e575e72f-7087-4c84-9ce6-42d60716882f",
+        "token_count": 227,
+        "char_count": 653
+      },
+      {
+        "conversation_id": "e5eda9cc-0467-46b7-b309-b66559422ad6",
+        "token_count": 938,
+        "char_count": 3694
+      },
+      {
+        "conversation_id": "e64a9ce4-801d-4ec9-8dbb-ac71c76b5bfb",
+        "token_count": 886,
+        "char_count": 3593
+      },
+      {
+        "conversation_id": "e673e5f3-079d-41bb-af27-b57947b5d25a",
+        "token_count": 367,
+        "char_count": 1439
+      },
+      {
+        "conversation_id": "e6a215f7-b5d2-4901-b59a-e3201543253b",
+        "token_count": 3192,
+        "char_count": 4496
+      },
+      {
+        "conversation_id": "e7170ac7-2ba4-4443-a280-4e7f0740919b",
+        "token_count": 1927,
+        "char_count": 2874
+      },
+      {
+        "conversation_id": "e7b06e64-1d80-413d-9c9f-8c14df7e45ea",
+        "token_count": 6472,
+        "char_count": 11390
+      },
+      {
+        "conversation_id": "e8142bf0-fc93-4a08-9143-decff227d39f",
+        "token_count": 1479,
+        "char_count": 2060
+      },
+      {
+        "conversation_id": "e86385c1-4149-45f2-b4f1-5782d197ea4c",
+        "token_count": 2487,
+        "char_count": 3877
+      },
+      {
+        "conversation_id": "e8b70c4a-5854-4f13-94d5-754765fbb4f1",
+        "token_count": 434,
+        "char_count": 1139
+      },
+      {
+        "conversation_id": "e8ede3f5-fd93-4c12-abf6-ac4f43cc3221",
+        "token_count": 1441,
+        "char_count": 5571
+      },
+      {
+        "conversation_id": "e96fc856-d81f-40f1-9b66-aa809a0f79bb",
+        "token_count": 1018,
+        "char_count": 2178
+      },
+      {
+        "conversation_id": "ebc71356-5ccd-4ed5-846a-692401c05997",
+        "token_count": 6533,
+        "char_count": 26914
+      },
+      {
+        "conversation_id": "ecd61a04-1171-4298-a3cd-9dc94cd52dc4",
+        "token_count": 575,
+        "char_count": 2131
+      },
+      {
+        "conversation_id": "ee158e5f-562e-4e83-b4d4-b0c855721305",
+        "token_count": 423,
+        "char_count": 1717
+      },
+      {
+        "conversation_id": "f077f0f9-b8d4-424b-9065-b662d4924251",
+        "token_count": 2757,
+        "char_count": 4038
+      },
+      {
+        "conversation_id": "f0ea3073-5577-45d2-8091-863f0826a71d",
+        "token_count": 522,
+        "char_count": 2136
+      },
+      {
+        "conversation_id": "f0f2404b-62ea-4ebd-a67d-4b7ffcefad7d",
+        "token_count": 2480,
+        "char_count": 3496
+      },
+      {
+        "conversation_id": "f107d468-c4c5-46ee-926a-66c62a1ad910",
+        "token_count": 6541,
+        "char_count": 8685
+      },
+      {
+        "conversation_id": "f1748575-58a5-4456-8615-81eaa69dd226",
+        "token_count": 149,
+        "char_count": 510
+      },
+      {
+        "conversation_id": "f248d160-5d6c-4895-9928-a9a3f951bd33",
+        "token_count": 1246,
+        "char_count": 4924
+      },
+      {
+        "conversation_id": "f30f7272-b779-4ba3-a5b4-362ff3b876fd",
+        "token_count": 257,
+        "char_count": 1113
+      },
+      {
+        "conversation_id": "f5835063-6a52-4c87-bddb-8c4ac9a7bac5",
+        "token_count": 868,
+        "char_count": 3462
+      },
+      {
+        "conversation_id": "f7624e5d-ab5e-4443-8525-72e50d9094ad",
+        "token_count": 750,
+        "char_count": 3053
+      },
+      {
+        "conversation_id": "f765063e-85be-47a5-9fb0-eeecf3906e84",
+        "token_count": 1171,
+        "char_count": 5066
+      },
+      {
+        "conversation_id": "f8327a01-959e-42e1-b48b-f18d569206df",
+        "token_count": 2380,
+        "char_count": 3601
+      },
+      {
+        "conversation_id": "f86f4040-413a-4292-b61e-bfbc2f81461c",
+        "token_count": 760,
+        "char_count": 2786
+      },
+      {
+        "conversation_id": "fc5e2a50-6c0e-42fa-b6c8-c8fdb01cc696",
+        "token_count": 711,
+        "char_count": 3002
+      },
+      {
+        "conversation_id": "fc5f0507-3971-4cd5-a008-7aa62fbcd4a6",
+        "token_count": 1640,
+        "char_count": 6792
+      },
+      {
+        "conversation_id": "fc7499c9-059e-41f1-8402-5a3572ea0559",
+        "token_count": 458,
+        "char_count": 1555
+      },
+      {
+        "conversation_id": "fd74ffe7-aebd-4ac1-bb4a-71832b3eaa41",
+        "token_count": 1389,
+        "char_count": 5800
+      },
+      {
+        "conversation_id": "fdbce94a-5e71-4c21-8753-2adbd44dd2af",
+        "token_count": 532,
+        "char_count": 2119
+      },
+      {
+        "conversation_id": "fedc9f4c-5f12-471f-b0b9-5971716d3478",
+        "token_count": 248,
+        "char_count": 842
+      }
+    ],
+    "total_tokens": 154401,
+    "min_tokens": 79,
+    "max_tokens": 17133,
+    "avg_tokens": 1816.4823529411765
+  },
+  "type2a": {
+    "total_conversations": 85,
+    "conversations": [
+      {
+        "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+        "token_count": 3763,
+        "char_count": 12288,
+        "num_turns": 83
+      },
+      {
+        "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+        "token_count": 1962,
+        "char_count": 5653,
+        "num_turns": 56
+      },
+      {
+        "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+        "token_count": 1882,
+        "char_count": 5611,
+        "num_turns": 49
+      },
+      {
+        "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+        "token_count": 2358,
+        "char_count": 6924,
+        "num_turns": 61
+      },
+      {
+        "conversation_id": "c977f98b-fbdf-4cc8-8038-54aaae125b01",
+        "token_count": 6695,
+        "char_count": 11499,
+        "num_turns": 99
+      },
+      {
+        "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+        "token_count": 903,
+        "char_count": 2421,
+        "num_turns": 26
+      },
+      {
+        "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+        "token_count": 736,
+        "char_count": 2338,
+        "num_turns": 15
+      },
+      {
+        "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+        "token_count": 2057,
+        "char_count": 6422,
+        "num_turns": 46
+      },
+      {
+        "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+        "token_count": 5139,
+        "char_count": 7982,
+        "num_turns": 61
+      },
+      {
+        "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+        "token_count": 2999,
+        "char_count": 9797,
+        "num_turns": 64
+      },
+      {
+        "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+        "token_count": 2123,
+        "char_count": 6573,
+        "num_turns": 48
+      },
+      {
+        "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+        "token_count": 2173,
+        "char_count": 6453,
+        "num_turns": 57
+      },
+      {
+        "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+        "token_count": 2598,
+        "char_count": 4726,
+        "num_turns": 34
+      },
+      {
+        "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+        "token_count": 2485,
+        "char_count": 7465,
+        "num_turns": 64
+      },
+      {
+        "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+        "token_count": 2587,
+        "char_count": 4638,
+        "num_turns": 46
+      },
+      {
+        "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+        "token_count": 355,
+        "char_count": 845,
+        "num_turns": 10
+      },
+      {
+        "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+        "token_count": 2361,
+        "char_count": 7661,
+        "num_turns": 51
+      },
+      {
+        "conversation_id": "d175b0b0-467a-4833-ac65-46d99cdc4880",
+        "token_count": 10774,
+        "char_count": 20988,
+        "num_turns": 153
+      },
+      {
+        "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+        "token_count": 2001,
+        "char_count": 5932,
+        "num_turns": 53
+      },
+      {
+        "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+        "token_count": 2460,
+        "char_count": 7402,
+        "num_turns": 67
+      },
+      {
+        "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+        "token_count": 4390,
+        "char_count": 12091,
+        "num_turns": 113
+      },
+      {
+        "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+        "token_count": 1838,
+        "char_count": 5490,
+        "num_turns": 47
+      },
+      {
+        "conversation_id": "d3150932-ae90-43e1-a4d0-4eaf7faf4b81",
+        "token_count": 2446,
+        "char_count": 4482,
+        "num_turns": 35
+      },
+      {
+        "conversation_id": "d32e992f-1915-4170-98d2-2df58b762151",
+        "token_count": 4817,
+        "char_count": 9455,
+        "num_turns": 92
+      },
+      {
+        "conversation_id": "d3f006b8-631d-40f1-90d1-05751712db6e",
+        "token_count": 973,
+        "char_count": 2986,
+        "num_turns": 21
+      },
+      {
+        "conversation_id": "d78e3ed6-ae4e-4310-9925-fb1dd0376bf7",
+        "token_count": 8519,
+        "char_count": 15230,
+        "num_turns": 145
+      },
+      {
+        "conversation_id": "d7eddfa3-946f-4825-a85b-6eb0fe896000",
+        "token_count": 2056,
+        "char_count": 3671,
+        "num_turns": 25
+      },
+      {
+        "conversation_id": "d9335c33-908e-48f6-8bd7-0799432e5cdc",
+        "token_count": 1447,
+        "char_count": 4346,
+        "num_turns": 39
+      },
+      {
+        "conversation_id": "d94271a9-3eba-4ea4-83ac-7c575f7d47cb",
+        "token_count": 7434,
+        "char_count": 12580,
+        "num_turns": 98
+      },
+      {
+        "conversation_id": "d9710f40-ab08-496b-915f-2f2ffba234e6",
+        "token_count": 794,
+        "char_count": 2262,
+        "num_turns": 20
+      },
+      {
+        "conversation_id": "db6bfca6-9e9e-48e6-88d1-1bd306fd6bc6",
+        "token_count": 7092,
+        "char_count": 12269,
+        "num_turns": 97
+      },
+      {
+        "conversation_id": "dbc758dd-f6c6-405e-a99e-b687c0308b08",
+        "token_count": 11017,
+        "char_count": 20646,
+        "num_turns": 190
+      },
+      {
+        "conversation_id": "dc2ecc58-d807-48ce-a80a-730b0baf2158",
+        "token_count": 3198,
+        "char_count": 9204,
+        "num_turns": 90
+      },
+      {
+        "conversation_id": "dc7c013a-779e-4b92-8d22-12cd0286a52a",
+        "token_count": 1074,
+        "char_count": 3466,
+        "num_turns": 24
+      },
+      {
+        "conversation_id": "ddc8ab21-d052-4fa5-8bf3-f74adffb65bb",
+        "token_count": 1640,
+        "char_count": 4559,
+        "num_turns": 49
+      },
+      {
+        "conversation_id": "dead03f9-3291-4cc0-a011-0260996ac80f",
+        "token_count": 2490,
+        "char_count": 4120,
+        "num_turns": 30
+      },
+      {
+        "conversation_id": "df26472f-cdcc-45cc-b9fa-debaa9e761c7",
+        "token_count": 3460,
+        "char_count": 10506,
+        "num_turns": 87
+      },
+      {
+        "conversation_id": "df5c099a-5e3d-4146-aefc-7f64bd36f58c",
+        "token_count": 1563,
+        "char_count": 4805,
+        "num_turns": 36
+      },
+      {
+        "conversation_id": "df61128d-85d0-49d8-a55e-86703f29a0bf",
+        "token_count": 2440,
+        "char_count": 5935,
+        "num_turns": 51
+      },
+      {
+        "conversation_id": "dff7584c-2a2f-44db-a578-7c560eb93c6e",
+        "token_count": 1070,
+        "char_count": 3189,
+        "num_turns": 29
+      },
+      {
+        "conversation_id": "e09812de-ad54-4772-86de-8cf8d426f571",
+        "token_count": 24097,
+        "char_count": 39792,
+        "num_turns": 294
+      },
+      {
+        "conversation_id": "e1ca051e-7317-4103-89c8-ca80e326b0f3",
+        "token_count": 1954,
+        "char_count": 5530,
+        "num_turns": 50
+      },
+      {
+        "conversation_id": "e25ad441-5c02-4b44-8fe7-28227ebb04e5",
+        "token_count": 7571,
+        "char_count": 12746,
+        "num_turns": 106
+      },
+      {
+        "conversation_id": "e3783fd9-233f-4454-981a-acb7bba71ae6",
+        "token_count": 1644,
+        "char_count": 5139,
+        "num_turns": 35
+      },
+      {
+        "conversation_id": "e37c760c-9f6a-4776-a3e1-284814dedf35",
+        "token_count": 2725,
+        "char_count": 4539,
+        "num_turns": 32
+      },
+      {
+        "conversation_id": "e3866355-2619-46df-8841-45962c1c2f0d",
+        "token_count": 1454,
+        "char_count": 4484,
+        "num_turns": 36
+      },
+      {
+        "conversation_id": "e39ded3d-8e8d-415f-835e-8c8b20648c78",
+        "token_count": 1110,
+        "char_count": 3216,
+        "num_turns": 27
+      },
+      {
+        "conversation_id": "e412e53a-faf2-42fd-8993-ac06b93e83b0",
+        "token_count": 1336,
+        "char_count": 4293,
+        "num_turns": 29
+      },
+      {
+        "conversation_id": "e453fb0f-afd4-4867-bb48-37b945942148",
+        "token_count": 1237,
+        "char_count": 3711,
+        "num_turns": 32
+      },
+      {
+        "conversation_id": "e4758be3-8abf-4c31-a449-06a1cc707df9",
+        "token_count": 2780,
+        "char_count": 4969,
+        "num_turns": 39
+      },
+      {
+        "conversation_id": "e484702a-8693-4a84-82fb-6058b0597cd9",
+        "token_count": 2052,
+        "char_count": 3978,
+        "num_turns": 37
+      },
+      {
+        "conversation_id": "e53791d2-2cdd-4139-a7ab-b54b23905919",
+        "token_count": 1056,
+        "char_count": 3379,
+        "num_turns": 21
+      },
+      {
+        "conversation_id": "e575e72f-7087-4c84-9ce6-42d60716882f",
+        "token_count": 761,
+        "char_count": 1910,
+        "num_turns": 22
+      },
+      {
+        "conversation_id": "e5eda9cc-0467-46b7-b309-b66559422ad6",
+        "token_count": 2144,
+        "char_count": 6511,
+        "num_turns": 50
+      },
+      {
+        "conversation_id": "e64a9ce4-801d-4ec9-8dbb-ac71c76b5bfb",
+        "token_count": 1925,
+        "char_count": 6014,
+        "num_turns": 43
+      },
+      {
+        "conversation_id": "e673e5f3-079d-41bb-af27-b57947b5d25a",
+        "token_count": 951,
+        "char_count": 2803,
+        "num_turns": 24
+      },
+      {
+        "conversation_id": "e6a215f7-b5d2-4901-b59a-e3201543253b",
+        "token_count": 5195,
+        "char_count": 9282,
+        "num_turns": 86
+      },
+      {
+        "conversation_id": "e7170ac7-2ba4-4443-a280-4e7f0740919b",
+        "token_count": 3622,
+        "char_count": 6925,
+        "num_turns": 73
+      },
+      {
+        "conversation_id": "e7b06e64-1d80-413d-9c9f-8c14df7e45ea",
+        "token_count": 11398,
+        "char_count": 23199,
+        "num_turns": 210
+      },
+      {
+        "conversation_id": "e8142bf0-fc93-4a08-9143-decff227d39f",
+        "token_count": 2136,
+        "char_count": 3650,
+        "num_turns": 28
+      },
+      {
+        "conversation_id": "e86385c1-4149-45f2-b4f1-5782d197ea4c",
+        "token_count": 3559,
+        "char_count": 6414,
+        "num_turns": 45
+      },
+      {
+        "conversation_id": "e8b70c4a-5854-4f13-94d5-754765fbb4f1",
+        "token_count": 1177,
+        "char_count": 2898,
+        "num_turns": 31
+      },
+      {
+        "conversation_id": "e8ede3f5-fd93-4c12-abf6-ac4f43cc3221",
+        "token_count": 2998,
+        "char_count": 9245,
+        "num_turns": 65
+      },
+      {
+        "conversation_id": "e96fc856-d81f-40f1-9b66-aa809a0f79bb",
+        "token_count": 1757,
+        "char_count": 3921,
+        "num_turns": 31
+      },
+      {
+        "conversation_id": "ebc71356-5ccd-4ed5-846a-692401c05997",
+        "token_count": 17636,
+        "char_count": 52970,
+        "num_turns": 459
+      },
+      {
+        "conversation_id": "ecd61a04-1171-4298-a3cd-9dc94cd52dc4",
+        "token_count": 1701,
+        "char_count": 4806,
+        "num_turns": 47
+      },
+      {
+        "conversation_id": "ee158e5f-562e-4e83-b4d4-b0c855721305",
+        "token_count": 1123,
+        "char_count": 3359,
+        "num_turns": 29
+      },
+      {
+        "conversation_id": "f077f0f9-b8d4-424b-9065-b662d4924251",
+        "token_count": 4712,
+        "char_count": 8713,
+        "num_turns": 84
+      },
+      {
+        "conversation_id": "f0ea3073-5577-45d2-8091-863f0826a71d",
+        "token_count": 1284,
+        "char_count": 3899,
+        "num_turns": 31
+      },
+      {
+        "conversation_id": "f0f2404b-62ea-4ebd-a67d-4b7ffcefad7d",
+        "token_count": 4419,
+        "char_count": 8140,
+        "num_turns": 83
+      },
+      {
+        "conversation_id": "f107d468-c4c5-46ee-926a-66c62a1ad910",
+        "token_count": 8411,
+        "char_count": 13187,
+        "num_turns": 80
+      },
+      {
+        "conversation_id": "f1748575-58a5-4456-8615-81eaa69dd226",
+        "token_count": 491,
+        "char_count": 1269,
+        "num_turns": 13
+      },
+      {
+        "conversation_id": "f248d160-5d6c-4895-9928-a9a3f951bd33",
+        "token_count": 3316,
+        "char_count": 9777,
+        "num_turns": 86
+      },
+      {
+        "conversation_id": "f30f7272-b779-4ba3-a5b4-362ff3b876fd",
+        "token_count": 597,
+        "char_count": 1887,
+        "num_turns": 13
+      },
+      {
+        "conversation_id": "f5835063-6a52-4c87-bddb-8c4ac9a7bac5",
+        "token_count": 2101,
+        "char_count": 6325,
+        "num_turns": 51
+      },
+      {
+        "conversation_id": "f7624e5d-ab5e-4443-8525-72e50d9094ad",
+        "token_count": 2032,
+        "char_count": 6030,
+        "num_turns": 53
+      },
+      {
+        "conversation_id": "f765063e-85be-47a5-9fb0-eeecf3906e84",
+        "token_count": 2750,
+        "char_count": 8746,
+        "num_turns": 66
+      },
+      {
+        "conversation_id": "f8327a01-959e-42e1-b48b-f18d569206df",
+        "token_count": 3596,
+        "char_count": 6485,
+        "num_turns": 51
+      },
+      {
+        "conversation_id": "f86f4040-413a-4292-b61e-bfbc2f81461c",
+        "token_count": 2059,
+        "char_count": 5815,
+        "num_turns": 54
+      },
+      {
+        "conversation_id": "fc5e2a50-6c0e-42fa-b6c8-c8fdb01cc696",
+        "token_count": 1943,
+        "char_count": 5846,
+        "num_turns": 51
+      },
+      {
+        "conversation_id": "fc5f0507-3971-4cd5-a008-7aa62fbcd4a6",
+        "token_count": 3823,
+        "char_count": 11944,
+        "num_turns": 92
+      },
+      {
+        "conversation_id": "fc7499c9-059e-41f1-8402-5a3572ea0559",
+        "token_count": 1539,
+        "char_count": 4101,
+        "num_turns": 45
+      },
+      {
+        "conversation_id": "fd74ffe7-aebd-4ac1-bb4a-71832b3eaa41",
+        "token_count": 3530,
+        "char_count": 10826,
+        "num_turns": 90
+      },
+      {
+        "conversation_id": "fdbce94a-5e71-4c21-8753-2adbd44dd2af",
+        "token_count": 1063,
+        "char_count": 3339,
+        "num_turns": 21
+      },
+      {
+        "conversation_id": "fedc9f4c-5f12-471f-b0b9-5971716d3478",
+        "token_count": 974,
+        "char_count": 2545,
+        "num_turns": 30
+      }
+    ],
+    "total_tokens": 283908,
+    "min_tokens": 355,
+    "max_tokens": 24097,
+    "avg_tokens": 3340.0941176470587
+  },
+  "type2b": {
+    "total_conversations": 85,
+    "conversations": [
+      {
+        "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+        "token_count": 2024,
+        "char_count": 7888
+      },
+      {
+        "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+        "token_count": 801,
+        "char_count": 2717
+      },
+      {
+        "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+        "token_count": 854,
+        "char_count": 2994
+      },
+      {
+        "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+        "token_count": 1076,
+        "char_count": 3693
+      },
+      {
+        "conversation_id": "c977f98b-fbdf-4cc8-8038-54aaae125b01",
+        "token_count": 4706,
+        "char_count": 6232
+      },
+      {
+        "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+        "token_count": 347,
+        "char_count": 1015
+      },
+      {
+        "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+        "token_count": 401,
+        "char_count": 1506
+      },
+      {
+        "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+        "token_count": 1080,
+        "char_count": 3959
+      },
+      {
+        "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+        "token_count": 3905,
+        "char_count": 4722
+      },
+      {
+        "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+        "token_count": 1646,
+        "char_count": 6378
+      },
+      {
+        "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+        "token_count": 1117,
+        "char_count": 4051
+      },
+      {
+        "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+        "token_count": 991,
+        "char_count": 3420
+      },
+      {
+        "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+        "token_count": 1890,
+        "char_count": 2903
+      },
+      {
+        "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+        "token_count": 1140,
+        "char_count": 4061
+      },
+      {
+        "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+        "token_count": 1631,
+        "char_count": 2183
+      },
+      {
+        "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+        "token_count": 109,
+        "char_count": 271
+      },
+      {
+        "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+        "token_count": 1269,
+        "char_count": 4920
+      },
+      {
+        "conversation_id": "d175b0b0-467a-4833-ac65-46d99cdc4880",
+        "token_count": 7680,
+        "char_count": 12946
+      },
+      {
+        "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+        "token_count": 875,
+        "char_count": 3075
+      },
+      {
+        "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+        "token_count": 1045,
+        "char_count": 3889
+      },
+      {
+        "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+        "token_count": 2065,
+        "char_count": 6130
+      },
+      {
+        "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+        "token_count": 840,
+        "char_count": 2993
+      },
+      {
+        "conversation_id": "d3150932-ae90-43e1-a4d0-4eaf7faf4b81",
+        "token_count": 1711,
+        "char_count": 2620
+      },
+      {
+        "conversation_id": "d32e992f-1915-4170-98d2-2df58b762151",
+        "token_count": 2954,
+        "char_count": 4584
+      },
+      {
+        "conversation_id": "d3f006b8-631d-40f1-90d1-05751712db6e",
+        "token_count": 509,
+        "char_count": 1855
+      },
+      {
+        "conversation_id": "d78e3ed6-ae4e-4310-9925-fb1dd0376bf7",
+        "token_count": 5618,
+        "char_count": 7586
+      },
+      {
+        "conversation_id": "d7eddfa3-946f-4825-a85b-6eb0fe896000",
+        "token_count": 1518,
+        "char_count": 2314
+      },
+      {
+        "conversation_id": "d9335c33-908e-48f6-8bd7-0799432e5cdc",
+        "token_count": 612,
+        "char_count": 2261
+      },
+      {
+        "conversation_id": "d94271a9-3eba-4ea4-83ac-7c575f7d47cb",
+        "token_count": 5487,
+        "char_count": 7389
+      },
+      {
+        "conversation_id": "d9710f40-ab08-496b-915f-2f2ffba234e6",
+        "token_count": 352,
+        "char_count": 1141
+      },
+      {
+        "conversation_id": "db6bfca6-9e9e-48e6-88d1-1bd306fd6bc6",
+        "token_count": 5130,
+        "char_count": 7095
+      },
+      {
+        "conversation_id": "dbc758dd-f6c6-405e-a99e-b687c0308b08",
+        "token_count": 7130,
+        "char_count": 10655
+      },
+      {
+        "conversation_id": "dc2ecc58-d807-48ce-a80a-730b0baf2158",
+        "token_count": 1327,
+        "char_count": 4406
+      },
+      {
+        "conversation_id": "dc7c013a-779e-4b92-8d22-12cd0286a52a",
+        "token_count": 555,
+        "char_count": 2166
+      },
+      {
+        "conversation_id": "ddc8ab21-d052-4fa5-8bf3-f74adffb65bb",
+        "token_count": 622,
+        "char_count": 1952
+      },
+      {
+        "conversation_id": "dead03f9-3291-4cc0-a011-0260996ac80f",
+        "token_count": 1854,
+        "char_count": 2493
+      },
+      {
+        "conversation_id": "df26472f-cdcc-45cc-b9fa-debaa9e761c7",
+        "token_count": 1634,
+        "char_count": 5849
+      },
+      {
+        "conversation_id": "df5c099a-5e3d-4146-aefc-7f64bd36f58c",
+        "token_count": 789,
+        "char_count": 2858
+      },
+      {
+        "conversation_id": "df61128d-85d0-49d8-a55e-86703f29a0bf",
+        "token_count": 1373,
+        "char_count": 3227
+      },
+      {
+        "conversation_id": "dff7584c-2a2f-44db-a578-7c560eb93c6e",
+        "token_count": 451,
+        "char_count": 1632
+      },
+      {
+        "conversation_id": "e09812de-ad54-4772-86de-8cf8d426f571",
+        "token_count": 18015,
+        "char_count": 24151
+      },
+      {
+        "conversation_id": "e1ca051e-7317-4103-89c8-ca80e326b0f3",
+        "token_count": 888,
+        "char_count": 2860
+      },
+      {
+        "conversation_id": "e25ad441-5c02-4b44-8fe7-28227ebb04e5",
+        "token_count": 5416,
+        "char_count": 7123
+      },
+      {
+        "conversation_id": "e3783fd9-233f-4454-981a-acb7bba71ae6",
+        "token_count": 898,
+        "char_count": 3249
+      },
+      {
+        "conversation_id": "e37c760c-9f6a-4776-a3e1-284814dedf35",
+        "token_count": 2059,
+        "char_count": 2808
+      },
+      {
+        "conversation_id": "e3866355-2619-46df-8841-45962c1c2f0d",
+        "token_count": 682,
+        "char_count": 2563
+      },
+      {
+        "conversation_id": "e39ded3d-8e8d-415f-835e-8c8b20648c78",
+        "token_count": 527,
+        "char_count": 1747
+      },
+      {
+        "conversation_id": "e412e53a-faf2-42fd-8993-ac06b93e83b0",
+        "token_count": 718,
+        "char_count": 2731
+      },
+      {
+        "conversation_id": "e453fb0f-afd4-4867-bb48-37b945942148",
+        "token_count": 558,
+        "char_count": 1998
+      },
+      {
+        "conversation_id": "e4758be3-8abf-4c31-a449-06a1cc707df9",
+        "token_count": 1980,
+        "char_count": 2888
+      },
+      {
+        "conversation_id": "e484702a-8693-4a84-82fb-6058b0597cd9",
+        "token_count": 1286,
+        "char_count": 1995
+      },
+      {
+        "conversation_id": "e53791d2-2cdd-4139-a7ab-b54b23905919",
+        "token_count": 595,
+        "char_count": 2231
+      },
+      {
+        "conversation_id": "e575e72f-7087-4c84-9ce6-42d60716882f",
+        "token_count": 293,
+        "char_count": 719
+      },
+      {
+        "conversation_id": "e5eda9cc-0467-46b7-b309-b66559422ad6",
+        "token_count": 1088,
+        "char_count": 3844
+      },
+      {
+        "conversation_id": "e64a9ce4-801d-4ec9-8dbb-ac71c76b5bfb",
+        "token_count": 1015,
+        "char_count": 3722
+      },
+      {
+        "conversation_id": "e673e5f3-079d-41bb-af27-b57947b5d25a",
+        "token_count": 439,
+        "char_count": 1511
+      },
+      {
+        "conversation_id": "e6a215f7-b5d2-4901-b59a-e3201543253b",
+        "token_count": 3450,
+        "char_count": 4754
+      },
+      {
+        "conversation_id": "e7170ac7-2ba4-4443-a280-4e7f0740919b",
+        "token_count": 2146,
+        "char_count": 3093
+      },
+      {
+        "conversation_id": "e7b06e64-1d80-413d-9c9f-8c14df7e45ea",
+        "token_count": 7102,
+        "char_count": 12020
+      },
+      {
+        "conversation_id": "e8142bf0-fc93-4a08-9143-decff227d39f",
+        "token_count": 1563,
+        "char_count": 2144
+      },
+      {
+        "conversation_id": "e86385c1-4149-45f2-b4f1-5782d197ea4c",
+        "token_count": 2622,
+        "char_count": 4012
+      },
+      {
+        "conversation_id": "e8b70c4a-5854-4f13-94d5-754765fbb4f1",
+        "token_count": 527,
+        "char_count": 1232
+      },
+      {
+        "conversation_id": "e8ede3f5-fd93-4c12-abf6-ac4f43cc3221",
+        "token_count": 1636,
+        "char_count": 5766
+      },
+      {
+        "conversation_id": "e96fc856-d81f-40f1-9b66-aa809a0f79bb",
+        "token_count": 1111,
+        "char_count": 2271
+      },
+      {
+        "conversation_id": "ebc71356-5ccd-4ed5-846a-692401c05997",
+        "token_count": 7910,
+        "char_count": 28291
+      },
+      {
+        "conversation_id": "ecd61a04-1171-4298-a3cd-9dc94cd52dc4",
+        "token_count": 716,
+        "char_count": 2272
+      },
+      {
+        "conversation_id": "ee158e5f-562e-4e83-b4d4-b0c855721305",
+        "token_count": 510,
+        "char_count": 1804
+      },
+      {
+        "conversation_id": "f077f0f9-b8d4-424b-9065-b662d4924251",
+        "token_count": 3009,
+        "char_count": 4290
+      },
+      {
+        "conversation_id": "f0ea3073-5577-45d2-8091-863f0826a71d",
+        "token_count": 615,
+        "char_count": 2229
+      },
+      {
+        "conversation_id": "f0f2404b-62ea-4ebd-a67d-4b7ffcefad7d",
+        "token_count": 2729,
+        "char_count": 3745
+      },
+      {
+        "conversation_id": "f107d468-c4c5-46ee-926a-66c62a1ad910",
+        "token_count": 6781,
+        "char_count": 8925
+      },
+      {
+        "conversation_id": "f1748575-58a5-4456-8615-81eaa69dd226",
+        "token_count": 188,
+        "char_count": 549
+      },
+      {
+        "conversation_id": "f248d160-5d6c-4895-9928-a9a3f951bd33",
+        "token_count": 1504,
+        "char_count": 5182
+      },
+      {
+        "conversation_id": "f30f7272-b779-4ba3-a5b4-362ff3b876fd",
+        "token_count": 296,
+        "char_count": 1152
+      },
+      {
+        "conversation_id": "f5835063-6a52-4c87-bddb-8c4ac9a7bac5",
+        "token_count": 1021,
+        "char_count": 3615
+      },
+      {
+        "conversation_id": "f7624e5d-ab5e-4443-8525-72e50d9094ad",
+        "token_count": 909,
+        "char_count": 3212
+      },
+      {
+        "conversation_id": "f765063e-85be-47a5-9fb0-eeecf3906e84",
+        "token_count": 1369,
+        "char_count": 5264
+      },
+      {
+        "conversation_id": "f8327a01-959e-42e1-b48b-f18d569206df",
+        "token_count": 2533,
+        "char_count": 3754
+      },
+      {
+        "conversation_id": "f86f4040-413a-4292-b61e-bfbc2f81461c",
+        "token_count": 922,
+        "char_count": 2948
+      },
+      {
+        "conversation_id": "fc5e2a50-6c0e-42fa-b6c8-c8fdb01cc696",
+        "token_count": 864,
+        "char_count": 3155
+      },
+      {
+        "conversation_id": "fc5f0507-3971-4cd5-a008-7aa62fbcd4a6",
+        "token_count": 1916,
+        "char_count": 7068
+      },
+      {
+        "conversation_id": "fc7499c9-059e-41f1-8402-5a3572ea0559",
+        "token_count": 593,
+        "char_count": 1690
+      },
+      {
+        "conversation_id": "fd74ffe7-aebd-4ac1-bb4a-71832b3eaa41",
+        "token_count": 1659,
+        "char_count": 6070
+      },
+      {
+        "conversation_id": "fdbce94a-5e71-4c21-8753-2adbd44dd2af",
+        "token_count": 595,
+        "char_count": 2182
+      },
+      {
+        "conversation_id": "fedc9f4c-5f12-471f-b0b9-5971716d3478",
+        "token_count": 338,
+        "char_count": 932
+      }
+    ],
+    "total_tokens": 170709,
+    "min_tokens": 109,
+    "max_tokens": 18015,
+    "avg_tokens": 2008.3411764705882
+  }
+}

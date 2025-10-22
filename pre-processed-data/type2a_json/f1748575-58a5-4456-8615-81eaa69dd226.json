@@ -1,0 +1,70 @@
+{
+  "conversation_id": "f1748575-58a5-4456-8615-81eaa69dd226",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is रितिका. calling you from Cred on a recorded line. Am I speaking with शिखा?",
+      "starttime": 2.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to",
+      "starttime": 12.06
+    },
+    {
+      "speaker": "agent",
+      "text": "are there.",
+      "starttime": 16.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to you, शिखा?",
+      "starttime": 21.58
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you there?",
+      "starttime": 28.99
+    },
+    {
+      "speaker": "agent",
+      "text": "शिखा?",
+      "starttime": 36.87
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I audible to",
+      "starttime": 45.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Can I hear",
+      "starttime": 52.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you there?",
+      "starttime": 59.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Is there is no response from the customer side. I'm disconnecting the call from my end.",
+      "starttime": 64.49
+    },
+    {
+      "speaker": "agent",
+      "text": "as there is no response from the customer",
+      "starttime": 69.93
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm missing the call from my end.",
+      "starttime": 73.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Is there is no response from the customer side. I'm disconnecting the call from my end. Thank you for choosing cred. Have a great",
+      "starttime": 75.95
+    }
+  ]
+}

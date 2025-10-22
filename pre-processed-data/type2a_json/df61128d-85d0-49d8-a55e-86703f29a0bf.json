@@ -1,0 +1,260 @@
+{
+  "conversation_id": "df61128d-85d0-49d8-a55e-86703f29a0bf",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. My name is शुमी. and I'm here to assist you today. Am I speaking with नितिन?",
+      "starttime": 16.13
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am.",
+      "starttime": 20.84
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for the confirmation. So you have raised a concern at credit recently regarding 1 of your voucher. May I know what is the issue you are facing right now?",
+      "starttime": 22.15
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah.",
+      "starttime": 28.13
+    },
+    {
+      "speaker": "customer",
+      "text": "still did not receive the delivery. I booked what the time I booked You can what",
+      "starttime": 30.34
+    },
+    {
+      "speaker": "customer",
+      "text": "and today is what the date.",
+      "starttime": 36.55
+    },
+    {
+      "speaker": "customer",
+      "text": "still did not receive from Sunday from delivery",
+      "starttime": 38.88
+    },
+    {
+      "speaker": "customer",
+      "text": "Limited yeah some courier",
+      "starttime": 42.17
+    },
+    {
+      "speaker": "customer",
+      "text": "WhatsApp  missing today will get today will get from Sunday. Today,  day still did not get  receive. Today also I received the message same.",
+      "starttime": 44.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Do understand, Very sorry for the inconvenience caused to you. Just let me check about the details once.",
+      "starttime": 54.47
+    },
+    {
+      "speaker": "agent",
+      "text": "It is for the voucher that you have received from  box 99 from  right?",
+      "starttime": 60.27
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah",
+      "starttime": 60.38
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am.",
+      "starttime": 66.52
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Let me just check  let me have a quick go through about your account. Let me just check",
+      "starttime": 67.92
+    },
+    {
+      "speaker": "agent",
+      "text": "So for checking it purpose. May I put your call on hold for 1 minute?",
+      "starttime": 75.66
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah.",
+      "starttime": 80.0
+    },
+    {
+      "speaker": "agent",
+      "text": "can check please",
+      "starttime": 81.3
+    },
+    {
+      "speaker": "agent",
+      "text": "you for staying online. I'm sorry for the long hold. I really appreciate your time and patience.",
+      "starttime": 144.21
+    },
+    {
+      "speaker": "agent",
+      "text": "So generally what happens that within 7 within 15 days you should receive your order from the date like",
+      "starttime": 149.22
+    },
+    {
+      "speaker": "agent",
+      "text": "from the date of purchasing the order. placing the order, ok? So now as yes, I would request you to wait till that mentioned timeline.",
+      "starttime": 157.71
+    },
+    {
+      "speaker": "agent",
+      "text": "If you can check that you have not received the product yet. or else you want to know more about your delivery status.",
+      "starttime": 167.8
+    },
+    {
+      "speaker": "agent",
+      "text": "because your merchant has confirmed that your order is successful and you will receive the delivery by within 15 days from the date of order placement",
+      "starttime": 174.79
+    },
+    {
+      "speaker": "agent",
+      "text": "now if your merchant is saying",
+      "starttime": 183.38
+    },
+    {
+      "speaker": "agent",
+      "text": "If you are saying that you are not getting the product for better clarification. I am providing you the merchant email address where you need to contact with the merchant, Ok?",
+      "starttime": 186.35
+    },
+    {
+      "speaker": "agent",
+      "text": "So we are very sorry for the inconvenience caused to you. निखिल. I would request you to please",
+      "starttime": 197.08
+    },
+    {
+      "speaker": "agent",
+      "text": "try to connect with the merchant in a mentioned email address.",
+      "starttime": 204.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Please note it down.",
+      "starttime": 208.57
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं  मैं मैं मगर",
+      "starttime": 208.93
+    },
+    {
+      "speaker": "customer",
+      "text": "उसमें delivery दे   courier जिसमें courier डाला हुआ है उसमें बंदे ने पर courier तो मेरे receive होना चाहिए courier उन्होंने  मैंने वहां से successful किया है right time  मैं समझ गया.",
+      "starttime": 211.9
+    },
+    {
+      "speaker": "customer",
+      "text": "पर जो delivery है मेरे को Sunday से मेरे को road daily message आ रहा है delivery me.",
+      "starttime": 222.56
+    },
+    {
+      "speaker": "customer",
+      "text": "WhatsApp पर   यह OTP है और यह आएगा बंदा यह देगा. मैं उनको contact करता हूं वह number पर वह लगा ही नहीं contact.",
+      "starttime": 228.2
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ पा रही हूं. मैं आपको email address provide कर रही हूं.",
+      "starttime": 235.79
+    },
+    {
+      "speaker": "agent",
+      "text": "जहां पर आपको contact करना",
+      "starttime": 239.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Please note down कीजिए. mail address  care at the",
+      "starttime": 241.36
+    },
+    {
+      "speaker": "agent",
+      "text": "hundred dot com.",
+      "starttime": 246.64
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 249.17
+    },
+    {
+      "speaker": "agent",
+      "text": "he l",
+      "starttime": 250.66
+    },
+    {
+      "speaker": "agent",
+      "text": "dot com.",
+      "starttime": 255.64
+    },
+    {
+      "speaker": "customer",
+      "text": "उनका कोई contact number है",
+      "starttime": 257.58
+    },
+    {
+      "speaker": "agent",
+      "text": "As of now हमारे पास सिर्फ email ID का visibility",
+      "starttime": 259.6
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, ठीक है.",
+      "starttime": 263.64
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं असुविधा के लिए माफ़ी चाहती हूं निखिल",
+      "starttime": 263.91
+    },
+    {
+      "speaker": "agent",
+      "text": "please अपने merchant से बात कीजिए और अगर आप देख पा रहे हैं कि आपका merchant आपको respond नहीं कर रहे",
+      "starttime": 266.55
+    },
+    {
+      "speaker": "agent",
+      "text": "आपका कोई भी email का reply नहीं दे रहा है. तो जो भी relevant दिया है उनके website पर आप एक बार कोशिश कीजिएगा",
+      "starttime": 272.12
+    },
+    {
+      "speaker": "agent",
+      "text": "Ultimately अगर नहीं होता है तो हमारे पास आप get back कर सकते हैं.  सारे screenshot लेकर ठीक",
+      "starttime": 278.59
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. ठीक है.",
+      "starttime": 285.79
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, ताकि हम इसके ऊपर further process कर सकें.",
+      "starttime": 286.94
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you.",
+      "starttime": 288.09
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Thank",
+      "starttime": 290.01
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद.",
+      "starttime": 290.21
+    },
+    {
+      "speaker": "agent",
+      "text": "धन्यवाद और कोई जानकारी",
+      "starttime": 291.39
+    }
+  ]
+}

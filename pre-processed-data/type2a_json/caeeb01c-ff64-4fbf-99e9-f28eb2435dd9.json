@@ -1,0 +1,235 @@
+{
+  "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This side ऋषिता I assist you today. Am I speaking with साकिब?",
+      "starttime": 18.59
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, fine.",
+      "starttime": 22.96
+    },
+    {
+      "speaker": "agent",
+      "text": "for the  confirmation से. So as I can see that you have raised your concern regarding the repayment issue. Am I right?",
+      "starttime": 26.07
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, actually the payment like I took the loan from the credit So right now yesterday I made the payment manually and today it's auto debited. So can you refund 1 payment",
+      "starttime": 32.19
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So",
+      "starttime": 46.42
+    },
+    {
+      "speaker": "agent",
+      "text": "is correct   wrong. you said that you already paid your EMI Pay. However, your auto debit is already initiated That's the  right?",
+      "starttime": 48.19
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes yes.",
+      "starttime": 56.48
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. I'm really sorry for the inconvenience,  but I would like to inform you 1 thing that your auto debit is already initiated  ###AM.",
+      "starttime": 58.1
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok? On your due date because seventh is your due date. So if you want to meet the I mean payment manually just do it at least due day prior from your due date. So what will happen that your bank will get the update and you want initiate your auto debit.",
+      "starttime": 67.85
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 70.79
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok so I thought so that 1 is processing in processing so I thought that 1 is not debited so might be possible that 1 is reflect to my loan payment and I have to pay the extra charge that is the penalty So that's the reason I yesterday I made the payment but it is possible to refund.",
+      "starttime": 81.22
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So basically, totally understand  your conditions. But you made the payment today  3 AM. Ok? So if you have a sufficient balance in your account and your auto debit got initiated the no need to worry about this because it will deduct it. Ok? How",
+      "starttime": 101.58
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, last  last time that 1 is not debited so like I  paid manually so that's the reason this month I I made that   but yeah make sure next time I will",
+      "starttime": 117.16
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok ok I understand that. But in our system it's showing now you are auto able to still initiated and it's showing processing However, right now we are unable to face the data on this. So we just request you to please wait for 48 hours because your EMI status will be updated within 48 hours and once it's updated then you will reach out with us. We check the data and then we will inform",
+      "starttime": 129.75
+    },
+    {
+      "speaker": "customer",
+      "text": "So can I get the refund?",
+      "starttime": 151.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes,",
+      "starttime": 155.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I understand.",
+      "starttime": 157.15
+    },
+    {
+      "speaker": "agent",
+      "text": "what I am saying is your amount will deducted twice So we will try our best to refund that amount to you. If it's not possible that it will be adjusted with your next month EMI, So your auto debit won't be initiated next time. However, right now",
+      "starttime": 158.71
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually I need money. So if it is possible so like  refund",
+      "starttime": 172.02
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I understand",
+      "starttime": 179.46
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, you can take time. You can take time  1 or 2 day I will wait but I don't have sufficient amount in my account right now. So  that is the reason I  money.",
+      "starttime": 179.83
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I totally understand that because I can see that your EMI amount is ###. So definitely you need money and",
+      "starttime": 191.53
+    },
+    {
+      "speaker": "agent",
+      "text": "for that reason, we are unable to give you any assurance about the out for that's why we ask you to please contact with us after 48 hours. So we can face the date and   help you accordingly.",
+      "starttime": 199.22
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. So can I call you directly in this number?",
+      "starttime": 209.38
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So we don't have that we don't have that exact contact number. So you just create  ticket is like  date right now. And then you just select the call me now option. We will return.",
+      "starttime": 213.25
+    },
+    {
+      "speaker": "customer",
+      "text": "जी.",
+      "starttime": 216.42
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 219.76
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 224.84
+    },
+    {
+      "speaker": "agent",
+      "text": "So apart from this, is there anything else I can assist you?",
+      "starttime": 228.37
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no thank",
+      "starttime": 231.76
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok great. So before we end this call, may I request you to share your valuable feedback basis on our conversation?",
+      "starttime": 233.16
+    },
+    {
+      "speaker": "agent",
+      "text": "So I'm going to transfer your call to feedback IVR where you can select between 1 to 5, where 1 being 4 and 5 being excellent.",
+      "starttime": 239.98
+    },
+    {
+      "speaker": "customer",
+      "text": "But",
+      "starttime": 246.86
+    },
+    {
+      "speaker": "agent",
+      "text": "you for choosing.",
+      "starttime": 247.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes tell me.",
+      "starttime": 248.97
+    },
+    {
+      "speaker": "customer",
+      "text": "No no, nothing.",
+      "starttime": 250.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Thank you for choosing. Have a great",
+      "starttime": 251.57
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 255.75
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 255.97
+    },
+    {
+      "speaker": "customer",
+      "text": "that",
+      "starttime": 258.22
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 263.23
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 263.38
+    },
+    {
+      "speaker": "customer",
+      "text": "no",
+      "starttime": 264.5
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 271.08
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 275.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 279.36
+    }
+  ]
+}

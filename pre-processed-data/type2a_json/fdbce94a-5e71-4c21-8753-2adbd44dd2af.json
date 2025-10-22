@@ -1,0 +1,110 @@
+{
+  "conversation_id": "fdbce94a-5e71-4c21-8753-2adbd44dd2af",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "morning. My name is. I'm here to assist you today. Am I speaking with विवेक?",
+      "starttime": 16.32
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes, I am just talk with the car insurance",
+      "starttime": 21.53
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 26.39
+    },
+    {
+      "speaker": "customer",
+      "text": "It's asking me to do the KYC I don't know how to do",
+      "starttime": 27.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure. I completely understand your concern. I'm extremely sorry you're facing this issue. But please do not worry. I will definitely help you on this. So, निकिता as I can check you have purchased this policy  third party policy and previously also you have connected with us and we have raised your concern to days back.",
+      "starttime": 32.23
+    },
+    {
+      "speaker": "agent",
+      "text": "and I would like to inform you that as of now, the KYC is not required for this. Ok? So if it is required we will connect with you. And the maximum timeline for the update that has been shared with you is eleventh of October. So on or before eleventh of October from our end, we will give you a WhatsApp notification with an update. Ok?",
+      "starttime": 49.74
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no, I have been receiving call from credit saying, I have to finish the KYC for the car thing, then only it will get activated.",
+      "starttime": 68.83
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok?",
+      "starttime": 79.34
+    },
+    {
+      "speaker": "agent",
+      "text": "Definitely understood. But  from my end, as I can check the  is not  as of now. It might be possible that you are receiving call for the same. But as of now you can more that call. If it is required we will give you a WhatsApp notification for the update. Ok?",
+      "starttime": 80.91
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, right now I don't have to do anything?",
+      "starttime": 97.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, you do not have to do anything   KYC. Ok?",
+      "starttime": 99.46
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok, sure.",
+      "starttime": 103.68
+    },
+    {
+      "speaker": "agent",
+      "text": "and sure.",
+      "starttime": 104.01
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome and also I would like to inform you that you have raised another ticket for this concern and I'm urgent both the ticket and you will be getting all the update on the ticket ID   ###. Ok?",
+      "starttime": 105.47
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok I will wait till 11.",
+      "starttime": 116.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Sure sure. Thank you so much for your kind understanding. So is there anything else I can help you?",
+      "starttime": 118.49
+    },
+    {
+      "speaker": "customer",
+      "text": "No no. Thank",
+      "starttime": 123.45
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome. So, before we end this call, may I request you to share your valuable feedback based on our conversation?",
+      "starttime": 124.96
+    },
+    {
+      "speaker": "agent",
+      "text": "Great. I will transfer your call to the feedback IVR. You can select between 1 to 5. 5 being excellent and 1 being poor. Thank you so much for choosing. Have a wonderful",
+      "starttime": 132.09
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our. You have just helped us improve the credit experience for all our members.",
+      "starttime": 143.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out",
+      "starttime": 150.07
+    }
+  ]
+}

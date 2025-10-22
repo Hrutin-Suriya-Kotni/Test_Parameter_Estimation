@@ -1,0 +1,200 @@
+{
+  "conversation_id": "d9335c33-908e-48f6-8bd7-0799432e5cdc",
+  "turns": [
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 0.03
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. This side जी.  here to assist you today. Am I speaking with अजय?",
+      "starttime": 18.31
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes ma'am good morning.",
+      "starttime": 22.85
+    },
+    {
+      "speaker": "customer",
+      "text": "I just",
+      "starttime": 25.04
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, ma'am. I just made  payment for my credit card through the credit application and the amount got deducted twice",
+      "starttime": 27.49
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 31.62
+    },
+    {
+      "speaker": "customer",
+      "text": "But just recently the second I go I got the message that the refund has been initiated. So, from your end please check the status.",
+      "starttime": 35.37
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, we understand we understand that your credit card bill payment of #### rupees which you have done done towards ICICI Bank का double ###.",
+      "starttime": 44.63
+    },
+    {
+      "speaker": "agent",
+      "text": "and",
+      "starttime": 56.11
+    },
+    {
+      "speaker": "agent",
+      "text": "Right? This payment and",
+      "starttime": 57.22
+    },
+    {
+      "speaker": "agent",
+      "text": "I can check that",
+      "starttime": 59.63
+    },
+    {
+      "speaker": "agent",
+      "text": "the the amount got debited 2 times 1 got successfully posted towards your bank",
+      "starttime": 61.02
+    },
+    {
+      "speaker": "agent",
+      "text": "another has been refunded from our side the refund has been completed to your ICICI bank bank account ending with 25. It's a primary source account link with the credit UPI and you can accept this payment to be reflect reflect in your statement by eighth of October because it take transaction was 1 working days to get reflecting in the bank side. Ok?",
+      "starttime": 66.25
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 88.79
+    },
+    {
+      "speaker": "agent",
+      "text": "And you can also refer the UTR number for the transaction which is available on the credit application.",
+      "starttime": 89.94
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok thank",
+      "starttime": 96.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Anything else related to  may help",
+      "starttime": 97.86
+    },
+    {
+      "speaker": "customer",
+      "text": "No, just improve this facility so that this should not repeat to any customer any other.",
+      "starttime": 100.13
+    },
+    {
+      "speaker": "agent",
+      "text": "For sure,  will take it as a feedback. Ok?",
+      "starttime": 105.67
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, otherwise I will until",
+      "starttime": 108.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Anything",
+      "starttime": 110.95
+    },
+    {
+      "speaker": "customer",
+      "text": "is very clear",
+      "starttime": 111.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok Be assured your refund will be credited to you",
+      "starttime": 114.44
+    },
+    {
+      "speaker": "customer",
+      "text": "direct that's ok but twice deducting the money twice I don't like",
+      "starttime": 117.68
+    },
+    {
+      "speaker": "agent",
+      "text": "have",
+      "starttime": 118.51
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes it's",
+      "starttime": 122.73
+    },
+    {
+      "speaker": "customer",
+      "text": "improve your facility otherwise your loan customer.",
+      "starttime": 123.05
+    },
+    {
+      "speaker": "customer",
+      "text": "Thank you so much. Have a nice day.",
+      "starttime": 127.62
+    },
+    {
+      "speaker": "agent",
+      "text": "Before we end this call, may I request you share a valuable feedback basis on conversation?",
+      "starttime": 131.23
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 135.96
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much I am forwarding the call to feedback IVR so that you can rate the conversation between 1 to 5.",
+      "starttime": 137.22
+    },
+    {
+      "speaker": "agent",
+      "text": "5 being excellent and 1 being poor. Thank you for choosing",
+      "starttime": 143.7
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 146.35
+    },
+    {
+      "speaker": "agent",
+      "text": "Have a great",
+      "starttime": 147.21
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 150.2
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your dial pack to",
+      "starttime": 157.85
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience for all our members.",
+      "starttime": 161.19
+    },
+    {
+      "speaker": "agent",
+      "text": "Do reach out again in case of any other concerns.",
+      "starttime": 165.73
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and have a good day.",
+      "starttime": 169.47
+    }
+  ]
+}

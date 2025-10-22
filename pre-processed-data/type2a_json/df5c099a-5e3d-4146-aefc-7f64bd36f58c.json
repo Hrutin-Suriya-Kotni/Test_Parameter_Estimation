@@ -1,0 +1,185 @@
+{
+  "conversation_id": "df5c099a-5e3d-4146-aefc-7f64bd36f58c",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is ईशानी I am here to assist you today. Am I speaking with अभिषेक?",
+      "starttime": 16.57
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes, good.",
+      "starttime": 21.63
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for confirming your name. So अभिषेक I can see raised a concern regarding the product I'll no. You haven't received the refund yet.",
+      "starttime": 22.95
+    },
+    {
+      "speaker": "customer",
+      "text": "Actually not able to connect to the  department   selected the option.",
+      "starttime": 32.82
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, the actual reason from my call is I'm not able to place any orders on the Cred shop.",
+      "starttime": 37.66
+    },
+    {
+      "speaker": "customer",
+      "text": "for all items and getting",
+      "starttime": 43.13
+    },
+    {
+      "speaker": "customer",
+      "text": "in code is not serviceable",
+      "starttime": 45.86
+    },
+    {
+      "speaker": "customer",
+      "text": "but about a month ago I was",
+      "starttime": 48.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, please continue. I'm really sorry for the interruption,",
+      "starttime": 51.35
+    },
+    {
+      "speaker": "customer",
+      "text": "No problem. Yeah. before a month I was able to place order surely there was no issue at",
+      "starttime": 55.14
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, that's the problem.",
+      "starttime": 60.53
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So now it is showing that your PIN code is not serviceable right?",
+      "starttime": 62.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, I am sorry for the inconvenience. So first of all, I want to inform you regarding this issue feedback will be definitely shared with our team and  the merchant So that we can image this. And right now I am I want to inform you that like the  code which is showing not serviceable right now. We are trying to add like",
+      "starttime": 68.29
+    },
+    {
+      "speaker": "agent",
+      "text": "our service it to all  like all the it. So regarding this your feedback will be shared so that we can work on the",
+      "starttime": 89.69
+    },
+    {
+      "speaker": "agent",
+      "text": "as you are saying that previously  you are able to place the order from your location, but right now it is showing like this that the  code is serviceable So regarding this your feedback will be shared Ok?",
+      "starttime": 98.53
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, but can I get a resolution timeline or something because  last or the place was on seventeenth of out",
+      "starttime": 112.91
+    },
+    {
+      "speaker": "customer",
+      "text": "and after that  thing from last month September I was not able to place  order and it's just showing visible.",
+      "starttime": 120.05
+    },
+    {
+      "speaker": "customer",
+      "text": "I don't think like this might be issue for whole area. I think it's and  account specific issue",
+      "starttime": 127.29
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 133.46
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand I understood. अभिषेक. as you want the timeline. I'm sorry to inform you regarding this, we are unable to give any exact timeline that within this time like, we will solve you  but definitely do not worry.  feedback   share    our team",
+      "starttime": 133.9
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं",
+      "starttime": 152.01
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok, can you please check 1 more thing like if there is any issue with my account specifically",
+      "starttime": 153.98
+    },
+    {
+      "speaker": "customer",
+      "text": "like is there any problem with my account because of which I'm not able to problem like place order",
+      "starttime": 159.55
+    },
+    {
+      "speaker": "customer",
+      "text": "is it my account blocked from shopping something",
+      "starttime": 165.15
+    },
+    {
+      "speaker": "agent",
+      "text": "हां not saying any",
+      "starttime": 168.17
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Ok. Then I will wait for it the solution",
+      "starttime": 171.72
+    },
+    {
+      "speaker": "agent",
+      "text": "Hello.",
+      "starttime": 173.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So is there anything else I can help you with?",
+      "starttime": 175.09
+    },
+    {
+      "speaker": "customer",
+      "text": "No no, that will be all. Thank you.",
+      "starttime": 179.18
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So before we end this call, there's a small request from my side.  I transfer this call to the feedback IVR based on conversation",
+      "starttime": 181.57
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok. Sure. please do it. I'll",
+      "starttime": 191.43
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Thank you. So there is 1 to 5, 1 being 4 and 5",
+      "starttime": 192.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for",
+      "starttime": 198.26
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes.",
+      "starttime": 201.94
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 202.13
+    },
+    {
+      "speaker": "agent",
+      "text": "You have just helped us improve the credit experience.",
+      "starttime": 209.79
+    }
+  ]
+}

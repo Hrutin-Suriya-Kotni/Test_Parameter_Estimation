@@ -1,0 +1,230 @@
+{
+  "conversation_id": "fc7499c9-059e-41f1-8402-5a3572ea0559",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is किरण. I'm here to assist you today. Am I speaking with रंजीत?",
+      "starttime": 16.92
+    },
+    {
+      "speaker": "customer",
+      "text": "करते हैं",
+      "starttime": 21.43
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for the confirmation. As I can see that you have raised a call me back request regarding  your concern KYC",
+      "starttime": 24.09
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 31.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam, can you speak तमिल?",
+      "starttime": 32.77
+    },
+    {
+      "speaker": "agent",
+      "text": "तमिल",
+      "starttime": 35.3
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm really sorry. As I can not speak in तमिल language. I can speak in हिंदी or English.",
+      "starttime": 37.83
+    },
+    {
+      "speaker": "agent",
+      "text": "and if you want in a तमिल language then I can set a callback for you and you will get a callback in next 24 hours.",
+      "starttime": 47.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok ok no problem ma'am.",
+      "starttime": 54.17
+    },
+    {
+      "speaker": "customer",
+      "text": "I want to",
+      "starttime": 57.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, please me.",
+      "starttime": 61.17
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am, I need KYC update in my insurance",
+      "starttime": 63.46
+    },
+    {
+      "speaker": "customer",
+      "text": "but  not show him I have updated",
+      "starttime": 67.67
+    },
+    {
+      "speaker": "customer",
+      "text": "how to update my KYC.",
+      "starttime": 73.07
+    },
+    {
+      "speaker": "agent",
+      "text": "Please allow me a moment  let me quickly check this रंजीत and I am really sorry for the inconvenience",
+      "starttime": 76.07
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 81.98
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I can see that your KYC is  pending status. Ok?",
+      "starttime": 83.39
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 87.7
+    },
+    {
+      "speaker": "agent",
+      "text": "So for that",
+      "starttime": 88.76
+    },
+    {
+      "speaker": "agent",
+      "text": "I would like to inform you, kindly share anyone of the document like either आधार passport, voter id or riding license or the रंजीत कुमार",
+      "starttime": 92.39
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok",
+      "starttime": 102.29
+    },
+    {
+      "speaker": "agent",
+      "text": "Oh, ok.",
+      "starttime": 102.82
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 105.45
+    },
+    {
+      "speaker": "agent",
+      "text": "And for that, I'm just going to share",
+      "starttime": 105.48
+    },
+    {
+      "speaker": "customer",
+      "text": "Can I can can I share?",
+      "starttime": 109.41
+    },
+    {
+      "speaker": "agent",
+      "text": "for that I am just going to share a link with you.",
+      "starttime": 113.3
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok madam.",
+      "starttime": 117.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes, I have already shared a link with you via SMS to your calling number which is ending with ###.",
+      "starttime": 119.05
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 128.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Please check it whether I received the link or not?",
+      "starttime": 129.68
+    },
+    {
+      "speaker": "customer",
+      "text": "link or link to take.",
+      "starttime": 133.53
+    },
+    {
+      "speaker": "agent",
+      "text": "Have you received the link?",
+      "starttime": 141.95
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah  yeah, this is",
+      "starttime": 144.03
+    },
+    {
+      "speaker": "agent",
+      "text": "So please please click on that.",
+      "starttime": 146.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Please click on that link.",
+      "starttime": 153.0
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok.",
+      "starttime": 155.38
+    },
+    {
+      "speaker": "agent",
+      "text": "That link will redirect you to the Cred application where you",
+      "starttime": 157.53
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ma'am.",
+      "starttime": 161.41
+    },
+    {
+      "speaker": "agent",
+      "text": "get an option for add more.",
+      "starttime": 162.64
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 165.49
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok ok madam.",
+      "starttime": 166.79
+    },
+    {
+      "speaker": "agent",
+      "text": "and you need to attach the document.",
+      "starttime": 168.71
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok",
+      "starttime": 172.29
+    },
+    {
+      "speaker": "customer",
+      "text": "हां.",
+      "starttime": 174.35
+    },
+    {
+      "speaker": "agent",
+      "text": "please attach the document  and the",
+      "starttime": 174.79
+    }
+  ]
+}

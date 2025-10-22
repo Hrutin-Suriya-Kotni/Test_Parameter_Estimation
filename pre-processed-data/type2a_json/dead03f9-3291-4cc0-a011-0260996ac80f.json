@@ -1,0 +1,155 @@
+{
+  "conversation_id": "dead03f9-3291-4cc0-a011-0260996ac80f",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is विषय and I'm here to assist you today. Am I speaking with भागवती?",
+      "starttime": 17.95
+    },
+    {
+      "speaker": "customer",
+      "text": "हां हां ma'am भेज से बात कर रही हूं",
+      "starttime": 23.0
+    },
+    {
+      "speaker": "agent",
+      "text": "नाम confirm करने के लिए धन्यवाद भेजो जी. तो जैसा कि  मैं check कर सकती हूं आपने concern raise किया है regarding withdrawal issues.",
+      "starttime": 25.06
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes yes.",
+      "starttime": 31.47
+    },
+    {
+      "speaker": "agent",
+      "text": "Alright तो क्या आप मुझे बता सकते हैं exact issue क्या रहा है आपको?",
+      "starttime": 32.97
+    },
+    {
+      "speaker": "customer",
+      "text": "हां वही ma'am वह rare कुछ तो technical ऐसा आ रहा है बार बार वही आ रहा",
+      "starttime": 37.48
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, जब भी यह withdrawal",
+      "starttime": 43.55
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी बोले",
+      "starttime": 44.13
+    },
+    {
+      "speaker": "customer",
+      "text": "अभी बोले थे कि 48 hours के बाद हो जाएगा बोले थे तो नहीं हुआ इसलिए  मैंने contact कर",
+      "starttime": 45.53
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं समझ सकती हूं मैं माफ़ी चाहती हूं कि आपको यह problem को face करना पड़ा. please line पर बने रहिए मैं अभी आपको एक बार सारी details को cross check करके फिर मैं आपको inform कर देती हूं.",
+      "starttime": 54.94
+    },
+    {
+      "speaker": "customer",
+      "text": "हां ठीक है ठीक",
+      "starttime": 64.88
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी इसके लिए क्या मैं आपकी call को एक minute hold पर रख सकती",
+      "starttime": 66.01
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 132.65
+    },
+    {
+      "speaker": "agent",
+      "text": "Line पर बने रहने के लिए बहुत बहुत धन्यवाद भारती. मैं माफ़ी चाहती हूं आपसे लंबे hold के",
+      "starttime": 140.45
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, तो जैसे  यहां पर मैं check कर सकती हूं इस वक्त हम आपके loan के drawn request को आगे proceed नहीं कर सकते हैं. क्योंकि एक intermittent issue है और हमारी team भी पूरी कोशिश कर रही है इसको जल्द से जल्द  करने के लिए. But यह थोड़ा complex issue है जिसके जैसे हमारे पास   specific timeline नहीं है. तो मैं आपसे माफी चाहूंगी इसके लिए सबसे पहले but मैं आपसे request करूंगी कि अगर आपको immediate fund की requirement है इस वक्त तो please आप alternative source को एक बार consider कर सकते",
+      "starttime": 146.66
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है.",
+      "starttime": 173.56
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं",
+      "starttime": 174.77
+    },
+    {
+      "speaker": "agent",
+      "text": "जी, and इसके अलावा और कोई सहायता कर सकती हूं मैं आपकी?",
+      "starttime": 174.96
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं वही तो बोल रही  थी actually आपके पास यही offer था ना इसलिए मैंने call",
+      "starttime": 178.65
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी.",
+      "starttime": 183.39
+    },
+    {
+      "speaker": "agent",
+      "text": "जी मैं समझ सकती हूं but मैं माफ़ी चाहूंगी please आप tension मत कीजिए जैसे ही यह problem ठीक हो जाती है. आपको हमारे end से notify कर दिया जाएगा.",
+      "starttime": 185.07
+    },
+    {
+      "speaker": "customer",
+      "text": "वह notify करते हैं मगर आगे जाकर वही problem आती",
+      "starttime": 192.27
+    },
+    {
+      "speaker": "agent",
+      "text": "समझ सकती हूं मैं माफ़ी चाहती हूं but अगर आपको immediate fund की requirement है इस वक्त पर please आप alternative source consider कर सकते",
+      "starttime": 197.52
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके अलावा और कुछ सहायता कर सकती हूं आपकी?",
+      "starttime": 206.77
+    },
+    {
+      "speaker": "customer",
+      "text": "No",
+      "starttime": 208.93
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, तो call end करने से पहले क्या मैं आपसे एक छोटे से feedback के लिए request कर सकती",
+      "starttime": 210.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Call end करने के लिए क्या मैं आपसे एक छोटे से feedback के लिए request कर सकती हूं बाकी ज्योति",
+      "starttime": 218.01
+    },
+    {
+      "speaker": "customer",
+      "text": "हां ma'am",
+      "starttime": 222.78
+    },
+    {
+      "speaker": "agent",
+      "text": "शुक्रिया. तो इस call को मैं transfer करूंगी हमारे feedback IVR पर जहां पर  आप एक से लेकर पांच तक choose कर सकते हैं जिसमें एक सबसे कम होता है and पांच सबसे ज़्यादा होता है. Credit को choose करने के लिए धन्यवाद. आशा करता हूं आपका दिन शुभ रहे.",
+      "starttime": 223.76
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1",
+      "starttime": 236.52
+    }
+  ]
+}

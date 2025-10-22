@@ -1,0 +1,180 @@
+{
+  "conversation_id": "d3150932-ae90-43e1-a4d0-4eaf7faf4b81",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 0.59
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 5.14
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is राव and I'm here to assist you today. Am I speaking with सुनील?",
+      "starttime": 16.91
+    },
+    {
+      "speaker": "customer",
+      "text": "हां लगाने जी सुनिए बोलो.",
+      "starttime": 21.85
+    },
+    {
+      "speaker": "agent",
+      "text": "नाम confirm करने के लिए धन्यवाद सुशील. जैसा कि मैं देख पा रही हूं आपने concern raise किया",
+      "starttime": 23.91
+    },
+    {
+      "speaker": "agent",
+      "text": "payment के regarding जो कि है ###rupees की आपने payment करी है SBI card की  है जिसके ending digit है ###",
+      "starttime": 29.29
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं भी देख पा रही हूं आपने payment किए  seventh of October 2 25  24 Am पर and जो mode of payment था credit UPI था",
+      "starttime": 37.85
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं देख पा रही हूं आपने दो बार attempt किया है दोनों बार आपका जो payment है वह fail हो गया है. क्या आप मुझे confirm कर सकते हैं आपका amount कितनी बार debit हुआ",
+      "starttime": 46.89
+    },
+    {
+      "speaker": "customer",
+      "text": "दो बार debit होगा एक बार IDBI के through और एक SBI के through",
+      "starttime": 55.52
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी जो",
+      "starttime": 60.11
+    },
+    {
+      "speaker": "customer",
+      "text": "दो payment रहेगा.",
+      "starttime": 60.49
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी जो भी आप असुविधा face कर रहे हैं सुशील.",
+      "starttime": 61.54
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं देख पा रही हूं हमने भी हमारे end से जो है refund आपको process करवा initiate भी कर दिया complete भी कर दिया  seventh of October ###से ok आपकी IDBI bank  towards जिसके ending digit है ###",
+      "starttime": 65.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, क्या आपको refund receive हुआ",
+      "starttime": 81.0
+    },
+    {
+      "speaker": "customer",
+      "text": "हां IDV का नाम received हो गया but exact receive नहीं हुआ",
+      "starttime": 83.78
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok so SBI का अभी तक refund receive नहीं हुआ",
+      "starttime": 87.49
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी जो भी आप असुविधा face कर रहे हैं सुशील क्या मैं आपकी call को एक minute के लिए hold पर रख सकती हूं ताकि मैं check कर सकूं information",
+      "starttime": 93.0
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank",
+      "starttime": 102.53
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 113.97
+    },
+    {
+      "speaker": "agent",
+      "text": "हां.",
+      "starttime": 241.09
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for being on hold सुशील.",
+      "starttime": 314.56
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहूंगी लंबे hold के लिए. जैसे कि मैं देख पा रही हूं आपको जो SBI card से जो आपने payment करा है SBI  bank account से आपने करिए",
+      "starttime": 318.39
+    },
+    {
+      "speaker": "agent",
+      "text": "Right? So 2 1 double ###.",
+      "starttime": 328.06
+    },
+    {
+      "speaker": "agent",
+      "text": "के ending digit आपको उसका refund अभी तक receive नहीं हुआ है. तो मैं आपसे request करूंगी कि आप जब payment की है उस time से लेकर 8 hours का pay कर लीजिए. अगर आपको refund नहीं मिलता है तो आप हमें contact कर लीजिए.",
+      "starttime": 331.71
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, क्या मैं आपकी कोई और सहायता कर सकती हूं सुशील credit से related?",
+      "starttime": 347.05
+    },
+    {
+      "speaker": "customer",
+      "text": "ma'am payment   करने card का तो क्या करें? किसी दूसरे through pay करे उसको",
+      "starttime": 350.66
+    },
+    {
+      "speaker": "customer",
+      "text": "कि दो बार    payment और कर उसका last due",
+      "starttime": 357.87
+    },
+    {
+      "speaker": "agent",
+      "text": "payment करना चाहते हैं तो आप कर लीजिए सुशील अगर आपको कोई और problem face होता है तो आप हमें reach out कर सकते हैं. Ok?",
+      "starttime": 363.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok क्या मैं आपकी कोई और सहायता कर सकती हूं credit से related?",
+      "starttime": 372.14
+    },
+    {
+      "speaker": "customer",
+      "text": "No ma'am. Thank you. Thank you.",
+      "starttime": 375.31
+    },
+    {
+      "speaker": "agent",
+      "text": "इस call को end करने से पहले क्या मैं आपकी feedback के लिए request कर सकती हूं? Ok so अब मैं हमारी call को feedback IVR पर transfer करूंगी आप rate कर सकते हैं एक से पांच के beach में. एक सबसे कम और पांच सबसे अधिक Cred को चुनने के लिए धन्यवाद. आपका दिन शुभ",
+      "starttime": 377.22
+    },
+    {
+      "speaker": "customer",
+      "text": "nan",
+      "starttime": 387.84
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 394.92
+    },
+    {
+      "speaker": "customer",
+      "text": "setting",
+      "starttime": 400.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number on your You have just helped us improve the credit experience for all our members.",
+      "starttime": 402.53
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "conversation_id": "f077f0f9-b8d4-424b-9065-b662d4924251",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good morning. This is  I am here to assist you today. Am I speaking with गुलशन?",
+      "starttime": 16.67
+    },
+    {
+      "speaker": "agent",
+      "text": "Am I speaking with गुलशन?",
+      "starttime": 25.48
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am",
+      "starttime": 31.25
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am आपकी voice voice  slow",
+      "starttime": 35.15
+    },
+    {
+      "speaker": "agent",
+      "text": "आपके पास break हो रही",
+      "starttime": 35.33
+    },
+    {
+      "speaker": "agent",
+      "text": "अभी आ रही है?",
+      "starttime": 38.89
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी ma'am.",
+      "starttime": 40.67
+    },
+    {
+      "speaker": "agent",
+      "text": "जैसे कि मैं check कर पा रही हूं बताइए.",
+      "starttime": 43.32
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am मैंने",
+      "starttime": 43.72
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी मैंने",
+      "starttime": 45.36
+    },
+    {
+      "speaker": "customer",
+      "text": "मेरा  Cred से दो loan चल रहा",
+      "starttime": 46.86
+    },
+    {
+      "speaker": "customer",
+      "text": "एक 1 lakh #### 1 lakh ###.",
+      "starttime": 50.35
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 54.59
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am जो  मैंने तीन October को 1 lakh 500 की जो मेरा balance amount था foreclose करा दिया",
+      "starttime": 56.16
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 63.7
+    },
+    {
+      "speaker": "customer",
+      "text": "है और जो 1 lakh ### था उसका भी जो balance amount था उसको भी foreclose कर दिया",
+      "starttime": 65.4
+    },
+    {
+      "speaker": "agent",
+      "text": "जी जी मैं समझ पा रही हूं दोनों amount को जो है आपने foreclose कराया",
+      "starttime": 75.31
+    },
+    {
+      "speaker": "customer",
+      "text": "अच्छा, ma'am अब जो 1 lakh #### वाले statement में",
+      "starttime": 79.83
+    },
+    {
+      "speaker": "customer",
+      "text": "तो मेरा वह amount reflect कर रहा",
+      "starttime": 84.1
+    },
+    {
+      "speaker": "customer",
+      "text": "जो मैं current statement download करता लेकिन 1 lakh 500 में वह amount reflect नहीं करा",
+      "starttime": 86.33
+    },
+    {
+      "speaker": "agent",
+      "text": "आपकी दो loan है एक  1 lakh ###lakh ###correct?",
+      "starttime": 93.5
+    },
+    {
+      "speaker": "agent",
+      "text": "तो 1 lakh ###की जो है वह आपकी reflect नहीं नहीं हो रही है account.",
+      "starttime": 98.77
+    },
+    {
+      "speaker": "customer",
+      "text": "हां जी.",
+      "starttime": 104.13
+    },
+    {
+      "speaker": "agent",
+      "text": "मतलब कि आप कहां पर",
+      "starttime": 106.28
+    },
+    {
+      "speaker": "customer",
+      "text": "मतलब account की statement में जब Cred की statement निकाल के",
+      "starttime": 106.83
+    },
+    {
+      "speaker": "agent",
+      "text": "हां हां.",
+      "starttime": 111.14
+    },
+    {
+      "speaker": "customer",
+      "text": "finance loan closure हो गया तो statement निकलते statement पर वह amount reflect नहीं",
+      "starttime": 112.64
+    },
+    {
+      "speaker": "agent",
+      "text": "माफी चाहेंगे. मैं एक बार check कर लेती",
+      "starttime": 120.3
+    },
+    {
+      "speaker": "agent",
+      "text": "1 lakh कितने की आपने बताई थी?",
+      "starttime": 127.23
+    },
+    {
+      "speaker": "customer",
+      "text": "1 lakh 60 कुछ",
+      "starttime": 129.95
+    },
+    {
+      "speaker": "agent",
+      "text": "यह जो है नहीं reflect हो रही है, correct?",
+      "starttime": 141.34
+    },
+    {
+      "speaker": "customer",
+      "text": "statement",
+      "starttime": 143.91
+    },
+    {
+      "speaker": "customer",
+      "text": "क्योंकि उसमें statement में अभी भी दिखा रहा है principle amount balance",
+      "starttime": 145.59
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok",
+      "starttime": 145.83
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं check कर लेती हूं एक बार आप line पर बने रहें हमारे",
+      "starttime": 152.33
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 176.51
+    },
+    {
+      "speaker": "agent",
+      "text": "यह जो है आपके  में like active show हो रहा",
+      "starttime": 177.72
+    },
+    {
+      "speaker": "customer",
+      "text": "Madam मैं payment कर चुका",
+      "starttime": 182.64
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok, मैं समझ पा रही हूं कि आपने payment कर दिया मगर यह आपके",
+      "starttime": 185.3
+    },
+    {
+      "speaker": "agent",
+      "text": "So में जो है reflect हो रहा है, correct?",
+      "starttime": 189.27
+    },
+    {
+      "speaker": "agent",
+      "text": "statement of account",
+      "starttime": 191.93
+    },
+    {
+      "speaker": "agent",
+      "text": "आप उसे like document share कर सकते हैं जहां पर यह reflect हो रहा",
+      "starttime": 205.35
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं आपको एक link share कर रही हूं आप please उसमें मुझे",
+      "starttime": 209.85
+    },
+    {
+      "speaker": "agent",
+      "text": "अपनी जो document है जहां पर show हो रही है वह मुझे share कर दीजिए ताकि मैं उसको verify कर",
+      "starttime": 214.16
+    },
+    {
+      "speaker": "agent",
+      "text": "मैंने आपको एक link share किया है आपके SMS में गया होगा.",
+      "starttime": 218.76
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं मतलब मेरे को क्या मतलब क्या क्या show करना है आपको मतलब जहां पर reflect हो रहा है payment. यहां से मैंने payment कर",
+      "starttime": 221.77
+    },
+    {
+      "speaker": "agent",
+      "text": "हां.",
+      "starttime": 228.05
+    },
+    {
+      "speaker": "agent",
+      "text": "हां जी जहां पर यह show हो रहा है ना कि active नहीं है overdue जो भी show हो रहा है वहां",
+      "starttime": 229.8
+    },
+    {
+      "speaker": "agent",
+      "text": "आप वहां से statement जो है share कर दिए ताकि मैं उसको validate कर पाऊं.",
+      "starttime": 234.95
+    },
+    {
+      "speaker": "customer",
+      "text": "मतलब bank की statement में अपने bank की statement जहां से payment",
+      "starttime": 238.98
+    },
+    {
+      "speaker": "agent",
+      "text": "वह मेरे को share कीजिए. मैं check कर लेती",
+      "starttime": 244.21
+    },
+    {
+      "speaker": "customer",
+      "text": "ठीक है ma'am मैं आपको",
+      "starttime": 247.35
+    },
+    {
+      "speaker": "customer",
+      "text": "हां आपने मुझे link भेज",
+      "starttime": 250.81
+    },
+    {
+      "speaker": "agent",
+      "text": "हां",
+      "starttime": 252.57
+    },
+    {
+      "speaker": "customer",
+      "text": "section",
+      "starttime": 253.73
+    },
+    {
+      "speaker": "customer",
+      "text": "एक minute ma'am  line पर रहिएगा.",
+      "starttime": 260.75
+    },
+    {
+      "speaker": "customer",
+      "text": "यह रहिए. ma'am मैंने",
+      "starttime": 276.34
+    },
+    {
+      "speaker": "customer",
+      "text": "यह आपको  statement send करिए.",
+      "starttime": 278.86
+    },
+    {
+      "speaker": "customer",
+      "text": "इसमें open लिखा रहा है principle amount due",
+      "starttime": 281.02
+    },
+    {
+      "speaker": "customer",
+      "text": "credit की statement",
+      "starttime": 284.05
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok.",
+      "starttime": 288.56
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much document share करने के लिए मैं एक बार check कर लेती हूं उसको.",
+      "starttime": 295.07
+    },
+    {
+      "speaker": "agent",
+      "text": "क्या मैं आपकी call को एक minute के लिए hold पर रख सकती",
+      "starttime": 299.07
+    },
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 383.41
+    },
+    {
+      "speaker": "customer",
+      "text": "No",
+      "starttime": 401.07
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you so much for staying connected on call.",
+      "starttime": 465.17
+    },
+    {
+      "speaker": "agent",
+      "text": "Line पर रहने के लिए बहुत बहुत धन्यवाद गोयल.",
+      "starttime": 468.45
+    },
+    {
+      "speaker": "customer",
+      "text": "Ok.",
+      "starttime": 468.55
+    },
+    {
+      "speaker": "agent",
+      "text": "जैसे  लंबे समय तक line पर रखने के लिए माफ़ी चाहूंगी आपसे आपकी details fetch करने मुझे थोड़ा सा समय लग गया और जैसे कि मैं check कर पा रही हूं कि यह जो है ना amount यह update हुआ नहीं है अभी तक.",
+      "starttime": 471.27
+    },
+    {
+      "speaker": "agent",
+      "text": "और इसको update होने में जो है आपके like जिस दिन आपने pay किया था उस से 7 working days का time लगेगा.",
+      "starttime": 481.73
+    },
+    {
+      "speaker": "agent",
+      "text": "उसके बाद जो है post within 24 hours में आपका NOC जो है generate होगा.",
+      "starttime": 487.89
+    },
+    {
+      "speaker": "agent",
+      "text": "आप उस time के जब statement आप check करेंगे तो उसमें जो है overdue आपको नहीं show होगा. ok?",
+      "starttime": 493.17
+    },
+    {
+      "speaker": "customer",
+      "text": "Ma'am  मुझे ना statement इसको भेजना",
+      "starttime": 499.01
+    },
+    {
+      "speaker": "customer",
+      "text": "तो madam मैंने आपको payment का और लेकिन इससे दूसरे वाले का पहले हो गया उससे जो मैंने 4 October को payment करी थी उसका update",
+      "starttime": 501.84
+    },
+    {
+      "speaker": "agent",
+      "text": "मैं समझ पा रही हूं मगर अब white be कुछ system कुछ technical glitch हुआ होगा जिसकी वजह से एक update हुआ एक नहीं हुआ",
+      "starttime": 509.4
+    },
+    {
+      "speaker": "agent",
+      "text": "तो जैसे कि मैं check कर पा रही हूं ना इसमें थोड़ा समय लग सकता है. तो मैं आपसे request करना चाहूंगी कि please  7 working days का wait कर जाइए. Post within 7 24 hours में आपका NOC जो है generate हो जाएगा. आप वहां जो है loan documents वहां से download कर पाएंगे.",
+      "starttime": 517.6
+    },
+    {
+      "speaker": "agent",
+      "text": "इसके अलावा और कोई help कर",
+      "starttime": 534.9
+    },
+    {
+      "speaker": "customer",
+      "text": "नहीं नहीं बस ma'am",
+      "starttime": 537.28
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much confirm करने के लिए  इस call को end करने से पहले क्या मैं आपको एक feedback के लिए request कर सकती हूं हमारे बातचीत के आधार",
+      "starttime": 539.49
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you and इस call को मैं IVR feedback में transfer कर रहा हूं जहां पर आप rating दे सकते हैं एक से पांच के",
+      "starttime": 546.8
+    },
+    {
+      "speaker": "agent",
+      "text": "एक सबसे कम होगा पांच सबसे ज़्यादा होगा.",
+      "starttime": 552.47
+    },
+    {
+      "speaker": "agent",
+      "text": "को choose करने के लिए बहुत बहुत धन्यवाद. आशा करता हूं आपका दिन शुभ",
+      "starttime": 554.95
+    },
+    {
+      "speaker": "agent",
+      "text": "you so much.",
+      "starttime": 559.3
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on",
+      "starttime": 561.28
+    }
+  ]
+}

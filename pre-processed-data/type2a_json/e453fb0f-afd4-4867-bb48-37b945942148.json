@@ -1,0 +1,165 @@
+{
+  "conversation_id": "e453fb0f-afd4-4867-bb48-37b945942148",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "nan",
+      "starttime": 11.13
+    },
+    {
+      "speaker": "agent",
+      "text": "Good morning. My name is ज्योति I'm here to assist you today. Am I talking to भानु? प्रकाश?",
+      "starttime": 17.87
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, hi so I initially made a payment from my credit card amount",
+      "starttime": 22.31
+    },
+    {
+      "speaker": "agent",
+      "text": "Your voice is not audible Your voice is not audible.",
+      "starttime": 25.21
+    },
+    {
+      "speaker": "customer",
+      "text": "Am I am I audible?",
+      "starttime": 27.5
+    },
+    {
+      "speaker": "agent",
+      "text": "Yes yes you are audible.",
+      "starttime": 29.19
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah. So I initially made the payment from my credit card. amount got debited but in credit it shows the transaction was failed but now I think it is reflecting.",
+      "starttime": 30.71
+    },
+    {
+      "speaker": "agent",
+      "text": "So again now it is reflecting.",
+      "starttime": 40.46
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, to my card the amount got reflected",
+      "starttime": 42.64
+    },
+    {
+      "speaker": "agent",
+      "text": "So now the payment is successful.",
+      "starttime": 47.37
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, it is successful.",
+      "starttime": 49.95
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So you so your concern is that you made a payment of 26 87 rupees",
+      "starttime": 52.19
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes correct.",
+      "starttime": 57.46
+    },
+    {
+      "speaker": "agent",
+      "text": "towards ICICI bank ending with digit ###",
+      "starttime": 58.45
+    },
+    {
+      "speaker": "agent",
+      "text": "And for that you have used credit balance of rupees",
+      "starttime": 63.46
+    },
+    {
+      "speaker": "agent",
+      "text": "and the total amount paid is 48",
+      "starttime": 67.21
+    },
+    {
+      "speaker": "agent",
+      "text": "You did the payment on seventh of October",
+      "starttime": 71.94
+    },
+    {
+      "speaker": "agent",
+      "text": "and your due date was on eighth of October.",
+      "starttime": 75.16
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah, correct correct.",
+      "starttime": 77.52
+    },
+    {
+      "speaker": "agent",
+      "text": "and the status of your payment is successful. I would like to inform you that the status is successful that means the payment has reached to your bank.",
+      "starttime": 79.12
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes yes. I just have  5 minutes are there actually.",
+      "starttime": 85.92
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. So you can you elaborate me your concern?",
+      "starttime": 89.01
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no, I don't have any concern when I placed the request for the call at that point of time the transaction was failed.",
+      "starttime": 92.67
+    },
+    {
+      "speaker": "customer",
+      "text": "But just 5 minutes earlier it got success",
+      "starttime": 98.43
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok. Is there anything else regarding credit that I can help you",
+      "starttime": 100.93
+    },
+    {
+      "speaker": "customer",
+      "text": "No no no issue issue is resolved, no. Thank",
+      "starttime": 103.66
+    },
+    {
+      "speaker": "agent",
+      "text": "Ok before we end this call, may I request for your valuable feedback based on our conversation?",
+      "starttime": 105.97
+    },
+    {
+      "speaker": "customer",
+      "text": "Yeah yeah",
+      "starttime": 110.6
+    },
+    {
+      "speaker": "agent",
+      "text": "For that I will transfer your call to the feedback IVR and you have to rate us between 1 and 5 for 1 being poor and 5 being excellent.",
+      "starttime": 111.41
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you for choosing Cred. Have a nice day ahead.",
+      "starttime": 118.48
+    },
+    {
+      "speaker": "agent",
+      "text": "We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.",
+      "starttime": 123.15
+    },
+    {
+      "speaker": "agent",
+      "text": "Please press the number. You have just helped us improve the credit experience for all our members.",
+      "starttime": 130.78
+    }
+  ]
+}
