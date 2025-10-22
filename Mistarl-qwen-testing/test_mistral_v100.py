@@ -28,8 +28,18 @@ RETRY_DELAY = 2
 class MistralTester:
     def __init__(self):
         print("Loading tokenizer...")
-        # Use Mistral tokenizer for accurate token counting
-        self.tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.3", trust_remote_code=True)
+        try:
+            # Use Mistral tokenizer for accurate token counting
+            self.tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.3", trust_remote_code=True)
+        except ValueError as e:
+            if "sentencepiece" in str(e):
+                print("\n⚠️  sentencepiece not installed. Installing now...")
+                import subprocess
+                subprocess.check_call([sys.executable, "-m", "pip", "install", "sentencepiece", "protobuf"])
+                print("✅ sentencepiece installed. Retrying tokenizer load...")
+                self.tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.3", trust_remote_code=True)
+            else:
+                raise
         self.results = []
         self.stats = {
             'total_tests': 0,
