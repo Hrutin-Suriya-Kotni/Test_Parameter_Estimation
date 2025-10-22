@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Mistral V100 Multi-GPU Testing Script
+OpenChat V100 Multi-GPU Testing Script
 Tests all guidelines across all data types with token validation
 Server: 2x Tesla V100 GPUs at 192.168.30.252:8000
+Model: openchat/openchat-3.5-1210 (same as RTX 4000 for comparison)
 """
 
 import sys
@@ -20,7 +21,7 @@ from prompts import ASSESSMENT_PROMPTS
 
 # Configuration
 SERVER_URL = "http://192.168.30.252:8000/v1/chat/completions"
-MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.3"
+MODEL_NAME = "openchat/openchat-3.5-1210"  # Updated: Server is running OpenChat
 TOKEN_LIMIT = 8100
 MAX_RETRIES = 3
 RETRY_DELAY = 2
@@ -29,15 +30,15 @@ class MistralTester:
     def __init__(self):
         print("Loading tokenizer...")
         try:
-            # Use Mistral tokenizer for accurate token counting
-            self.tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.3", trust_remote_code=True)
+            # Use OpenChat tokenizer for accurate token counting
+            self.tokenizer = AutoTokenizer.from_pretrained("openchat/openchat-3.5-1210", trust_remote_code=True)
         except ValueError as e:
             if "sentencepiece" in str(e):
                 print("\n⚠️  sentencepiece not installed. Installing now...")
                 import subprocess
                 subprocess.check_call([sys.executable, "-m", "pip", "install", "sentencepiece", "protobuf"])
                 print("✅ sentencepiece installed. Retrying tokenizer load...")
-                self.tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-Instruct-v0.3", trust_remote_code=True)
+                self.tokenizer = AutoTokenizer.from_pretrained("openchat/openchat-3.5-1210", trust_remote_code=True)
             else:
                 raise
         self.results = []
@@ -308,8 +309,9 @@ class MistralTester:
 
 def main():
     print("="*80)
-    print("Mistral V100 Multi-GPU Comprehensive Test")
+    print("OpenChat V100 Multi-GPU Comprehensive Test")
     print("Server: 192.168.30.252:8000 (2x Tesla V100)")
+    print("Model: openchat/openchat-3.5-1210")
     print("Token Limit: 8100")
     print("="*80)
     
