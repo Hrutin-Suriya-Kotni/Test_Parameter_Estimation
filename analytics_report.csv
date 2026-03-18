@@ -1,0 +1,5 @@
+Model,Evidence Correctness (%),Hallucination Rate (%),Total Validation Samples
+LLM1,59.38,6.71,160
+LLM2,67.6,3.35,179
+LLM3,62.15,5.68,177
+gemini,75.28,5.62,178

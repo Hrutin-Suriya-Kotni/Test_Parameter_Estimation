@@ -78,7 +78,7 @@ class OpenChatTester:
             "model": "openchat/openchat-3.5-1210",
             "messages": messages,
             "temperature": 0.1,
-            "max_tokens": 200
+            "max_tokens": 500
         }
         
         for attempt in range(MAX_RETRIES):

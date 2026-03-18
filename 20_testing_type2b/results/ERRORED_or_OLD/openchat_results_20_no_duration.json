@@ -1,0 +1,913 @@
+{
+  "model": "openchat/openchat-3.5-1210",
+  "server": "http://27.111.72.51:3333/v1/chat/completions",
+  "timestamp": "2025-10-27T17:15:51.602890",
+  "stats": {
+    "total_tests": 100,
+    "successful": 94,
+    "failed": 6,
+    "token_limit_exceeded": 0
+  },
+  "results": [
+    {
+      "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+      "guideline": "opening",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent introduced themselves with 'this is सुमित' and confirmed the customer's name with 'Am I speaking with तुषारा'. The agent also asked for the customer's name with 'Is this गोविंद?'. The agent followed the guidelines by providing their name and confirming the customer's name.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"The agent introduced themselves with 'this is सुमित' and confirmed the customer's name with 'Am I speaking with तुषारा'. The agent also asked for the customer's name with 'Is this गोविंद?'. The agent followed the guidelines by providing their name and confirming the customer's name.\"\n}"
+    },
+    {
+      "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also asked the customer to share their bank statement to validate the charges and assist with the issue. The agent closed the call by asking for feedback and wishing the customer a great day.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also asked the customer to share their bank statement to validate the charges and assist with the issue. The agent closed the call by asking for feedback and wishing the customer a great day.\"\n}"
+    },
+    {
+      "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent provided assurance by stating, \"We are committed to resolving this for you as quickly as possible.\", \"We take this matter seriously and will address it immediately.\", and \"We are here to help and will make sure this is resolved for you.\". The agent also offered to keep the customer updated on the progress and next steps. The agent's responses align with the guidelines provided.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"The agent provided assurance by stating, \\\"We are committed to resolving this for you as quickly as possible.\\\", \\\"We take this matter seriously and will address it immediately.\\\", and \\\"We are here to help and will make sure this is resolved for you.\\\". The agent also offered to keep the customer updated on the progress and next steps. The agent's responses align with the guidelines provided.\"\n}"
+    },
+    {
+      "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+      "guideline": "hold",
+      "status": "met",
+      "value": "Met",
+      "evidence": "May I place your call on hold for 2 min?",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"May I place your call on hold for 2 min?\"\n}"
+    },
+    {
+      "conversation_id": "c4a380c6-2e7e-4bc3-93da-7ee864105ba3",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se - Yes, actually you can like reply to that mail and you have to add attach to 5 and you can share it with",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se - Yes, actually you can like reply to that mail and you have to add attach to 5 and you can share it with\"\n}"
+    },
+    {
+      "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+      "guideline": "opening",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent introduced themselves with 'Good morning, this side I'm here to assist you today.' and confirmed the customer's name with 'Am I speaking with प्रवीण?'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent introduced themselves with 'Good morning, this side I'm here to assist you today.' and confirmed the customer's name with 'Am I speaking with प्रवीण?'.\"\n}"
+    },
+    {
+      "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked for feedback by saying, 'May I please request your valuable feedback based on our conversation?' and transferred the call for feedback as per the guideline.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked for feedback by saying, 'May I please request your valuable feedback based on our conversation?' and transferred the call for feedback as per the guideline.\"\n}"
+    },
+    {
+      "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Rest assured I will surely try my best to help you regarding your concern.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Rest assured I will surely try my best to help you regarding your concern.\"\n}"
+    },
+    {
+      "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent did not mention anything about placing the call on hold for any duration.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent did not mention anything about placing the call on hold for any duration.\"\n}"
+    },
+    {
+      "conversation_id": "c5255fb4-39de-420a-b167-50cb0969101e",
+      "guideline": "further_assistance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The closest statement to the guidelines was 'Anything else I can help you related to credit apart from', but it was not an exact match.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The closest statement to the guidelines was 'Anything else I can help you related to credit apart from', but it was not an exact match.\"\n}"
+    },
+    {
+      "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+      "guideline": "opening",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent introduced themselves as 'रिया calling from Cred' and confirmed the customer's name with 'Am I speaking with मंजीत?'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent introduced themselves as 'रिया calling from Cred' and confirmed the customer's name with 'Am I speaking with मंजीत?'.\"\n}"
+    },
+    {
+      "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked for feedback before ending the call: 'Ok before we end this call, may I request you to share your valuable feedback based on our conversation.' and transferred the call to the feedback IVR.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked for feedback before ending the call: 'Ok before we end this call, may I request you to share your valuable feedback based on our conversation.' and transferred the call to the feedback IVR.\"\n}"
+    },
+    {
+      "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent assured the customer by providing statements such as \"Ok, just allow me a moment to check\", \"Thank you so much for staying on the call\", and \"Definitely.\" These statements show that the agent is working on the issue and is committed to resolving the customer's concern.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent assured the customer by providing statements such as \\\"Ok, just allow me a moment to check\\\", \\\"Thank you so much for staying on the call\\\", and \\\"Definitely.\\\" These statements show that the agent is working on the issue and is committed to resolving the customer's concern.\"\n}"
+    },
+    {
+      "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements for putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements for putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.\"\n}"
+    },
+    {
+      "conversation_id": "c61d0420-a312-412d-afdb-84d7f3e0c9dd",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Is there anything else I can assist you?",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Is there anything else I can assist you?\"\n}"
+    },
+    {
+      "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name, and only confirmed the customer's name with 'Ok, चारों'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not introduce themselves with their name, and only confirmed the customer's name with 'Ok, चारों'.\"\n}"
+    },
+    {
+      "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked for feedback before ending the call ('Ok. So before ending this call, can I ask you to give us valuable feedback on the basis of our conversation?'), transferred the call to feedback IVR, and closed the call with a proper greeting ('Thank you and have a good day.').",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked for feedback before ending the call ('Ok. So before ending this call, can I ask you to give us valuable feedback on the basis of our conversation?'), transferred the call to feedback IVR, and closed the call with a proper greeting ('Thank you and have a good day.').\"\n}"
+    },
+    {
+      "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "agent_msg: I'm really sorry for the inconvenience you are facing but don't worry I will try my best to help you.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"agent_msg: I'm really sorry for the inconvenience you are facing but don't worry I will try my best to help you.\"\n}"
+    },
+    {
+      "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The closest statement to a hold statement was 'Please be online. agent_msg: can I please put your call on hold for a minute?' which is not in the provided guidelines.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The closest statement to a hold statement was 'Please be online. agent_msg: can I please put your call on hold for a minute?' which is not in the provided guidelines.\"\n}"
+    },
+    {
+      "conversation_id": "c82a3322-e1f6-482e-af70-66d6aee9c8c8",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se\"\n}"
+    },
+    {
+      "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not provide their name and only confirmed the customer's name with 'Am I speaking with प्रवीण?'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not provide their name and only confirmed the customer's name with 'Am I speaking with प्रवीण?'.\"\n}"
+    },
+    {
+      "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+      "guideline": "closing",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not ask for feedback or transfer the call for feedback. The agent also did not close the chat with a proper greeting.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not ask for feedback or transfer the call for feedback. The agent also did not close the chat with a proper greeting.\"\n}"
+    },
+    {
+      "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+      "guideline": "reassurance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not provide any assurance statements as per the guidelines. The conversation was mostly unclear and unrelated to the issue. The agent did not address the customer's concern about the money being added and the ID mismatch issue.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not provide any assurance statements as per the guidelines. The conversation was mostly unclear and unrelated to the issue. The agent did not address the customer's concern about the money being added and the ID mismatch issue.\"\n}"
+    },
+    {
+      "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation was mostly unclear and inaudible, making it difficult to assess if the guidelines were followed.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation was mostly unclear and inaudible, making it difficult to assess if the guidelines were followed.\"\n}"
+    },
+    {
+      "conversation_id": "c9d3573f-7ca1-4865-b3e7-19ba00e56aef",
+      "guideline": "further_assistance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The conversation was mostly unclear and difficult to understand, which could have been due to technical issues.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The conversation was mostly unclear and difficult to understand, which could have been due to technical issues.\"\n}"
+    },
+    {
+      "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+      "guideline": "opening",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent introduced themselves as 'समित calling from Cred' and confirmed the customer's name with 'Am I speaking with प्रतीक?'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent introduced themselves as 'समित calling from Cred' and confirmed the customer's name with 'Am I speaking with प्रतीक?'.\"\n}"
+    },
+    {
+      "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call.\"\n}"
+    },
+    {
+      "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "agent_msg: Ok ok so I was informing you that I am forwarding your concern to our internal team so that they can check it on their end as to why the bill has not received the payment and we will share  update regarding your concern प्रतीक by the maximum time frame of fifteenth of October. But please be rest assured. This is just the maximum time frame as soon as we have an update regarding your concern we will connect with you via WhatsApp and you can also see these updates on the credit application also. Ok?",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"agent_msg: Ok ok so I was informing you that I am forwarding your concern to our internal team so that they can check it on their end as to why the bill has not received the payment and we will share  update regarding your concern प्रतीक by the maximum time frame of fifteenth of October. But please be rest assured. This is just the maximum time frame as soon as we have an update regarding your concern we will connect with you via WhatsApp and you can also see these updates on the credit application also. Ok?\"\n}"
+    },
+    {
+      "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent mentioned checking information and updating the customer, but did not explicitly ask for permission to place the call on hold.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent mentioned checking information and updating the customer, but did not explicitly ask for permission to place the call on hold.\"\n}"
+    },
+    {
+      "conversation_id": "ca0b3e5b-5544-4cff-9e75-eeee8c78f755",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "agent_msg: actually your प्रतीक is there anything else I can help you with?",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"agent_msg: actually your प्रतीक is there anything else I can help you with?\"\n}"
+    },
+    {
+      "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not provide their name and only confirmed the customer's name with 'is this गोविंद?'. The agent also did not greet the customer with any of the provided greetings such as 'Good morning/afternoon/evening/Hello'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not provide their name and only confirmed the customer's name with 'is this गोविंद?'. The agent also did not greet the customer with any of the provided greetings such as 'Good morning/afternoon/evening/Hello'.\"\n}"
+    },
+    {
+      "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also transferred the call for feedback.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also transferred the call for feedback.\"\n}"
+    },
+    {
+      "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+      "guideline": "reassurance",
+      "status": "Parse Error",
+      "value": "N/A",
+      "evidence": "N/A",
+      "success": false,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent assured the customer by providing statements such as 'Ok? On your due date because seventh is your due date. So if you want to meet the I mean payment manually just do it at least due day prior from your due date.' and 'Yes, I understand customer_msg: Yeah, you can take time. You can take time 1 or 2 day I will wait but I don't have sufficient amount in my account right now. So  that is the reason I  money. agent_msg: Ok, I totally understand that because I can see that your EMI amount is ###. So definitely you need money and for that's why we ask you to please contact with us after 48 hours. So we can face the date and   help you accordingly.' The agent also provided information on how to provide feedback and requested the customer to rate their experience.\""
+    },
+    {
+      "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.\"\n}"
+    },
+    {
+      "conversation_id": "caeeb01c-ff64-4fbf-99e9-f28eb2435dd9",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se\"\n}"
+    },
+    {
+      "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+      "guideline": "opening",
+      "status": "unknown",
+      "value": "",
+      "evidence": "The agent did not provide their name and only confirmed the customer's name with 'Is this गोविंद?'.",
+      "success": true,
+      "raw_response": " {\n  \"Evidence\": \"The agent did not provide their name and only confirmed the customer's name with 'Is this गोविंद?'.\",\n  \"Verdict\": \"Not Met\"\n}"
+    },
+    {
+      "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+      "guideline": "closing",
+      "status": "Parse Error",
+      "value": "N/A",
+      "evidence": "N/A",
+      "success": false,
+      "raw_response": " customer_msg: जी. customer_msg: जी ma'am   sure से बात कर रहे हैं ma'am. agent_msg: धन्यवाद नाम confirm agent_msg: nan customer_msg: हां ma'am आपका hours थोड़ा बहुत कम आ रहा है बहुत agent_msg: अभी ठीक customer_msg: हां जी. agent_msg: हां जी. agent_msg: आपने जो order place किए थे text no sports agent_msg: नहीं हुआ था दिलिया मर्क हो गया customer_msg: नहीं नहीं यह इसमें क्या हुआ है कि ma'am यह deliver हुआ नहीं था मुझे मेरा सामान नहीं मिला है. हां मैं फिर इतना दिनों के बाद में वह deliver mark हो गया है. मैं कितने दिनों के बाद में मैं गया but में गया उनसे बात किया अगर घंटा  घंटा wait करना पड़ा  लोग बोले  कि यह deliver हो चुका है. हां यह आपको नहीं मिला है. मैं बोला मुझे मिला ही आप ढूंढ  मिलेगा तो उन्होंने थोड़ा हो जा को बाद में उनको मिला customer_msg: जब मुझे deliver ना हो गया "
+    },
+    {
+      "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Assistant apologized for the inconvenience caused and assured the customer that they will look into the matter regarding the delivery issue. They also mentioned that they will share the feedback with the merchant and the feedback team to prevent such issues in the future. The assistant also assured the customer that they will forward the issue to the team for further investigation.",
+      "success": true,
+      "raw_response": " {\n        \"Value\": \"Met\",\n        \"Evidence\": \"Assistant apologized for the inconvenience caused and assured the customer that they will look into the matter regarding the delivery issue. They also mentioned that they will share the feedback with the merchant and the feedback team to prevent such issues in the future. The assistant also assured the customer that they will forward the issue to the team for further investigation.\"\n    }"
+    },
+    {
+      "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+      "guideline": "hold",
+      "status": "Parse Error",
+      "value": "N/A",
+      "evidence": "N/A",
+      "success": false,
+      "raw_response": " {\n    \"assessment\": \"Met\",\n    \"evidence\": \"May I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'am. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes to check some information? Thank you ma'm. Can I put your order on hold for a few minutes"
+    },
+    {
+      "conversation_id": "cb78f5f4-596b-4df6-b858-6c6910d8a157",
+      "guideline": "further_assistance",
+      "status": "Parse Error",
+      "value": "N/A",
+      "evidence": "N/A",
+      "success": false,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"agent_msg: हां जी. ठीक है ma'am. जी agent_msg: हां जी. ठीक है ma'am. जी agent_msg: हां जी. ठीक है ma'am. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm. जी agent_msg: हां जी. ठीक है ma'm"
+    },
+    {
+      "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name and only confirmed the customer's name with 'Alright. Thank you so much for giving the   how   the   proper agent_msg: मैं agent_msg: Good morning, this is गुप्ता here to assist you today. Am I speaking with रजत?'. The agent's greeting was not in the format of 'Good morning/afternoon/evening/ Hello'.",
+      "success": true,
+      "raw_response": " {\n\"Value\": \"Not Met\",\n\"Evidence\": \"The agent did not introduce themselves with their name and only confirmed the customer's name with 'Alright. Thank you so much for giving the   how   the   proper agent_msg: मैं agent_msg: Good morning, this is गुप्ता here to assist you today. Am I speaking with रजत?'. The agent's greeting was not in the format of 'Good morning/afternoon/evening/ Hello'.\"}"
+    },
+    {
+      "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also tried to provide assistance and apologized for the inconvenience caused.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also tried to provide assistance and apologized for the inconvenience caused.\"\n}"
+    },
+    {
+      "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "I will personally ensure that this issue is taken care of.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"I will personally ensure that this issue is taken care of.\"\n}"
+    },
+    {
+      "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent did not mention anything about placing the call on hold.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The agent did not mention anything about placing the call on hold.\"\n}"
+    },
+    {
+      "conversation_id": "ccab463f-cd92-48c0-b153-6ef0784dbe96",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Is there anything else apart from this I may assist you with",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Is there anything else apart from this I may assist you with\"\n}"
+    },
+    {
+      "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not provide their name and only confirmed the customer's name with 'जगदीश'. The agent's greeting was 'Good morning, साकिब this side I'm here to assist you today.'",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not provide their name and only confirmed the customer's name with 'जगदीश'. The agent's greeting was 'Good morning, साकिब this side I'm here to assist you today.'\"\n}"
+    },
+    {
+      "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call.\"\n}"
+    },
+    {
+      "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "agent_msg: I really apologize for the inconvenience that you have faced on the credit application. I will surely try my best to help you.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"agent_msg: I really apologize for the inconvenience that you have faced on the credit application. I will surely try my best to help you.\"\n}"
+    },
+    {
+      "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation flowed continuously without any indication of the call being placed on hold.\"\n}"
+    },
+    {
+      "conversation_id": "ccbe8e52-e722-4e07-ae5d-911deecc74ba",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Ok, जगदीश. So anything else I can help you related to credit apart from",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Ok, जगदीश. So anything else I can help you related to credit apart from\"\n}"
+    },
+    {
+      "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name, and only confirmed the customer's name with 'यह प्रशांत है?'. The agent should have used one of the provided guidelines for greeting and introducing themselves.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not introduce themselves with their name, and only confirmed the customer's name with 'यह प्रशांत है?'. The agent should have used one of the provided guidelines for greeting and introducing themselves.\"\n}"
+    },
+    {
+      "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked for feedback before ending the call: 'Ok before we end this call, may I please request you to share valuable feedback on the conversation?'",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked for feedback before ending the call: 'Ok before we end this call, may I please request you to share valuable feedback on the conversation?'\"\n}"
+    },
+    {
+      "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent assured the customer by providing statements similar to the below statements - \"Ok. Could you please allow a moment to check on this?\", \"Yes, I know. Yes. I know but the thing is, it is already on active loan and you are having that the particular for  by the next month\", \"It is yes I do understand but the thing is there is no we can't make any changes in your ongoing active loans.\".",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent assured the customer by providing statements similar to the below statements - \\\"Ok. Could you please allow a moment to check on this?\\\", \\\"Yes, I know. Yes. I know but the thing is, it is already on active loan and you are having that the particular for  by the next month\\\", \\\"It is yes I do understand but the thing is there is no we can't make any changes in your ongoing active loans.\\\".\"\n}"
+    },
+    {
+      "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+      "guideline": "hold",
+      "status": "met",
+      "value": "Met",
+      "evidence": "May I please place your call on customer_msg: Yeah yeah sure.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"May I please place your call on customer_msg: Yeah yeah sure.\"\n}"
+    },
+    {
+      "conversation_id": "cce5e904-3527-47b4-899a-e786146bf831",
+      "guideline": "further_assistance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The conversation did not include any questions related to additional help.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The conversation did not include any questions related to additional help.\"\n}"
+    },
+    {
+      "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+      "guideline": "opening",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent introduced themselves with 'मैं नीतीश' and confirmed the customer's name with 'आप रानी हो?'. The agent followed the guidelines by providing their name and confirming the customer's name.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"The agent introduced themselves with 'मैं नीतीश' and confirmed the customer's name with 'आप रानी हो?'. The agent followed the guidelines by providing their name and confirming the customer's name.\"\n}"
+    },
+    {
+      "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also transferred the call for feedback.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call. The agent also transferred the call for feedback.\"\n}"
+    },
+    {
+      "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+      "guideline": "reassurance",
+      "status": "Parse Error",
+      "value": "N/A",
+      "evidence": "N/A",
+      "success": false,
+      "raw_response": " {\n\"Value\": \"Met\",\n\"Evidence\": \"agent_msg: मैं माफ़ी चाहेंगे आपकी परेशानी के लिए. आपको जो total जो है हमारे records में जो close होने में total सात दिन का समय लगता है. Ok. तो आपने agent_msg: आपका जो repayment किया है. हां जी. मैं check कर लेता customer_msg: payment कर दिया agent_msg: एक minute का समय agent_msg: आपने loan cancellation की request raise की थी उस समय customer_msg: ना उसी दिन   भी amount credit हुआ agent_msg: Ok मैं check customer_msg: उस दिन  में payment agent_msg: But हमारे मैं check कर पा रहा हूं हमारे पास अभी तक कोई भी आपने दो तारीख को यह concern raise किया था फिर चार तारीख को agent_msg: फिर आपने चार तारीख को एक concern raise किया है एक minute का समय दीजिए. customer_msg: क्या concern आपका screenshot एक तारीख को share किया गया है मैं payment कर दिया हूं एक तारीख agent_msg: एक तारीख को आपने payment किया है. मैं check कर लेता हूं एक तारीख को तिकट raise है या नहीं. एक October को आपका "
+    },
+    {
+      "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+      "guideline": "hold",
+      "status": "met",
+      "value": "Met",
+      "evidence": "एक minute का समय दीजिए.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"एक minute का समय दीजिए.\"\n}"
+    },
+    {
+      "conversation_id": "cde5ab35-a786-4335-8d9e-303b22ca16be",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se\"\n}"
+    },
+    {
+      "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name in English. They used their name in Hindi, but not in English. The agent confirmed the customer's name, but the confirmation statement was not one of the provided examples.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not introduce themselves with their name in English. They used their name in Hindi, but not in English. The agent confirmed the customer's name, but the confirmation statement was not one of the provided examples.\"\n}"
+    },
+    {
+      "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked for feedback before ending the call ('May I request you to share your valuable feedback basis on the conversation we had?'), and transferred the call to the feedback IVR.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked for feedback before ending the call ('May I request you to share your valuable feedback basis on the conversation we had?'), and transferred the call to the feedback IVR.\"\n}"
+    },
+    {
+      "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent provided assurance by stating, \"Alright. I will surely help you regarding your query.\" and \"So I would like to tell you that if you wish to foreclose your loan today, the foreclosure amount will be 2 lakh ###rupees पैसा.\"",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent provided assurance by stating, \\\"Alright. I will surely help you regarding your query.\\\" and \\\"So I would like to tell you that if you wish to foreclose your loan today, the foreclosure amount will be 2 lakh ###rupees पैसा.\\\"\"\n}"
+    },
+    {
+      "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the customer on hold.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation flowed continuously without any indication of the agent placing the customer on hold.\"\n}"
+    },
+    {
+      "conversation_id": "cf1a397b-609b-45d2-b8c1-142cc7e77906",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Is there anything else I may assist you with",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Is there anything else I may assist you with\"\n}"
+    },
+    {
+      "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name and only confirmed the customer's name with 'Is this गोविंद?'. The agent also used a mix of English and Hindi, which is acceptable, but did not follow the guidelines for introducing themselves or confirming the customer's name with their full name.",
+      "success": true,
+      "raw_response": " {\n        \"Value\": \"Not Met\",\n        \"Evidence\": \"The agent did not introduce themselves with their name and only confirmed the customer's name with 'Is this गोविंद?'. The agent also used a mix of English and Hindi, which is acceptable, but did not follow the guidelines for introducing themselves or confirming the customer's name with their full name.\"\n    }"
+    },
+    {
+      "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+      "guideline": "closing",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not ask for feedback or close the call properly. The agent also did not ask the customer to transfer the call for feedback.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not ask for feedback or close the call properly. The agent also did not ask the customer to transfer the call for feedback.\"\n}"
+    },
+    {
+      "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent provided assurance to the customer by stating, \"ठीक है मैं check करके बताती हूं request line पर connected\", \"और इसी वजह से आपको यहां पर आपका total amount show नहीं हो रहा है\", and \"इसके अलावा कोई और सहायता मैं आपकी कर सकती हूं credit से related?\".",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent provided assurance to the customer by stating, \\\"ठीक है मैं check करके बताती हूं request line पर connected\\\", \\\"और इसी वजह से आपको यहां पर आपका total amount show नहीं हो रहा है\\\", and \\\"इसके अलावा कोई और सहायता मैं आपकी कर सकती हूं credit से related?\\\".\"\n}"
+    },
+    {
+      "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not include any hold-related statements.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not include any hold-related statements.\"\n}"
+    },
+    {
+      "conversation_id": "cf8bc6da-1be5-4af0-82ef-5d5d6c2fbb2a",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se\"\n}"
+    },
+    {
+      "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent introduced themselves with their name 'रितिका' but did not use any of the provided phrases like 'this is', 'my name is', or 'I am <name>'. The agent confirmed the customer's name with 'Am I speaking with शिखा?' which is correct. However, the agent repeated the confirmation multiple times without waiting for a response from the customer, which is not following the guidelines.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent introduced themselves with their name 'रितिका' but did not use any of the provided phrases like 'this is', 'my name is', or 'I am <name>'. The agent confirmed the customer's name with 'Am I speaking with शिखा?' which is correct. However, the agent repeated the confirmation multiple times without waiting for a response from the customer, which is not following the guidelines.\"\n}"
+    },
+    {
+      "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+      "guideline": "closing",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not ask for further help, share feedback, or transfer the call for feedback. The agent also did not close the chat with a proper greeting or ask the customer to cut the call politely. The agent did not handle any abusive behavior from the customer.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not ask for further help, share feedback, or transfer the call for feedback. The agent also did not close the chat with a proper greeting or ask the customer to cut the call politely. The agent did not handle any abusive behavior from the customer.\"\n}"
+    },
+    {
+      "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+      "guideline": "reassurance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent's greeting does not provide any assurance or address the customer's concerns. The agent repeatedly asks if they are audible and if the customer is there, which does not follow the guidelines provided.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent's greeting does not provide any assurance or address the customer's concerns. The agent repeatedly asks if they are audible and if the customer is there, which does not follow the guidelines provided.\"\n}"
+    },
+    {
+      "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not include any mention of placing the call on hold or checking information.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not include any mention of placing the call on hold or checking information.\"\n}"
+    },
+    {
+      "conversation_id": "cfe158b5-fdd4-4443-87c6-fab608517513",
+      "guideline": "further_assistance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The agent repeated asking if they are audible, but did not inquire about any other assistance.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The agent repeated asking if they are audible, but did not inquire about any other assistance.\"\n}"
+    },
+    {
+      "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+      "guideline": "opening",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent introduced themselves with 'morning. This is  I'm here to assist you today.' and confirmed the customer's name with 'Am I speaking to मनोज?'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent introduced themselves with 'morning. This is  I'm here to assist you today.' and confirmed the customer's name with 'Am I speaking to मनोज?'.\"\n}"
+    },
+    {
+      "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+      "guideline": "closing",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not ask for feedback or close the call properly. The agent also did not ask the customer to transfer the call for feedback.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not ask for feedback or close the call properly. The agent also did not ask the customer to transfer the call for feedback.\"\n}"
+    },
+    {
+      "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "agent_msg: I do understand your concern. I'm extremely sorry for the issue that you have faced. Don't worry. Please allow me a moment of time. I'll check the details once I can help me in a better way.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"agent_msg: I do understand your concern. I'm extremely sorry for the issue that you have faced. Don't worry. Please allow me a moment of time. I'll check the details once I can help me in a better way.\"\n}"
+    },
+    {
+      "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation was mostly about addressing the customer's concerns and discussing the progress of their complaint.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation was mostly about addressing the customer's concerns and discussing the progress of their complaint.\"\n}"
+    },
+    {
+      "conversation_id": "d03cc846-81f6-4a3d-972a-6bc84e738656",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se\"\n}"
+    },
+    {
+      "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name, and only confirmed the customer's name with 'Is this गोविंद?'. The agent's greeting was 'Good morning. This side day.', which does not match the guidelines provided.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not introduce themselves with their name, and only confirmed the customer's name with 'Is this गोविंद?'. The agent's greeting was 'Good morning. This side day.', which does not match the guidelines provided.\"\n}"
+    },
+    {
+      "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else they could help with and requested feedback before ending the call.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked if there was anything else they could help with and requested feedback before ending the call.\"\n}"
+    },
+    {
+      "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+      "guideline": "reassurance",
+      "status": "Parse Error",
+      "value": "N/A",
+      "evidence": "N/A",
+      "success": false,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"agent_msg: Thank you for confirming. I request regards to your withdrawal issues. (Assuring customer about their concern)\n    agent_msg: So may I please place the call on hold? (Seeking permission to check the issue)\n    agent_msg: Our team will get back to you regarding this concern. As I checked the, ok? (Assuring customer that the team will look into the issue)\n    agent_msg: at the earliest. (Providing assurance of quick resolution)\n    agent_msg: And the issue that you are generally facing right now, it's a very rare issue. Ok? (Acknowledging the rarity of the issue)\n    agent_msg: So as I mentioned, your concern that is a very rare issue which is very rare. ok? (Reiterating the rarity of the issue)\n    agent_msg: And which is why I'm also unable to give you the resolution for this, which is have mentioned that our team will get back to you. at the early yesterday. (Honestly admitting the inability to provide a resolution)\n    agent_msg: Thank you so much for your understanding your patience that (Appreciating customer's patience)\n    agent_msg: Anything else I can help you with? (Offering further assistance)\n    agent_msg: Thank you. I will transfer call to a feedback IVR. (Requesting feedback)\"\n}"
+    },
+    {
+      "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+      "guideline": "hold",
+      "status": "met",
+      "value": "Met",
+      "evidence": "agent_msg: So may I please place the call on hold? agent_msg: Thank you in the line. I'm really sorry for the long hold.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"agent_msg: So may I please place the call on hold? agent_msg: Thank you in the line. I'm really sorry for the long hold.\"\n}"
+    },
+    {
+      "conversation_id": "d17fc9d8-520a-47e5-ad5b-05302bc35f3b",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se\"\n}"
+    },
+    {
+      "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name and only confirmed the customer's name with 'Is this गोविंद?'. The agent also did not greet the customer with any 'Good morning/afternoon/evening/Hello'.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not introduce themselves with their name and only confirmed the customer's name with 'Is this गोविंद?'. The agent also did not greet the customer with any 'Good morning/afternoon/evening/Hello'.\"\n}"
+    },
+    {
+      "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call.\"\n}"
+    },
+    {
+      "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+      "guideline": "reassurance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent's response does not provide any assurance or follow the guidelines provided. The agent's response is mostly about transaction details and not about providing assurance or addressing the customer's concerns.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent's response does not provide any assurance or follow the guidelines provided. The agent's response is mostly about transaction details and not about providing assurance or addressing the customer's concerns.\"\n}"
+    },
+    {
+      "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not follow the guidelines provided.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements while putting the customer on hold. The conversation did not follow the guidelines provided.\"\n}"
+    },
+    {
+      "conversation_id": "d18cc31e-a133-48cd-925a-0b57b6db1666",
+      "guideline": "further_assistance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "Iske alawa koi aur sahayata meri taraf se",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"Iske alawa koi aur sahayata meri taraf se\"\n}"
+    },
+    {
+      "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+      "guideline": "opening",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not introduce themselves with their name and did not confirm the customer's name. The agent did not follow the guidelines provided.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not introduce themselves with their name and did not confirm the customer's name. The agent did not follow the guidelines provided.\"\n}"
+    },
+    {
+      "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+      "guideline": "closing",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not ask for feedback or close the call properly. The customer was not given an opportunity to share their feedback or rate the call.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not ask for feedback or close the call properly. The customer was not given an opportunity to share their feedback or rate the call.\"\n}"
+    },
+    {
+      "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent provided detailed information and tried to help the customer by guiding them through the process of redeeming the voucher. The agent also requested the customer to share a screenshot to better understand the issue and offered to raise a concern with the internal team for further investigation. The agent also asked for a rating of the telephonic conversation and thanked the customer for choosing Cred.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Met\",\n  \"Evidence\": \"The agent provided detailed information and tried to help the customer by guiding them through the process of redeeming the voucher. The agent also requested the customer to share a screenshot to better understand the issue and offered to raise a concern with the internal team for further investigation. The agent also asked for a rating of the telephonic conversation and thanked the customer for choosing Cred.\"\n}"
+    },
+    {
+      "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation did not require the customer to be put on hold.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not use any of the provided statements or similar statements for putting the customer on hold. The conversation did not require the customer to be put on hold.\"\n}"
+    },
+    {
+      "conversation_id": "d1ca7a9d-1589-435b-a832-aa27f4239edb",
+      "guideline": "further_assistance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance.",
+      "success": true,
+      "raw_response": " {\n  \"Value\": \"Not Met\",\n  \"Evidence\": \"The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance.\"\n}"
+    },
+    {
+      "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+      "guideline": "opening",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent introduced themselves with 'मानसी' and confirmed the customer's name with 'Am I speaking with कृष्णा?'. The agent also provided assistance regarding the customer's concern and requested for feedback at the end of the conversation.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent introduced themselves with 'मानसी' and confirmed the customer's name with 'Am I speaking with कृष्णा?'. The agent also provided assistance regarding the customer's concern and requested for feedback at the end of the conversation.\"\n}"
+    },
+    {
+      "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+      "guideline": "closing",
+      "status": "met",
+      "value": "Met",
+      "evidence": "The agent asked if there was anything else to help with and requested feedback before ending the call.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"The agent asked if there was anything else to help with and requested feedback before ending the call.\"\n}"
+    },
+    {
+      "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+      "guideline": "reassurance",
+      "status": "met",
+      "value": "Met",
+      "evidence": "I will personally ensure that this issue is taken care of.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Met\",\n    \"Evidence\": \"I will personally ensure that this issue is taken care of.\"\n}"
+    },
+    {
+      "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+      "guideline": "hold",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements for putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements for putting the customer on hold. The conversation flowed continuously without any indication of being placed on hold.\"\n}"
+    },
+    {
+      "conversation_id": "d28425a2-6f04-4335-963a-c7f3cc0828d9",
+      "guideline": "further_assistance",
+      "status": "not met",
+      "value": "Not Met",
+      "evidence": "The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The agent did not follow the guidelines.",
+      "success": true,
+      "raw_response": " {\n    \"Value\": \"Not Met\",\n    \"Evidence\": \"The agent did not use any of the provided statements or similar statements to ask if the customer needs further assistance. The agent did not follow the guidelines.\"\n}"
+    }
+  ]
+}

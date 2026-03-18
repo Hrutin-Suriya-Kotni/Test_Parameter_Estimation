@@ -1,0 +1,176 @@
+BERT IN DETAILED
+	•	Each response is converted into embeddings using a Sentence-Transformer, typically "all-MiniLM-L6-v2". This model outputs a 768-dimensional embedding for each token
+
+Gemini_tokens = [t₁ᴳ, t₂ᴳ, …, tₙᴳ]
+Qwen_tokens   = [t₁Q, t₂Q, …, tₘQ]
+
+After passing through the transformer, we get:
+Eᴳ = 
+[[0.23, -0.14, 0.87, ..., 0.05],   ← token "Hello!"
+ [0.31,  0.52, -0.11, ..., -0.03],  ← token "I'm"
+ ...
+]
+Eᵠ =
+[[0.21, -0.12, 0.89, ..., 0.01],   ← token "Hey"
+ [0.27,  0.50, -0.09, ..., -0.05],  ← token "there!"
+ ...
+]
+  Each sentence is encoded into a 768-dim vector using the model’s pretrained weights.
+These 768 are prioritised for giving the direction (as our case is cosine similarity only not classificatn/prediction NLP tasks) 
+	•	cos_sim(emb_g, emb_q) 
+BERTScore computes a cosine similarity between every pair of tokens from the gemini response and qwen response.
+
+Token(Qwen) ↓ / Token(Gemini) →
+Hello
+AI
+assist
+questions
+accurate
+relevant
+Hey
+0.92
+0.10
+0.05
+0.08
+0.04
+0.03
+there
+0.88
+0.09
+0.06
+0.05
+0.03
+0.02
+brainstorm
+0.07
+0.04
+0.12
+0.85
+0.40
+0.35
+content
+0.06
+0.05
+0.09
+0.38
+0.75
+0.71
+→ High cosine values = tokens that are semantically aligned. For instance, “Hey” ↔ “Hello” ~ 0.92 (close in meaning).
+
+	•	 Now, BERTScore uses this matrix to compute Precision, Recall, and F1 in semantic space:
+	•	Precision: For each Qwen token, find the most similar Gemini token.
+
+	•	Recall: For each Gemini token, find the most similar Qwen token.
+
+	•	F1: Harmonic mean.
+
+we’re comparing semantic embedding overlap — i.e., “Hey” and “Hello” are aligned due to their closeness in the 768-D space.
+
+then we use min-max normalization  now we will see mathematical equations for above all :  Example (simplified 3-D version):
+e_Hey = [0.1, 0.2, 0.05]
+e_Hello = [0.11, 0.19, 0.06]
+e_there = [0.09, 0.21, 0.04]
+
+Dot products:
+Hey·Hello = 0.1*0.11 + 0.2*0.19 + 0.05*0.06 = 0.011 + 0.038 + 0.003 = 0.052
+Hey·there = 0.1*0.09 + 0.2*0.21 + 0.05*0.04 = 0.009 + 0.042 + 0.002 = 0.053
+
+Norms:
+||Hey|| = sqrt(0.1^2 + 0.2^2 + 0.05^2) ≈ 0.229
+||Hello|| ≈ 0.232
+||there|| ≈ 0.228
+Cosine similarity:
+cos_sim(Hey, Hello) = 0.052 / (0.229*0.232) ≈ 0.977
+cos_sim(there, Hello) = 0.053 / (0.228*0.232) ≈ 1.00
+
+✅ High similarity because vectors are pointing roughly in the same semantic direction.
+
+Mathematical formulas for Precision, Recall, F1 in BERTScore
+
+Hello
+  AI
+ Assist
+Hey
+0.92
+ 0.1
+  0.05
+there
+0.88
+ 0.09
+  0.06
+brainstorm
+0.07
+ 0.04   
+  0.85
+
+
+
+
+Precision: max per Qwen row:
+Hey: max(0.92,0.1,0.05)=0.92
+there: max(0.88,0.09,0.06)=0.88
+brainstorm: max(0.07,0.04,0.85)=0.85
+P = (0.92+0.88+0.85)/3 ≈ 0.883
+
+Recall: max per Gemini column:
+Hello: max(0.92,0.88,0.07)=0.92
+AI: max(0.1,0.09,0.04)=0.10
+assist: max(0.05,0.06,0.85)=0.85
+R = (0.92+0.10+0.85)/3 ≈ 0.623
+F1:
+
+✅ This is the token-level semantic alignment aggregated to sentence-level.
+
+
+
+Fluency Metric via Perplexity – 
+Step A: Tokenization
+We start with a sentence:
+
+	•	= each word (or subword) in the sentence.
+	•	Tokenization converts each word into a numeric token ID.
+	•	The model only understands these numeric IDs, not raw text.
+Example: Sentence: "I love cats" Token IDs might look like [40, 200, 1023].
+
+Step B: Compute LM Log-Likelihood
+A language model (LM) predicts the probability of a sequence of tokens. For a sequence , the probability is:
+
+	•	Each token’s probability is conditioned on all previous tokens.
+	•	This is the chain rule of probability.
+To train/evaluate, we compute the average negative log-likelihood:
+
+	•	This is exactly what CrossEntropyLoss in Transformers does.
+	•	Smaller loss → model finds the sequence more probable → more fluent.
+
+Step C: Convert to Perplexity
+Perplexity is just an exponential transformation of the loss:
+
+	•	Intuition: perplexity measures how “surprised” the model is by the sentence.
+	•	Low perplexity → model is confident → fluent.
+	•	High perplexity → model is surprised → awkward or less fluent.
+Example:
+	•	Sentence: "I love cats" → Perplexity ≈ 10 (high probability, fluent)
+	•	Sentence: "Cats love I" → Perplexity ≈ 1000 (awkward, low probability)
+
+Step D: Normalize Perplexity to [0,1]
+Perplexity can be any positive number, but for a fluency score, we want a value between 0 and 1:
+
+	•	σ = sigmoid function, squashes values into [0,1].
+	•	Low perplexity → is large → sigmoid → F ≈ 1 → fluent.
+	•	High perplexity → is small → sigmoid → F ≈ 0 → less fluent.
+✅ This gives a normalized, interpretable fluency score.
+
+3️⃣ How It Works Dimensionally
+Let's track tensor shapes through the model (assuming GPT-2 style model):
+	•	Input sentence: [seq_len] → token IDs
+	•	Embedding layer: [seq_len] → [seq_len, 768]
+	•	Each token gets mapped to a 768-dimensional vector.
+	•	Transformer layers: [seq_len, 768] → [seq_len, 768]
+	•	Contextualizes tokens based on the whole sentence.
+	•	LM head (linear layer): [seq_len, 768] → [seq_len, vocab_size]
+	•	Produces logits for next-token prediction.
+	•	Softmax: [seq_len, vocab_size] → [seq_len, vocab_size]
+	•	Converts logits to probabilities.
+	•	Cross-entropy loss: [seq_len, vocab_size] → scalar
+	•	Loss → perplexity → sigmoid → fluency score [0,1].
+

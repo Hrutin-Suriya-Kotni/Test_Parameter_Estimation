@@ -1,0 +1,37 @@
+Guideline,Model,Evidence Correctness (%),Hallucination Rate (%),Total Samples
+apology,OpenChat 3.5,70.0,5.0,20
+apology,Qwen 2.5,90.0,0.0,20
+apology,Cred-Finetune-Mistral,65.0,5.0,20
+apology,Gemini 2.0 Flash,75.0,5.0,20
+closing,OpenChat 3.5,66.67,0.0,18
+closing,Qwen 2.5,95.0,0.0,20
+closing,Cred-Finetune-Mistral,70.0,5.0,20
+closing,Gemini 2.0 Flash,90.0,0.0,20
+empathy,OpenChat 3.5,35.29,5.88,17
+empathy,Qwen 2.5,65.0,0.0,20
+empathy,Cred-Finetune-Mistral,55.0,0.0,20
+empathy,Gemini 2.0 Flash,80.0,5.0,20
+feedback_pitch,OpenChat 3.5,41.67,0.0,12
+feedback_pitch,Qwen 2.5,20.0,10.0,20
+feedback_pitch,Cred-Finetune-Mistral,15.0,20.0,20
+feedback_pitch,Gemini 2.0 Flash,5.56,27.78,18
+further_assistance,OpenChat 3.5,36.84,21.05,19
+further_assistance,Qwen 2.5,60.0,0.0,20
+further_assistance,Cred-Finetune-Mistral,57.89,5.26,19
+further_assistance,Gemini 2.0 Flash,90.0,10.0,20
+hold,OpenChat 3.5,57.89,10.53,19
+hold,Qwen 2.5,65.0,10.0,20
+hold,Cred-Finetune-Mistral,66.67,0.0,18
+hold,Gemini 2.0 Flash,75.0,5.0,20
+opening,OpenChat 3.5,57.89,10.0,19
+opening,Qwen 2.5,63.16,10.53,19
+opening,Cred-Finetune-Mistral,70.0,10.53,20
+opening,Gemini 2.0 Flash,90.0,0.0,20
+reassurance,OpenChat 3.5,56.25,5.56,16
+reassurance,Qwen 2.5,65.0,0.0,20
+reassurance,Cred-Finetune-Mistral,65.0,5.0,20
+reassurance,Gemini 2.0 Flash,65.0,0.0,20
+rude_sarcastic,OpenChat 3.5,100.0,0.0,20
+rude_sarcastic,Qwen 2.5,85.0,0.0,20
+rude_sarcastic,Cred-Finetune-Mistral,95.0,0.0,20
+rude_sarcastic,Gemini 2.0 Flash,100.0,0.0,20

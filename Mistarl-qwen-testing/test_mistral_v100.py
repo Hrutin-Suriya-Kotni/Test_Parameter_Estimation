@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-OpenChat V100 Multi-GPU Testing Script
+Qwen2.5-14B-Instruct V100 Multi-GPU Testing Script
 Tests all guidelines across all data types with token validation
 Server: 2x Tesla V100 GPUs at 192.168.30.252:8000
-Model: openchat/openchat-3.5-1210 (same as RTX 4000 for comparison)
+Model: Qwen/Qwen2.5-14B-Instruct (better for Hindi-English code-mixed transcripts)
 """
 
 import sys
@@ -21,24 +21,24 @@ from prompts import ASSESSMENT_PROMPTS
 
 # Configuration
 SERVER_URL = "http://192.168.30.252:8000/v1/chat/completions"
-MODEL_NAME = "openchat/openchat-3.5-1210"  # Updated: Server is running OpenChat
+MODEL_NAME = "Qwen/Qwen2.5-14B-Instruct"  # Updated: Server is running Qwen2.5-14B-Instruct
 TOKEN_LIMIT = 8100
 MAX_RETRIES = 3
 RETRY_DELAY = 2
 
-class MistralTester:
+class QwenTester:
     def __init__(self):
         print("Loading tokenizer...")
         try:
-            # Use OpenChat tokenizer for accurate token counting
-            self.tokenizer = AutoTokenizer.from_pretrained("openchat/openchat-3.5-1210", trust_remote_code=True)
+            # Use Qwen tokenizer for accurate token counting
+            self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-14B-Instruct", trust_remote_code=True)
         except ValueError as e:
             if "sentencepiece" in str(e):
                 print("\n⚠️  sentencepiece not installed. Installing now...")
                 import subprocess
                 subprocess.check_call([sys.executable, "-m", "pip", "install", "sentencepiece", "protobuf"])
                 print("✅ sentencepiece installed. Retrying tokenizer load...")
-                self.tokenizer = AutoTokenizer.from_pretrained("openchat/openchat-3.5-1210", trust_remote_code=True)
+                self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-14B-Instruct", trust_remote_code=True)
             else:
                 raise
         self.results = []
@@ -309,14 +309,14 @@ class MistralTester:
 
 def main():
     print("="*80)
-    print("OpenChat V100 Multi-GPU Comprehensive Test")
+    print("Qwen2.5-14B-Instruct V100 Multi-GPU Comprehensive Test")
     print("Server: 192.168.30.252:8000 (2x Tesla V100)")
-    print("Model: openchat/openchat-3.5-1210")
+    print("Model: Qwen/Qwen2.5-14B-Instruct")
     print("Token Limit: 8100")
     print("="*80)
     
     # Test connectivity first
-    print("\nTesting server connectivity...")
+    print("\nTesting Qwen2.5-14B-Instruct server connectivity...")
     try:
         response = requests.get("http://192.168.30.252:8000/health", timeout=5)
         if response.status_code == 200:
@@ -329,7 +329,7 @@ def main():
         print("Make sure you're connected to the same network!")
         return
     
-    tester = MistralTester()
+    tester = QwenTester()
     base_dir = Path(__file__).parent.parent
     data_dir = base_dir / 'pre-processed-data'
     output_dir = base_dir / 'Mistarl-qwen-testing' / 'results'
