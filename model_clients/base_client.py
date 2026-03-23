@@ -34,7 +34,10 @@ class BaseModelClient(ABC):
         pass
     
     def parse_json_response(self, response_text: str) -> Optional[Dict[str, Any]]:
-        """Parse JSON response from model"""
+        """Parse JSON response from model.
+
+        Supports multiple JSON schemas (not only {"Value","Evidence"}).
+        """
         try:
             # Clean the response
             cleaned = response_text.strip()
@@ -48,11 +51,9 @@ class BaseModelClient(ABC):
                 # Try to parse the JSON
                 parsed = json.loads(json_str)
                 
-                # Validate the structure
-                if isinstance(parsed, dict) and 'Value' in parsed:
+                if isinstance(parsed, dict):
                     return parsed
-                else:
-                    return None
+                return None
             else:
                 return None
                 

@@ -1,0 +1,360 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-18T17:40:12.710028,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer inquired about the details of the last bill paid using an Axis Bank card, specifically the amount paid and the last date of payment""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer inquired about the details of the last bill paid using an Axis Bank card, specifically the amount paid and the last date of payment""}",1.5158665180206299,True," {
+
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer inquired about the details of the last bill paid using an Axis Bank card, specifically the amount paid and the last date of payment""
+
+}"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-18T17:40:15.926565,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Payment discrepancy with Indian gas lender""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Payment discrepancy with Indian gas lender""}",1.215097188949585,True," ```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Payment discrepancy with Indian gas lender""
+}
+```"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-18T17:40:19.392804,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer has not received the insurance policy despite making a payment and is awaiting KYC verification""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer has not received the insurance policy despite making a payment and is awaiting KYC verification""}",1.4642813205718994,True," ```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""The customer has not received the insurance policy despite making a payment and is awaiting KYC verification""
+}
+```"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-18T17:40:22.897928,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing delays and issues with pickup and return of an order, having been rescheduled numerous times""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing delays and issues with pickup and return of an order, having been rescheduled numerous times""}",1.5034306049346924,True," ```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer is experiencing delays and issues with pickup and return of an order, having been rescheduled numerous times""
+}
+```"
+11520c16-512e-41c8-b28e-f4f7494b3636,2324,Very good evening. This is शशि. I'm here to assist you today. Am I speaking with सूरज? Thank you for confirming. I can see your request is regarding the withdrawal of cash. Could you please elaborate ...,2026-03-18T17:40:26.276393,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing a delay with a cash withdrawal that is currently in processing mode""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing a delay with a cash withdrawal that is currently in processing mode""}",1.3768446445465088,True," ```json
+{
+
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer is experiencing a delay with a cash withdrawal that is currently in processing mode""
+
+}
+```"
+727a8769-3a93-451d-a837-91f903ddbc0a,3241,Good morning. This is  I am here to assist you. Am I speaking with रोहित? Hi रोहित. So you have reached out to us with the concern stating that there was a item which you have purchased and you are fa...,2026-03-18T17:40:29.875470,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": "" customer's 3 ordered products have not been delivered and there are concerns about the delivery timeline and logistics partner""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": "" customer's 3 ordered products have not been delivered and there are concerns about the delivery timeline and logistics partner""}",1.5969786643981934,True," ```json
+{
+
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": "" customer's 3 ordered products have not been delivered and there are concerns about the delivery timeline and logistics partner""
+
+}
+```"
+0fb2cc5a-9d80-4510-9239-d58de5c5fcaf,3730,Good morning and अंशिका I am here to assist you today. Am I speaking to शुभम Yes. Thank you for the name confirmation शुभम. I see that you have raised a concern regarding the outstanding payment or IC...,2026-03-18T17:40:33.255488,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Outstanding credit card payment not showing in the ICICI credit card application""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Outstanding credit card payment not showing in the ICICI credit card application""}",1.3778729438781738,True," ```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Outstanding credit card payment not showing in the ICICI credit card application""
+}
+```"
+895ec893-7e66-4f0b-8605-2003e06e8a6d,2668,"Good morning. This is. May I assist you today? Am I speaking with ओम? Yes speaking. May I know you nan रंजीत. Yeah, रंजीत. and my car insurance was expiring in 2 days. So I have renewed my car insuran...",2026-03-18T17:40:37.125608,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Service Activation or Deactivation"", ""VOC_Core_Issue_Summary"": ""The customer's car insurance policy is about to expire (6th or 10th of March) and needs activation. The issue here is the status and duration of the policy activation.""}","{""VOC_Category"": ""Service Activation or Deactivation"", ""VOC_Core_Issue_Summary"": ""The customer's car insurance policy is about to expire (6th or 10th of March) and needs activation. The issue here is the status and duration of the policy activation.""}",1.8681347370147705,True," ```json
+{
+    ""VOC_Category"": ""Service Activation or Deactivation"",
+    ""VOC_Core_Issue_Summary"": ""The customer's car insurance policy is about to expire (6th or 10th of March) and needs activation. The issue here is the status and duration of the policy activation.""
+}
+```"
+7d2da038-64e0-4380-9c82-7a955e6fe8b3,1604,Good evening this is  I am here to assist you today. Am I speaking with अंदर? जी मैंने payment किया मैं आपका concern समझ पा रही हूं आप please एक बार confirm कर सकते हैं क्या मेरी बात चंद्र से ही हो रह...,2026-03-18T17:40:40.927695,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""The customer is experiencing a delay in receiving confirmation for a payment made using ICICI credit card. The customer is asked to wait for 24 hours for the confirmation.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""The customer is experiencing a delay in receiving confirmation for a payment made using ICICI credit card. The customer is asked to wait for 24 hours for the confirmation.""}",1.8002305030822754,True,"
+
+```json
+{
+    ""VOC_Category"": ""Technical Support"",
+    ""VOC_Core_Issue_Summary"": ""The customer is experiencing a delay in receiving confirmation for a payment made using ICICI credit card. The customer is asked to wait for 24 hours for the confirmation.""
+}
+```"
+a51be59e-cb2a-47fc-8d6c-f9a616b39508,1962,"evening. This is मोहम्मद I'm here to assist you today. Am I speaking with अतुल? Yes. So, I was having an offer of personal loan of BC credit So just wanted to confirm what is the processing fees Yes y...",2026-03-18T17:40:44.628452,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""User inquired about processing fees for personal loan offered by BC credit""}","{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""User inquired about processing fees for personal loan offered by BC credit""}",1.698622226715088,True," ```json
+{
+    ""VOC_Category"": ""Product or Service Information"",
+    ""VOC_Core_Issue_Summary"": ""User inquired about processing fees for personal loan offered by BC credit""
+}
+```"
+8bdbd2b2-77bb-4ca7-9bf6-576b7c72b041,2568,Good morning. This is  here. I am calling from Cred on a recorded line. Am I speaking हां जी बताइए. धन्यवाद आपका नाम confirm करने के लिए अंजलि. आपने concern     speak  बात जी जी. हां बताइए ना बताना. व...,2026-03-18T17:40:48.870990,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer is seeking confirmation regarding the timeline for receiving the NOC (No Objection Certificate) after a loan has been foreclosed on the 2nd of March, and they plan to check again if they do not receive a response within 10 working days.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer is seeking confirmation regarding the timeline for receiving the NOC (No Objection Certificate) after a loan has been foreclosed on the 2nd of March, and they plan to check again if they do not receive a response within 10 working days.""}",2.240328073501587,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer is seeking confirmation regarding the timeline for receiving the NOC (No Objection Certificate) after a loan has been foreclosed on the 2nd of March, and they plan to check again if they do not receive a response within 10 working days.""
+}
+```"
+fda7f28e-510d-470a-ab70-907dc354da50,3539,Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? जी हां. जी ह...,2026-03-18T17:40:52.277940,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Request for refund update and discussion on maximum time frame""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Request for refund update and discussion on maximum time frame""}",1.4048268795013428,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Request for refund update and discussion on maximum time frame""
+}
+```"
+41fea115-b055-4c5e-ab8f-4573ca4e3e69,2124,"Good afternoon. This is  I'm here to assist you today. Am I speaking with हर्ष? Yeah. Yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regardin...",2026-03-18T17:40:55.882771,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Customer has a concern about an active loan and is inquiring about the amount and status of the loan""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Customer has a concern about an active loan and is inquiring about the amount and status of the loan""}",1.6032936573028564,True," ```json
+{
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Customer has a concern about an active loan and is inquiring about the amount and status of the loan""
+}
+```"
+c135d6ad-2c05-4438-93a9-2c6d6392d5ad,3956,Good morning. This is प्रतीक  today I am going to assist you. Today I'm calling you from Cred on a recording line. Can you hear me? Am I speaking to सुभाष? बोल रहा हूं sir. जी नाम confirm करने के लिए ...,2026-03-18T17:40:59.762193,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer reported an issue with a product (free culture product) that does not fit properly. The customer requests a replacement or return of the product.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer reported an issue with a product (free culture product) that does not fit properly. The customer requests a replacement or return of the product.""}",1.877701997756958,True," ```json
+{
+
+    ""VOC_Category"": ""Technical Support"",
+    ""VOC_Core_Issue_Summary"": ""Customer reported an issue with a product (free culture product) that does not fit properly. The customer requests a replacement or return of the product.""
+
+}
+```"
+cedf0f1b-f4f3-4b3a-af5c-d326037dfc24,2881,"Good morning. I'm अंशिका. I'm here to assist you today. Am I speaking to आकाश? Yeah, आकाश बात धन्यवाद नाम confirm करने के लिए आकाश. देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की e...",2026-03-18T17:41:04.780622,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer, अंशिका, is requesting a refund for an electricity bill payment of 270 rupees, including a convenience fee of 50 rupees, made via HDFC UPI. The payment failed and a refund of the total amount was debited from the customer's HDFC bank account. The refund has not been received in the customer's account.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer, अंशिका, is requesting a refund for an electricity bill payment of 270 rupees, including a convenience fee of 50 rupees, made via HDFC UPI. The payment failed and a refund of the total amount was debited from the customer's HDFC bank account. The refund has not been received in the customer's account.""}",3.017127752304077,True," ```json
+{
+
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer, अंशिका, is requesting a refund for an electricity bill payment of 270 rupees, including a convenience fee of 50 rupees, made via HDFC UPI. The payment failed and a refund of the total amount was debited from the customer's HDFC bank account. The refund has not been received in the customer's account.""
+
+}
+```"
+bf86eb1c-fa60-444f-bfa8-9a354c9184b6,1689,"Good afternoon. This is  calling you from Cred on a recorded line. Am I speaking to कुनाल? Yes ma'am. Yes कुणाल, So is this the right time to talk to Yeah tell me. Yes. So, while conversation the call...",2026-03-18T17:41:08.206053,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing issues with downloading their bank statement on Cred""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing issues with downloading their bank statement on Cred""}",1.4234933853149414,True,"
+
+```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer is experiencing issues with downloading their bank statement on Cred""
+}
+```"
+0c5c8347-1c71-42b4-bf80-82ce69c208c5,1771,"Good morning, this is राज. I am here to assist. Am I speaking with सुप्रिया? बहुत बहुत धन्यवाद नाम confirm करने के जी जैसे कि मैं देख पा रहा हूं यहां पर आपने concern raise किया है repayment की behalf ...",2026-03-18T17:41:11.589367,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Double payment for EMI due to manual and auto debit transactions""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Double payment for EMI due to manual and auto debit transactions""}",1.3818471431732178,True," ```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Double payment for EMI due to manual and auto debit transactions""
+}
+```"
+557bb0fc-7ace-4d23-84ac-ace5978d0c10,3120,"afternoon. This is सुष्मिता. I am here to assist you today. Am I speaking with in? Yeah, दिन. you so much for confirming your name अमित. So as I can check from my end, you have raised a concern regard...",2026-03-18T17:41:15.427412,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer wants to purchase a new insurance policy as the previous one, which was supposed to be cancelled, is still showing and the current policy will expire before the update is provided by the internal team""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer wants to purchase a new insurance policy as the previous one, which was supposed to be cancelled, is still showing and the current policy will expire before the update is provided by the internal team""}",1.8359386920928955,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer wants to purchase a new insurance policy as the previous one, which was supposed to be cancelled, is still showing and the current policy will expire before the update is provided by the internal team""
+}
+```"
+d8edad94-cb55-44b8-98d9-bd72248c5ca9,3762,जी ma'am. मैं आपको चाहूंगा लेकिन      तो करना Good afternoon. This is प्रतीक. today I am going to assist you. Am I speaking to दर्शन? Yes. Good afternoon. This is प्रतीक. हां मैंने order किया था कल मे...,2026-03-18T17:41:18.983757,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Failed delivery of an order and lack of contact information for the delivery partner""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Failed delivery of an order and lack of contact information for the delivery partner""}",1.5542819499969482,True," ```json
+{
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Failed delivery of an order and lack of contact information for the delivery partner""
+}
+```"
+a02e23d2-aa48-41c0-a2c5-2114886e9ca1,2934,"Good afternoon शशांक this is  calling you from Cred on a recorded line. Yes yes. Actually,  having a conversation and the call got disconnected Yeah, got disconnected Yeah. Yes, I  apologize for the i...",2026-03-18T17:41:23.024274,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer requests account deletion, speaks about non-usefulness of the service and desire to delete personal information, confirmation of account deletion within 48 hours, and clarification on non-transferable credit coins and credit balance.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer requests account deletion, speaks about non-usefulness of the service and desire to delete personal information, confirmation of account deletion within 48 hours, and clarification on non-transferable credit coins and credit balance.""}",2.038329601287842,True,"
+
+```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer requests account deletion, speaks about non-usefulness of the service and desire to delete personal information, confirmation of account deletion within 48 hours, and clarification on non-transferable credit coins and credit balance.""
+}
+```"
+9ef4dbec-ec9e-4e73-9f5d-939325d99c18,2957,Good morning. My name is. I'm here to assist you today. Am I speaking with दास? Yes  sir. Ok. Thanks for confirming your name. As I can check that you have raised a concern regarding a product from  t...,2026-03-18T17:41:26.675236,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer's product not picked up for return as intended due to missed pickup attempts and request for alternate contact and landmark details for further communication""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer's product not picked up for return as intended due to missed pickup attempts and request for alternate contact and landmark details for further communication""}",1.649707317352295,True," ```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer's product not picked up for return as intended due to missed pickup attempts and request for alternate contact and landmark details for further communication""
+}
+```"
+4e7cc419-ccf7-42b2-85c0-b52a2da2e8bc,3735,"morning. This is मोहम्मद I will be assisting you today. Am I speaking with प्रमेश nan Yes. you so much for confirming your name. Tell So my Yeah, I was supposed to receive my order last week. I was no...",2026-03-18T17:41:30.113895,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Delayed delivery of an order and lack of communication about the new delivery date""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Delayed delivery of an order and lack of communication about the new delivery date""}",1.4363958835601807,True,"
+
+```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Delayed delivery of an order and lack of communication about the new delivery date""
+}
+```"
+22596fb0-77b7-4820-8604-9b9236d65fa6,3099,"Good morning,  I am here to assist you today. Am I speaking with लक्ष्य? Yeah, I am लक्ष्मी speaking. yesterday also I have call the customer support regarding my policy renewal the document is still ...",2026-03-18T17:41:33.850177,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Policy renewal document is not issued despite KYC documentation upload and payment completion, with a stated maximum timeline for resolution until the 9th of March""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Policy renewal document is not issued despite KYC documentation upload and payment completion, with a stated maximum timeline for resolution until the 9th of March""}",1.734116554260254,True," ```json
+{
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Policy renewal document is not issued despite KYC documentation upload and payment completion, with a stated maximum timeline for resolution until the 9th of March""
+}
+```"
+adac574e-4425-426d-b5bd-c80b9c33741f,1713,evening. This is  I am here here to assist you. Am I speaking with सुमित? confirm your As I can see your concern is regarding the  as you have mentioned the payment is but the policy is not showing. n...,2026-03-18T17:41:37.936791,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer's car insurance policy is not showing as active despite the payment being made. The core issue appears to be related to the policy activation, which is pending due to KYC (Know Your Customer) being incomplete.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer's car insurance policy is not showing as active despite the payment being made. The core issue appears to be related to the policy activation, which is pending due to KYC (Know Your Customer) being incomplete.""}",2.0853159427642822,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""The customer's car insurance policy is not showing as active despite the payment being made. The core issue appears to be related to the policy activation, which is pending due to KYC (Know Your Customer) being incomplete.""
+}
+```"
+d4e0566e-943e-4364-b61d-ac0b00a4ef2b,1790,"I'm here to assist you today. Am I speaking with साहिल? you for confirming your name साहिल. As I can see, you have raised a concern regarding transaction ###rupees in which you paid 18 rupees convenie...",2026-03-18T17:41:41.485173,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Failed transaction and inquiry about the status of transaction refund or credit with HDFC credit card""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Failed transaction and inquiry about the status of transaction refund or credit with HDFC credit card""}",1.5461647510528564,True,"
+
+```json
+{
+
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Failed transaction and inquiry about the status of transaction refund or credit with HDFC credit card""
+
+}
+```"
+0f070971-d446-4cfb-9a13-9a383fb71d2a,2341,evening. This is प्रेम. I am here to assist you. Am I speaking with मोहम्मद अब्दुल. राव? हां. Yes. for the confirmation of  name अब्दुल. As I can check from  that you have raised a concern regarding y...,2026-03-18T17:41:45.127869,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer (मोहम्मद अब्दुल. राव) is experiencing a problem with a product delivery""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer (मोहम्मद अब्दुल. राव) is experiencing a problem with a product delivery""}",1.6413850784301758,True," {
+
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer (मोहम्मद अब्दुल. राव) is experiencing a problem with a product delivery""
+
+}"
+9ee602bb-fb79-4d1e-9cdc-4b23e37f8691,2668,evening. This is रोहित here to assist you today. Am I speaking with अमोल Yes speaking. Thank you for confirming your name अमोल and as I can check that you have raised a concern regarding your policy a...,2026-03-18T17:41:48.697277,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer requested to cancel an insurance policy due to it not being issued yet, and given urgency for the issue""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer requested to cancel an insurance policy due to it not being issued yet, and given urgency for the issue""}",1.5672788619995117,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer requested to cancel an insurance policy due to it not being issued yet, and given urgency for the issue""
+}
+```"
+2e884fcf-dac9-4d09-954a-478299a2d841,2668,"evening. This is अंकित I am here to assist you today. Am I speaking with कार्तिक? हां, yes sir. and charging only. you for confirming. Actually, हां yeah. Previously I used  credit wallet with other 1...",2026-03-18T17:41:53.873723,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer is unable to complete Credit Wallet KYC as the bank details are already linked to an old closed account""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer is unable to complete Credit Wallet KYC as the bank details are already linked to an old closed account""}",3.174272298812866,True,"
+
+```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer is unable to complete Credit Wallet KYC as the bank details are already linked to an old closed account""
+}
+```"
+70100a96-b855-4d3e-a398-0d330e8dab42,2717,"Good morning. My name is  I'm here to assist you today. Am I speaking with सूरज? am I speaking with सूरज? Ok, thank you for confirming your name. सूरज as I check that you raised the concern regarding ...",2026-03-18T17:41:58.008844,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer is inquiring about the foreclosure process, specifically requesting to close one loan in order to apply for another, and seeking confirmation about the time required to foreclose the loan and any associated charges.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer is inquiring about the foreclosure process, specifically requesting to close one loan in order to apply for another, and seeking confirmation about the time required to foreclose the loan and any associated charges.""}",2.132981061935425,True," ```json
+{
+
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""The customer is inquiring about the foreclosure process, specifically requesting to close one loan in order to apply for another, and seeking confirmation about the time required to foreclose the loan and any associated charges.""
+
+}
+```"
+20c61940-b21f-47aa-90a5-bbc67fd6a4fc,2999,Good afternoon. This is कुमार How may I assist you today? Am I speaking with प्रसाद? Hello. Am I speaking with Yes yes. you so much प्रसाद for confirming your name. I can check that you have raised yo...,2026-03-18T17:42:01.711738,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Product delivery issue: product not received as expected by 3rd March, no calls received regarding delivery, needing to escalate to internal team for investigation""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Product delivery issue: product not received as expected by 3rd March, no calls received regarding delivery, needing to escalate to internal team for investigation""}",1.7010860443115234,True," ```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Product delivery issue: product not received as expected by 3rd March, no calls received regarding delivery, needing to escalate to internal team for investigation""
+}
+```"
+9d6609b4-0dae-4621-8079-461d3d48db8a,1599,"Good afternoon this is  I am here to assist. Am I speaking with भास्कर? So there is a product which we added  banks. it was showing delivered but but it has not been delivered to you. Yeah, but produc...",2026-03-18T17:42:05.120042,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Item delivered but not received by the customer, waiting for update from backend team""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Item delivered but not received by the customer, waiting for update from backend team""}",1.406442403793335,True," ```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Item delivered but not received by the customer, waiting for update from backend team""
+}
+```"
+0b8a3db5-40c4-4f0c-927a-96a4a77f749d,3622,"Good afternoon, this is   may I assist you today? Am I speaking with you  for confirming your name. I can check that you have raised a concern regarding a product which is from Yes. electricity liter ...",2026-03-18T17:42:09.121070,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer is facing an issue with a product return as the pickup has been cancelled and they have not been contacted by the pickup service, and are seeking resolution and re-initiation of the return process""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer is facing an issue with a product return as the pickup has been cancelled and they have not been contacted by the pickup service, and are seeking resolution and re-initiation of the return process""}",1.9988892078399658,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer is facing an issue with a product return as the pickup has been cancelled and they have not been contacted by the pickup service, and are seeking resolution and re-initiation of the return process""
+}
+```"
+267c4e7b-7191-493c-9af3-51b64a6fb700,1903,Good afternoon. This is I'm here to assist you today. Am I speaking with राहुल? नाम confirm करने का. language आ रही राहुल am I comfortable Are you comfortable in हिंदी or English? ok but I am  लिया. I...,2026-03-18T17:42:12.606596,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Rahul is experiencing difficulties in making a payment through a credit card""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Rahul is experiencing difficulties in making a payment through a credit card""}",1.4840211868286133,True," ```json
+{
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Rahul is experiencing difficulties in making a payment through a credit card""
+}
+```"
+9b66ed6e-6829-47e0-91d3-681f6d56cefb,3923,"Hello. afternoon. I'm  calling nan हां हां हमारे   से  बात हो रहा है आपका हां, अमित जी आपका हां. का का पैसा मैंने order किया था लेकिन अभी तक आया नहीं तेईस बार   order किया हां जी, अमित जी. मैं उसी के ...",2026-03-18T17:42:16.303815,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Shipment of undelivered ordered product and associated billing issue""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Shipment of undelivered ordered product and associated billing issue""}",1.6953082084655762,True," ```json
+{
+
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Shipment of undelivered ordered product and associated billing issue""
+
+}
+```"
+92f24dce-3ce6-46b2-b2cd-868da31174b1,2895,"Good afternoon, this is ना. I am here to assist you today. Am I speaking with  श्रवण? हां हां. you for confirming your name. So as I can check that you have raised a concern regarding credit cash abou...",2026-03-18T17:42:20.100708,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer is facing an issue with the repayment of a loan, with the EMI payment posted but still showing as on hold status""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer is facing an issue with the repayment of a loan, with the EMI payment posted but still showing as on hold status""}",1.7951340675354004,True," ```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""The customer is facing an issue with the repayment of a loan, with the EMI payment posted but still showing as on hold status""
+}
+```"
+6a3e8c52-2ecd-4320-97bf-d90a5a92e3b7,2858,morning. This is सोमी I will be assisting you today. Am I speaking with शशांक Yeah. Thank you so much for confirming your name शशांक I can check that you have raised a concern regarding your order is ...,2026-03-18T17:42:23.466678,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Order not delivered as expected and customer wants to cancel or wants an update""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Order not delivered as expected and customer wants to cancel or wants an update""}",1.3642072677612305,True," ```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Order not delivered as expected and customer wants to cancel or wants an update""
+}
+```"
+06bb5005-ff3c-4f2b-a637-b95f5e244c78,3056,"Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes. hi. Hi not. So the thing is I I tried doing a payment through credit  like, I was transferring  some educatio...",2026-03-18T17:42:26.795854,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Refund not received for a failed credit card payment""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Refund not received for a failed credit card payment""}",1.3273429870605469,True," ```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Refund not received for a failed credit card payment""
+}
+```"
+d8e41f6d-f5a5-4d43-bb48-6d29083c1c41,1558,morning. and अंशिका I am here to assist you today. Am I speaking to साहू? Madam मैंने कल  bank account में  credit card में bill payment किया था लेकिन मेरे account में double money deduct हो गया. जी  ...,2026-03-18T17:42:30.402639,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Double payment made in bank account using credit card, and the extra amount is expected to be refunded""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Double payment made in bank account using credit card, and the extra amount is expected to be refunded""}",1.6051671504974365,True,"
+
+```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Double payment made in bank account using credit card, and the extra amount is expected to be refunded""
+}
+```"
+630da169-e9b1-4529-ac7a-a978e9f60150,1838,Good afternoon. This is सिद्धार्थ. How  to assist you today. Am I speaking with शुभ हां तो बात कर रहा हूं. Actually मेरा card का मैंने payment किया था tuition but वह fail हो गया but मेरा अभी भी accoun...,2026-03-18T17:42:33.849817,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Card payment failure and non-refund issuance""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Card payment failure and non-refund issuance""}",1.4453144073486328,True,"
+```json
+{
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Card payment failure and non-refund issuance""
+}
+```"
+11683cda-dc5f-4cb8-a3c5-4d0791987cc7,3007,"morning. My name is निकिता. I'm here to assist you today. Am I speaking with निलेश? you very much for confirming your name, कि. So you   get an update that you raised a concern regarding the credit ca...",2026-03-18T17:42:37.302029,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Payment Issues"", ""VOC_Core_Issue_Summary"": ""Inadequate funds caused auto debit failure, resulting in bounce charges from the bank.""}","{""VOC_Category"": ""Payment Issues"", ""VOC_Core_Issue_Summary"": ""Inadequate funds caused auto debit failure, resulting in bounce charges from the bank.""}",1.4505078792572021,True," ```json
+{
+    ""VOC_Category"": ""Payment Issues"",
+    ""VOC_Core_Issue_Summary"": ""Inadequate funds caused auto debit failure, resulting in bounce charges from the bank.""
+}
+```"
+42a803fa-53e5-48a2-8b4b-c3a9277fe50b,2184,Good afternoon. This is राम. I am here to assist you today. Am I speaking with जी? hours नाम confirm करने के लिए धन्यवाद. जी क्या आप अपना एक concern elaborate कर देंगे please? जी मैं आपसे request कर र...,2026-03-18T17:42:40.651831,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Feedback and Suggestions"", ""VOC_Core_Issue_Summary"": ""Request for feedback regarding credit service experience""}","{""VOC_Category"": ""Feedback and Suggestions"", ""VOC_Core_Issue_Summary"": ""Request for feedback regarding credit service experience""}",1.3483073711395264,True," ```json
+{
+    ""VOC_Category"": ""Feedback and Suggestions"",
+    ""VOC_Core_Issue_Summary"": ""Request for feedback regarding credit service experience""
+}
+```"
+095df596-5b74-4815-a86c-c02343a85509,1665,morning. My name is शुक्रिया. I am here to assist you today. Am I speaking with कुशल या? Thank you for confirming. you have raised a concern regarding credit  Basically regarding the   finance. like y...,2026-03-18T17:42:44.055961,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Unable to process withdrawal request due to validation failed on disabled bank accounts""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Unable to process withdrawal request due to validation failed on disabled bank accounts""}",1.402479887008667,True," ```json
+{
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Unable to process withdrawal request due to validation failed on disabled bank accounts""
+}
+```"
+b6e54447-103c-49f7-b6f0-e8621a56c246,2159,"Good evening. My name is I'm here to assist you today. Am I speaking with साहिल? Yeah, I am साई speaking. Ok. Thanks for confirming your name साहिल. As I can check that you have raised a concern regar...",2026-03-18T17:42:47.771584,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer's product has not been delivered, issue has been escalated to internal team with an estimated resolution by March 12th""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer's product has not been delivered, issue has been escalated to internal team with an estimated resolution by March 12th""}",1.7140851020812988,True," ```json
+{
+
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer's product has not been delivered, issue has been escalated to internal team with an estimated resolution by March 12th""
+
+}
+```"
+d1a3761b-ffe1-4115-9076-531fc8424088,3003,"evening. This is विशाल calling from on a recorded line. Am I speaking with राकेश? जी sir, good evening. Hi, good evening राज जी नाम confirm करने के लिए शुक्रिया राय जी.  क्या सही समय है आपसे बात करने ...",2026-03-18T17:42:51.657519,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Incorrect Date of Birth on account and policy details causing issue for over a duration of time; Requests for photo ID proof to resolve the issue""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Incorrect Date of Birth on account and policy details causing issue for over a duration of time; Requests for photo ID proof to resolve the issue""}",1.8839876651763916,True," ```json
+{
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Incorrect Date of Birth on account and policy details causing issue for over a duration of time; Requests for photo ID proof to resolve the issue""
+}
+```"
+585dd7d4-4a1d-415e-bd6b-c56e3ebcb2d6,3210,"Good evening. My name is नीतीश. I am calling you from Cred on a recorded line. I am talking to संजय? Yeah, speaking. you for the confirmation. I can see that you have raised a concern regarding the cr...",2026-03-18T17:42:55.623062,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer's request to extend the tenure of their existing loan insurance, but the service provider, Cred, does not have the option to modify the tenure as per the customer's request.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer's request to extend the tenure of their existing loan insurance, but the service provider, Cred, does not have the option to modify the tenure as per the customer's request.""}",1.9635639190673828,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer's request to extend the tenure of their existing loan insurance, but the service provider, Cred, does not have the option to modify the tenure as per the customer's request.""
+}
+```"
+5f2f449a-8d5d-4a8c-bb16-f771a6669087,1945,Good evening. This is  I'm here to assist you today. Am I speaking with दीपक? जी sir. नाम confirm करने के लिए धन्यवाद दीपक. जैसे कि मैं देख पा रहा हूं आपने concern raise किया है refund  के regarding C...,2026-03-18T17:42:59.085553,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Request for refund and issue with rewards point credit regarding a specific referral""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Request for refund and issue with rewards point credit regarding a specific referral""}",1.4610612392425537,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Request for refund and issue with rewards point credit regarding a specific referral""
+}
+```"
+20059b00-5e96-4caa-98b7-19c0000adae6,1699,"afternoon,     here to assist you today. Am I speaking with अविनाश? Good afternoon, I am ना. can I  can you speak in nan I can speak in English and I'm very sorry, I can speak  line हां, ok ok. Please...",2026-03-18T17:43:02.499779,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Feedback and Suggestions"", ""VOC_Core_Issue_Summary"": ""Double payment of EMIs, refund of payment, and request for feedback""}","{""VOC_Category"": ""Feedback and Suggestions"", ""VOC_Core_Issue_Summary"": ""Double payment of EMIs, refund of payment, and request for feedback""}",1.412252426147461,True," ```json
+{
+    ""VOC_Category"": ""Feedback and Suggestions"",
+    ""VOC_Core_Issue_Summary"": ""Double payment of EMIs, refund of payment, and request for feedback""
+}
+```"
+830a5b45-fbf1-4d79-acf7-a182cbe7e7be,2614,"Good morning. This is    here to assist you. Am I speaking with सादत? Yeah, hi collect. Hi सबा. So, Yes speaking. Yeah. Actually, my credit order is   delivered  and the delivery  person came to my na...",2026-03-18T17:43:06.469386,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer's order package was delivered but could not be inputted due to network issues, resulting in the package being taken back without delivery. The customer requests the package to be delivered today or on priority.""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer's order package was delivered but could not be inputted due to network issues, resulting in the package being taken back without delivery. The customer requests the package to be delivered today or on priority.""}",1.9674162864685059,True," ```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""The customer's order package was delivered but could not be inputted due to network issues, resulting in the package being taken back without delivery. The customer requests the package to be delivered today or on priority.""
+}
+```"
+be00850c-1822-454d-84bd-7fbbe07c5998,3070,"evening. This is प्रीतम. I'm here to assist you. Am I speaking with शंकर? nan Yeah, is शंकर? Thanks  thanks for the confirmation  पंकज. my product was not getting delivered it is showing out of delive...",2026-03-18T17:43:10.434439,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer's ordered product has not been delivered as expected and is stuck in 'out of delivery' status""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer's ordered product has not been delivered as expected and is stuck in 'out of delivery' status""}",1.9629356861114502,True," ```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""The customer's ordered product has not been delivered as expected and is stuck in 'out of delivery' status""
+}
+```"
+02719540-46f4-482b-969e-14b50bbe3285,3129,"Good evening, this is  I am here to assist you today. Am I speaking with मनीष? as you can see that I have purchased  completed from the So I   see that       from the credit and that  is not getting d...",2026-03-18T17:43:14.029469,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing delayed delivery of a purchased product, with multiple failed delivery attempts over the past 5 days""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing delayed delivery of a purchased product, with multiple failed delivery attempts over the past 5 days""}",1.5928394794464111,True," ```json
+{
+
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer is experiencing delayed delivery of a purchased product, with multiple failed delivery attempts over the past 5 days""
+
+}
+```"
+96d97237-1192-4d22-a836-9624908817dc,2739,Good afternoon. This is This is calling from recorded line. Am I speaking with आकाश? हां बात करो बोलिए. जी आकाश जैसे कि मैं देख पा रहा हूं आपने statement भेजा थी अपनी HDFC हां हां. यह आपने payment dat...,2026-03-18T17:43:18.791468,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer is having an issue with the receipt of a billing statement from HDFC Bank, specifically for the payment date to the current date, and is asking for the statement to be resend. The customer also mentions they have checked the details on the backend and found it incomplete, requiring a call to the bank's customer care for the requirements.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer is having an issue with the receipt of a billing statement from HDFC Bank, specifically for the payment date to the current date, and is asking for the statement to be resend. The customer also mentions they have checked the details on the backend and found it incomplete, requiring a call to the bank's customer care for the requirements.""}",2.7598063945770264,True," ```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""The customer is having an issue with the receipt of a billing statement from HDFC Bank, specifically for the payment date to the current date, and is asking for the statement to be resend. The customer also mentions they have checked the details on the backend and found it incomplete, requiring a call to the bank's customer care for the requirements.""
+}
+```"
+05bc2f79-e454-456e-b588-00128c679dde,1673,"morning. This is  I will be assisting you today. Am I speaking with पवन Yeah hi, actually I called regarding 1 of my order which I wanted to return and I see the I don't know what's the current status...",2026-03-18T17:43:22.373104,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer wants to return an order and is concerned about neither the order showing for pick up nor a previous return request being cancelled""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer wants to return an order and is concerned about neither the order showing for pick up nor a previous return request being cancelled""}",1.5796220302581787,True," ```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer wants to return an order and is concerned about neither the order showing for pick up nor a previous return request being cancelled""
+}
+```"
+24ba9529-527f-4133-8f7b-0c5eab96d29b,2315,"Good afternoon, this is वरीता. I will be assisting you today. Am I speaking with रोहित? Yeah, good afternoon ma'am. I have raised a complaint regarding my last order. Yes, as it is your product from m...",2026-03-18T17:43:25.680151,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Empty package received for a product order""}","{""VOC_Category"": ""Complaints and Escalations"", ""VOC_Core_Issue_Summary"": ""Empty package received for a product order""}",1.3049054145812988,True," ```json
+{
+
+    ""VOC_Category"": ""Complaints and Escalations"",
+    ""VOC_Core_Issue_Summary"": ""Empty package received for a product order""
+
+}
+```"
+60a8d089-44c3-411d-b5cc-c24733d5acdd,1959,"Good morning. This is  I will be assisting you Good morning, madam. Good morning, madam. विषय नाम से. Good morning, madam. Good morning, madam. Am I audible करना? मेरा कृष्णा कर मेरा कृष्णा कर Yes, th...",2026-03-18T17:43:29.406580,Mistral,voice_of_customer,Error,"{""VOC_Category"": ""Feedback and Suggestions"", ""VOC_Core_Issue_Summary"": ""The core issue discussed in this transcript involves customer feedback related to the interaction with the customer service representative, in both English and Telugu languages.""}","{""VOC_Category"": ""Feedback and Suggestions"", ""VOC_Core_Issue_Summary"": ""The core issue discussed in this transcript involves customer feedback related to the interaction with the customer service representative, in both English and Telugu languages.""}",1.7242932319641113,True," ```json
+{
+    ""VOC_Category"": ""Feedback and Suggestions"",
+    ""VOC_Core_Issue_Summary"": ""The core issue discussed in this transcript involves customer feedback related to the interaction with the customer service representative, in both English and Telugu languages.""
+}
+```"

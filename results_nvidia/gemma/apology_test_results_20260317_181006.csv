@@ -1,0 +1,370 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-17T18:06:34.616835,Gemma,apology,Met,Please stay over the call.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""Please stay over the call."", ""Apology_Category"": """"}",1.6375367641448975,True,"```json
+{
+        ""Apology_result"": ""Met"",
+        ""Apology_evidence"": ""Please stay over the call."",
+        ""Apology_Category"": """"
+}
+```"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-17T18:06:38.708114,Gemma,apology,Met,माफी चाहूंगी असुविधा के लिए  and  I really apologize,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""माफी चाहूंगी असुविधा के लिए  and  I really apologize"", ""Apology_Category"": """"}",2.0911319255828857,True,"```json
+{
+    ""Apology_result"": ""Met"",
+    ""Apology_evidence"": ""माफी चाहूंगी असुविधा के लिए  and  I really apologize"",
+    ""Apology_Category"": """"
+}
+```"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-17T18:06:42.373654,Gemma,apology,Met,I'm really sorry for the inconvenience caused to you.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry for the inconvenience caused to you."", ""Apology_Category"": """"}",1.6653931140899658,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm really sorry for the inconvenience caused to you."",
+""Apology_Category"": """"
+}
+```"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-17T18:06:46.145359,Gemma,apology,Met,I'm sorry for the inconvenience caused to you.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm sorry for the inconvenience caused to you."", ""Apology_Category"": """"}",1.7715585231781006,True,"```json
+{
+    ""Apology_result"": ""Met"",
+    ""Apology_evidence"": ""I'm sorry for the inconvenience caused to you."",
+    ""Apology_Category"": """"
+}
+```"
+11520c16-512e-41c8-b28e-f4f7494b3636,2324,Very good evening. This is शशि. I'm here to assist you today. Am I speaking with सूरज? Thank you for confirming. I can see your request is regarding the withdrawal of cash. Could you please elaborate ...,2026-03-17T18:06:49.849347,Gemma,apology,Met,"First of all, sorry for the inconvenience caused. ","{""Apology_result"": ""Met"", ""Apology_evidence"": ""First of all, sorry for the inconvenience caused. "", ""Apology_Category"": """"}",1.7038326263427734,True,"```json
+{
+        ""Apology_result"": ""Met"",
+        ""Apology_evidence"": ""First of all, sorry for the inconvenience caused. "",
+        ""Apology_Category"": """"
+}
+```"
+727a8769-3a93-451d-a837-91f903ddbc0a,3241,Good morning. This is  I am here to assist you. Am I speaking with रोहित? Hi रोहित. So you have reached out to us with the concern stating that there was a item which you have purchased and you are fa...,2026-03-17T18:06:54.594336,Gemma,apology,Met,I apologize  I really apologize I send car I'm sorry for that inconvenience I got your point. I'm sorry for that inconvenience. Please don't worry. I'm sorry for that inconvenience,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I apologize  I really apologize I send car I'm sorry for that inconvenience I got your point. I'm sorry for that inconvenience. Please don't worry. I'm sorry for that inconvenience"", ""Apology_Category"": """"}",2.744835615158081,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I apologize  I really apologize I send car I'm sorry for that inconvenience I got your point. I'm sorry for that inconvenience. Please don't worry. I'm sorry for that inconvenience"",
+""Apology_Category"": """"
+}
+```"
+0fb2cc5a-9d80-4510-9239-d58de5c5fcaf,3730,Good morning and अंशिका I am here to assist you today. Am I speaking to शुभम Yes. Thank you for the name confirmation शुभम. I see that you have raised a concern regarding the outstanding payment or IC...,2026-03-17T18:06:58.630079,Gemma,apology,Met,"Very sorry for the inconvenience that you are facing. Don't worry, I'll surely help you out.","{""Apology_result"": ""Met"", ""Apology_evidence"": ""Very sorry for the inconvenience that you are facing. Don't worry, I'll surely help you out."", ""Apology_Category"": """"}",2.035588026046753,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""Very sorry for the inconvenience that you are facing. Don't worry, I'll surely help you out."",
+""Apology_Category"": """"
+}
+```"
+895ec893-7e66-4f0b-8605-2003e06e8a6d,2668,"Good morning. This is. May I assist you today? Am I speaking with ओम? Yes speaking. May I know you nan रंजीत. Yeah, रंजीत. and my car insurance was expiring in 2 days. So I have renewed my car insuran...",2026-03-17T18:07:02.516626,Gemma,apology,Met,Sorry for the inconvenience and I will surely help you out regarding this issue.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""Sorry for the inconvenience and I will surely help you out regarding this issue."", ""Apology_Category"": """"}",1.8863661289215088,True,"```json
+{
+  ""Apology_result"": ""Met"",
+  ""Apology_evidence"": ""Sorry for the inconvenience and I will surely help you out regarding this issue."",
+  ""Apology_Category"": """"
+}
+```"
+7d2da038-64e0-4380-9c82-7a955e6fe8b3,1604,Good evening this is  I am here to assist you today. Am I speaking with अंदर? जी मैंने payment किया मैं आपका concern समझ पा रही हूं आप please एक बार confirm कर सकते हैं क्या मेरी बात चंद्र से ही हो रह...,2026-03-17T18:07:06.767383,Gemma,apology,Met,जी मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""जी मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे."", ""Apology_Category"": """"}",2.250610113143921,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""जी मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे."",
+""Apology_Category"": """"
+}
+```"
+a51be59e-cb2a-47fc-8d6c-f9a616b39508,1962,"evening. This is मोहम्मद I'm here to assist you today. Am I speaking with अतुल? Yes. So, I was having an offer of personal loan of BC credit So just wanted to confirm what is the processing fees Yes y...",2026-03-17T18:07:10.145179,Gemma,apology,Met,No apology required,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""No apology required"", ""Apology_Category"": """"}",1.377645492553711,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""No apology required"",
+""Apology_Category"": """"
+}
+```"
+8bdbd2b2-77bb-4ca7-9bf6-576b7c72b041,2568,Good morning. This is  here. I am calling from Cred on a recorded line. Am I speaking हां जी बताइए. धन्यवाद आपका नाम confirm करने के लिए अंजलि. आपने concern     speak  बात जी जी. हां बताइए ना बताना. व...,2026-03-17T18:07:14.774028,Gemma,apology,Not Met,Agent did not apologize for the inconvenience caused by the wait time for the NOC despite customer explicitly stating they wanted to know the payment status and how long it would take to get the NOC.,"{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the inconvenience caused by the wait time for the NOC despite customer explicitly stating they wanted to know the payment status and how long it would take to get the NOC."", ""Apology_Category"": ""Providing solutions without addressing customer frustration""}",2.6286890506744385,True,"```json
+{
+""Apology_result"": ""Not Met"",
+""Apology_evidence"": ""Agent did not apologize for the inconvenience caused by the wait time for the NOC despite customer explicitly stating they wanted to know the payment status and how long it would take to get the NOC."",
+""Apology_Category"": ""Providing solutions without addressing customer frustration""
+}
+```"
+fda7f28e-510d-470a-ab70-907dc354da50,3539,Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? जी हां. जी ह...,2026-03-17T18:07:18.585327,Gemma,apology,Met,मैं बेहद माफ़ी चाहूंगा अगर information के लिए,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""मैं बेहद माफ़ी चाहूंगा अगर information के लिए"", ""Apology_Category"": """"}",1.8110642433166504,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""मैं बेहद माफ़ी चाहूंगा अगर information के लिए"",
+""Apology_Category"": """"
+}
+```"
+41fea115-b055-4c5e-ab8f-4573ca4e3e69,2124,"Good afternoon. This is  I'm here to assist you today. Am I speaking with हर्ष? Yeah. Yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regardin...",2026-03-17T18:07:22.542783,Gemma,apology,Met,My pleasure. Thank you so much. हर्ष for being on hold. I really appreciate your time and patience.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""My pleasure. Thank you so much. हर्ष for being on hold. I really appreciate your time and patience."", ""Apology_Category"": """"}",1.9573068618774414,True,"{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""My pleasure. Thank you so much. हर्ष for being on hold. I really appreciate your time and patience."",
+""Apology_Category"": """"
+} 
+"
+c135d6ad-2c05-4438-93a9-2c6d6392d5ad,3956,Good morning. This is प्रतीक  today I am going to assist you. Today I'm calling you from Cred on a recording line. Can you hear me? Am I speaking to सुभाष? बोल रहा हूं sir. जी नाम confirm करने के लिए ...,2026-03-17T18:07:26.822887,Gemma,apology,Met,पहले तो मैं आपसे माफी मांगना चाहूंगा जो परेशानी आपके साथ हुआ है यह बहुत ही rare scenario है,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""पहले तो मैं आपसे माफी मांगना चाहूंगा जो परेशानी आपके साथ हुआ है यह बहुत ही rare scenario है"", ""Apology_Category"": """"}",2.279919147491455,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""पहले तो मैं आपसे माफी मांगना चाहूंगा जो परेशानी आपके साथ हुआ है यह बहुत ही rare scenario है"",
+""Apology_Category"": """"
+}
+```"
+cedf0f1b-f4f3-4b3a-af5c-d326037dfc24,2881,"Good morning. I'm अंशिका. I'm here to assist you today. Am I speaking to आकाश? Yeah, आकाश बात धन्यवाद नाम confirm करने के लिए आकाश. देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की e...",2026-03-17T18:07:31.105931,Gemma,apology,Met,जी माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""जी माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी"", ""Apology_Category"": """"}",2.2828216552734375,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""जी माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी"",
+""Apology_Category"": """"
+}
+```"
+bf86eb1c-fa60-444f-bfa8-9a354c9184b6,1689,"Good afternoon. This is  calling you from Cred on a recorded line. Am I speaking to कुनाल? Yes ma'am. Yes कुणाल, So is this the right time to talk to Yeah tell me. Yes. So, while conversation the call...",2026-03-17T18:07:35.091428,Gemma,apology,Not Met,Agent did not apologize for the technical difficulties and inconvenience experienced by the customer during the bank statement download process.,"{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the technical difficulties and inconvenience experienced by the customer during the bank statement download process."", ""Apology_Category"": ""1. No acknowledgment of customer inconvenience""}",1.9853098392486572,True,"{
+""Apology_result"": ""Not Met"",
+""Apology_evidence"": ""Agent did not apologize for the technical difficulties and inconvenience experienced by the customer during the bank statement download process."",
+""Apology_Category"": ""1. No acknowledgment of customer inconvenience""
+}"
+0c5c8347-1c71-42b4-bf80-82ce69c208c5,1771,"Good morning, this is राज. I am here to assist. Am I speaking with सुप्रिया? बहुत बहुत धन्यवाद नाम confirm करने के जी जैसे कि मैं देख पा रहा हूं यहां पर आपने concern raise किया है repayment की behalf ...",2026-03-17T18:07:38.735351,Gemma,apology,Met,निश्चिंत रहिए सहायता,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""निश्चिंत रहिए सहायता"", ""Apology_Category"": """"}",1.643744945526123,True,"```json
+{
+    ""Apology_result"": ""Met"",
+    ""Apology_evidence"": ""निश्चिंत रहिए सहायता"",
+    ""Apology_Category"": """"
+}
+```"
+557bb0fc-7ace-4d23-84ac-ace5978d0c10,3120,"afternoon. This is सुष्मिता. I am here to assist you today. Am I speaking with in? Yeah, दिन. you so much for confirming your name अमित. So as I can check from my end, you have raised a concern regard...",2026-03-17T18:07:43.547102,Gemma,apology,Not Met,"Agent did not apologize for the inconvenience caused by the delayed policy cancellation, despite the customer expressing concern about their previous insurance policy expiring before the issue was resolved.","{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the inconvenience caused by the delayed policy cancellation, despite the customer expressing concern about their previous insurance policy expiring before the issue was resolved."", ""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""}",2.811561107635498,True,"```json
+{
+        ""Apology_result"": ""Not Met"",
+        ""Apology_evidence"": ""Agent did not apologize for the inconvenience caused by the delayed policy cancellation, despite the customer expressing concern about their previous insurance policy expiring before the issue was resolved."",
+        ""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""
+}
+```"
+d8edad94-cb55-44b8-98d9-bd72248c5ca9,3762,जी ma'am. मैं आपको चाहूंगा लेकिन      तो करना Good afternoon. This is प्रतीक. today I am going to assist you. Am I speaking to दर्शन? Yes. Good afternoon. This is प्रतीक. हां मैंने order किया था कल मे...,2026-03-17T18:07:47.428570,Gemma,apology,Met,माफी चाहूंगा आपके साथ जो परेशानी हुआ है,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""माफी चाहूंगा आपके साथ जो परेशानी हुआ है"", ""Apology_Category"": """"}",1.8812904357910156,True,"```json
+{
+        ""Apology_result"": ""Met"",
+        ""Apology_evidence"": ""माफी चाहूंगा आपके साथ जो परेशानी हुआ है"",
+        ""Apology_Category"": """"
+}
+```"
+a02e23d2-aa48-41c0-a2c5-2114886e9ca1,2934,"Good afternoon शशांक this is  calling you from Cred on a recorded line. Yes yes. Actually,  having a conversation and the call got disconnected Yeah, got disconnected Yeah. Yes, I  apologize for the i...",2026-03-17T18:07:50.960739,Gemma,apology,Met,"Yes, I apologize for the inconvenience","{""Apology_result"": ""Met"", ""Apology_evidence"": ""Yes, I apologize for the inconvenience"", ""Apology_Category"": """"}",1.5319886207580566,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""Yes, I apologize for the inconvenience"",
+""Apology_Category"": """"
+}
+```"
+9ef4dbec-ec9e-4e73-9f5d-939325d99c18,2957,Good morning. My name is. I'm here to assist you today. Am I speaking with दास? Yes  sir. Ok. Thanks for confirming your name. As I can check that you have raised a concern regarding a product from  t...,2026-03-17T18:07:54.730115,Gemma,apology,Met,I'm really sorry that you're facing this inconvenience from our end.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry that you're facing this inconvenience from our end."", ""Apology_Category"": """"}",1.7691545486450195,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm really sorry that you're facing this inconvenience from our end."",
+""Apology_Category"": """"
+}
+```"
+4e7cc419-ccf7-42b2-85c0-b52a2da2e8bc,3735,"morning. This is मोहम्मद I will be assisting you today. Am I speaking with प्रमेश nan Yes. you so much for confirming your name. Tell So my Yeah, I was supposed to receive my order last week. I was no...",2026-03-17T18:07:58.481159,Gemma,apology,Met,I completely understand and apologize for the inconvenience caused to you,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I completely understand and apologize for the inconvenience caused to you"", ""Apology_Category"": """"}",1.7508587837219238,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I completely understand and apologize for the inconvenience caused to you"",
+""Apology_Category"": """"
+}
+```"
+22596fb0-77b7-4820-8604-9b9236d65fa6,3099,"Good morning,  I am here to assist you today. Am I speaking with लक्ष्य? Yeah, I am लक्ष्मी speaking. yesterday also I have call the customer support regarding my policy renewal the document is still ...",2026-03-17T18:08:02.058960,Gemma,apology,Met,Really sorry for the issue that you are facing.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""Really sorry for the issue that you are facing."", ""Apology_Category"": """"}",1.5774710178375244,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""Really sorry for the issue that you are facing."",
+""Apology_Category"": """"
+}
+```"
+adac574e-4425-426d-b5bd-c80b9c33741f,1713,evening. This is  I am here here to assist you. Am I speaking with सुमित? confirm your As I can see your concern is regarding the  as you have mentioned the payment is but the policy is not showing. n...,2026-03-17T18:08:05.773696,Gemma,apology,Met,I'm really sorry for the issue you have faced,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry for the issue you have faced"", ""Apology_Category"": """"}",1.7145891189575195,True,"```json
+{
+    ""Apology_result"": ""Met"",
+    ""Apology_evidence"": ""I'm really sorry for the issue you have faced"",
+    ""Apology_Category"": """"
+}
+```"
+d4e0566e-943e-4364-b61d-ac0b00a4ef2b,1790,"I'm here to assist you today. Am I speaking with साहिल? you for confirming your name साहिल. As I can see, you have raised a concern regarding transaction ###rupees in which you paid 18 rupees convenie...",2026-03-17T18:08:09.322250,Gemma,apology,Met,I really apologize for the inconvenience,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I really apologize for the inconvenience"", ""Apology_Category"": """"}",1.5484097003936768,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I really apologize for the inconvenience"",
+""Apology_Category"": """"
+}
+```"
+0f070971-d446-4cfb-9a13-9a383fb71d2a,2341,evening. This is प्रेम. I am here to assist you. Am I speaking with मोहम्मद अब्दुल. राव? हां. Yes. for the confirmation of  name अब्दुल. As I can check from  that you have raised a concern regarding y...,2026-03-17T18:08:13.760037,Gemma,apology,Met,"लेकिन आप निश्चिंत रहें, हम आपकी सहायता करने के लिए आपके लिए बेहद माफ़ी चाहेंगे हम इसके लिए ","{""Apology_result"": ""Met"", ""Apology_evidence"": ""लेकिन आप निश्चिंत रहें, हम आपकी सहायता करने के लिए आपके लिए बेहद माफ़ी चाहेंगे हम इसके लिए "", ""Apology_Category"": """"}",2.4376049041748047,True,"```json
+{
+    ""Apology_result"": ""Met"",
+    ""Apology_evidence"": ""लेकिन आप निश्चिंत रहें, हम आपकी सहायता करने के लिए आपके लिए बेहद माफ़ी चाहेंगे हम इसके लिए "",
+    ""Apology_Category"": """"
+}
+```"
+9ee602bb-fb79-4d1e-9cdc-4b23e37f8691,2668,evening. This is रोहित here to assist you today. Am I speaking with अमोल Yes speaking. Thank you for confirming your name अमोल and as I can check that you have raised a concern regarding your policy a...,2026-03-17T18:08:18.397386,Gemma,apology,Met,I'm very sorry that you had to face this inconvenience but as I can check that your KYC status is still showing in progress  I'd like to raise this concern to our internal department and I'm very sorry for this inconvenience as well.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm very sorry that you had to face this inconvenience but as I can check that your KYC status is still showing in progress  I'd like to raise this concern to our internal department and I'm very sorry for this inconvenience as well."", ""Apology_Category"": """"}",2.637206554412842,True,"{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm very sorry that you had to face this inconvenience but as I can check that your KYC status is still showing in progress  I'd like to raise this concern to our internal department and I'm very sorry for this inconvenience as well."",
+""Apology_Category"": """"
+}"
+2e884fcf-dac9-4d09-954a-478299a2d841,2668,"evening. This is अंकित I am here to assist you today. Am I speaking with कार्तिक? हां, yes sir. and charging only. you for confirming. Actually, हां yeah. Previously I used  credit wallet with other 1...",2026-03-17T18:08:21.859941,Gemma,apology,Met,my apologize for this inconvenience.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""my apologize for this inconvenience."", ""Apology_Category"": """"}",1.4623980522155762,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""my apologize for this inconvenience."",
+""Apology_Category"": """"
+}
+```"
+70100a96-b855-4d3e-a398-0d330e8dab42,2717,"Good morning. My name is  I'm here to assist you today. Am I speaking with सूरज? am I speaking with सूरज? Ok, thank you for confirming your name. सूरज as I check that you raised the concern regarding ...",2026-03-17T18:08:26.404942,Gemma,apology,Not Met,Agent did not apologize for the customer's confusion regarding loan foreclosure despite the customer expressing the need for clarification multiple times.,"{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the customer's confusion regarding loan foreclosure despite the customer expressing the need for clarification multiple times."", ""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""}",2.5448601245880127,True,"```json
+{
+""Apology_result"": ""Not Met"",
+""Apology_evidence"": ""Agent did not apologize for the customer's confusion regarding loan foreclosure despite the customer expressing the need for clarification multiple times."",
+""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""
+}
+```"
+20c61940-b21f-47aa-90a5-bbc67fd6a4fc,2999,Good afternoon. This is कुमार How may I assist you today? Am I speaking with प्रसाद? Hello. Am I speaking with Yes yes. you so much प्रसाद for confirming your name. I can check that you have raised yo...,2026-03-17T18:08:30.680410,Gemma,apology,Met,I'm really sorry for the inconvenience प्रसाद that your product has not been yet delivered to you as you have mentioned here,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry for the inconvenience प्रसाद that your product has not been yet delivered to you as you have mentioned here"", ""Apology_Category"": """"}",2.275313377380371,True,"```json
+{
+  ""Apology_result"": ""Met"",
+  ""Apology_evidence"": ""I'm really sorry for the inconvenience प्रसाद that your product has not been yet delivered to you as you have mentioned here"",
+  ""Apology_Category"": """"
+}
+```"
+9d6609b4-0dae-4621-8079-461d3d48db8a,1599,"Good afternoon this is  I am here to assist. Am I speaking with भास्कर? So there is a product which we added  banks. it was showing delivered but but it has not been delivered to you. Yeah, but produc...",2026-03-17T18:08:34.402468,Gemma,apology,Met,"First of all, I apologize for the inconvenience definitely I will help you out with that, ok?","{""Apology_result"": ""Met"", ""Apology_evidence"": ""First of all, I apologize for the inconvenience definitely I will help you out with that, ok?"", ""Apology_Category"": """"}",1.7219135761260986,True,"{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""First of all, I apologize for the inconvenience definitely I will help you out with that, ok?"",
+""Apology_Category"": """"
+}"
+0b8a3db5-40c4-4f0c-927a-96a4a77f749d,3622,"Good afternoon, this is   may I assist you today? Am I speaking with you  for confirming your name. I can check that you have raised a concern regarding a product which is from Yes. electricity liter ...",2026-03-17T18:08:38.041145,Gemma,apology,Met,I'm really sorry for such kind of experience.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry for such kind of experience."", ""Apology_Category"": """"}",1.63853120803833,True,"{
+    ""Apology_result"": ""Met"",
+    ""Apology_evidence"": ""I'm really sorry for such kind of experience."",
+    ""Apology_Category"": """"
+}    
+
+
+"
+267c4e7b-7191-493c-9af3-51b64a6fb700,1903,Good afternoon. This is I'm here to assist you today. Am I speaking with राहुल? नाम confirm करने का. language आ रही राहुल am I comfortable Are you comfortable in हिंदी or English? ok but I am  लिया. I...,2026-03-17T18:08:41.582744,Gemma,apology,Met,I really apologize for that,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I really apologize for that"", ""Apology_Category"": """"}",1.5414505004882812,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I really apologize for that"",
+""Apology_Category"": """"
+}
+```"
+9b66ed6e-6829-47e0-91d3-681f6d56cefb,3923,"Hello. afternoon. I'm  calling nan हां हां हमारे   से  बात हो रहा है आपका हां, अमित जी आपका हां. का का पैसा मैंने order किया था लेकिन अभी तक आया नहीं तेईस बार   order किया हां जी, अमित जी. मैं उसी के ...",2026-03-17T18:08:46.240190,Gemma,apology,Not Met,"Agent did not apologize for the delayed delivery of the customer's order and the missed date, despite the customer expressing concern.","{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the delayed delivery of the customer's order and the missed date, despite the customer expressing concern."", ""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""}",2.6572935581207275,True,"```json
+{
+    ""Apology_result"": ""Not Met"",
+    ""Apology_evidence"": ""Agent did not apologize for the delayed delivery of the customer's order and the missed date, despite the customer expressing concern."",
+    ""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""
+}
+```"
+92f24dce-3ce6-46b2-b2cd-868da31174b1,2895,"Good afternoon, this is ना. I am here to assist you today. Am I speaking with  श्रवण? हां हां. you for confirming your name. So as I can check that you have raised a concern regarding credit cash abou...",2026-03-17T18:08:50.222877,Gemma,apology,Met,माफ़ी चाहेंगे अतुल जी. system issue की वजह से call automatically hold हो गया,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""माफ़ी चाहेंगे अतुल जी. system issue की वजह से call automatically hold हो गया"", ""Apology_Category"": """"}",1.9825007915496826,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""माफ़ी चाहेंगे अतुल जी. system issue की वजह से call automatically hold हो गया"",
+""Apology_Category"": """"
+}
+```"
+6a3e8c52-2ecd-4320-97bf-d90a5a92e3b7,2858,morning. This is सोमी I will be assisting you today. Am I speaking with शशांक Yeah. Thank you so much for confirming your name शशांक I can check that you have raised a concern regarding your order is ...,2026-03-17T18:08:54.019578,Gemma,apology,Met,"Ok, I completely understand and apologize for the inconvenience caused to you","{""Apology_result"": ""Met"", ""Apology_evidence"": ""Ok, I completely understand and apologize for the inconvenience caused to you"", ""Apology_Category"": """"}",1.7965574264526367,True,"```json
+{
+    ""Apology_result"": ""Met"",
+    ""Apology_evidence"": ""Ok, I completely understand and apologize for the inconvenience caused to you"",
+    ""Apology_Category"": """"
+}
+```"
+06bb5005-ff3c-4f2b-a637-b95f5e244c78,3056,"Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes. hi. Hi not. So the thing is I I tried doing a payment through credit  like, I was transferring  some educatio...",2026-03-17T18:08:58.083004,Gemma,apology,Met,"First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you.","{""Apology_result"": ""Met"", ""Apology_evidence"": ""First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you."", ""Apology_Category"": """"}",2.0632822513580322,True,"```json
+{
+  ""Apology_result"": ""Met"",
+  ""Apology_evidence"": ""First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you."",
+  ""Apology_Category"": """"
+}
+```"
+d8e41f6d-f5a5-4d43-bb48-6d29083c1c41,1558,morning. and अंशिका I am here to assist you today. Am I speaking to साहू? Madam मैंने कल  bank account में  credit card में bill payment किया था लेकिन मेरे account में double money deduct हो गया. जी  ...,2026-03-17T18:09:01.828536,Gemma,apology,Met,माफी चाहूंगी आपको यह असुविधा हुई,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""माफी चाहूंगी आपको यह असुविधा हुई"", ""Apology_Category"": """"}",1.7452762126922607,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""माफी चाहूंगी आपको यह असुविधा हुई"",
+""Apology_Category"": """"
+}
+```"
+630da169-e9b1-4529-ac7a-a978e9f60150,1838,Good afternoon. This is सिद्धार्थ. How  to assist you today. Am I speaking with शुभ हां तो बात कर रहा हूं. Actually मेरा card का मैंने payment किया था tuition but वह fail हो गया but मेरा अभी भी accoun...,2026-03-17T18:09:05.577418,Gemma,apology,Met, समझ सकते हैं आपके लिए काफी मुश्किल होगा,"{""Apology_result"": ""Met"", ""Apology_evidence"": "" समझ सकते हैं आपके लिए काफी मुश्किल होगा"", ""Apology_Category"": """"}",1.7487273216247559,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": "" समझ सकते हैं आपके लिए काफी मुश्किल होगा"",
+""Apology_Category"": """"
+}
+```"
+11683cda-dc5f-4cb8-a3c5-4d0791987cc7,3007,"morning. My name is निकिता. I'm here to assist you today. Am I speaking with निलेश? you very much for confirming your name, कि. So you   get an update that you raised a concern regarding the credit ca...",2026-03-17T18:09:09.309996,Gemma,apology,Met,"First of all, I'm sorry for the inconvenience caused to you.","{""Apology_result"": ""Met"", ""Apology_evidence"": ""First of all, I'm sorry for the inconvenience caused to you."", ""Apology_Category"": """"}",1.7324256896972656,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""First of all, I'm sorry for the inconvenience caused to you."",
+""Apology_Category"": """"
+}
+```"
+42a803fa-53e5-48a2-8b4b-c3a9277fe50b,2184,Good afternoon. This is राम. I am here to assist you today. Am I speaking with जी? hours नाम confirm करने के लिए धन्यवाद. जी क्या आप अपना एक concern elaborate कर देंगे please? जी मैं आपसे request कर र...,2026-03-17T18:09:13.679399,Gemma,apology,Not Met,Agent did not apologize for the customer's confusion and initial frustration regarding their credit card bill payment.,"{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the customer's confusion and initial frustration regarding their credit card bill payment."", ""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""}",2.369178056716919,True,"```json
+{
+        ""Apology_result"": ""Not Met"",
+        ""Apology_evidence"": ""Agent did not apologize for the customer's confusion and initial frustration regarding their credit card bill payment."",
+        ""Apology_Category"": ""2. Customer expresses frustration, but agent does not acknowledge it""
+}
+```"
+095df596-5b74-4815-a86c-c02343a85509,1665,morning. My name is शुक्रिया. I am here to assist you today. Am I speaking with कुशल या? Thank you for confirming. you have raised a concern regarding credit  Basically regarding the   finance. like y...,2026-03-17T18:09:17.081449,Gemma,apology,Met,very sorry for that,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""very sorry for that"", ""Apology_Category"": """"}",1.401892900466919,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""very sorry for that"",
+""Apology_Category"": """"
+}
+```"
+b6e54447-103c-49f7-b6f0-e8621a56c246,2159,"Good evening. My name is I'm here to assist you today. Am I speaking with साहिल? Yeah, I am साई speaking. Ok. Thanks for confirming your name साहिल. As I can check that you have raised a concern regar...",2026-03-17T18:09:21.232421,Gemma,apology,Met,I'm really sorry that you have not received your order yet. It's been a long time. I'm really sorry for that.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry that you have not received your order yet. It's been a long time. I'm really sorry for that."", ""Apology_Category"": """"}",2.1508116722106934,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm really sorry that you have not received your order yet. It's been a long time. I'm really sorry for that."",
+""Apology_Category"": """"
+}
+```"
+d1a3761b-ffe1-4115-9076-531fc8424088,3003,"evening. This is विशाल calling from on a recorded line. Am I speaking with राकेश? जी sir, good evening. Hi, good evening राज जी नाम confirm करने के लिए शुक्रिया राय जी.  क्या सही समय है आपसे बात करने ...",2026-03-17T18:09:24.965583,Gemma,apology,Met,माफ़ी चाहेंगे आपकी परेशानी के लिए.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""माफ़ी चाहेंगे आपकी परेशानी के लिए."", ""Apology_Category"": """"}",1.7329177856445312,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""माफ़ी चाहेंगे आपकी परेशानी के लिए."",
+""Apology_Category"": """"
+}
+```"
+585dd7d4-4a1d-415e-bd6b-c56e3ebcb2d6,3210,"Good evening. My name is नीतीश. I am calling you from Cred on a recorded line. I am talking to संजय? Yeah, speaking. you for the confirmation. I can see that you have raised a concern regarding the cr...",2026-03-17T18:09:28.733840,Gemma,apology,Met,extremely sorry for the inconvenience रंजीत.  I'm extremely sorry for you so much.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""extremely sorry for the inconvenience रंजीत.  I'm extremely sorry for you so much."", ""Apology_Category"": """"}",1.7681148052215576,True,"{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""extremely sorry for the inconvenience रंजीत.  I'm extremely sorry for you so much."",
+""Apology_Category"": """"
+}"
+5f2f449a-8d5d-4a8c-bb16-f771a6669087,1945,Good evening. This is  I'm here to assist you today. Am I speaking with दीपक? जी sir. नाम confirm करने के लिए धन्यवाद दीपक. जैसे कि मैं देख पा रहा हूं आपने concern raise किया है refund  के regarding C...,2026-03-17T18:09:32.514657,Gemma,apology,Met,माफी चाहूंगा जो भी असुविधा का सामना आपको करना पड़ा,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""माफी चाहूंगा जो भी असुविधा का सामना आपको करना पड़ा"", ""Apology_Category"": """"}",1.780674695968628,True,"{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""माफी चाहूंगा जो भी असुविधा का सामना आपको करना पड़ा"",
+""Apology_Category"": """"
+}
+"
+20059b00-5e96-4caa-98b7-19c0000adae6,1699,"afternoon,     here to assist you today. Am I speaking with अविनाश? Good afternoon, I am ना. can I  can you speak in nan I can speak in English and I'm very sorry, I can speak  line हां, ok ok. Please...",2026-03-17T18:09:36.094136,Gemma,apology,Met,I'm very sorry for that first of all.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm very sorry for that first of all."", ""Apology_Category"": """"}",1.5792961120605469,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm very sorry for that first of all."",
+""Apology_Category"": """"
+}
+```"
+830a5b45-fbf1-4d79-acf7-a182cbe7e7be,2614,"Good morning. This is    here to assist you. Am I speaking with सादत? Yeah, hi collect. Hi सबा. So, Yes speaking. Yeah. Actually, my credit order is   delivered  and the delivery  person came to my na...",2026-03-17T18:09:39.552183,Gemma,apology,Met,I apologize for that inconvenience.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I apologize for that inconvenience."", ""Apology_Category"": """"}",1.4577958583831787,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I apologize for that inconvenience."",
+""Apology_Category"": """"
+}
+```"
+be00850c-1822-454d-84bd-7fbbe07c5998,3070,"evening. This is प्रीतम. I'm here to assist you. Am I speaking with शंकर? nan Yeah, is शंकर? Thanks  thanks for the confirmation  पंकज. my product was not getting delivered it is showing out of delive...",2026-03-17T18:09:43.668482,Gemma,apology,Met,"First of all, I would like to apologize for this inconvenience and I'm extremely sorry for this issue शंकर","{""Apology_result"": ""Met"", ""Apology_evidence"": ""First of all, I would like to apologize for this inconvenience and I'm extremely sorry for this issue शंकर"", ""Apology_Category"": """"}",2.1159913539886475,True,"```json
+{
+  ""Apology_result"": ""Met"",
+  ""Apology_evidence"": ""First of all, I would like to apologize for this inconvenience and I'm extremely sorry for this issue शंकर"",
+  ""Apology_Category"": """"
+}
+```"
+02719540-46f4-482b-969e-14b50bbe3285,3129,"Good evening, this is  I am here to assist you today. Am I speaking with मनीष? as you can see that I have purchased  completed from the So I   see that       from the credit and that  is not getting d...",2026-03-17T18:09:48.895796,Gemma,apology,Met,I can understand extremely sorry that you  inconvenience we will surely help you as I can check that your product which is from the see company and it is  smart  pack of 2 and you are maximum delivery time which was still first of match and the product has not been delivered yet extremely sorry for that.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I can understand extremely sorry that you  inconvenience we will surely help you as I can check that your product which is from the see company and it is  smart  pack of 2 and you are maximum delivery time which was still first of match and the product has not been delivered yet extremely sorry for that."", ""Apology_Category"": """"}",3.22713565826416,True,"```json
+{
+        ""Apology_result"": ""Met"",
+        ""Apology_evidence"": ""I can understand extremely sorry that you  inconvenience we will surely help you as I can check that your product which is from the see company and it is  smart  pack of 2 and you are maximum delivery time which was still first of match and the product has not been delivered yet extremely sorry for that."",
+        ""Apology_Category"": """"
+}
+```"
+96d97237-1192-4d22-a836-9624908817dc,2739,Good afternoon. This is This is calling from recorded line. Am I speaking with आकाश? हां बात करो बोलिए. जी आकाश जैसे कि मैं देख पा रहा हूं आपने statement भेजा थी अपनी HDFC हां हां. यह आपने payment dat...,2026-03-17T18:09:52.605840,Gemma,apology,Met,आसुविधा के लिए बहुत बहुत माफी चाहूंगा,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""आसुविधा के लिए बहुत बहुत माफी चाहूंगा"", ""Apology_Category"": """"}",1.7098743915557861,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""आसुविधा के लिए बहुत बहुत माफी चाहूंगा"",
+""Apology_Category"": """"
+}
+```"
+05bc2f79-e454-456e-b588-00128c679dde,1673,"morning. This is  I will be assisting you today. Am I speaking with पवन Yeah hi, actually I called regarding 1 of my order which I wanted to return and I see the I don't know what's the current status...",2026-03-17T18:09:56.290918,Gemma,apology,Met,Understand. I completely understand and I apologize for the inconvenience caused to you.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""Understand. I completely understand and I apologize for the inconvenience caused to you."", ""Apology_Category"": """"}",1.684929609298706,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""Understand. I completely understand and I apologize for the inconvenience caused to you."",
+""Apology_Category"": """"
+}
+```"
+24ba9529-527f-4133-8f7b-0c5eab96d29b,2315,"Good afternoon, this is वरीता. I will be assisting you today. Am I speaking with रोहित? Yeah, good afternoon ma'am. I have raised a complaint regarding my last order. Yes, as it is your product from m...",2026-03-17T18:10:00.150013,Gemma,apology,Met,I'm really sorry for the long hold. I really apologize for the delay,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry for the long hold. I really apologize for the delay"", ""Apology_Category"": """"}",1.8589186668395996,True,"```json
+{
+  ""Apology_result"": ""Met"",
+  ""Apology_evidence"": ""I'm really sorry for the long hold. I really apologize for the delay"",
+  ""Apology_Category"": """"
+}
+```"
+60a8d089-44c3-411d-b5cc-c24733d5acdd,1959,"Good morning. This is  I will be assisting you Good morning, madam. Good morning, madam. विषय नाम से. Good morning, madam. Good morning, madam. Am I audible करना? मेरा कृष्णा कर मेरा कृष्णा कर Yes, th...",2026-03-17T18:10:04.492451,Gemma,apology,Not Met,"Agent did not apologize for the customer's inability to understand the language, despite the customer repeatedly stating their preference for Telugu.","{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the customer's inability to understand the language, despite the customer repeatedly stating their preference for Telugu."", ""Apology_Category"": ""No acknowledgment of customer inconvenience""}",2.3422534465789795,True,"```json
+{
+    ""Apology_result"": ""Not Met"",
+    ""Apology_evidence"": ""Agent did not apologize for the customer's inability to understand the language, despite the customer repeatedly stating their preference for Telugu."",
+    ""Apology_Category"": ""No acknowledgment of customer inconvenience""
+}
+```"

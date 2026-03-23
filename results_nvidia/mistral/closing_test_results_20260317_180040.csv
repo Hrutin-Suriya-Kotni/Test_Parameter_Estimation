@@ -1,0 +1,545 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-17T17:55:55.003806,Mistral,closing,Not Met,No specific phrase indicating interest in providing further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No specific phrase indicating interest in providing further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Request for feedback and transfer to IVR for rating"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Polite closing statement 'You have a great day ahead'""}",2.7241568565368652,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No specific phrase indicating interest in providing further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Request for feedback and transfer to IVR for rating"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Polite closing statement 'You have a great day ahead'""
+}
+```"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-17T17:55:59.246605,Mistral,closing,Not Met,feedback IVR transfer,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": null, ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR transfer"", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": null}",2.2410759925842285,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": null,
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR transfer"",
+    ""Greeting"": ""Not Met"",
+    ""Greeting_Evidence"": null
+}
+```"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-17T17:56:03.773373,Mistral,closing,Not Met,No explicit question about further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question about further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Transferring call to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Good afternoon, I am here to assist you.""}",2.5245888233184814,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question about further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Transferring call to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Good afternoon, I am here to assist you.""
+}
+```"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-17T17:56:08.940784,Mistral,closing,Not Met,No question was asked to check if the customer had any other issues or needed further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No question was asked to check if the customer had any other issues or needed further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent requested feedback from the customer by forwarding the call to an IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call politely with the phrase 'You're welcome'""}",3.1652493476867676,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No question was asked to check if the customer had any other issues or needed further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent requested feedback from the customer by forwarding the call to an IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call politely with the phrase 'You're welcome'""
+}
+```"
+11520c16-512e-41c8-b28e-f4f7494b3636,2324,Very good evening. This is शशि. I'm here to assist you today. Am I speaking with सूरज? Thank you for confirming. I can see your request is regarding the withdrawal of cash. Could you please elaborate ...,2026-03-17T17:56:15.086403,Mistral,closing,Met,Is there anything else I can help with you today?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Is there anything else I can help with you today?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""I will transfer your call to the IVR feedback where you can have to select 1 to 5 where 5 is being excellent and 1 mean you for choosing Cred."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Just I will transfer your call to the IVR feedback where you can have to select 1 to 5 where 5 is being excellent and 1 mean you for choosing Cred. I hope you have a great day. Thank""}",4.1439125537872314,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Is there anything else I can help with you today?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""I will transfer your call to the IVR feedback where you can have to select 1 to 5 where 5 is being excellent and 1 mean you for choosing Cred."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Just I will transfer your call to the IVR feedback where you can have to select 1 to 5 where 5 is being excellent and 1 mean you for choosing Cred. I hope you have a great day. Thank""
+}
+```"
+727a8769-3a93-451d-a837-91f903ddbc0a,3241,Good morning. This is  I am here to assist you. Am I speaking with रोहित? Hi रोहित. So you have reached out to us with the concern stating that there was a item which you have purchased and you are fa...,2026-03-17T17:56:21.375884,Mistral,closing,Met,"But can you check there is not moving also, all the 3 products, I would request you to please wait till sixth of March. will help you out in the concern post expected delivery date Then only we will be getting an option available.","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""But can you check there is not moving also, all the 3 products, I would request you to please wait till sixth of March. will help you out in the concern post expected delivery date Then only we will be getting an option available."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""I'll be transferring the call to the feedback IVR."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you. I'll be transferring the call to the feedback IVR. You can rate between 1 to 5. 1 being poor and 5 being excellent. Thank you for choosing. Hope you have a great day.""}",4.28741455078125,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""But can you check there is not moving also, all the 3 products, I would request you to please wait till sixth of March. will help you out in the concern post expected delivery date Then only we will be getting an option available."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""I'll be transferring the call to the feedback IVR."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Thank you. I'll be transferring the call to the feedback IVR. You can rate between 1 to 5. 1 being poor and 5 being excellent. Thank you for choosing. Hope you have a great day.""
+}
+```"
+0fb2cc5a-9d80-4510-9239-d58de5c5fcaf,3730,Good morning and अंशिका I am here to assist you today. Am I speaking to शुभम Yes. Thank you for the name confirmation शुभम. I see that you have raised a concern regarding the outstanding payment or IC...,2026-03-17T17:56:25.964456,Mistral,closing,Not Met,No explicit question about further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question about further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Transfer of call to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Ended the call politely with a positive closing statement""}",2.586932420730591,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question about further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Transfer of call to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Ended the call politely with a positive closing statement""
+}
+```"
+895ec893-7e66-4f0b-8605-2003e06e8a6d,2668,"Good morning. This is. May I assist you today? Am I speaking with ओम? Yes speaking. May I know you nan रंजीत. Yeah, रंजीत. and my car insurance was expiring in 2 days. So I have renewed my car insuran...",2026-03-17T17:56:30.355349,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""transferring this call to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""I hope you have a great day.""}",2.388683795928955,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""transferring this call to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""I hope you have a great day.""
+}
+```"
+7d2da038-64e0-4380-9c82-7a955e6fe8b3,1604,Good evening this is  I am here to assist you today. Am I speaking with अंदर? जी मैंने payment किया मैं आपका concern समझ पा रही हूं आप please एक बार confirm कर सकते हैं क्या मेरी बात चंद्र से ही हो रह...,2026-03-17T17:56:36.886375,Mistral,closing,Not Met,No explicit question asked about further assistance.,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question asked about further assistance."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent closed the call with a positive statement ('We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. nan Please press the number on your dial pack to confirm madam. We won't able to register any input. You have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. Thank you and have a good day.')""}",4.528881549835205,True,"
+```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question asked about further assistance."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent closed the call with a positive statement ('We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. nan Please press the number on your dial pack to confirm madam. We won't able to register any input. You have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. Thank you and have a good day.')""
+}
+```"
+a51be59e-cb2a-47fc-8d6c-f9a616b39508,1962,"evening. This is मोहम्मद I'm here to assist you today. Am I speaking with अतुल? Yes. So, I was having an offer of personal loan of BC credit So just wanted to confirm what is the processing fees Yes y...",2026-03-17T17:56:42.167686,Mistral,closing,Met,So is there anything else I can help you with apart from this सु,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""So is there anything else I can help you with apart from this सु"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""So I'm transferring your call to our feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank So also before we end this call, may I just request you to share a valuable feedback on just basis of our conversation?""}",3.279183864593506,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""So is there anything else I can help you with apart from this सु"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""So I'm transferring your call to our feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Thank So also before we end this call, may I just request you to share a valuable feedback on just basis of our conversation?""
+}
+```"
+8bdbd2b2-77bb-4ca7-9bf6-576b7c72b041,2568,Good morning. This is  here. I am calling from Cred on a recorded line. Am I speaking हां जी बताइए. धन्यवाद आपका नाम confirm करने के लिए अंजलि. आपने concern     speak  बात जी जी. हां बताइए ना बताना. व...,2026-03-17T17:56:47.078647,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""You have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. nan Thank you and have a good day.""}",2.9090774059295654,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""You have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. nan Thank you and have a good day.""
+}
+```"
+fda7f28e-510d-470a-ab70-907dc354da50,3539,Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? जी हां. जी ह...,2026-03-17T17:56:56.779663,Mistral,closing,Met,Just Ap call end करने से पहले आपसे किसी और चीज़ में मदद कर सकता हूं आपकी?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Just Ap call end करने से पहले आपसे किसी और चीज़ में मदद कर सकता हूं आपकी?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""मैं आपकी call को feedback IVR पर transfer कर रहा हूं हमारी बातचीत के अनुसार पर हमें एक से पांच के beach में rating दे सकते हैं."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Call end करने से पहले आपसे छोटी सी request कर सकता हूं हमारे feedback के लिए हमारे बातचीत के अनुसार पर इसमें  तीन से पांच second लगेंगे.""}",7.699146270751953,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Just Ap call end करने से पहले आपसे किसी और चीज़ में मदद कर सकता हूं आपकी?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""मैं आपकी call को feedback IVR पर transfer कर रहा हूं हमारी बातचीत के अनुसार पर हमें एक से पांच के beach में rating दे सकते हैं."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Call end करने से पहले आपसे छोटी सी request कर सकता हूं हमारे feedback के लिए हमारे बातचीत के अनुसार पर इसमें  तीन से पांच second लगेंगे.""
+}
+```"
+41fea115-b055-4c5e-ab8f-4573ca4e3e69,2124,"Good afternoon. This is  I'm here to assist you today. Am I speaking with हर्ष? Yeah. Yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regardin...",2026-03-17T17:57:01.699773,Mistral,closing,Not Met,No specific phrase for further assistance was used.,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No specific phrase for further assistance was used."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent requested feedback by asking to rate the interaction on a scale."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call with 'Thank you and have a good day.'""}",2.9182393550872803,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No specific phrase for further assistance was used."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent requested feedback by asking to rate the interaction on a scale."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call with 'Thank you and have a good day.'""
+}
+```"
+c135d6ad-2c05-4438-93a9-2c6d6392d5ad,3956,Good morning. This is प्रतीक  today I am going to assist you. Today I'm calling you from Cred on a recording line. Can you hear me? Am I speaking to सुभाष? बोल रहा हूं sir. जी नाम confirm करने के लिए ...,2026-03-17T17:57:05.954639,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": """"}",2.2531139850616455,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+    ""Greeting"": ""Not Met"",
+    ""Greeting_Evidence"": """"
+}
+```"
+cedf0f1b-f4f3-4b3a-af5c-d326037dfc24,2881,"Good morning. I'm अंशिका. I'm here to assist you today. Am I speaking to आकाश? Yeah, आकाश बात धन्यवाद नाम confirm करने के लिए आकाश. देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की e...",2026-03-17T17:57:11.392489,Mistral,closing,Not Met,No explicit question asking for further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question asking for further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Transferring the call to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Polite closing statement 'Thank you. We request you to rate your experience'""}",3.435960531234741,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question asking for further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Transferring the call to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Polite closing statement 'Thank you. We request you to rate your experience'""
+}
+```"
+bf86eb1c-fa60-444f-bfa8-9a354c9184b6,1689,"Good afternoon. This is  calling you from Cred on a recorded line. Am I speaking to कुनाल? Yes ma'am. Yes कुणाल, So is this the right time to talk to Yeah tell me. Yes. So, while conversation the call...",2026-03-17T17:57:16.415955,Mistral,closing,Not Met,No specific further assistance question was asked.,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No specific further assistance question was asked."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call with a positive closing statement ('I hope you have a great day ahead कुणाल').""}",3.021451711654663,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No specific further assistance question was asked."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call with a positive closing statement ('I hope you have a great day ahead कुणाल').""
+}
+```"
+0c5c8347-1c71-42b4-bf80-82ce69c208c5,1771,"Good morning, this is राज. I am here to assist. Am I speaking with सुप्रिया? बहुत बहुत धन्यवाद नाम confirm करने के जी जैसे कि मैं देख पा रहा हूं यहां पर आपने concern raise किया है repayment की behalf ...",2026-03-17T17:57:21.386690,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Credit से जुड़े आपका दिन शुभ हो धन्यवाद""}",2.969219207763672,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Credit से जुड़े आपका दिन शुभ हो धन्यवाद""
+}
+```"
+557bb0fc-7ace-4d23-84ac-ace5978d0c10,3120,"afternoon. This is सुष्मिता. I am here to assist you today. Am I speaking with in? Yeah, दिन. you so much for confirming your name अमित. So as I can check from my end, you have raised a concern regard...",2026-03-17T17:57:26.155886,Mistral,closing,Not Met,No explicit question about further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question about further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""transferring call to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call with 'I hope you have a great day ahead'""}",2.7674238681793213,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question about further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""transferring call to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call with 'I hope you have a great day ahead'""
+}
+```"
+d8edad94-cb55-44b8-98d9-bd72248c5ca9,3762,जी ma'am. मैं आपको चाहूंगा लेकिन      तो करना Good afternoon. This is प्रतीक. today I am going to assist you. Am I speaking to दर्शन? Yes. Good afternoon. This is प्रतीक. हां मैंने order किया था कल मे...,2026-03-17T17:57:32.888428,Mistral,closing,Not Met,"Until the end of the transcript, there is no indication that the agent asked about further assistance.","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Until the end of the transcript, there is no indication that the agent asked about further assistance."", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": ""There is no evidence that the agent asked for feedback or transferred the call to an IVR for feedback."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call with a positive closing statement (`Thank you We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack to rate. You have just helped us improve the credit experience for all our members. nan Do reach out again in case of any other concerns.`)""}",4.73040771484375,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Until the end of the transcript, there is no indication that the agent asked about further assistance."",
+    ""Effective_IVR_Survey"": ""Not Met"",
+    ""Effective_IVR_Survey_Evidence"": ""There is no evidence that the agent asked for feedback or transferred the call to an IVR for feedback."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call with a positive closing statement (`Thank you We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack to rate. You have just helped us improve the credit experience for all our members. nan Do reach out again in case of any other concerns.`)""
+}
+```"
+a02e23d2-aa48-41c0-a2c5-2114886e9ca1,2934,"Good afternoon शशांक this is  calling you from Cred on a recorded line. Yes yes. Actually,  having a conversation and the call got disconnected Yeah, got disconnected Yeah. Yes, I  apologize for the i...",2026-03-17T17:57:37.388172,Mistral,closing,Not Met,No further assistance questioned,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No further assistance questioned"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Feedback IVR phrase found"", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": ""No positive closing statement found""}",2.497709035873413,True,"
+```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No further assistance questioned"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Feedback IVR phrase found"",
+    ""Greeting"": ""Not Met"",
+    ""Greeting_Evidence"": ""No positive closing statement found""
+}
+```"
+9ef4dbec-ec9e-4e73-9f5d-939325d99c18,2957,Good morning. My name is. I'm here to assist you today. Am I speaking with दास? Yes  sir. Ok. Thanks for confirming your name. As I can check that you have raised a concern regarding a product from  t...,2026-03-17T17:57:42.143050,Mistral,closing,Not Met,"No, there is no additional assistance required.","{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No, there is no additional assistance required."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""call transfer to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Good morning. My name is. I'm here to assist you today.""}",2.753333330154419,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No, there is no additional assistance required."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""call transfer to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Good morning. My name is. I'm here to assist you today.""
+}
+```"
+4e7cc419-ccf7-42b2-85c0-b52a2da2e8bc,3735,"morning. This is मोहम्मद I will be assisting you today. Am I speaking with प्रमेश nan Yes. you so much for confirming your name. Tell So my Yeah, I was supposed to receive my order last week. I was no...",2026-03-17T17:57:47.511381,Mistral,closing,Not Met,"The customer mentioned a problem other than the expected delivery date, but the agent did not offer further assistance.","{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""The customer mentioned a problem other than the expected delivery date, but the agent did not offer further assistance."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent used a polite and positive closing statement ('Thank you so much. We request you to rate your experience... Have a great day.')""}",3.3669164180755615,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""The customer mentioned a problem other than the expected delivery date, but the agent did not offer further assistance."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent used a polite and positive closing statement ('Thank you so much. We request you to rate your experience... Have a great day.')""
+}
+```"
+22596fb0-77b7-4820-8604-9b9236d65fa6,3099,"Good morning,  I am here to assist you today. Am I speaking with लक्ष्य? Yeah, I am लक्ष्मी speaking. yesterday also I have call the customer support regarding my policy renewal the document is still ...",2026-03-17T17:57:52.449029,Mistral,closing,Not Met,No explicit question about further assistance was asked,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question about further assistance was asked"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": ""No specific request for feedback or transfer to an IVR for feedback"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call politely with a positive closing statement""}",2.9355616569519043,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question about further assistance was asked"",
+    ""Effective_IVR_Survey"": ""Not Met"",
+    ""Effective_IVR_Survey_Evidence"": ""No specific request for feedback or transfer to an IVR for feedback"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call politely with a positive closing statement""
+}
+```"
+adac574e-4425-426d-b5bd-c80b9c33741f,1713,evening. This is  I am here here to assist you. Am I speaking with सुमित? confirm your As I can see your concern is regarding the  as you have mentioned the payment is but the policy is not showing. n...,2026-03-17T17:57:57.342754,Mistral,closing,Met,Is there anything else I can help you with?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Is there anything else I can help you with?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""You can select 1 to 5 ... We request you to rate your experience ... Please press the."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Hello. I hope you have a great day.""}",2.8922159671783447,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Is there anything else I can help you with?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""You can select 1 to 5 ... We request you to rate your experience ... Please press the."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Hello. I hope you have a great day.""
+}
+```"
+d4e0566e-943e-4364-b61d-ac0b00a4ef2b,1790,"I'm here to assist you today. Am I speaking with साहिल? you for confirming your name साहिल. As I can see, you have raised a concern regarding transaction ###rupees in which you paid 18 rupees convenie...",2026-03-17T17:58:02.047657,Mistral,closing,Not Met,No specific phrase asking about further assistance was found,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No specific phrase asking about further assistance was found"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Transfer of call to an IVR for feedback"", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": ""No specific polite closing statement was found""}",2.703193426132202,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No specific phrase asking about further assistance was found"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Transfer of call to an IVR for feedback"",
+    ""Greeting"": ""Not Met"",
+    ""Greeting_Evidence"": ""No specific polite closing statement was found""
+}
+```"
+0f070971-d446-4cfb-9a13-9a383fb71d2a,2341,evening. This is प्रेम. I am here to assist you. Am I speaking with मोहम्मद अब्दुल. राव? हां. Yes. for the confirmation of  name अब्दुल. As I can check from  that you have raised a concern regarding y...,2026-03-17T17:58:06.924623,Mistral,closing,Met,Asked for alternate contact number and nearest landmark.,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Asked for alternate contact number and nearest landmark."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Requested to transfer the call to an IVR for feedback."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Opened the call with a polite greeting""}",2.8751306533813477,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Asked for alternate contact number and nearest landmark."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Requested to transfer the call to an IVR for feedback."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Opened the call with a polite greeting""
+}
+```"
+9ee602bb-fb79-4d1e-9cdc-4b23e37f8691,2668,evening. This is रोहित here to assist you today. Am I speaking with अमोल Yes speaking. Thank you for confirming your name अमोल and as I can check that you have raised a concern regarding your policy a...,2026-03-17T17:58:12.369375,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""you. So I will be transferring this call to our IVR feedback from there you can select between 1 to 5. 5 for being excellent 1 for being poor."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""welcome. And is there anything else regarding credit that I can assist you with right now apart from? Thank""}",3.4424736499786377,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""you. So I will be transferring this call to our IVR feedback from there you can select between 1 to 5. 5 for being excellent 1 for being poor."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""welcome. And is there anything else regarding credit that I can assist you with right now apart from? Thank""
+}
+```"
+2e884fcf-dac9-4d09-954a-478299a2d841,2668,"evening. This is अंकित I am here to assist you today. Am I speaking with कार्तिक? हां, yes sir. and charging only. you for confirming. Actually, हां yeah. Previously I used  credit wallet with other 1...",2026-03-17T17:58:17.181194,Mistral,closing,Not Met,No specific question about further assistance was asked,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No specific question about further assistance was asked"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to the feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call with a polite closing statement ('Have a good day')""}",2.809589147567749,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No specific question about further assistance was asked"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to the feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call with a polite closing statement ('Have a good day')""
+}
+```"
+70100a96-b855-4d3e-a398-0d330e8dab42,2717,"Good morning. My name is  I'm here to assist you today. Am I speaking with सूरज? am I speaking with सूरज? Ok, thank you for confirming your name. सूरज as I check that you raised the concern regarding ...",2026-03-17T17:58:21.508921,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": """"}",2.3255319595336914,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+    ""Greeting"": ""Not Met"",
+    ""Greeting_Evidence"": """"
+}
+```"
+20c61940-b21f-47aa-90a5-bbc67fd6a4fc,2999,Good afternoon. This is कुमार How may I assist you today? Am I speaking with प्रसाद? Hello. Am I speaking with Yes yes. you so much प्रसाद for confirming your name. I can check that you have raised yo...,2026-03-17T17:58:25.922726,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""I hope you have a great day ahead.""}",2.4122250080108643,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""I hope you have a great day ahead.""
+}
+```"
+9d6609b4-0dae-4621-8079-461d3d48db8a,1599,"Good afternoon this is  I am here to assist. Am I speaking with भास्कर? So there is a product which we added  banks. it was showing delivered but but it has not been delivered to you. Yeah, but produc...",2026-03-17T17:58:30.648779,Mistral,closing,Not Met,No explicit question about further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question about further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Transferring the call to the feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Ended the call with a positive closing statement ('Have a great day')""}",2.7242648601531982,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question about further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Transferring the call to the feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Ended the call with a positive closing statement ('Have a great day')""
+}
+```"
+0b8a3db5-40c4-4f0c-927a-96a4a77f749d,3622,"Good afternoon, this is   may I assist you today? Am I speaking with you  for confirming your name. I can check that you have raised a concern regarding a product which is from Yes. electricity liter ...",2026-03-17T17:58:35.637440,Mistral,closing,Not Met,No explicit request for further assistance was made,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit request for further assistance was made"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""transferring the call to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Good afternoon, this is I can check that you have raised a concern regarding a product which is from... (polite greeting)""}",2.9865431785583496,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit request for further assistance was made"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""transferring the call to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Good afternoon, this is I can check that you have raised a concern regarding a product which is from... (polite greeting)""
+}
+```"
+267c4e7b-7191-493c-9af3-51b64a6fb700,1903,Good afternoon. This is I'm here to assist you today. Am I speaking with राहुल? नाम confirm करने का. language आ रही राहुल am I comfortable Are you comfortable in हिंदी or English? ok but I am  लिया. I...,2026-03-17T17:58:42.684584,Mistral,closing,Met,You have just helped us improve the credit experience for all,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""You have just helped us improve the credit experience for all"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Ok Raahul मैं हमारी call को आपके feedback IVR पर transfer करूंगी जहां पर  बातचीत के basis पर एक से पांच के beach में rating दे सकते हैं"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""आपका दिन शुभ हो और होने की  शुभ Raahul""}",5.045069932937622,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""You have just helped us improve the credit experience for all"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Ok Raahul मैं हमारी call को आपके feedback IVR पर transfer करूंगी जहां पर  बातचीत के basis पर एक से पांच के beach में rating दे सकते हैं"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""आपका दिन शुभ हो और होने की  शुभ Raahul""
+}
+```"
+9b66ed6e-6829-47e0-91d3-681f6d56cefb,3923,"Hello. afternoon. I'm  calling nan हां हां हमारे   से  बात हो रहा है आपका हां, अमित जी आपका हां. का का पैसा मैंने order किया था लेकिन अभी तक आया नहीं तेईस बार   order किया हां जी, अमित जी. मैं उसी के ...",2026-03-17T17:58:54.034962,Mistral,closing,Met,"है हम cancel कर सकते हैं? अमित जी, अगर  बारह तक wait करके बाद भी अगर आपको कोई भी notification नहीं मिलता है तो मेरा आपसे request रहेगा आप please March बारह end of the day तक आप हमें एक बार reach कीजिएगा ताकि हम आपको further सहायता करने   के regarding","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""है हम cancel कर सकते हैं? अमित जी, अगर  बारह तक wait करके बाद भी अगर आपको कोई भी notification नहीं मिलता है तो मेरा आपसे request रहेगा आप please March बारह end of the day तक आप हमें एक बार reach कीजिएगा ताकि हम आपको further सहायता करने   के regarding"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""плохая SVRC связь после завершения звонка, 'feedback IVR', 'IVR feedback', 'IVR', 'feedback', 'survey', 'survey IVR', 'IVR survey' в переводе на русский - 'IVR-опрос, опрос по IVR' "", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you so much. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack to We won't able you have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. Thank you and have a good day.""}",9.348489046096802,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""है हम cancel कर सकते हैं? अमित जी, अगर  बारह तक wait करके बाद भी अगर आपको कोई भी notification नहीं मिलता है तो मेरा आपसे request रहेगा आप please March बारह end of the day तक आप हमें एक बार reach कीजिएगा ताकि हम आपको further सहायता करने   के regarding"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""плохая SVRC связь после завершения звонка, 'feedback IVR', 'IVR feedback', 'IVR', 'feedback', 'survey', 'survey IVR', 'IVR survey' в переводе на русский - 'IVR-опрос, опрос по IVR' "",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Thank you so much. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack to We won't able you have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. Thank you and have a good day.""
+}
+```"
+92f24dce-3ce6-46b2-b2cd-868da31174b1,2895,"Good afternoon, this is ना. I am here to assist you today. Am I speaking with  श्रवण? हां हां. you for confirming your name. So as I can check that you have raised a concern regarding credit cash abou...",2026-03-17T17:58:59.716305,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you so much. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. You have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. Thank you and have a good day.""}",3.679826021194458,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Thank you so much. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. You have just helped us improve the credit experience for all our members. Do reach out again in case of any other concerns. Thank you and have a good day.""
+}
+```"
+6a3e8c52-2ecd-4320-97bf-d90a5a92e3b7,2858,morning. This is सोमी I will be assisting you today. Am I speaking with शशांक Yeah. Thank you so much for confirming your name शशांक I can check that you have raised a concern regarding your order is ...,2026-03-17T17:59:04.497624,Mistral,closing,Not Met,No additional questions or offers for further assistance.,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No additional questions or offers for further assistance."", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": ""No mention of an IVR survey."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent started the call with a greeting and a positive closing statement.""}",2.779151439666748,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No additional questions or offers for further assistance."",
+    ""Effective_IVR_Survey"": ""Not Met"",
+    ""Effective_IVR_Survey_Evidence"": ""No mention of an IVR survey."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent started the call with a greeting and a positive closing statement.""
+}
+```"
+06bb5005-ff3c-4f2b-a637-b95f5e244c78,3056,"Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes. hi. Hi not. So the thing is I I tried doing a payment through credit  like, I was transferring  some educatio...",2026-03-17T17:59:09.854546,Mistral,closing,Met,Is there anything else I may assist you related with credit?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Is there anything else I may assist you related with credit?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Thank you so much. I will transfer your call to our feedback IVR where you have to select between 1 to 5. 5 being excellent and 1 being poor."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you so much. I hope you have a great day ahead.""}",3.355454921722412,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Is there anything else I may assist you related with credit?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Thank you so much. I will transfer your call to our feedback IVR where you have to select between 1 to 5. 5 being excellent and 1 being poor."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Thank you so much. I hope you have a great day ahead.""
+}
+```"
+d8e41f6d-f5a5-4d43-bb48-6d29083c1c41,1558,morning. and अंशिका I am here to assist you today. Am I speaking to साहू? Madam मैंने कल  bank account में  credit card में bill payment किया था लेकिन मेरे account में double money deduct हो गया. जी  ...,2026-03-17T17:59:14.460266,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": """", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Morning. And अंशिका I am here to assist you today.""}",2.6037611961364746,True,"
+```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Not Met"",
+    ""Effective_IVR_Survey_Evidence"": """",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Morning. And अंशिका I am here to assist you today.""
+}
+```"
+630da169-e9b1-4529-ac7a-a978e9f60150,1838,Good afternoon. This is सिद्धार्थ. How  to assist you today. Am I speaking with शुभ हां तो बात कर रहा हूं. Actually मेरा card का मैंने payment किया था tuition but वह fail हो गया but मेरा अभी भी accoun...,2026-03-17T17:59:19.688089,Mistral,closing,Met,Is there any other information I can assist you with?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Is there any other information I can assist you with?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""ok ok I am transferring your call to the feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Alright call end Karne se pehle kya main ek chote se feedback ki request kar sakta hun apse?""}",3.226579427719116,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Is there any other information I can assist you with?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""ok ok I am transferring your call to the feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Alright call end Karne se pehle kya main ek chote se feedback ki request kar sakta hun apse?""
+}
+```"
+11683cda-dc5f-4cb8-a3c5-4d0791987cc7,3007,"morning. My name is निकिता. I'm here to assist you today. Am I speaking with निलेश? you very much for confirming your name, कि. So you   get an update that you raised a concern regarding the credit ca...",2026-03-17T17:59:24.691047,Mistral,closing,Met,outsure if there is anything else the customer needs help with,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""outsure if there is anything else the customer needs help with"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""asking customer to share their feedback by transferring the call to an IVR for feedback"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""positive closing statement 'I hope you have a lovely day ahead'""}",3.0015623569488525,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""outsure if there is anything else the customer needs help with"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""asking customer to share their feedback by transferring the call to an IVR for feedback"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""positive closing statement 'I hope you have a lovely day ahead'""
+}
+```"
+42a803fa-53e5-48a2-8b4b-c3a9277fe50b,2184,Good afternoon. This is राम. I am here to assist you today. Am I speaking with जी? hours नाम confirm करने के लिए धन्यवाद. जी क्या आप अपना एक concern elaborate कर देंगे please? जी मैं आपसे request कर र...,2026-03-17T17:59:29.583775,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""राम से हमारे सेवा के लिए नमस्ते""}",2.8906021118164062,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""राम से हमारे सेवा के लिए नमस्ते""
+}
+```"
+095df596-5b74-4815-a86c-c02343a85509,1665,morning. My name is शुक्रिया. I am here to assist you today. Am I speaking with कुशल या? Thank you for confirming. you have raised a concern regarding credit  Basically regarding the   finance. like y...,2026-03-17T17:59:34.609935,Mistral,closing,Not Met,No explicit question about further assistance was asked.,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question about further assistance was asked."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Agent forwarded the call to the feedback IVR."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Agent ended the call with a positive closing statement ('Thank you so much. I hope you have a good day').""}",3.0240414142608643,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question about further assistance was asked."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Agent forwarded the call to the feedback IVR."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Agent ended the call with a positive closing statement ('Thank you so much. I hope you have a good day').""
+}
+```"
+b6e54447-103c-49f7-b6f0-e8621a56c246,2159,"Good evening. My name is I'm here to assist you today. Am I speaking with साहिल? Yeah, I am साई speaking. Ok. Thanks for confirming your name साहिल. As I can check that you have raised a concern regar...",2026-03-17T17:59:40.228759,Mistral,closing,Met,"Ok. So is there anything else as of now I can assist you with? No, thanks.","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Ok. So is there anything else as of now I can assist you with? No, thanks."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""I will be quickly forwarding your call to our feedback IVR where you can rate this conversation on a scale of 1 to 5"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""So before the call, would you like to share your valuable feedback on the basis of our conversation? Ok. Great.""}",3.6172878742218018,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Ok. So is there anything else as of now I can assist you with? No, thanks."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""I will be quickly forwarding your call to our feedback IVR where you can rate this conversation on a scale of 1 to 5"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""So before the call, would you like to share your valuable feedback on the basis of our conversation? Ok. Great.""
+}
+```"
+d1a3761b-ffe1-4115-9076-531fc8424088,3003,"evening. This is विशाल calling from on a recorded line. Am I speaking with राकेश? जी sir, good evening. Hi, good evening राज जी नाम confirm करने के लिए शुक्रिया राय जी.  क्या सही समय है आपसे बात करने ...",2026-03-17T17:59:46.122174,Mistral,closing,Not Met,आप आपको further assistance फ़िलहाल के लिए ज़रूरत नहीं है.,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""आप आपको further assistance फ़िलहाल के लिए ज़रूरत नहीं है."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""हम इस call को feedback IVR पर transfer करना चाहेंगे"", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": ""<no specific phrase or action provided>""}",3.8913021087646484,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""आप आपको further assistance फ़िलहाल के लिए ज़रूरत नहीं है."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""हम इस call को feedback IVR पर transfer करना चाहेंगे"",
+    ""Greeting"": ""Not Met"",
+    ""Greeting_Evidence"": ""<no specific phrase or action provided>""
+}
+```"
+585dd7d4-4a1d-415e-bd6b-c56e3ebcb2d6,3210,"Good evening. My name is नीतीश. I am calling you from Cred on a recorded line. I am talking to संजय? Yeah, speaking. you for the confirmation. I can see that you have raised a concern regarding the cr...",2026-03-17T17:59:50.878502,Mistral,closing,Not Met,No specific phrase to indicate further assistance was requested,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No specific phrase to indicate further assistance was requested"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""transfer to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Have a lovely We request you to rate your experience...""}",2.754204511642456,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No specific phrase to indicate further assistance was requested"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""transfer to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Have a lovely We request you to rate your experience...""
+}
+```"
+5f2f449a-8d5d-4a8c-bb16-f771a6669087,1945,Good evening. This is  I'm here to assist you today. Am I speaking with दीपक? जी sir. नाम confirm करने के लिए धन्यवाद दीपक. जैसे कि मैं देख पा रहा हूं आपने concern raise किया है refund  के regarding C...,2026-03-17T17:59:55.802153,Mistral,closing,Not Met,No evidence of asking for further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No evidence of asking for further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""The agent ended the call politely with a positive closing statement""}",2.9216880798339844,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No evidence of asking for further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to an IVR for feedback"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent ended the call politely with a positive closing statement""
+}
+```"
+20059b00-5e96-4caa-98b7-19c0000adae6,1699,"afternoon,     here to assist you today. Am I speaking with अविनाश? Good afternoon, I am ना. can I  can you speak in nan I can speak in English and I'm very sorry, I can speak  line हां, ok ok. Please...",2026-03-17T18:00:00.350468,Mistral,closing,Met,Anything else I can help you?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Anything else I can help you?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""I am forwarding the call to the feedback IVR."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Have a good day.""}",2.5469112396240234,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Anything else I can help you?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""I am forwarding the call to the feedback IVR."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Have a good day.""
+}
+```"
+830a5b45-fbf1-4d79-acf7-a182cbe7e7be,2614,"Good morning. This is    here to assist you. Am I speaking with सादत? Yeah, hi collect. Hi सबा. So, Yes speaking. Yeah. Actually, my credit order is   delivered  and the delivery  person came to my na...",2026-03-17T18:00:05.183234,Mistral,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR, IVR feedback, IVR, feedback, survey, survey IVR, IVR survey"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you. Goodbye. Have a great day ahead""}",2.830656051635742,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": """",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR, IVR feedback, IVR, feedback, survey, survey IVR, IVR survey"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Thank you. Goodbye. Have a great day ahead""
+}
+```"
+be00850c-1822-454d-84bd-7fbbe07c5998,3070,"evening. This is प्रीतम. I'm here to assist you. Am I speaking with शंकर? nan Yeah, is शंकर? Thanks  thanks for the confirmation  पंकज. my product was not getting delivered it is showing out of delive...",2026-03-17T18:00:11.504367,Mistral,closing,Met,"As I just want to confirm that will be in delivered or order what is next we are going to we can check it. Also, prior to ending the call, may I request you to share your valuable feedback basis on the conversation that right now on the IVR?","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""As I just want to confirm that will be in delivered or order what is next we are going to we can check it. Also, prior to ending the call, may I request you to share your valuable feedback basis on the conversation that right now on the IVR?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""You have just helped us improve the credit experience for all our members. nan Do reach out again in case of any other concerns. Thank you and have a good day."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""evening. This is प्रीतम. I'm here to assist you""}",4.31939172744751,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""As I just want to confirm that will be in delivered or order what is next we are going to we can check it. Also, prior to ending the call, may I request you to share your valuable feedback basis on the conversation that right now on the IVR?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""You have just helped us improve the credit experience for all our members. nan Do reach out again in case of any other concerns. Thank you and have a good day."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""evening. This is प्रीतम. I'm here to assist you""
+}
+```"
+02719540-46f4-482b-969e-14b50bbe3285,3129,"Good evening, this is  I am here to assist you today. Am I speaking with मनीष? as you can see that I have purchased  completed from the So I   see that       from the credit and that  is not getting d...",2026-03-17T18:00:17.847436,Mistral,closing,Met,has been no reward. I can understand extremely sorry that you inconvenience we will surely help you as I can check that your product which is from the see company and it is smart pack of 2 and you are maximum delivery time which was still first of match and the product has not been delivered yet extremely sorry for that... So is there anything else which I can assist you?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""has been no reward. I can understand extremely sorry that you inconvenience we will surely help you as I can check that your product which is from the see company and it is smart pack of 2 and you are maximum delivery time which was still first of match and the product has not been delivered yet extremely sorry for that... So is there anything else which I can assist you?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""So, I'm going to transfer the call to our IVR feedback."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you very much. just do this much Thank you very much.""}",4.340872287750244,True,"
+```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""has been no reward. I can understand extremely sorry that you inconvenience we will surely help you as I can check that your product which is from the see company and it is smart pack of 2 and you are maximum delivery time which was still first of match and the product has not been delivered yet extremely sorry for that... So is there anything else which I can assist you?"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""So, I'm going to transfer the call to our IVR feedback."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Thank you very much. just do this much Thank you very much.""
+}
+```"
+96d97237-1192-4d22-a836-9624908817dc,2739,Good afternoon. This is This is calling from recorded line. Am I speaking with आकाश? हां बात करो बोलिए. जी आकाश जैसे कि मैं देख पा रहा हूं आपने statement भेजा थी अपनी HDFC हां हां. यह आपने payment dat...,2026-03-17T18:00:22.815853,Mistral,closing,Not Met,No explicit question asking if customer has any other issues or needs further assistance.,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question asking if customer has any other issues or needs further assistance."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to the feedback IVR."", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": ""There was no clear and polite closing statement.""}",2.966320514678955,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question asking if customer has any other issues or needs further assistance."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent transferred the call to the feedback IVR."",
+    ""Greeting"": ""Not Met"",
+    ""Greeting_Evidence"": ""There was no clear and polite closing statement.""
+}
+```"
+05bc2f79-e454-456e-b588-00128c679dde,1673,"morning. This is  I will be assisting you today. Am I speaking with पवन Yeah hi, actually I called regarding 1 of my order which I wanted to return and I see the I don't know what's the current status...",2026-03-17T18:00:27.707434,Mistral,closing,Not Met,No specific phrases or actions suggesting offering further assistance,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No specific phrases or actions suggesting offering further assistance"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR, IVR feedback, transfer call to feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Polite closing statement: 'I hope you have a great day.' ""}",2.889927625656128,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No specific phrases or actions suggesting offering further assistance"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""feedback IVR, IVR feedback, transfer call to feedback IVR"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Polite closing statement: 'I hope you have a great day.' ""
+}
+```"
+24ba9529-527f-4133-8f7b-0c5eab96d29b,2315,"Good afternoon, this is वरीता. I will be assisting you today. Am I speaking with रोहित? Yeah, good afternoon ma'am. I have raised a complaint regarding my last order. Yes, as it is your product from m...",2026-03-17T18:00:33.803301,Mistral,closing,Met,"""Is there anything else apart from this I can help you with?""","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""\""Is there anything else apart from this I can help you with?\"""", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""\""So I'll be transferring the call to my feedback IVR. You can select between 1 to 5 5 being excellent 1 being 4.\"""", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""\""I hope you have a great day. Thank you so much. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and you have just\""""}",4.093826055526733,True," ```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""\""Is there anything else apart from this I can help you with?\"""",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""\""So I'll be transferring the call to my feedback IVR. You can select between 1 to 5 5 being excellent 1 being 4.\"""",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""\""I hope you have a great day. Thank you so much. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and you have just\""""
+}
+```"
+60a8d089-44c3-411d-b5cc-c24733d5acdd,1959,"Good morning. This is  I will be assisting you Good morning, madam. Good morning, madam. विषय नाम से. Good morning, madam. Good morning, madam. Am I audible करना? मेरा कृष्णा कर मेरा कृष्णा कर Yes, th...",2026-03-17T18:00:38.576953,Mistral,closing,Not Met,No explicit question asking for further assistance.,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": ""No explicit question asking for further assistance."", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Transfer of call to feedback IVR."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Ended call with a positive closing statement ('I hope you have a great day').""}",2.7724876403808594,True," ```json
+{
+    ""Further_Assistance"": ""Not Met"",
+    ""Further_Assistance_Evidence"": ""No explicit question asking for further assistance."",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Transfer of call to feedback IVR."",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Ended call with a positive closing statement ('I hope you have a great day').""
+}
+```"

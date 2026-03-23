@@ -1,0 +1,690 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-17T18:00:46.058287,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""7"", ""Quote"": ""Okay, thank you so much. I'll be transferring the call to the feedback IVR where you can select between 1 to 5.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""7"", ""Quote"": ""Okay, thank you so much. I'll be transferring the call to the feedback IVR where you can select between 1 to 5.""}}",1.8864121437072754,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""7"",
+    ""Quote"": ""Okay, thank you so much. I'll be transferring the call to the feedback IVR where you can select between 1 to 5.""
+  }
+}"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-17T18:00:52.312995,Mistral,reassurance,Not Met,"Step 1: Did the customer express a problem or concern? - YES (quote: 'Indian gas cylinder क्या अभी तक reflect नहीं कर रहा है amount, correct?')
+Step 3: Did the agent use any reassurance phrases? - NO (no quote provided)
+Step 5: Did the agent try anything to resolve the customer's issue or provide a solution or guide the customer so that he could resolve the issue himself (even if it was not successful)? - NO (no quote provided)
+Agent did not provide reassurance for 'Indian gas cylinder not reflecting the payment amount'.","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 1: Did the customer express a problem or concern? - YES (quote: 'Indian gas cylinder क्या अभी तक reflect नहीं कर रहा है amount, correct?')\nStep 3: Did the agent use any reassurance phrases? - NO (no quote provided)\nStep 5: Did the agent try anything to resolve the customer's issue or provide a solution or guide the customer so that he could resolve the issue himself (even if it was not successful)? - NO (no quote provided)\nAgent did not provide reassurance for 'Indian gas cylinder not reflecting the payment amount'.""}",4.252570629119873,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Step 1: Did the customer express a problem or concern? - YES (quote: 'Indian gas cylinder क्या अभी तक reflect नहीं कर रहा है amount, correct?')\nStep 3: Did the agent use any reassurance phrases? - NO (no quote provided)\nStep 5: Did the agent try anything to resolve the customer's issue or provide a solution or guide the customer so that he could resolve the issue himself (even if it was not successful)? - NO (no quote provided)\nAgent did not provide reassurance for 'Indian gas cylinder not reflecting the payment amount'.""
+}"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-17T18:00:56.625673,Mistral,reassurance,Met,"{""Step_1"": ""Did the customer express a problem or concern?"", ""Customer_Concern"": ""Yes"", ""Step_2"": ""Did the agent acknowledge the customer's concern and show understanding?"", ""Agent_Acknowledgement"": ""Right of the car I do understand your concern."", ""Reassurance_result"": ""Met""}","{""Step_1"": ""Did the customer express a problem or concern?"", ""Customer_Concern"": ""Yes"", ""Step_2"": ""Did the agent acknowledge the customer's concern and show understanding?"", ""Agent_Acknowledgement"": ""Right of the car I do understand your concern."", ""Reassurance_result"": ""Met""}",2.3111517429351807,True," {
+  ""Step_1"": ""Did the customer express a problem or concern?"",
+  ""Customer_Concern"": ""Yes"",
+  ""Step_2"": ""Did the agent acknowledge the customer's concern and show understanding?"",
+  ""Agent_Acknowledgement"": ""Right of the car I do understand your concern."",
+  ""Reassurance_result"": ""Met""
+}"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-17T18:01:07.541377,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_7"": ""If the agent was not able to help, did he offer to escalate or follow up later?"", ""Quote"": ""So the internal team will reinvesting and we will get back to you with an update. within next 48 hours"", ""Result"": ""YES""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_7"": ""If the agent was not able to help, did he offer to escalate or follow up later?"", ""Quote"": ""So the internal team will reinvesting and we will get back to you with an update. within next 48 hours"", ""Result"": ""YES""}}",8.913869857788086,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_1"": ""Did the customer express a problem or concern?"",
+    ""Quote"": ""Yes dear my order details you for confirming. Still it's every time the guy is coming and just reading is saying he is on a bike whenever the bank comes you can send it, but whenever came."",
+    ""Result"": ""YES""
+  },
+  ""Evidence"": {
+    ""Step_2"": ""Did the agent acknowledge the customer's concern and show understanding?"",
+    ""Quote"": ""I'm sorry for the inconvenience caused to you. Please do not worry. I'm here to help you."",
+    ""Result"": ""YES""
+  },
+  ""Evidence"": {
+    ""Step_3"": ""Did the agent use any reassurance phrases?"",
+    ""Quote"": ""Please do not worry. I'm here to help you."",
+    ""Result"": ""YES""
+  },
+  ""Evidence"": {
+    ""Step_4"": ""Was the customer's issue beyond the agent's control?"",
+    ""Quote"": ""As I can check in the details that the concern was already forwarded to the internal team regarding your issue, ok? And it was the pickup was canceled that all the attempts were extend customer."",
+    ""Result"": ""YES""
+  },
+  ""Evidence"": {
+    ""Step_7"": ""If the agent was not able to help, did he offer to escalate or follow up later?"",
+    ""Quote"": ""So the internal team will reinvesting and we will get back to you with an update. within next 48 hours"",
+    ""Result"": ""YES""
+  }
+}"
+11520c16-512e-41c8-b28e-f4f7494b3636,2324,Very good evening. This is शशि. I'm here to assist you today. Am I speaking with सूरज? Thank you for confirming. I can see your request is regarding the withdrawal of cash. Could you please elaborate ...,2026-03-17T18:01:18.242496,Mistral,reassurance,Error,"{""Call_Evaluation"": {""Call_Duration"": ""Sufficient"", ""Party_on_Call"": ""Correct"", ""Customer_Issue"": ""YES"", ""Agent_Acknowledgement"": ""Yes"", ""Quote_Agent_Acknowledgement"": ""I'm sorry for the inconvenience caused."", ""Reassurance_ phrases"": ""YES"", ""Quote_Reassurance_phrases"": ""Sorry for the issue you have faced."", ""Issue_Beyond_Control"": ""NO"", ""Agent_Attempt_to_Resolve"": ""YES"", ""Quote_Agent_Attempt"": ""I would like to wait and request you to wait till 24 hours to get updated for that."", ""Agent_Explaine","{""Call_Evaluation"": {""Call_Duration"": ""Sufficient"", ""Party_on_Call"": ""Correct"", ""Customer_Issue"": ""YES"", ""Agent_Acknowledgement"": ""Yes"", ""Quote_Agent_Acknowledgement"": ""I'm sorry for the inconvenience caused."", ""Reassurance_ phrases"": ""YES"", ""Quote_Reassurance_phrases"": ""Sorry for the issue you have faced."", ""Issue_Beyond_Control"": ""NO"", ""Agent_Attempt_to_Resolve"": ""YES"", ""Quote_Agent_Attempt"": ""I would like to wait and request you to wait till 24 hours to get updated for that."", ""Agent_Explained_Why_Couldnt_Help"": ""NO"", ""Escalation_or_Follow_up_Offer"": ""YES"", ""Quote_Escalation_or_Follow_up_Offer"": ""If after 24 hours we have didn't receive the fund, you can contact us back with the statement so we can check and validate that the issue has occurred."", ""Reassurance_Result"": ""Met"", ""Evidence"": ""Agent provided reassurance at step 3 (quote: 'I'm sorry for the inconvenience caused.') and step 7 (quote: 'If after 24 hours we have didn't receive the fund, you can contact us back with the statement so we can check and validate that the issue has occurred.')""}}",8.699034214019775,True," {
+  ""Call_Evaluation"": {
+    ""Call_Duration"": ""Sufficient"",
+    ""Party_on_Call"": ""Correct"",
+    ""Customer_Issue"": ""YES"",
+    ""Agent_Acknowledgement"": ""Yes"",
+    ""Quote_Agent_Acknowledgement"": ""I'm sorry for the inconvenience caused."",
+    ""Reassurance_ phrases"": ""YES"",
+    ""Quote_Reassurance_phrases"": ""Sorry for the issue you have faced."",
+    ""Issue_Beyond_Control"": ""NO"",
+    ""Agent_Attempt_to_Resolve"": ""YES"",
+    ""Quote_Agent_Attempt"": ""I would like to wait and request you to wait till 24 hours to get updated for that."",
+    ""Agent_Explained_Why_Couldnt_Help"": ""NO"",
+    ""Escalation_or_Follow_up_Offer"": ""YES"",
+    ""Quote_Escalation_or_Follow_up_Offer"": ""If after 24 hours we have didn't receive the fund, you can contact us back with the statement so we can check and validate that the issue has occurred."",
+    ""Reassurance_Result"": ""Met"",
+    ""Evidence"": ""Agent provided reassurance at step 3 (quote: 'I'm sorry for the inconvenience caused.') and step 7 (quote: 'If after 24 hours we have didn't receive the fund, you can contact us back with the statement so we can check and validate that the issue has occurred.')""
+  }
+}"
+727a8769-3a93-451d-a837-91f903ddbc0a,3241,Good morning. This is  I am here to assist you. Am I speaking with रोहित? Hi रोहित. So you have reached out to us with the concern stating that there was a item which you have purchased and you are fa...,2026-03-17T18:01:23.135119,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Quote"": ""I would like to inform you that may be due to some technical issue or the unfortunate issue by the logistics they are not delivering to the product at the particular location. I would request you to please wait. the expected delivery date for for all the 3 items is within fifth and sixth of March. Please wait till sixth of March the logistics will definitely deliver as per their schedule.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Quote"": ""I would like to inform you that may be due to some technical issue or the unfortunate issue by the logistics they are not delivering to the product at the particular location. I would request you to please wait. the expected delivery date for for all the 3 items is within fifth and sixth of March. Please wait till sixth of March the logistics will definitely deliver as per their schedule.""}}",2.890613079071045,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""3"",
+    ""Quote"": ""I would like to inform you that may be due to some technical issue or the unfortunate issue by the logistics they are not delivering to the product at the particular location. I would request you to please wait. the expected delivery date for for all the 3 items is within fifth and sixth of March. Please wait till sixth of March the logistics will definitely deliver as per their schedule.""
+  }
+}"
+0fb2cc5a-9d80-4510-9239-d58de5c5fcaf,3730,Good morning and अंशिका I am here to assist you today. Am I speaking to शुभम Yes. Thank you for the name confirmation शुभम. I see that you have raised a concern regarding the outstanding payment or IC...,2026-03-17T18:01:26.669876,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quoted_Agent_Statement"": ""Don't worry, I'll surely help you out.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quoted_Agent_Statement"": ""Don't worry, I'll surely help you out.""}}",1.533381462097168,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quoted_Agent_Statement"": ""Don't worry, I'll surely help you out.""
+  }
+}"
+895ec893-7e66-4f0b-8605-2003e06e8a6d,2668,"Good morning. This is. May I assist you today? Am I speaking with ओम? Yes speaking. May I know you nan रंजीत. Yeah, रंजीत. and my car insurance was expiring in 2 days. So I have renewed my car insuran...",2026-03-17T18:01:30.283841,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""2"", ""Quote"": ""Getting your concern. Sorry for the inconvenience and I will surely help you out regarding this issue.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""2"", ""Quote"": ""Getting your concern. Sorry for the inconvenience and I will surely help you out regarding this issue.""}}",1.6123569011688232,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""2"",
+    ""Quote"": ""Getting your concern. Sorry for the inconvenience and I will surely help you out regarding this issue.""
+  }
+}"
+7d2da038-64e0-4380-9c82-7a955e6fe8b3,1604,Good evening this is  I am here to assist you today. Am I speaking with अंदर? जी मैंने payment किया मैं आपका concern समझ पा रही हूं आप please एक बार confirm कर सकते हैं क्या मेरी बात चंद्र से ही हो रह...,2026-03-17T18:01:33.514907,Mistral,reassurance,Met,Call too short to evaluate,"{""Step"": ""0"", ""Agent_Statement"": ""-"", ""Reassurance_result"": ""Met"", ""Evidence"": ""Call too short to evaluate""}",1.2294247150421143,True," {
+  ""Step"": ""0"",
+  ""Agent_Statement"": ""-"",
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Call too short to evaluate""
+}"
+a51be59e-cb2a-47fc-8d6c-f9a616b39508,1962,"evening. This is मोहम्मद I'm here to assist you today. Am I speaking with अतुल? Yes. So, I was having an offer of personal loan of BC credit So just wanted to confirm what is the processing fees Yes y...",2026-03-17T18:01:45.507860,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evaluation"": [{""Step"": ""0"", ""Agent Statement"": ""This is Mohammad I'm here to assist you today. Am I speaking with Atul? Yes."", ""Result"": ""NO""}, {""Step"": ""1"", ""Customer Statement"": ""I was having an offer of personal loan from BC credit So just wanted to confirm what is the processing fees"", ""Result"": ""YES""}, {""Step"": ""2"", ""Agent Statement"": ""But you want to know the processing fee. Am I right?"", ""Result"": ""YES""}, {""Step"": ""3"", ""Agent Statement"": ""Actually actually t","{""Reassurance_result"": ""Met"", ""Evaluation"": [{""Step"": ""0"", ""Agent Statement"": ""This is Mohammad I'm here to assist you today. Am I speaking with Atul? Yes."", ""Result"": ""NO""}, {""Step"": ""1"", ""Customer Statement"": ""I was having an offer of personal loan from BC credit So just wanted to confirm what is the processing fees"", ""Result"": ""YES""}, {""Step"": ""2"", ""Agent Statement"": ""But you want to know the processing fee. Am I right?"", ""Result"": ""YES""}, {""Step"": ""3"", ""Agent Statement"": ""Actually actually the processing fee will depend on specific for specific within your app."", ""Result"": ""NO""}, {""Step"": ""4"", ""Agent Statement"": ""But currently, we don't have any visibility for that"", ""Result"": ""YES""}, {""Step"": ""5"", ""Agent Statement"": ""But it's everything systematic all generated. It will depend on specific offers display to you in your application."", ""Result"": ""YES""}, {""Step"": ""6"", ""Agent Statement"": ""So that processing fees would be deducted from my loan amount or before end or it would be how will it be adjusted or it will be adjusted in the first EMI."", ""Result"": ""YES""}, {""Step"": ""7"", ""Agent Statement"": ""No statement found that offers to escalate or follow up later"", ""Result"": ""NO""}, {""Step"": ""8"", ""Evidence"": ""Agent did not offer to escalate or follow up later for the customer's question about the processing fees""}]}",9.990740776062012,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evaluation"": [
+    {
+      ""Step"": ""0"",
+      ""Agent Statement"": ""This is Mohammad I'm here to assist you today. Am I speaking with Atul? Yes."",
+      ""Result"": ""NO""
+    },
+    {
+      ""Step"": ""1"",
+      ""Customer Statement"": ""I was having an offer of personal loan from BC credit So just wanted to confirm what is the processing fees"",
+      ""Result"": ""YES""
+    },
+    {
+      ""Step"": ""2"",
+      ""Agent Statement"": ""But you want to know the processing fee. Am I right?"",
+      ""Result"": ""YES""
+    },
+    {
+      ""Step"": ""3"",
+      ""Agent Statement"": ""Actually actually the processing fee will depend on specific for specific within your app."",
+      ""Result"": ""NO""
+    },
+    {
+      ""Step"": ""4"",
+      ""Agent Statement"": ""But currently, we don't have any visibility for that"",
+      ""Result"": ""YES""
+    },
+    {
+      ""Step"": ""5"",
+      ""Agent Statement"": ""But it's everything systematic all generated. It will depend on specific offers display to you in your application."",
+      ""Result"": ""YES""
+    },
+    {
+      ""Step"": ""6"",
+      ""Agent Statement"": ""So that processing fees would be deducted from my loan amount or before end or it would be how will it be adjusted or it will be adjusted in the first EMI."",
+      ""Result"": ""YES""
+    },
+    {
+      ""Step"": ""7"",
+      ""Agent Statement"": ""No statement found that offers to escalate or follow up later"",
+      ""Result"": ""NO""
+    },
+    {
+      ""Step"": ""8"",
+      ""Evidence"": ""Agent did not offer to escalate or follow up later for the customer's question about the processing fees""
+    }
+  ]
+}"
+8bdbd2b2-77bb-4ca7-9bf6-576b7c72b041,2568,Good morning. This is  here. I am calling from Cred on a recorded line. Am I speaking हां जी बताइए. धन्यवाद आपका नाम confirm करने के लिए अंजलि. आपने concern     speak  बात जी जी. हां बताइए ना बताना. व...,2026-03-17T18:01:48.839838,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Sure, definitely.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Sure, definitely.""}}",1.3303706645965576,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""Sure, definitely.""
+  }
+}"
+fda7f28e-510d-470a-ab70-907dc354da50,3539,Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? जी हां. जी ह...,2026-03-17T18:02:07.246949,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""1"", ""Agent_statement"": ""This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शంकar calling from Cred on a recorded line. Am I speaking with स्वरूप?"", ""Quote"": ""This is शंकar calling from Cred on a recorded line. Am I speaking with स्वरूप?""}, ""Additional_Evidence"": [{""Step"": ""3"", ""Agent_statement"": ""bank holidays  से मिला कर आपका जो बंदा है time frame वह है दस दस March जी"", ""Quote"": ""दस दस March ज","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""1"", ""Agent_statement"": ""This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शంकar calling from Cred on a recorded line. Am I speaking with स्वरूप?"", ""Quote"": ""This is शंकar calling from Cred on a recorded line. Am I speaking with स्वरूप?""}, ""Additional_Evidence"": [{""Step"": ""3"", ""Agent_statement"": ""bank holidays  से मिला कर आपका जो बंदा है time frame वह है दस दस March जी"", ""Quote"": ""दस दस March जी""}, {""Step"": ""3"", ""Agent_statement"": ""Just Just नौ तาरीख को मैंने बताया थी वह  गलत बता दीजिए मैं बेहद माफ़ी चाहता हूं चीज़ के लिए  जी"", ""Quote"": ""गलत बता दीजिए मैं बेहद माफ़ी चाहता हूं चीज़ के लिए  जी""}, {""Step"": ""3"", ""Agent_statement"": ""तीन से पांच second लगेंगे. Just Just नौ तारीख को मैंने बताया थी वह  गलत बता दीजिए मैं बेहद माफ़ी चाहता हूं चीज़ के लिए  जी"", ""Quote"": ""तीन से पांच second लगेंगे""}, {""Step"": ""3"", ""Agent_statement"": ""Accordingly, we'll transfer your call to feedback IVR. Please press the number on your dial pack to"", ""Quote"": ""Accordingly, we'll transfer your call to feedback IVR. Please press the number on your dial pack to""}, {""Step"": ""3"", ""Agent_statement"": ""Do reach out again in case of any other concerns."", ""Quote"": ""Do reach out again in case of any other concerns.""}, {""Step"": ""3"", ""Agent_statement"": ""Thank you and have a good day."", ""Quote"": ""Thank you and have a good day.""}]}",16.40544366836548,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""1"",
+    ""Agent_statement"": ""This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शంकar calling from Cred on a recorded line. Am I speaking with स्वरूप?"",
+    ""Quote"": ""This is शंकar calling from Cred on a recorded line. Am I speaking with स्वरूप?""
+  },
+  ""Additional_Evidence"": [
+    {
+      ""Step"": ""3"",
+      ""Agent_statement"": ""bank holidays  से मिला कर आपका जो बंदा है time frame वह है दस दस March जी"",
+      ""Quote"": ""दस दस March जी""
+    },
+    {
+      ""Step"": ""3"",
+      ""Agent_statement"": ""Just Just नौ तาरीख को मैंने बताया थी वह  गलत बता दीजिए मैं बेहद माफ़ी चाहता हूं चीज़ के लिए  जी"",
+      ""Quote"": ""गलत बता दीजिए मैं बेहद माफ़ी चाहता हूं चीज़ के लिए  जी""
+    },
+    {
+      ""Step"": ""3"",
+      ""Agent_statement"": ""तीन से पांच second लगेंगे. Just Just नौ तारीख को मैंने बताया थी वह  गलत बता दीजिए मैं बेहद माफ़ी चाहता हूं चीज़ के लिए  जी"",
+      ""Quote"": ""तीन से पांच second लगेंगे""
+    },
+    {
+      ""Step"": ""3"",
+      ""Agent_statement"": ""Accordingly, we'll transfer your call to feedback IVR. Please press the number on your dial pack to"",
+      ""Quote"": ""Accordingly, we'll transfer your call to feedback IVR. Please press the number on your dial pack to""
+    },
+    {
+      ""Step"": ""3"",
+      ""Agent_statement"": ""Do reach out again in case of any other concerns."",
+      ""Quote"": ""Do reach out again in case of any other concerns.""
+    },
+    {
+      ""Step"": ""3"",
+      ""Agent_statement"": ""Thank you and have a good day."",
+      ""Quote"": ""Thank you and have a good day.""
+    }
+  ]
+}"
+41fea115-b055-4c5e-ab8f-4573ca4e3e69,2124,"Good afternoon. This is  I'm here to assist you today. Am I speaking with हर्ष? Yeah. Yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regardin...",2026-03-17T18:02:13.746140,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Agent_statement"": ""I will transfer your call to the relevant department who will be assisting you. It will take 1 to 2 minutes transfer the call till then may I please place your call on""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Agent_statement"": ""I will transfer your call to the relevant department who will be assisting you. It will take 1 to 2 minutes transfer the call till then may I please place your call on""}}",4.497663974761963,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""1"",
+    ""Agent_statement"": ""Yeah yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regarding the loan. Right?"",
+    ""Step_number"": ""2"",
+    ""Agent_statement"": ""Ok, please be on call. I would like to inform you that हर्ष regarding your loan we will have we have related department, ok? the relevant team will assist you regarding your concern. He"",
+    ""Step_number"": ""3"",
+    ""Agent_statement"": ""I will transfer your call to the relevant department who will be assisting you. It will take 1 to 2 minutes transfer the call till then may I please place your call on""
+  }
+}"
+c135d6ad-2c05-4438-93a9-2c6d6392d5ad,3956,Good morning. This is प्रतीक  today I am going to assist you. Today I'm calling you from Cred on a recording line. Can you hear me? Am I speaking to सुभाष? बोल रहा हूं sir. जी नाम confirm करने के लिए ...,2026-03-17T18:02:17.609653,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Mai yaham aapka concern jis hai mai samjh pa raha hoon.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Mai yaham aapka concern jis hai mai samjh pa raha hoon.""}}",1.8617591857910156,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""Mai yaham aapka concern jis hai mai samjh pa raha hoon.""
+  }
+}"
+cedf0f1b-f4f3-4b3a-af5c-d326037dfc24,2881,"Good morning. I'm अंशिका. I'm here to assist you today. Am I speaking to आकाश? Yeah, आकाश बात धन्यवाद नाम confirm करने के लिए आकाश. देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की e...",2026-03-17T18:02:22.471769,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""I will help you"", ""Other_Quotes"": [""आपकी पूरी सahāyatā करूंगी"", ""हम आपकी आगे सहायता करेंगे""]}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""I will help you"", ""Other_Quotes"": [""आपकी पूरी सahāyatā करूंगी"", ""हम आपकी आगे सहायता करेंगे""]}}",2.8602135181427,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""I will help you"",
+    ""Other_Quotes"": [
+      ""आपकी पूरी सahāyatā करूंगी"",
+      ""हम आपकी आगे सहायता करेंगे""
+    ]
+  }
+}"
+bf86eb1c-fa60-444f-bfa8-9a354c9184b6,1689,"Good afternoon. This is  calling you from Cred on a recorded line. Am I speaking to कुनाल? Yes ma'am. Yes कुणाल, So is this the right time to talk to Yeah tell me. Yes. So, while conversation the call...",2026-03-17T18:02:26.169044,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""But for validate your concern or the amount, we have you need to share with us the bank statement afterwards, we will assist further.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""But for validate your concern or the amount, we have you need to share with us the bank statement afterwards, we will assist further.""}}",1.6955475807189941,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""But for validate your concern or the amount, we have you need to share with us the bank statement afterwards, we will assist further.""
+  }
+}"
+0c5c8347-1c71-42b4-bf80-82ce69c208c5,1771,"Good morning, this is राज. I am here to assist. Am I speaking with सुप्रिया? बहुत बहुत धन्यवाद नाम confirm करने के जी जैसे कि मैं देख पा रहा हूं यहां पर आपने concern raise किया है repayment की behalf ...",2026-03-17T18:02:30.908266,Mistral,reassurance,Not Met,"Step 3: Did the agent use any reassurance phrases? - No, the agent did not use any direct reassurance phrases like 'don't worry', 'be assured', 'I will help you'","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 3: Did the agent use any reassurance phrases? - No, the agent did not use any direct reassurance phrases like 'don't worry', 'be assured', 'I will help you'"", ""Analysis"": ""The call transcript does not show the agent using any direct reassurance phrases. Acknowledgement of the issue and showing understanding is present in the transcript, but reassurance phrases are not used.""}",2.737797975540161,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Step 3: Did the agent use any reassurance phrases? - No, the agent did not use any direct reassurance phrases like 'don't worry', 'be assured', 'I will help you'"",
+  ""Analysis"": ""The call transcript does not show the agent using any direct reassurance phrases. Acknowledgement of the issue and showing understanding is present in the transcript, but reassurance phrases are not used.""
+}"
+557bb0fc-7ace-4d23-84ac-ace5978d0c10,3120,"afternoon. This is सुष्मिता. I am here to assist you today. Am I speaking with in? Yeah, दिन. you so much for confirming your name अमित. So as I can check from my end, you have raised a concern regard...",2026-03-17T18:02:34.052148,Mistral,reassurance,Met,Call is complete,"{""Step"": ""0"", ""Reassurance_statement"": """", ""Result"": ""Met"", ""Evidence"": ""Call is complete""}",1.1426856517791748,True," {
+  ""Step"": ""0"",
+  ""Reassurance_statement"": """",
+  ""Result"": ""Met"",
+  ""Evidence"": ""Call is complete""
+}"
+d8edad94-cb55-44b8-98d9-bd72248c5ca9,3762,जी ma'am. मैं आपको चाहूंगा लेकिन      तो करना Good afternoon. This is प्रतीक. today I am going to assist you. Am I speaking to दर्शन? Yes. Good afternoon. This is प्रतीक. हां मैंने order किया था कल मे...,2026-03-17T18:02:39.598318,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Ma'am. This is Pratik. today I am going to assist you."", ""Additional Quote"": ""ठीक है?""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Ma'am. This is Pratik. today I am going to assist you."", ""Additional Quote"": ""ठीक है?""}}",3.5448505878448486,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""Ma'am. This is Pratik. today I am going to assist you."",
+    ""Additional Quote"": ""मैं आपको इस call पर मदद करने की जो है मैं पूरी कोशिश करूंगा आपको."",
+    ""Additional Quote"": ""ठीक है?""
+  }
+}"
+a02e23d2-aa48-41c0-a2c5-2114886e9ca1,2934,"Good afternoon शशांक this is  calling you from Cred on a recorded line. Yes yes. Actually,  having a conversation and the call got disconnected Yeah, got disconnected Yeah. Yes, I  apologize for the i...",2026-03-17T18:02:46.836320,Mistral,reassurance,Met,"""I have escalated your concern to the relevant team for account delete""","{""Step_0"": ""No"", ""Step_1"": ""YES"", ""Step_2"": ""YES"", ""Step_3"": ""N/A"", ""Step_4"": ""N/A"", ""Step_5"": ""YES"", ""Evidence_5"": ""\""I have escalated your concern to the relevant team for account delete\"""", ""Step_6"": ""N/A"", ""Step_7"": ""YES"", ""Evidence_7"": ""\""You can refer to a priority policy priority.credit for more details on how we handle it\"""", ""Step_8"": ""N/A"", ""Reassurance_result"": ""Met"", ""Evidence"": {""Step_7"": ""\""You can refer to a priority policy priority.credit for more details on how we handle it\"""", ""Step_5"": ""\""I have escalated your concern to the relevant team for account delete\""""}}",5.235841512680054,True," {
+  ""Step_0"": ""No"",
+  ""Step_1"": ""YES"",
+  ""Step_2"": ""YES"",
+  ""Step_3"": ""N/A"",
+  ""Step_4"": ""N/A"",
+  ""Step_5"": ""YES"",
+  ""Evidence_5"": ""\""I have escalated your concern to the relevant team for account delete\"""",
+  ""Step_6"": ""N/A"",
+  ""Step_7"": ""YES"",
+  ""Evidence_7"": ""\""You can refer to a priority policy priority.credit for more details on how we handle it\"""",
+  ""Step_8"": ""N/A"",
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_7"": ""\""You can refer to a priority policy priority.credit for more details on how we handle it\"""",
+    ""Step_5"": ""\""I have escalated your concern to the relevant team for account delete\""""
+  }
+}"
+9ef4dbec-ec9e-4e73-9f5d-939325d99c18,2957,Good morning. My name is. I'm here to assist you today. Am I speaking with दास? Yes  sir. Ok. Thanks for confirming your name. As I can check that you have raised a concern regarding a product from  t...,2026-03-17T18:02:50.342538,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""6"", ""Agent_statement"": ""I completely understand your concern. I will forward your concern to our internal team.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""6"", ""Agent_statement"": ""I completely understand your concern. I will forward your concern to our internal team.""}}",1.5046913623809814,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""6"",
+    ""Agent_statement"": ""I completely understand your concern. I will forward your concern to our internal team.""
+  }
+}"
+4e7cc419-ccf7-42b2-85c0-b52a2da2e8bc,3735,"morning. This is मोहम्मद I will be assisting you today. Am I speaking with प्रमेश nan Yes. you so much for confirming your name. Tell So my Yeah, I was supposed to receive my order last week. I was no...",2026-03-17T18:03:09.049100,Mistral,reassurance,Met,"{""Call_Clarity"": ""Met"", ""Evaluation_Steps"": [{""Step_Number"": ""0"", ""Customer_Response"": ""No response from the customer"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""1"", ""Customer_Problem"": ""Delivery of order not received as expected"", ""Reassurance_result"": ""Yes""}, {""Step_Number"": ""2"", ""Agent_Acknowledgement"": ""Yes - 'I understand and apologize for the inconvenience caused to you'"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""3"", ""Agent_Reassurance_Phrases"": ""Yes - 'I will try my best to sys","{""Call_Clarity"": ""Met"", ""Evaluation_Steps"": [{""Step_Number"": ""0"", ""Customer_Response"": ""No response from the customer"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""1"", ""Customer_Problem"": ""Delivery of order not received as expected"", ""Reassurance_result"": ""Yes""}, {""Step_Number"": ""2"", ""Agent_Acknowledgement"": ""Yes - 'I understand and apologize for the inconvenience caused to you'"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""3"", ""Agent_Reassurance_Phrases"": ""Yes - 'I will try my best to system'"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""4"", ""Issue_Beyond_Agent's_Control"": ""No"", ""Reassurance_result"": ""NOT Met""}, {""Step_Number"": ""5"", ""Agent_Attempt_Resolution"": ""Yes - 'I am just going to forward your concern with our team'"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""6"", ""Agent_Explanation_Unable_Help"": ""Yes - 'I have mentioned everything in the details and I have also forwarded your concern with our team'"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""7"", ""Agent_Escalation_Offer"": ""Yes - 'wait till March 1' and 'once we receive an update from our team, you will be notified in WhatsApp and you can check the same anytime in your credit app support section'"", ""Reassurance_result"": ""Met""}, {""Step_Number"": ""8"", ""Agent_Additional_Feedback_Request"": ""Yes - 'Before we end this call, may I request you to kindly wait till March 1... Sure. we are taking this as a strong feedback so that in future this kind of inconvenience don't happen'"", ""Reassurance_result"": ""Met""}], ""Reassurance_result"": ""Met"", ""Evidence"": {""Step_2"": ""'I understand and apologize for the inconvenience caused to you'"", ""Step_3"": ""'I will try my best to system'"", ""Step_5"": ""'I am just going to forward your concern with our team'"", ""Step_6"": ""'I have mentioned everything in the details and I have also forwarded your concern with our team'"", ""Step_7"": ""'wait till March 1' and 'once we receive an update from our team, you will be notified in WhatsApp and you can check the same anytime in your credit app support section'"", ""Step_8"": ""'Before we end this call, may I request you to kindly wait till March 1... Sure. we are taking this as a strong feedback so that in future this kind of inconvenience don't happen'""}}",16.704594135284424,True," {
+  ""Call_Clarity"": ""Met"",
+  ""Evaluation_Steps"": [
+    {
+      ""Step_Number"": ""0"",
+      ""Customer_Response"": ""No response from the customer"",
+      ""Reassurance_result"": ""Met""
+    },
+    {
+      ""Step_Number"": ""1"",
+      ""Customer_Problem"": ""Delivery of order not received as expected"",
+      ""Reassurance_result"": ""Yes""
+    },
+    {
+      ""Step_Number"": ""2"",
+      ""Agent_Acknowledgement"": ""Yes - 'I understand and apologize for the inconvenience caused to you'"",
+      ""Reassurance_result"": ""Met""
+    },
+    {
+      ""Step_Number"": ""3"",
+      ""Agent_Reassurance_Phrases"": ""Yes - 'I will try my best to system'"",
+      ""Reassurance_result"": ""Met""
+    },
+    {
+      ""Step_Number"": ""4"",
+      ""Issue_Beyond_Agent's_Control"": ""No"",
+      ""Reassurance_result"": ""NOT Met""
+    },
+    {
+      ""Step_Number"": ""5"",
+      ""Agent_Attempt_Resolution"": ""Yes - 'I am just going to forward your concern with our team'"",
+      ""Reassurance_result"": ""Met""
+    },
+    {
+      ""Step_Number"": ""6"",
+      ""Agent_Explanation_Unable_Help"": ""Yes - 'I have mentioned everything in the details and I have also forwarded your concern with our team'"",
+      ""Reassurance_result"": ""Met""
+    },
+    {
+      ""Step_Number"": ""7"",
+      ""Agent_Escalation_Offer"": ""Yes - 'wait till March 1' and 'once we receive an update from our team, you will be notified in WhatsApp and you can check the same anytime in your credit app support section'"",
+      ""Reassurance_result"": ""Met""
+    },
+    {
+      ""Step_Number"": ""8"",
+      ""Agent_Additional_Feedback_Request"": ""Yes - 'Before we end this call, may I request you to kindly wait till March 1... Sure. we are taking this as a strong feedback so that in future this kind of inconvenience don't happen'"",
+      ""Reassurance_result"": ""Met""
+    }
+  ],
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_2"": ""'I understand and apologize for the inconvenience caused to you'"",
+    ""Step_3"": ""'I will try my best to system'"",
+    ""Step_5"": ""'I am just going to forward your concern with our team'"",
+    ""Step_6"": ""'I have mentioned everything in the details and I have also forwarded your concern with our team'"",
+    ""Step_7"": ""'wait till March 1' and 'once we receive an update from our team, you will be notified in WhatsApp and you can check the same anytime in your credit app support section'"",
+    ""Step_8"": ""'Before we end this call, may I request you to kindly wait till March 1... Sure. we are taking this as a strong feedback so that in future this kind of inconvenience don't happen'""
+  }
+}"
+22596fb0-77b7-4820-8604-9b9236d65fa6,3099,"Good morning,  I am here to assist you today. Am I speaking with लक्ष्य? Yeah, I am लक्ष्मी speaking. yesterday also I have call the customer support regarding my policy renewal the document is still ...",2026-03-17T18:03:12.818373,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""4"", ""Agent_statement"": ""Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""4"", ""Agent_statement"": ""Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out.""}}",1.7678320407867432,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""4"",
+    ""Agent_statement"": ""Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out.""
+  }
+}"
+adac574e-4425-426d-b5bd-c80b9c33741f,1713,evening. This is  I am here here to assist you. Am I speaking with सुमित? confirm your As I can see your concern is regarding the  as you have mentioned the payment is but the policy is not showing. n...,2026-03-17T18:03:16.172518,Mistral,reassurance,JSON Error," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Agent Statement"": '""Do not worry sure my best to help you in this regard""'
+  }
+}","{""Value"": ""JSON Error"", ""Evidence"": "" {\n  \""Reassurance_result\"": \""Met\"",\n  \""Evidence\"": {\n    \""Step\"": \""3\"",\n    \""Agent Statement\"": '\""Do not worry sure my best to help you in this regard\""'\n  }\n}""}",1.352005958557129,False," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Agent Statement"": '""Do not worry sure my best to help you in this regard""'
+  }
+}"
+d4e0566e-943e-4364-b61d-ac0b00a4ef2b,1790,"I'm here to assist you today. Am I speaking with साहिल? you for confirming your name साहिल. As I can see, you have raised a concern regarding transaction ###rupees in which you paid 18 rupees convenie...",2026-03-17T18:03:21.875713,Mistral,reassurance,JSON Error," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 1: Customer expressed problem or concern - 'and this transaction got failed.'
+            Step 5: Did the agent try anything to resolve the custom","{""Value"": ""JSON Error"", ""Evidence"": "" {\n  \""Reassurance_result\"": \""Met\"",\n  \""Evidence\"": \""Step 1: Customer expressed problem or concern - 'and this transaction got failed.'\n            Step 5: Did the agent try anything to resolve the custom""}",3.70120906829834,False," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 1: Customer expressed problem or concern - 'and this transaction got failed.'
+            Step 5: Did the agent try anything to resolve the customer's issue or provide a solution - 'and as I can see your receiver KYC status was not done. That's why the transaction got failed and I would request you please wait for 2 days, this transaction this amount will get reflect your credit card. Within 2 days it will So that's that's my concern is still yesterday that showing it's 24 hours after 2 hours it automatically will revert but still not done that that the amount is will be credit or debit'.""
+}"
+0f070971-d446-4cfb-9a13-9a383fb71d2a,2341,evening. This is प्रेम. I am here to assist you. Am I speaking with मोहम्मद अब्दुल. राव? हां. Yes. for the confirmation of  name अब्दुल. As I can check from  that you have raised a concern regarding y...,2026-03-17T18:03:25.556590,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""2"", ""Quote"": ""Yes. as I can check from that you have raised a concern regarding your undelivered product""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""2"", ""Quote"": ""Yes. as I can check from that you have raised a concern regarding your undelivered product""}}",1.678748607635498,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""2"",
+    ""Quote"": ""Yes. as I can check from that you have raised a concern regarding your undelivered product""
+  }
+}"
+9ee602bb-fb79-4d1e-9cdc-4b23e37f8691,2668,evening. This is रोहित here to assist you today. Am I speaking with अमोल Yes speaking. Thank you for confirming your name अमोल and as I can check that you have raised a concern regarding your policy a...,2026-03-17T18:03:29.705739,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""1"", ""Agent_statement"": ""I understand. I'm very sorry that you had to face this inconvenience but as I can check that your KYC status is still showing in progress"", ""Reason"": ""Agent acknowledged the customer's concern and showed understanding""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""1"", ""Agent_statement"": ""I understand. I'm very sorry that you had to face this inconvenience but as I can check that your KYC status is still showing in progress"", ""Reason"": ""Agent acknowledged the customer's concern and showed understanding""}}",2.147238254547119,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""1"",
+    ""Agent_statement"": ""I understand. I'm very sorry that you had to face this inconvenience but as I can check that your KYC status is still showing in progress"",
+    ""Reason"": ""Agent acknowledged the customer's concern and showed understanding""
+  }
+}"
+2e884fcf-dac9-4d09-954a-478299a2d841,2668,"evening. This is अंकित I am here to assist you today. Am I speaking with कार्तिक? हां, yes sir. and charging only. you for confirming. Actually, हां yeah. Previously I used  credit wallet with other 1...",2026-03-17T18:03:36.082633,Mistral,reassurance,Met,You are not able to particularly do the KYC of a wallet for this credit account which is registered with the phone number ###double ###.,"{""Reassurance_result"": ""Met"", ""Step_number"": ""1"", ""Evidence"": ""You are not able to particularly do the KYC of a wallet for this credit account which is registered with the phone number ###double ###."", ""Step_number_2"": ""6"", ""Evidence_2"": ""my apologize for this inconvenience regarding your concern कार्तिक. I would like to inform you that we do have a dedicated wallet support team Please be assured on your behalf I have forwarded this concern to our relevant team."", ""Step_number_7"": ""7"", ""Evidence_7"": ""I would request you to kindly wait for the next 4 hours I'm forwarding this on a priority basis you will be receiving a callback from the relevant team within the next 4 hours.""}",4.375165939331055,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Step_number"": ""1"",
+  ""Evidence"": ""You are not able to particularly do the KYC of a wallet for this credit account which is registered with the phone number ###double ###."",
+  ""Step_number_2"": ""6"",
+  ""Evidence_2"": ""my apologize for this inconvenience regarding your concern कार्तिक. I would like to inform you that we do have a dedicated wallet support team Please be assured on your behalf I have forwarded this concern to our relevant team."",
+  ""Step_number_7"": ""7"",
+  ""Evidence_7"": ""I would request you to kindly wait for the next 4 hours I'm forwarding this on a priority basis you will be receiving a callback from the relevant team within the next 4 hours.""
+}"
+70100a96-b855-4d3e-a398-0d330e8dab42,2717,"Good morning. My name is  I'm here to assist you today. Am I speaking with सूरज? am I speaking with सूरज? Ok, thank you for confirming your name. सूरज as I check that you raised the concern regarding ...",2026-03-17T18:03:39.425099,Mistral,reassurance,Not Met,Agent did not provide reassurance for सूरज's concern regarding how to foreclose a loan,"{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for सूरज's concern regarding how to foreclose a loan""}",1.340301275253296,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Agent did not provide reassurance for सूरज's concern regarding how to foreclose a loan""
+}"
+20c61940-b21f-47aa-90a5-bbc67fd6a4fc,2999,Good afternoon. This is कुमार How may I assist you today? Am I speaking with प्रसाद? Hello. Am I speaking with Yes yes. you so much प्रसाद for confirming your name. I can check that you have raised yo...,2026-03-17T18:03:43.282927,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""5"", ""Quote"": ""So for that I require your alternate number and your nearest landmark so that I can forward the concern to the internal team and they can have a look into this.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""5"", ""Quote"": ""So for that I require your alternate number and your nearest landmark so that I can forward the concern to the internal team and they can have a look into this.""}}",1.8564143180847168,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""5"",
+    ""Quote"": ""So for that I require your alternate number and your nearest landmark so that I can forward the concern to the internal team and they can have a look into this.""
+  }
+}"
+9d6609b4-0dae-4621-8079-461d3d48db8a,1599,"Good afternoon this is  I am here to assist. Am I speaking with भास्कर? So there is a product which we added  banks. it was showing delivered but but it has not been delivered to you. Yeah, but produc...",2026-03-17T18:03:46.974705,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Quote"": ""Ok. First of all, I apologize for the inconvenience definitely I will help you out with that, ok?""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Quote"": ""Ok. First of all, I apologize for the inconvenience definitely I will help you out with that, ok?""}}",1.6902482509613037,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""3"",
+    ""Quote"": ""Ok. First of all, I apologize for the inconvenience definitely I will help you out with that, ok?""
+  }
+}"
+0b8a3db5-40c4-4f0c-927a-96a4a77f749d,3622,"Good afternoon, this is   may I assist you today? Am I speaking with you  for confirming your name. I can check that you have raised a concern regarding a product which is from Yes. electricity liter ...",2026-03-17T18:03:53.195059,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Quotes"": [""I'm really sorry for such kind of experience."", ""This is not the case right?"", ""I can check that I am having an option to raise the concern to the internal team"", ""I have forwarded your concern to the internal team"", ""Team will try their best to help you out regarding this as possible"", ""Even if your product does not get picked up, kindly request you to wait for the maximum time frame"", ""We request you to rate your experi","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Quotes"": [""I'm really sorry for such kind of experience."", ""This is not the case right?"", ""I can check that I am having an option to raise the concern to the internal team"", ""I have forwarded your concern to the internal team"", ""Team will try their best to help you out regarding this as possible"", ""Even if your product does not get picked up, kindly request you to wait for the maximum time frame"", ""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.""]}}",4.218601942062378,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""3"",
+    ""Quotes"": [
+      ""I'm really sorry for such kind of experience."",
+      ""This is not the case right?"",
+      ""I can check that I am having an option to raise the concern to the internal team"",
+      ""I have forwarded your concern to the internal team"",
+      ""Team will try their best to help you out regarding this as possible"",
+      ""Even if your product does not get picked up, kindly request you to wait for the maximum time frame"",
+      ""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.""
+    ]
+  }
+}"
+267c4e7b-7191-493c-9af3-51b64a6fb700,1903,Good afternoon. This is I'm here to assist you today. Am I speaking with राहुल? नाम confirm करने का. language आ रही राहुल am I comfortable Are you comfortable in हिंदी or English? ok but I am  लिया. I...,2026-03-17T18:03:57.021796,Mistral,reassurance,Not Met,"Step 3: Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - No (Quote: No reassurance phrases were used)","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 3: Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - No (Quote: No reassurance phrases were used)""}",1.8252925872802734,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Step 3: Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - No (Quote: No reassurance phrases were used)""
+}"
+9b66ed6e-6829-47e0-91d3-681f6d56cefb,3923,"Hello. afternoon. I'm  calling nan हां हां हमारे   से  बात हो रहा है आपका हां, अमित जी आपका हां. का का पैसा मैंने order किया था लेकिन अभी तक आया नहीं तेईस बार   order किया हां जी, अमित जी. मैं उसी के ...",2026-03-17T18:04:03.405858,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Яко exceptionally than stand yeur आप call को transfer करना चाहूं feedback IVR में जहां पर आप पांच  के beach आप select कर सकते हैं. पांच का मतलब होता है सबसे ज़्यादा एक का मतलब है सबसे कम तो    करने के लिए""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""Яко exceptionally than stand yeur आप call को transfer करना चाहूं feedback IVR में जहां पर आप पांच  के beach आप select कर सकते हैं. पांच का मतलब होता है सबसे ज़्यादा एक का मतलब है सबसे कम तो    करने के लिए""}}",4.382353782653809,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""Яко exceptionally than stand yeur आप call को transfer करना चाहूं feedback IVR में जहां पर आप पांच  के beach आप select कर सकते हैं. पांच का मतलब होता है सबसे ज़्यादा एक का मतलब है सबसे कम तो    करने के लिए""
+  }
+}"
+92f24dce-3ce6-46b2-b2cd-868da31174b1,2895,"Good afternoon, this is ना. I am here to assist you today. Am I speaking with  श्रवण? हां हां. you for confirming your name. So as I can check that you have raised a concern regarding credit cash abou...",2026-03-17T18:04:07.201063,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""4"", ""Quote"": ""system issue की वजह से call automatically hold हो गया तो ""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""4"", ""Quote"": ""system issue की वजह से call automatically hold हो गया तो ""}}",1.7935621738433838,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""4"",
+    ""Quote"": ""system issue की वजह से call automatically hold हो गया तो ""
+  }
+}"
+6a3e8c52-2ecd-4320-97bf-d90a5a92e3b7,2858,morning. This is सोमी I will be assisting you today. Am I speaking with शशांक Yeah. Thank you so much for confirming your name शशांक I can check that you have raised a concern regarding your order is ...,2026-03-17T18:04:15.499468,Mistral,reassurance,Not Met,"Agent did not provide reassurance for your order not being delivered as expected. The agent acknowledged the issue (Step 2), explained the expected wait time (Step 6), and provided a possible solution for a refund (Step 7), but did not offer any reassurances to alleviate the customer's concerns.","{""Step_1"": ""YES"", ""Agent_statement_1"": ""Your order is not delivered after from That's right."", ""Step_2"": ""YES"", ""Agent_statement_2"": ""I can check that your expected delivery date was  second March and it is it has already crossed. So I am just going to forward your concern with our team."", ""Step_3"": ""NO"", ""Step_4"": ""NO"", ""Step_5"": ""NO"", ""Step_6"": ""YES"", ""Agent_statement_6"": ""I believe you are also not able to see the cancellation option."", ""Step_7"": ""YES"", ""Agent_statement_7"": ""Once the product reach back to the merchant the refund will be initiated and it reflect in your source account within 5 to 7 working days."", ""Step_8"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for your order not being delivered as expected. The agent acknowledged the issue (Step 2), explained the expected wait time (Step 6), and provided a possible solution for a refund (Step 7), but did not offer any reassurances to alleviate the customer's concerns.""}",6.296874761581421,True," {
+  ""Step_1"": ""YES"",
+  ""Agent_statement_1"": ""Your order is not delivered after from That's right."",
+  ""Step_2"": ""YES"",
+  ""Agent_statement_2"": ""I can check that your expected delivery date was  second March and it is it has already crossed. So I am just going to forward your concern with our team."",
+  ""Step_3"": ""NO"",
+  ""Step_4"": ""NO"",
+  ""Step_5"": ""NO"",
+  ""Step_6"": ""YES"",
+  ""Agent_statement_6"": ""I believe you are also not able to see the cancellation option."",
+  ""Step_7"": ""YES"",
+  ""Agent_statement_7"": ""Once the product reach back to the merchant the refund will be initiated and it reflect in your source account within 5 to 7 working days."",
+  ""Step_8"": ""Not Met"",
+  ""Evidence"": ""Agent did not provide reassurance for your order not being delivered as expected. The agent acknowledged the issue (Step 2), explained the expected wait time (Step 6), and provided a possible solution for a refund (Step 7), but did not offer any reassurances to alleviate the customer's concerns.""
+}"
+06bb5005-ff3c-4f2b-a637-b95f5e244c78,3056,"Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes. hi. Hi not. So the thing is I I tried doing a payment through credit  like, I was transferring  some educatio...",2026-03-17T18:04:20.485284,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step 1"": ""Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes."", ""Step 2"": ""But I'll try my best to help you."", ""Step 3"": ""I really apologize for the inconvenience caused you."", ""Step 5"": ""But you are saying that you haven't received the refund, right?""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step 1"": ""Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes."", ""Step 2"": ""But I'll try my best to help you."", ""Step 3"": ""I really apologize for the inconvenience caused you."", ""Step 5"": ""But you are saying that you haven't received the refund, right?""}}",2.9838268756866455,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step 1"": ""Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes."",
+    ""Step 2"": ""But I'll try my best to help you."",
+    ""Step 3"": ""I really apologize for the inconvenience caused you."",
+    ""Step 5"": ""But you are saying that you haven't received the refund, right?""
+  }
+}"
+d8e41f6d-f5a5-4d43-bb48-6d29083c1c41,1558,morning. and अंशिका I am here to assist you today. Am I speaking to साहू? Madam मैंने कल  bank account में  credit card में bill payment किया था लेकिन मेरे account में double money deduct हो गया. जी  ...,2026-03-17T18:04:25.116295,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""I understand"", ""Additional_Quote"": ""maam, i am here to assist you today"", ""Agent_acknowledgment"": ""I understand अंशिका I am here to assist you today"", ""Issue"": ""double money deducted from account after bill payment""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""I understand"", ""Additional_Quote"": ""maam, i am here to assist you today"", ""Agent_acknowledgment"": ""I understand अंशिका I am here to assist you today"", ""Issue"": ""double money deducted from account after bill payment""}}",2.6298375129699707,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""I understand"",
+    ""Additional_Quote"": ""maam, i am here to assist you today"",
+    ""Agent_acknowledgment"": ""I understand अंशिका I am here to assist you today"",
+    ""Issue"": ""double money deducted from account after bill payment""
+  }
+}"
+630da169-e9b1-4529-ac7a-a978e9f60150,1838,Good afternoon. This is सिद्धार्थ. How  to assist you today. Am I speaking with शुभ हां तो बात कर रहा हूं. Actually मेरा card का मैंने payment किया था tuition but वह fail हो गया but मेरा अभी भी accoun...,2026-03-17T18:04:28.714153,Mistral,reassurance,Not Met,"Agent did not provide reassurance for 'Payment failed but not showing in account, need update'. Steps 2, 3, 5, 6, 7 were not met.","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for 'Payment failed but not showing in account, need update'. Steps 2, 3, 5, 6, 7 were not met.""}",1.5966713428497314,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Agent did not provide reassurance for 'Payment failed but not showing in account, need update'. Steps 2, 3, 5, 6, 7 were not met.""
+}"
+11683cda-dc5f-4cb8-a3c5-4d0791987cc7,3007,"morning. My name is निकिता. I'm here to assist you today. Am I speaking with निलेश? you very much for confirming your name, कि. So you   get an update that you raised a concern regarding the credit ca...",2026-03-17T18:04:32.769675,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Agent_Statement"": ""But please be assured I will help you with an update regarding the same""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Agent_Statement"": ""But please be assured I will help you with an update regarding the same""}}",2.0540239810943604,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""1"",
+    ""Agent_Statement"": ""I'm sorry for the inconvenience caused to you"",
+    ""Step"": ""3"",
+    ""Agent_Statement"": ""But please be assured I will help you with an update regarding the same""
+  }
+}"
+42a803fa-53e5-48a2-8b4b-c3a9277fe50b,2184,Good afternoon. This is राम. I am here to assist you today. Am I speaking with जी? hours नाम confirm करने के लिए धन्यवाद. जी क्या आप अपना एक concern elaborate कर देंगे please? जी मैं आपसे request कर र...,2026-03-17T18:04:36.147352,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""6"", ""Quote"": ""We are exact""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""6"", ""Quote"": ""We are exact""}}",1.3754384517669678,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""6"",
+    ""Quote"": ""We are exact""
+  }
+}"
+095df596-5b74-4815-a86c-c02343a85509,1665,morning. My name is शुक्रिया. I am here to assist you today. Am I speaking with कुशल या? Thank you for confirming. you have raised a concern regarding credit  Basically regarding the   finance. like y...,2026-03-17T18:04:39.438644,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""I'm very sorry for that.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Quote"": ""I'm very sorry for that.""}}",1.289078712463379,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Quote"": ""I'm very sorry for that.""
+  }
+}"
+b6e54447-103c-49f7-b6f0-e8621a56c246,2159,"Good evening. My name is I'm here to assist you today. Am I speaking with साहिल? Yeah, I am साई speaking. Ok. Thanks for confirming your name साहिल. As I can check that you have raised a concern regar...",2026-03-17T18:04:42.900762,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Agent_statement"": ""I will sure try my best to assist you regarding this. Ok?""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""3"", ""Agent_statement"": ""I will sure try my best to assist you regarding this. Ok?""}}",1.4599339962005615,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""3"",
+    ""Agent_statement"": ""I will sure try my best to assist you regarding this. Ok?""
+  }
+}"
+d1a3761b-ffe1-4115-9076-531fc8424088,3003,"evening. This is विशाल calling from on a recorded line. Am I speaking with राकेश? जी sir, good evening. Hi, good evening राज जी नाम confirm करने के लिए शुक्रिया राय जी.  क्या सही समय है आपसे बात करने ...",2026-03-17T18:04:47.332142,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Agent_Statement"": ""हम सही बताया Ok"", ""Additional_Details"": ""The agent used the reassurance phrase 'हम सही बताया' to confirm the customer's date of birth.""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step"": ""3"", ""Agent_Statement"": ""हम सही बताया Ok"", ""Additional_Details"": ""The agent used the reassurance phrase 'हम सही बताया' to confirm the customer's date of birth.""}}",2.42962384223938,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step"": ""3"",
+    ""Agent_Statement"": ""हम सही बताया Ok"",
+    ""Additional_Details"": ""The agent used the reassurance phrase 'हम सही बताया' to confirm the customer's date of birth.""
+  }
+}"
+585dd7d4-4a1d-415e-bd6b-c56e3ebcb2d6,3210,"Good evening. My name is नीतीश. I am calling you from Cred on a recorded line. I am talking to संजय? Yeah, speaking. you for the confirmation. I can see that you have raised a concern regarding the cr...",2026-03-17T18:04:52.658442,Mistral,reassurance,Not Met,"Agent did not provide reassurance for 'I forgot to deposit my money to the account for the first EMI and now I have paid it, but I need to extend the loan tenure from 18 months to 3 or 4 years'","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for 'I forgot to deposit my money to the account for the first EMI and now I have paid it, but I need to extend the loan tenure from 18 months to 3 or 4 years'"", ""Step_1"": ""Yes"", ""Step_2"": ""No"", ""Step_3"": ""No"", ""Step_4"": ""No"", ""Step_5"": ""No"", ""Step_6"": ""No"", ""Step_7"": ""No""}",3.3249528408050537,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Agent did not provide reassurance for 'I forgot to deposit my money to the account for the first EMI and now I have paid it, but I need to extend the loan tenure from 18 months to 3 or 4 years'"",
+  ""Step_1"": ""Yes"",
+  ""Step_2"": ""No"",
+  ""Step_3"": ""No"",
+  ""Step_4"": ""No"",
+  ""Step_5"": ""No"",
+  ""Step_6"": ""No"",
+  ""Step_7"": ""No""
+}"
+5f2f449a-8d5d-4a8c-bb16-f771a6669087,1945,Good evening. This is  I'm here to assist you today. Am I speaking with दीपक? जी sir. नाम confirm करने के लिए धन्यवाद दीपक. जैसे कि मैं देख पा रहा हूं आपने concern raise किया है refund  के regarding C...,2026-03-17T18:04:57.023854,Mistral,reassurance,Not Met,"Step 2: Agent did not acknowledge the customer's concern and show understanding, Specific Evidence: 'Yes yes. मैं आपकी और कोई सहायता कर सकता हूं credit संबंधित?'","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 2: Agent did not acknowledge the customer's concern and show understanding, Specific Evidence: 'Yes yes. मैं आपकी और कोई सहायता कर सकता हूं credit संबंधित?'""}",2.363394260406494,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Step 2: Agent did not acknowledge the customer's concern and show understanding, Specific Evidence: 'Yes yes. मैं आपकी और कोई सहायता कर सकता हूं credit संबंधित?'""
+}"
+20059b00-5e96-4caa-98b7-19c0000adae6,1699,"afternoon,     here to assist you today. Am I speaking with अविनाश? Good afternoon, I am ना. can I  can you speak in nan I can speak in English and I'm very sorry, I can speak  line हां, ok ok. Please...",2026-03-17T18:05:01.373924,Mistral,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""6"", ""Quote"": ""I'm very sorry for that first of all. I can check that the amount that you have paid twice, like both of the amount for both of the EMIs #### Sorry, ###rupees and ###rupees is already refunded from our end, ok?""}}","{""Reassurance_result"": ""Met"", ""Evidence"": {""Step_number"": ""6"", ""Quote"": ""I'm very sorry for that first of all. I can check that the amount that you have paid twice, like both of the amount for both of the EMIs #### Sorry, ###rupees and ###rupees is already refunded from our end, ok?""}}",2.348419189453125,True," {
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": {
+    ""Step_number"": ""6"",
+    ""Quote"": ""I'm very sorry for that first of all. I can check that the amount that you have paid twice, like both of the amount for both of the EMIs #### Sorry, ###rupees and ###rupees is already refunded from our end, ok?""
+  }
+}"
+830a5b45-fbf1-4d79-acf7-a182cbe7e7be,2614,"Good morning. This is    here to assist you. Am I speaking with सादत? Yeah, hi collect. Hi सबा. So, Yes speaking. Yeah. Actually, my credit order is   delivered  and the delivery  person came to my na...",2026-03-17T18:05:15.016300,Mistral,reassurance,JSON Error," {
+  ""Step"": ""0"",
+  ""Agent_Statement"": ""Good morning. This is [agent_name] here to assist you. Am I speaking with सादत?"",
+  ""Reassurance_result"": ""Met""
+}
+
+{
+  ""Step"": ""1"",
+  ""Customer_Problem_or_Conce","{""Value"": ""JSON Error"", ""Evidence"": "" {\n  \""Step\"": \""0\"",\n  \""Agent_Statement\"": \""Good morning. This is [agent_name] here to assist you. Am I speaking with सादत?\"",\n  \""Reassurance_result\"": \""Met\""\n}\n\n{\n  \""Step\"": \""1\"",\n  \""Customer_Problem_or_Conce""}",11.640841722488403,False," {
+  ""Step"": ""0"",
+  ""Agent_Statement"": ""Good morning. This is [agent_name] here to assist you. Am I speaking with सादत?"",
+  ""Reassurance_result"": ""Met""
+}
+
+{
+  ""Step"": ""1"",
+  ""Customer_Problem_or_Concern"": ""The delivery person came to my house with the parcel, but he was not able to input the OTP because of network issues. Ok, I can hear you. Thank... That person also attempted to cancel my delivery... I am not ok with that."",
+  ""Reassurance_result"": ""Not Met""
+}
+
+{
+  ""Step"": ""2"",
+  ""Agent_Statement"": ""I apologize for that inconvenience"",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""3"",
+  ""Agent_Statement"": """",
+  ""Reassurance_result"": ""NO""
+}
+
+{
+  ""Step"": ""4"",
+  ""Agent_Statement"": ""Please don't worry I will help you out... Please don't share the cancellation OTP... That is ok but since my parcel reached my door and it went back I am not ok with that."",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""5"",
+  ""Agent_Statement"": ""I apologize, I can check here the expected delivery date for all the 3 items which is left to get delivered to you is within ninth of March... Currently, I would request you to please wait for the delivery."",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""6"",
+  ""Agent_Statement"": ""It can happen that the item be reattempt for the delivery..."",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""7"",
+  ""Agent_Statement"": ""I take as a feedback also first definitely will improve this... Currently, I would request you to please wait for the delivery. Yes, please consider this as an escalation for the delivery person because this is not acceptable... I take it as a feedback not an issue..."",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""8"",
+  ""Reassurance_result"": ""Met""
+}"
+be00850c-1822-454d-84bd-7fbbe07c5998,3070,"evening. This is प्रीतम. I'm here to assist you. Am I speaking with शंकर? nan Yeah, is शंकर? Thanks  thanks for the confirmation  पंकज. my product was not getting delivered it is showing out of delive...",2026-03-17T18:05:18.256258,Mistral,reassurance,Error,The call was too short to determine if the agent provided adequate reassurance.,"{""Step"": ""0"", ""Reassurance"": ""Call too short to evaluate"", ""Evidence"": ""The call was too short to determine if the agent provided adequate reassurance.""}",1.2387514114379883,True," {
+  ""Step"": ""0"",
+  ""Reassurance"": ""Call too short to evaluate"",
+  ""Evidence"": ""The call was too short to determine if the agent provided adequate reassurance.""
+}"
+02719540-46f4-482b-969e-14b50bbe3285,3129,"Good evening, this is  I am here to assist you today. Am I speaking with मनीष? as you can see that I have purchased  completed from the So I   see that       from the credit and that  is not getting d...",2026-03-17T18:05:32.144941,Mistral,reassurance,JSON Error," {
+  ""Step"": ""0"",
+  ""Agent_Statement"": """",
+  ""Reassurance_result"": ""Met""
+}
+
+{
+  ""Step"": ""1"",
+  ""Agent_Statement"": ""I can understand extremely sorry that you inconvenience we will surely help you as I ","{""Value"": ""JSON Error"", ""Evidence"": "" {\n  \""Step\"": \""0\"",\n  \""Agent_Statement\"": \""\"",\n  \""Reassurance_result\"": \""Met\""\n}\n\n{\n  \""Step\"": \""1\"",\n  \""Agent_Statement\"": \""I can understand extremely sorry that you inconvenience we will surely help you as I ""}",11.887462139129639,False," {
+  ""Step"": ""0"",
+  ""Agent_Statement"": """",
+  ""Reassurance_result"": ""Met""
+}
+
+{
+  ""Step"": ""1"",
+  ""Agent_Statement"": ""I can understand extremely sorry that you inconvenience we will surely help you as I can check that your product which is from the see company and it is smart pack of 2 and you are maximum delivery time which was still first of match and the product has not been delivered yet extremely sorry for that."",
+  ""Reassurance_result"": ""NO""
+}
+
+{
+  ""Step"": ""2"",
+  ""Agent_Statement"": ""So I am going to raise a concern to our internal team for that"",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""3"",
+  ""Agent_Statement"": ""don't need to worry. The product will get delivered"",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""4"",
+  ""Agent_Statement"": ""It is not like that the concern has been raised and for the maximum timeline which is still twelfth of month, but we will try our best to deliver the product as soon as is there anything else which I can assist I'll go by or I'll go by  conference."",
+  ""Reassurance_result"": ""NO""
+}
+
+{
+  ""Step"": ""5"",
+  ""Agent_Statement"": ""And on or before twelfth of March you will get an update by WhatsApp as well as the credit support section Twelfth of march you will be days on for this concern basically, it is not for the delivery"",
+  ""Reassurance_result"": ""YES""
+}
+
+{
+  ""Step"": ""6"",
+  ""Agent_Statement"": """",
+  ""Reassurance_result"": ""N/A""
+}
+
+{
+  ""Step"": ""7"",
+  ""Agent_Statement"": ""or you can choose from 1 to 5 1 being 4 and 5 being excellent."",
+  ""Reassurance_result"": ""NO""
+}
+
+{
+  ""Step"": ""8"",
+  ""Agent_Statement"": ""Product will get delivered"",
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Step 8: Agent did not provide reassurance for 'Delivery of the product at the given time'.""
+}"
+96d97237-1192-4d22-a836-9624908817dc,2739,Good afternoon. This is This is calling from recorded line. Am I speaking with आकाश? हां बात करो बोलिए. जी आकाश जैसे कि मैं देख पा रहा हूं आपने statement भेजा थी अपनी HDFC हां हां. यह आपने payment dat...,2026-03-17T18:05:36.179833,Mistral,reassurance,Not Met,"Step 1: Customer expressed a problem or concern - पाउ becuase the payment date was not provided. 
+Step 3: Did the agent use any reassurance phrases? - No quote found for reassurance phrased in the transcript.","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 1: Customer expressed a problem or concern - पाउ becuase the payment date was not provided. \nStep 3: Did the agent use any reassurance phrases? - No quote found for reassurance phrased in the transcript.""}",2.03328275680542,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Step 1: Customer expressed a problem or concern - पाउ becuase the payment date was not provided. \nStep 3: Did the agent use any reassurance phrases? - No quote found for reassurance phrased in the transcript.""
+}"
+05bc2f79-e454-456e-b588-00128c679dde,1673,"morning. This is  I will be assisting you today. Am I speaking with पवन Yeah hi, actually I called regarding 1 of my order which I wanted to return and I see the I don't know what's the current status...",2026-03-17T18:05:39.641216,Mistral,reassurance,Not Met,Agent did not provide reassurance for 'order return request is not being processed and has been canceled twice without pickup' and failed to offer a solution or next steps.,"{""Call_result"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for 'order return request is not being processed and has been canceled twice without pickup' and failed to offer a solution or next steps.""}",1.4596893787384033,True," {
+  ""Call_result"": ""Not Met"",
+  ""Evidence"": ""Agent did not provide reassurance for 'order return request is not being processed and has been canceled twice without pickup' and failed to offer a solution or next steps.""
+}"
+24ba9529-527f-4133-8f7b-0c5eab96d29b,2315,"Good afternoon, this is वरीता. I will be assisting you today. Am I speaking with रोहित? Yeah, good afternoon ma'am. I have raised a complaint regarding my last order. Yes, as it is your product from m...",2026-03-17T18:05:47.014971,Mistral,reassurance,Error,"{""Call_Analysis"": {""Call_Too_Short_To_Evaluate"": ""No"", ""Customer_Expressed_Problem_Or_Concern"": ""Yes"", ""Agent_Acknowledged_Concern"": ""Yes"", ""Agent_Used_Reassurance_Phrases"": ""Yes"", ""Issue_Beyond_Agent's_Control"": ""No"", ""Agent_Tried_To_Resolve_Customer's_Issue"": ""Yes"", ""Agent_Explained_Why_Couldn't_Help"": ""No"", ""Agent_Offered_To_Escalate_Or_Follow_Up"": ""Yes"", ""Reassurance_Result"": ""Met"", ""Evidence"": {""Step_Number"": ""7"", ""Quote"": ""So once we get an update regarding this, you will definitely receiv","{""Call_Analysis"": {""Call_Too_Short_To_Evaluate"": ""No"", ""Customer_Expressed_Problem_Or_Concern"": ""Yes"", ""Agent_Acknowledged_Concern"": ""Yes"", ""Agent_Used_Reassurance_Phrases"": ""Yes"", ""Issue_Beyond_Agent's_Control"": ""No"", ""Agent_Tried_To_Resolve_Customer's_Issue"": ""Yes"", ""Agent_Explained_Why_Couldn't_Help"": ""No"", ""Agent_Offered_To_Escalate_Or_Follow_Up"": ""Yes"", ""Reassurance_Result"": ""Met"", ""Evidence"": {""Step_Number"": ""7"", ""Quote"": ""So once we get an update regarding this, you will definitely receive an update regarding this via WhatsApp notification and support section""}}}",5.372514963150024,True," {
+  ""Call_Analysis"": {
+    ""Call_Too_Short_To_Evaluate"": ""No"",
+    ""Customer_Expressed_Problem_Or_Concern"": ""Yes"",
+    ""Agent_Acknowledged_Concern"": ""Yes"",
+    ""Agent_Used_Reassurance_Phrases"": ""Yes"",
+    ""Issue_Beyond_Agent's_Control"": ""No"",
+    ""Agent_Tried_To_Resolve_Customer's_Issue"": ""Yes"",
+    ""Agent_Explained_Why_Couldn't_Help"": ""No"",
+    ""Agent_Offered_To_Escalate_Or_Follow_Up"": ""Yes"",
+    ""Reassurance_Result"": ""Met"",
+    ""Evidence"": {
+      ""Step_Number"": ""7"",
+      ""Quote"": ""So once we get an update regarding this, you will definitely receive an update regarding this via WhatsApp notification and support section""
+    }
+  }
+}"
+60a8d089-44c3-411d-b5cc-c24733d5acdd,1959,"Good morning. This is  I will be assisting you Good morning, madam. Good morning, madam. विषय नाम से. Good morning, madam. Good morning, madam. Am I audible करना? मेरा कृष्णा कर मेरा कृष्णा कर Yes, th...",2026-03-17T18:05:51.447838,Mistral,reassurance,Not Met,"Agent did not provide reassurance for 'customer seeking a refund and having trouble understanding the process in Telugu, who was unable to communicate in English or Hindi, and was promised a mail in Telugu after the call disconnected; the agent did not offer immediate assistance or provide information about the refund, and didn't use any reassurance phrases' (Step 3)","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for 'customer seeking a refund and having trouble understanding the process in Telugu, who was unable to communicate in English or Hindi, and was promised a mail in Telugu after the call disconnected; the agent did not offer immediate assistance or provide information about the refund, and didn't use any reassurance phrases' (Step 3)""}",2.4313673973083496,True," {
+  ""Reassurance_result"": ""Not Met"",
+  ""Evidence"": ""Agent did not provide reassurance for 'customer seeking a refund and having trouble understanding the process in Telugu, who was unable to communicate in English or Hindi, and was promised a mail in Telugu after the call disconnected; the agent did not offer immediate assistance or provide information about the refund, and didn't use any reassurance phrases' (Step 3)""
+}"

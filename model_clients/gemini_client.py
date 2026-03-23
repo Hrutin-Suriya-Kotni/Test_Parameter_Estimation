@@ -40,7 +40,8 @@ class GeminiClient(BaseModelClient):
                 raise ValueError("GEMINI_API_KEY not found in .env file. Please add it to your .env file.")
             
             genai.configure(api_key=self.api_key)
-            self.model = genai.GenerativeModel('gemini-2.0-flash-exp')
+            # Use a stable, broadly available model name for v1beta generateContent
+            self.model = genai.GenerativeModel("gemini-2.5-flash")
             
             # Safety settings to avoid blocking
             self.safety_settings = {
@@ -81,8 +82,7 @@ Transcript:
                 enhanced_prompt,
                 safety_settings=self.safety_settings,
                 generation_config={
-                    'temperature': 0.1,  # Low temperature for consistent results
-                    'max_output_tokens': 256  # Reduced for faster inference
+                    'temperature': 0.1,  # Low temperature for consistent results  # Reduced for faster inference
                 }
             )
             return response.text
@@ -93,7 +93,10 @@ Transcript:
         """Test if the Gemini API is accessible"""
         try:
             response = self.analyze_conversation("Hello, this is a test message.", "Test transcript")
-            return not response.startswith("Error:")
+            if response.startswith("Error:"):
+                print(f"Gemini test_connection error detail: {response}")
+                return False
+            return True
         except Exception as e:
             print(f"Gemini connection test failed: {e}")
             return False
@@ -103,7 +106,7 @@ Transcript:
         base_info = super().get_model_info()
         base_info.update({
             'api_type': 'Google Gemini',
-            'model': 'gemini-2.0-flash-exp',
+            'model': 'gemini-2.5-flash',
             'api_key_configured': bool(self.api_key)
         })
         return base_info

@@ -1,0 +1,17 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-19T11:16:28.738178,Qwen-inhouse,reassurance,Error,Call too short to evaluate,"{""step"": 0, ""evidence"": ""Call too short to evaluate""}",0.8963007926940918,True,"{
+  ""step"": 0,
+  ""evidence"": ""Call too short to evaluate""
+}"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-19T11:16:31.555895,Qwen-inhouse,reassurance,Error,Call too short to evaluate,"{""step"": 0, ""evidence"": ""Call too short to evaluate""}",0.8155670166015625,True,"{
+  ""step"": 0,
+  ""evidence"": ""Call too short to evaluate""
+}"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-19T11:16:34.249619,Qwen-inhouse,reassurance,Error,Call too short to evaluate,"{""step"": 0, ""evidence"": ""Call too short to evaluate""}",0.6915831565856934,True,"{
+  ""step"": 0,
+  ""evidence"": ""Call too short to evaluate""
+}"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-19T11:16:36.943424,Qwen-inhouse,reassurance,Error,Call too short to evaluate,"{""step"": 0, ""evidence"": ""Call too short to evaluate""}",0.6916637420654297,True,"{
+    ""step"": 0,
+    ""evidence"": ""Call too short to evaluate""
+}"

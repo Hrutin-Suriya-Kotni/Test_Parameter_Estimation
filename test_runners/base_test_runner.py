@@ -10,6 +10,8 @@ import pandas as pd
 import time
 from datetime import datetime
 from typing import List, Dict, Any, Optional, Tuple
+import json
+import re
 
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -88,7 +90,8 @@ Agent: Thank you Sarah. I'm calling regarding your recent transaction."""
             
             result = self.model_client.parse_json_response(response)
             if result:
-                print(f"    ✅ {self.model_client.model_name}: {result.get('Value', 'Unknown')} ({response_time:.2f}s)")
+                primary_result = self._extract_primary_result(result)
+                print(f"    ✅ {self.model_client.model_name}: {primary_result or 'Parsed'} ({response_time:.2f}s)")
                 success = True
             else:
                 print(f"    ⚠️  {self.model_client.model_name}: JSON parsing failed")
@@ -108,12 +111,78 @@ Agent: Thank you Sarah. I'm calling regarding your recent transaction."""
             'timestamp': datetime.now().isoformat(),
             'model_name': self.model_client.model_name,
             'test_type': self.test_type,
-            'result': result.get('Value', 'Error'),
-            'evidence': result.get('Evidence', 'Error'),
+            'result': self._extract_primary_result(result) or result.get('Value', 'Error'),
+            'evidence': self._extract_primary_evidence(result) or result.get('Evidence', 'Error'),
+            'parsed_json': json.dumps(result, ensure_ascii=False),
             'response_time': response_time,
             'success': success,
             'raw_response': response
         }
+
+    def _extract_primary_result(self, parsed: Dict[str, Any]) -> Optional[str]:
+        """Extract a primary Met/Not Met style result from arbitrary JSON output."""
+        if not isinstance(parsed, dict):
+            return None
+
+        # Reassurance prompt variants may return {"step": <int>, "evidence": "..."}
+        # Step 8 means Not Met; all earlier steps indicate Met per rubric.
+        step_val = parsed.get("step")
+        if isinstance(step_val, (int, float)):
+            return "Not Met" if int(step_val) >= 8 else "Met"
+        if isinstance(step_val, str) and step_val.strip().isdigit():
+            return "Not Met" if int(step_val.strip()) >= 8 else "Met"
+
+        if isinstance(parsed.get("Value"), str):
+            return parsed.get("Value")
+
+        # Prefer fields ending with "_result"
+        for k in parsed.keys():
+            if isinstance(k, str) and k.lower().endswith("_result") and isinstance(parsed.get(k), str):
+                return parsed.get(k)
+
+        # Common field names
+        for k in ("result", "Result", "status", "Status"):
+            if isinstance(parsed.get(k), str):
+                return parsed.get(k)
+
+        # If multiple Met/Not Met fields exist (e.g., closing has 3), summarize
+        met_like = []
+        for k, v in parsed.items():
+            if isinstance(v, str) and v in {"Met", "Not Met"}:
+                met_like.append(v)
+        if met_like:
+            return "Met" if all(v == "Met" for v in met_like) else "Not Met"
+
+        return None
+
+    def _extract_primary_evidence(self, parsed: Dict[str, Any]) -> Optional[str]:
+        """Extract primary evidence from arbitrary JSON output."""
+        if not isinstance(parsed, dict):
+            return None
+
+        if isinstance(parsed.get("Evidence"), str):
+            return parsed.get("Evidence")
+
+        # If there's a *_result key, try matching *_evidence
+        result_keys = [k for k in parsed.keys() if isinstance(k, str) and k.lower().endswith("_result")]
+        for rk in result_keys:
+            prefix = re.sub(r"(?i)_result$", "", rk)
+            candidate_keys = [
+                f"{prefix}_evidence",
+                f"{prefix}_Evidence",
+                f"{prefix}_EVIDENCE",
+            ]
+            for ck in candidate_keys:
+                if isinstance(parsed.get(ck), str):
+                    return parsed.get(ck)
+
+        # Otherwise pick the first string field containing "evidence"
+        for k, v in parsed.items():
+            if isinstance(k, str) and "evidence" in k.lower() and isinstance(v, str):
+                return v
+
+        # Fallback: compact summary
+        return json.dumps(parsed, ensure_ascii=False)[:500]
     
     def run_tests(self, conversations: List[Dict[str, Any]], prompt: str, max_conversations: Optional[int] = None) -> List[Dict[str, Any]]:
         """Run tests on all conversations"""

@@ -18,7 +18,11 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # Get the absolute path to the project root directory (where this config.py file is located)
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 CRED_DATA_PATH = os.path.join(PROJECT_ROOT, "data")  # Absolute path to data directory
-CRED_FILE_NAME = "TAReport (30).xlsx"
+# Primary conversation dataset (CSV)
+# This is what the test runners consume via `data_loader.load_all_conversations()`.
+CRED_FILE_NAME = "final_output.csv"
+
+# Excel settings (kept for backward compatibility if you switch back to xlsx)
 CRED_TRANSCRIPT_SHEET = "Transcript"
 CRED_PRIMARY_INFO_SHEET = "Primary Info"
 

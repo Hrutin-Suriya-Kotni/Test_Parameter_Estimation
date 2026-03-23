@@ -13,7 +13,14 @@ class CREDDataLoader:
     
     def __init__(self, data_path: str = CRED_DATA_PATH):
         self.data_path = data_path
-        self.file_path = os.path.join(data_path, CRED_FILE_NAME)
+        project_root = os.path.dirname(os.path.abspath(__file__))
+        # Try, in order: data dir, project root, xlsx_csv_files
+        candidates = [
+            os.path.join(data_path, CRED_FILE_NAME),
+            os.path.join(project_root, CRED_FILE_NAME),
+            os.path.join(project_root, "xlsx_csv_files", CRED_FILE_NAME),
+        ]
+        self.file_path = next((p for p in candidates if os.path.exists(p)), candidates[0])
         print(f"🔍 Data loader initialized with:")
         print(f"   Data path: {self.data_path}")
         print(f"   File path: {self.file_path}")
@@ -21,33 +28,49 @@ class CREDDataLoader:
     
     def load_data(self) -> Tuple[pd.DataFrame, pd.DataFrame]:
         """
-        Load the CRED conversation data from Excel file
+        Load the CRED conversation data.
+
+        Supports:
+        - CSV (`final_output.csv`) with columns like: id, transcripts
+        - Excel (`.xlsx`) with Transcript / Primary Info sheets (legacy)
         
         Returns:
             Tuple of (transcript_df, primary_info_df)
         """
         try:
-            # Load transcript data
-            transcript_df = pd.read_excel(
-                self.file_path, 
-                sheet_name=CRED_TRANSCRIPT_SHEET
-            )
-            
-            # Load primary info data
-            primary_info_df = pd.read_excel(
-                self.file_path, 
-                sheet_name=CRED_PRIMARY_INFO_SHEET
-            )
-            
-            print(f"Loaded transcript data: {len(transcript_df)} rows")
-            print(f"Loaded primary info data: {len(primary_info_df)} rows")
+            _, ext = os.path.splitext(self.file_path.lower())
+
+            if ext == ".csv":
+                transcript_df = pd.read_csv(self.file_path)
+
+                # Normalize expected transcript column name
+                if "transcript" not in transcript_df.columns:
+                    if "transcripts" in transcript_df.columns:
+                        transcript_df = transcript_df.rename(columns={"transcripts": "transcript"})
+
+                # Ensure an id exists (used only for reference; runners create conv_* ids)
+                if "id" not in transcript_df.columns:
+                    transcript_df["id"] = [f"row_{i+1}" for i in range(len(transcript_df))]
+
+                primary_info_df = pd.DataFrame()
+
+                print(f"Loaded transcript data (CSV): {len(transcript_df)} rows")
+                print(f"Transcript columns: {list(transcript_df.columns)}")
+                return transcript_df, primary_info_df
+
+            # Legacy Excel path
+            transcript_df = pd.read_excel(self.file_path, sheet_name=CRED_TRANSCRIPT_SHEET)
+            primary_info_df = pd.read_excel(self.file_path, sheet_name=CRED_PRIMARY_INFO_SHEET)
+
+            print(f"Loaded transcript data (XLSX): {len(transcript_df)} rows")
+            print(f"Loaded primary info data (XLSX): {len(primary_info_df)} rows")
             print(f"Transcript columns: {list(transcript_df.columns)}")
-            
+
             return transcript_df, primary_info_df
             
         except FileNotFoundError:
             print(f"Error: File not found at {self.file_path}")
-            print(f"Please ensure the Excel file is in the {self.data_path} directory")
+            print(f"Please ensure the dataset file is in the correct location")
             raise
         except Exception as e:
             print(f"Error loading data: {e}")
@@ -112,7 +135,7 @@ def load_conversations(sample_size: int = None):
     """
     try:
         # Load the data
-        transcript_df, primary_info_df = data_loader.load_data()
+        transcript_df, _primary_info_df = data_loader.load_data()
         
         # Get data (all or sample)
         if sample_size is None:
@@ -126,13 +149,19 @@ def load_conversations(sample_size: int = None):
         
         conversations = []
         for idx, row in data_df.iterrows():
-            # Get the transcript text (assuming there's a 'transcript' column)
-            transcript_text = row.get('transcript', str(row.get('Transcript', '')))
+            # Get the transcript text (supports CSV `transcript` and legacy Excel `Transcript`)
+            transcript_text = row.get("transcript", row.get("Transcript", ""))
             
             # Skip empty transcripts
             if transcript_text and str(transcript_text).strip():
+                # Prefer a stable source ID from the dataset (e.g., UUID from final_output.csv).
+                # Fall back to conv_{n} only if no ID is present.
+                source_id = row.get("id", None)
+                source_id = None if source_id is None else str(source_id).strip()
+                conversation_id = source_id if source_id else f"conv_{idx+1}"
+
                 conversations.append({
-                    'id': f"conv_{idx+1}",
+                    'id': conversation_id,
                     'transcript': str(transcript_text).strip()
                 })
         

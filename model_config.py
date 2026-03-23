@@ -20,28 +20,104 @@ class ModelConfig:
         'mistral': {
             'class_name': 'MistralClient',
             'module_path': 'model_clients.mistral_client',
-            'display_name': 'Mistral (Local)',
-            'description': 'Local Mistral model via OpenChat server',
-            'requires_api_key': False,
-            'api_key_env_var': None,
+            'display_name': 'Mistral (NVIDIA NIM)',
+            'description': 'Mistral via NVIDIA NIM OpenAI-compatible API',
+            'requires_api_key': True,
+            'api_key_env_var': 'NVIDIA_API_KEY',
             'config': {
-                'api_url': 'http://192.168.30.239:8000/chat',
-                'model': 'openchat/openchat-3.5-1210',
-                'max_tokens': 512,
-                'temperature': 0.1
+                'api_url': 'https://integrate.api.nvidia.com/v1',
+                'model': 'mistralai/mistral-7b-instruct-v0.3',
+                'temperature': 0.1,
             }
         },
         'gemini': {
             'class_name': 'GeminiClient',
             'module_path': 'model_clients.gemini_client',
             'display_name': 'Google Gemini',
-            'description': 'Google Gemini 2.0 Flash model via API',
+            'description': 'Google Gemini 1.5 Flash model via API',
             'requires_api_key': True,
             'api_key_env_var': 'GEMINI_API_KEY',
             'config': {
-                'model': 'gemini-2.0-flash-exp',
+                'model': 'gemini-2.5-flash',
                 'temperature': 0.1,
-                'max_output_tokens': 256
+            }
+        },
+        'llama': {
+            'class_name': 'LlamaClient',
+            'module_path': 'model_clients.llama_client',
+            'display_name': 'Meta Llama 3 8B Instruct',
+            'description': 'meta/llama-3.1-8b-instruct via NVIDIA NIM OpenAI-compatible API',
+            'requires_api_key': True,
+            'api_key_env_var': 'NVIDIA_API_KEY',
+            'config': {
+                'api_url': 'https://integrate.api.nvidia.com/v1',
+                'model': 'meta/llama-3.1-8b-instruct',
+                'temperature': 0.1
+            }
+        },
+        'qwen': {
+            'class_name': 'QwenClient',
+            'module_path': 'model_clients.qwen_client',
+            'display_name': 'Qwen 2.5 7B Instruct',
+            'description': 'qwen/qwen2.5-7b-instruct via NVIDIA NIM OpenAI-compatible API',
+            'requires_api_key': True,
+            'api_key_env_var': 'NVIDIA_API_KEY',
+            'config': {
+                'api_url': 'https://integrate.api.nvidia.com/v1',
+                'model': 'qwen/qwen2.5-7b-instruct',
+                'temperature': 0.1
+            }
+        },
+        'mistral_v0_2': {
+            'class_name': 'MistralV02Client',
+            'module_path': 'model_clients.mistral_v0_2_client',
+            'display_name': 'Mistral 7B Instruct v0.2',
+            'description': 'mistralai/mistral-7b-instruct-v0.2 via NVIDIA NIM OpenAI-compatible API',
+            'requires_api_key': True,
+            'api_key_env_var': 'NVIDIA_API_KEY',
+            'config': {
+                'api_url': 'https://integrate.api.nvidia.com/v1',
+                'model': 'mistralai/mistral-7b-instruct-v0.2',
+                'temperature': 0.1
+            }
+        },
+        'gemma': {
+            'class_name': 'GemmaClient',
+            'module_path': 'model_clients.gemma_client',
+            'display_name': 'Gemma 2 9B',
+            'description': 'google/gemma-2-9b via NVIDIA NIM OpenAI-compatible API',
+            'requires_api_key': True,
+            'api_key_env_var': 'NVIDIA_API_KEY',
+            'config': {
+                'api_url': 'https://integrate.api.nvidia.com/v1',
+                'model': 'google/gemma-2-9b-it',
+                'temperature': 0.1
+            }
+        },
+        'gemma_inhouse': {
+            'class_name': 'GemmaInhouseClient',
+            'module_path': 'model_clients.gemma_inhouse_client',
+            'display_name': 'Gemma In-house (vLLM)',
+            'description': 'In-house vLLM server OpenAI-compatible /v1/chat/completions',
+            'requires_api_key': False,
+            'api_key_env_var': 'GEMMA_INHOUSE_API_KEY',
+            'config': {
+                'api_url': 'http://192.168.30.251:5000/v1',
+                'model': 'google/gemma-2-9b-it',
+                'temperature': 0.1
+            }
+        },
+        'qwen_inhouse': {
+            'class_name': 'QwenInhouseClient',
+            'module_path': 'model_clients.qwen_inhouse_client',
+            'display_name': 'Qwen In-house (vLLM)',
+            'description': 'In-house vLLM Qwen2.5-7B-Instruct OpenAI-compatible /v1/chat/completions',
+            'requires_api_key': False,
+            'api_key_env_var': 'QWEN_INHOUSE_API_KEY',
+            'config': {
+                'api_url': 'http://192.168.30.121:5000/v1',
+                'model': 'Qwen/Qwen2.5-7B-Instruct',
+                'temperature': 0.1
             }
         }
         # Add new models here following the same pattern

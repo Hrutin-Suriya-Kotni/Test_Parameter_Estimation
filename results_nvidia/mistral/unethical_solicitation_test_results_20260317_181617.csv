@@ -1,0 +1,301 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-17T18:12:55.589497,Mistral,unethical_solicitation,Met, Please press the number on your dial pack to rate your interaction with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. एक,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": "" Please press the number on your dial pack to rate your interaction with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. एक""}",1.9233675003051758,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": "" Please press the number on your dial pack to rate your interaction with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. एक""
+}
+```"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-17T18:12:59.039646,Mistral,unethical_solicitation,Met,The agent provided information about the rating scale (1 is the lowest and 5 is the highest),"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent provided information about the rating scale (1 is the lowest and 5 is the highest)""}",1.4479398727416992,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent provided information about the rating scale (1 is the lowest and 5 is the highest)""
+}"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-17T18:13:02.804450,Mistral,unethical_solicitation,Met,The agent explained the rating scale (1 being lowest and 5 being highest) and transferred the customer to the feedback IVR without making an explicit request for a high rating.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being lowest and 5 being highest) and transferred the customer to the feedback IVR without making an explicit request for a high rating.""}",1.7626619338989258,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being lowest and 5 being highest) and transferred the customer to the feedback IVR without making an explicit request for a high rating.""
+}"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-17T18:13:06.521230,Mistral,unethical_solicitation,Met,Agent shared details of the rating scale (5 being excellent and 1 being poor) and forwarded the call to the feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent shared details of the rating scale (5 being excellent and 1 being poor) and forwarded the call to the feedback IVR.""}",1.7146284580230713,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent shared details of the rating scale (5 being excellent and 1 being poor) and forwarded the call to the feedback IVR.""
+}
+```"
+11520c16-512e-41c8-b28e-f4f7494b3636,2324,Very good evening. This is शशि. I'm here to assist you today. Am I speaking with सूरज? Thank you for confirming. I can see your request is regarding the withdrawal of cash. Could you please elaborate ...,2026-03-17T18:13:10.336470,Mistral,unethical_solicitation,Met,"The agent explained the rating scale (e.g., stating that 5 being excellent and 1 meaning poor) and transferred the customer to a feedback IVR.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (e.g., stating that 5 being excellent and 1 meaning poor) and transferred the customer to a feedback IVR.""}",1.8139722347259521,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (e.g., stating that 5 being excellent and 1 meaning poor) and transferred the customer to a feedback IVR.""
+}
+```"
+727a8769-3a93-451d-a837-91f903ddbc0a,3241,Good morning. This is  I am here to assist you. Am I speaking with रोहित? Hi रोहित. So you have reached out to us with the concern stating that there was a item which you have purchased and you are fa...,2026-03-17T18:13:13.837924,Mistral,unethical_solicitation,Met,The agent explained the rating scale by stating that 1 is poor and 5 is excellent.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that 1 is poor and 5 is excellent.""}",1.4993205070495605,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that 1 is poor and 5 is excellent.""
+}
+```"
+0fb2cc5a-9d80-4510-9239-d58de5c5fcaf,3730,Good morning and अंशिका I am here to assist you today. Am I speaking to शुभम Yes. Thank you for the name confirmation शुभम. I see that you have raised a concern regarding the outstanding payment or IC...,2026-03-17T18:13:18.310294,Mistral,unethical_solicitation,Met,"Agent stated 'So before we end the call, शुभम may I request you for a small feed small feedback based on our conversation?' and 'Do reach out again in case of any other concerns. Thank you and have a good day.' which implies a request for positive feedback, even though no specific high rating was asked.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent stated 'So before we end the call, शुभम may I request you for a small feed small feedback based on our conversation?' and 'Do reach out again in case of any other concerns. Thank you and have a good day.' which implies a request for positive feedback, even though no specific high rating was asked.""}",2.4706060886383057,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent stated 'So before we end the call, शुभम may I request you for a small feed small feedback based on our conversation?' and 'Do reach out again in case of any other concerns. Thank you and have a good day.' which implies a request for positive feedback, even though no specific high rating was asked.""
+}
+```"
+895ec893-7e66-4f0b-8605-2003e06e8a6d,2668,"Good morning. This is. May I assist you today? Am I speaking with ओम? Yes speaking. May I know you nan रंजीत. Yeah, रंजीत. and my car insurance was expiring in 2 days. So I have renewed my car insuran...",2026-03-17T18:13:21.895872,Mistral,unethical_solicitation,Met,The agent explained the rating scale (1 being poor and 5 being excellent) before transferring the call to the feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor and 5 being excellent) before transferring the call to the feedback IVR.""}",1.5844004154205322,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor and 5 being excellent) before transferring the call to the feedback IVR.""
+}
+```"
+7d2da038-64e0-4380-9c82-7a955e6fe8b3,1604,Good evening this is  I am here to assist you today. Am I speaking with अंदर? जी मैंने payment किया मैं आपका concern समझ पा रही हूं आप please एक बार confirm कर सकते हैं क्या मेरी बात चंद्र से ही हो रह...,2026-03-17T18:13:25.541742,Mistral,unethical_solicitation,Met,The agent explained the rating scale (1 as poor and 5 as excellent) and invited the customer to provide feedback.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 as poor and 5 as excellent) and invited the customer to provide feedback.""}",1.6441752910614014,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 as poor and 5 as excellent) and invited the customer to provide feedback.""
+}
+```"
+a51be59e-cb2a-47fc-8d6c-f9a616b39508,1962,"evening. This is मोहम्मद I'm here to assist you today. Am I speaking with अतुल? Yes. So, I was having an offer of personal loan of BC credit So just wanted to confirm what is the processing fees Yes y...",2026-03-17T18:13:29.014366,Mistral,unethical_solicitation,Met,Agent mentioned numbers 1 and 5 in the context of the feedback rating system.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent mentioned numbers 1 and 5 in the context of the feedback rating system.""}",1.4709010124206543,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent mentioned numbers 1 and 5 in the context of the feedback rating system.""
+}
+```"
+8bdbd2b2-77bb-4ca7-9bf6-576b7c72b041,2568,Good morning. This is  here. I am calling from Cred on a recorded line. Am I speaking हां जी बताइए. धन्यवाद आपका नाम confirm करने के लिए अंजलि. आपने concern     speak  बात जी जी. हां बताइए ना बताना. व...,2026-03-17T18:13:32.725524,Mistral,unethical_solicitation,Met,"The agent explained the rating scale (1 to 5) to the customer, but did not explicitly ask for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 to 5) to the customer, but did not explicitly ask for a high rating.""}",1.7090587615966797,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 to 5) to the customer, but did not explicitly ask for a high rating.""
+}"
+fda7f28e-510d-470a-ab70-907dc354da50,3539,Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? जी हां. जी ह...,2026-03-17T18:13:36.469703,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1 and 5 and the scale of ratings, but did not explicitly ask for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 and the scale of ratings, but did not explicitly ask for a high rating.""}",1.7420377731323242,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 and the scale of ratings, but did not explicitly ask for a high rating.""
+}
+```"
+41fea115-b055-4c5e-ab8f-4573ca4e3e69,2124,"Good afternoon. This is  I'm here to assist you today. Am I speaking with हर्ष? Yeah. Yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regardin...",2026-03-17T18:13:40.114257,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1, 2, 5 in explainig the rating scale and requested the customer to rate the interaction.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1, 2, 5 in explainig the rating scale and requested the customer to rate the interaction.""}",1.642789602279663,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1, 2, 5 in explainig the rating scale and requested the customer to rate the interaction.""
+}
+```"
+c135d6ad-2c05-4438-93a9-2c6d6392d5ad,3956,Good morning. This is प्रतीक  today I am going to assist you. Today I'm calling you from Cred on a recording line. Can you hear me? Am I speaking to सुभाष? बोल रहा हूं sir. जी नाम confirm करने के लिए ...,2026-03-17T18:13:43.685310,Mistral,unethical_solicitation,Met,Agent explained the rating scale (1 being poor and 5 being excellent).,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (1 being poor and 5 being excellent).""}",1.5698447227478027,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (1 being poor and 5 being excellent).""
+}
+```"
+cedf0f1b-f4f3-4b3a-af5c-d326037dfc24,2881,"Good morning. I'm अंशिका. I'm here to assist you today. Am I speaking to आकाश? Yeah, आकाश बात धन्यवाद नाम confirm करने के लिए आकाश. देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की e...",2026-03-17T18:13:47.848515,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1, 5, and 5 as excellent in the context of rating the experience with our expert, which is considered as evidencing 'Met' for Unethical Solicitation according to the provided criteria.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1, 5, and 5 as excellent in the context of rating the experience with our expert, which is considered as evidencing 'Met' for Unethical Solicitation according to the provided criteria.""}",2.162055015563965,True," ``
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1, 5, and 5 as excellent in the context of rating the experience with our expert, which is considered as evidencing 'Met' for Unethical Solicitation according to the provided criteria.""
+}
+```"
+bf86eb1c-fa60-444f-bfa8-9a354c9184b6,1689,"Good afternoon. This is  calling you from Cred on a recorded line. Am I speaking to कुनाल? Yes ma'am. Yes कुणाल, So is this the right time to talk to Yeah tell me. Yes. So, while conversation the call...",2026-03-17T18:13:51.375668,Mistral,unethical_solicitation,Met,Agent explained the rating scale (1 is poor and 5 is excellent) and transferred the call to feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (1 is poor and 5 is excellent) and transferred the call to feedback IVR.""}",1.5250229835510254,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (1 is poor and 5 is excellent) and transferred the call to feedback IVR.""
+}
+```"
+0c5c8347-1c71-42b4-bf80-82ce69c208c5,1771,"Good morning, this is राज. I am here to assist. Am I speaking with सुप्रिया? बहुत बहुत धन्यवाद नाम confirm करने के जी जैसे कि मैं देख पा रहा हूं यहां पर आपने concern raise किया है repayment की behalf ...",2026-03-17T18:13:54.754203,Mistral,unethical_solicitation,Met,"The agent explained the rating scale by stating that 1 is poor, 5 is excellent.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that 1 is poor, 5 is excellent.""}",1.3767061233520508,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that 1 is poor, 5 is excellent.""
+}"
+557bb0fc-7ace-4d23-84ac-ace5978d0c10,3120,"afternoon. This is सुष्मिता. I am here to assist you today. Am I speaking with in? Yeah, दिन. you so much for confirming your name अमित. So as I can check from my end, you have raised a concern regard...",2026-03-17T18:13:58.650702,Mistral,unethical_solicitation,Met,"The agent explained the rating scale (5 being excellent and 1 being 4) and transferred the call to a feedback IVR, but did not explicitly ask for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (5 being excellent and 1 being 4) and transferred the call to a feedback IVR, but did not explicitly ask for a high rating.""}",1.8947808742523193,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (5 being excellent and 1 being 4) and transferred the call to a feedback IVR, but did not explicitly ask for a high rating.""
+}
+```"
+d8edad94-cb55-44b8-98d9-bd72248c5ca9,3762,जी ma'am. मैं आपको चाहूंगा लेकिन      तो करना Good afternoon. This is प्रतीक. today I am going to assist you. Am I speaking to दर्शन? Yes. Good afternoon. This is प्रतीक. हां मैंने order किया था कल मे...,2026-03-17T18:14:02.646901,Mistral,unethical_solicitation,Met,"The agent explained the rating scale (e.g., stating that 1 is the lowest and 5 is the highest or excellent or full) during the conversation.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (e.g., stating that 1 is the lowest and 5 is the highest or excellent or full) during the conversation.""}",1.9944384098052979,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (e.g., stating that 1 is the lowest and 5 is the highest or excellent or full) during the conversation.""
+}
+```"
+a02e23d2-aa48-41c0-a2c5-2114886e9ca1,2934,"Good afternoon शशांक this is  calling you from Cred on a recorded line. Yes yes. Actually,  having a conversation and the call got disconnected Yeah, got disconnected Yeah. Yes, I  apologize for the i...",2026-03-17T18:14:06.136856,Mistral,unethical_solicitation,Met,The agent mentioned the numbers 1 and 5 by explaining the rating scale for the feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 by explaining the rating scale for the feedback IVR.""}",1.4877374172210693,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 by explaining the rating scale for the feedback IVR.""
+}
+```"
+9ef4dbec-ec9e-4e73-9f5d-939325d99c18,2957,Good morning. My name is. I'm here to assist you today. Am I speaking with दास? Yes  sir. Ok. Thanks for confirming your name. As I can check that you have raised a concern regarding a product from  t...,2026-03-17T18:14:09.583768,Mistral,unethical_solicitation,Met,The agent explained the rating scale by stating '1 being poor and 5 being excellent'.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating '1 being poor and 5 being excellent'.""}",1.4453084468841553,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating '1 being poor and 5 being excellent'.""
+}
+```"
+4e7cc419-ccf7-42b2-85c0-b52a2da2e8bc,3735,"morning. This is मोहम्मद I will be assisting you today. Am I speaking with प्रमेश nan Yes. you so much for confirming your name. Tell So my Yeah, I was supposed to receive my order last week. I was no...",2026-03-17T18:14:13.121234,Mistral,unethical_solicitation,Met,"The agent explained the rating scale (1 being poor, 5 being excellent) and transferred the call to the feedback IVR.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor, 5 being excellent) and transferred the call to the feedback IVR.""}",1.5357251167297363,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor, 5 being excellent) and transferred the call to the feedback IVR.""
+}"
+22596fb0-77b7-4820-8604-9b9236d65fa6,3099,"Good morning,  I am here to assist you today. Am I speaking with लक्ष्य? Yeah, I am लक्ष्मी speaking. yesterday also I have call the customer support regarding my policy renewal the document is still ...",2026-03-17T18:14:16.710800,Mistral,unethical_solicitation,Met,The agent explained the rating scale (1 to 5 with 5 as excellent) and transferred the call to a feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 to 5 with 5 as excellent) and transferred the call to a feedback IVR.""}",1.5882411003112793,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 to 5 with 5 as excellent) and transferred the call to a feedback IVR.""
+}
+```"
+adac574e-4425-426d-b5bd-c80b9c33741f,1713,evening. This is  I am here here to assist you. Am I speaking with सुमित? confirm your As I can see your concern is regarding the  as you have mentioned the payment is but the policy is not showing. n...,2026-03-17T18:14:20.535381,Mistral,unethical_solicitation,Met,The agent explained the rating scale when transferring to the feedback IVR (1 being poor and 5 being excellent) and explicitly asked for the customer to rate their experience (press the).,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale when transferring to the feedback IVR (1 being poor and 5 being excellent) and explicitly asked for the customer to rate their experience (press the).""}",1.8228802680969238,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale when transferring to the feedback IVR (1 being poor and 5 being excellent) and explicitly asked for the customer to rate their experience (press the).""
+}
+```"
+d4e0566e-943e-4364-b61d-ac0b00a4ef2b,1790,"I'm here to assist you today. Am I speaking with साहिल? you for confirming your name साहिल. As I can see, you have raised a concern regarding transaction ###rupees in which you paid 18 rupees convenie...",2026-03-17T18:14:24.341994,Mistral,unethical_solicitation,Met,"The agent transferred the customer to a feedback IVR and mentioned the numbers 1 to 5 on the scale, but did not explicitly ask for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to a feedback IVR and mentioned the numbers 1 to 5 on the scale, but did not explicitly ask for a high rating.""}",1.8044648170471191,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to a feedback IVR and mentioned the numbers 1 to 5 on the scale, but did not explicitly ask for a high rating.""
+}
+```"
+0f070971-d446-4cfb-9a13-9a383fb71d2a,2341,evening. This is प्रेम. I am here to assist you. Am I speaking with मोहम्मद अब्दुल. राव? हां. Yes. for the confirmation of  name अब्दुल. As I can check from  that you have raised a concern regarding y...,2026-03-17T18:14:28.064587,Mistral,unethical_solicitation,Met,"The agent stated that the customer would be asked to rate their interaction with the expert on a scale of 1 to 5, mentioning both ends of the scale.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent stated that the customer would be asked to rate their interaction with the expert on a scale of 1 to 5, mentioning both ends of the scale.""}",1.7210724353790283,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent stated that the customer would be asked to rate their interaction with the expert on a scale of 1 to 5, mentioning both ends of the scale.""
+}"
+9ee602bb-fb79-4d1e-9cdc-4b23e37f8691,2668,evening. This is रोहित here to assist you today. Am I speaking with अमोल Yes speaking. Thank you for confirming your name अमोल and as I can check that you have raised a concern regarding your policy a...,2026-03-17T18:14:31.552891,Mistral,unethical_solicitation,Met,The agent mentioned the numbers 1 and 5 during the conversation when explaining the rating scale for feedback.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 during the conversation when explaining the rating scale for feedback.""}",1.4864366054534912,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 during the conversation when explaining the rating scale for feedback.""
+}
+```"
+2e884fcf-dac9-4d09-954a-478299a2d841,2668,"evening. This is अंकित I am here to assist you today. Am I speaking with कार्तिक? हां, yes sir. and charging only. you for confirming. Actually, हां yeah. Previously I used  credit wallet with other 1...",2026-03-17T18:14:35.123355,Mistral,unethical_solicitation,Met,"Agent stated the rating scale (5 being excellent and 1 being poor), transferred the call to the feedback IVR.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent stated the rating scale (5 being excellent and 1 being poor), transferred the call to the feedback IVR.""}",1.5688409805297852,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent stated the rating scale (5 being excellent and 1 being poor), transferred the call to the feedback IVR.""
+}
+```"
+70100a96-b855-4d3e-a398-0d330e8dab42,2717,"Good morning. My name is  I'm here to assist you today. Am I speaking with सूरज? am I speaking with सूरज? Ok, thank you for confirming your name. सूरज as I check that you raised the concern regarding ...",2026-03-17T18:14:38.606409,Mistral,unethical_solicitation,Met,Agent mentioned the numbers 1 and 5 in the context of a rating scale.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent mentioned the numbers 1 and 5 in the context of a rating scale.""}",1.4808828830718994,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent mentioned the numbers 1 and 5 in the context of a rating scale.""
+}
+```"
+20c61940-b21f-47aa-90a5-bbc67fd6a4fc,2999,Good afternoon. This is कुमार How may I assist you today? Am I speaking with प्रसाद? Hello. Am I speaking with Yes yes. you so much प्रसाद for confirming your name. I can check that you have raised yo...,2026-03-17T18:14:42.284763,Mistral,unethical_solicitation,Met,The agent explained the rating scale (1 is for poor and 5 is for excellent) before transferring the call to the feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 is for poor and 5 is for excellent) before transferring the call to the feedback IVR.""}",1.6762609481811523,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 is for poor and 5 is for excellent) before transferring the call to the feedback IVR.""
+}
+```"
+9d6609b4-0dae-4621-8079-461d3d48db8a,1599,"Good afternoon this is  I am here to assist. Am I speaking with भास्कर? So there is a product which we added  banks. it was showing delivered but but it has not been delivered to you. Yeah, but produc...",2026-03-17T18:14:48.370118,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1 and 5 in the context of the rating scale. Specifically, the agent said: ""And the timeline over here I can check to wait till ninth of March. Have this date is the maximum timeline. On before tenth of much we will definitely get back to you with an update. you mean to say some you guys ticket. I have raised the concern to the backend team. Please Ok. Thank you apart from this, is there anything Ok. No no. Thank Thank you. Before we end this call, may I request you to share your valuable feedback on the basis of the conversation. Yeah yeah, sure."" The agent did not explicitly ask for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 in the context of the rating scale. Specifically, the agent said: \""And the timeline over here I can check to wait till ninth of March. Have this date is the maximum timeline. On before tenth of much we will definitely get back to you with an update. you mean to say some you guys ticket. I have raised the concern to the backend team. Please Ok. Thank you apart from this, is there anything Ok. No no. Thank Thank you. Before we end this call, may I request you to share your valuable feedback on the basis of the conversation. Yeah yeah, sure.\"" The agent did not explicitly ask for a high rating.""}",4.0836522579193115,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 in the context of the rating scale. Specifically, the agent said: \""And the timeline over here I can check to wait till ninth of March. Have this date is the maximum timeline. On before tenth of much we will definitely get back to you with an update. you mean to say some you guys ticket. I have raised the concern to the backend team. Please Ok. Thank you apart from this, is there anything Ok. No no. Thank Thank you. Before we end this call, may I request you to share your valuable feedback on the basis of the conversation. Yeah yeah, sure.\"" The agent did not explicitly ask for a high rating.""
+}
+```"
+0b8a3db5-40c4-4f0c-927a-96a4a77f749d,3622,"Good afternoon, this is   may I assist you today? Am I speaking with you  for confirming your name. I can check that you have raised a concern regarding a product which is from Yes. electricity liter ...",2026-03-17T18:14:52.046256,Mistral,unethical_solicitation,Met,"The agent provided information about the rating scale, stating that '1 is 4 and 5 is for excellent'.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent provided information about the rating scale, stating that '1 is 4 and 5 is for excellent'.""}",1.6741366386413574,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent provided information about the rating scale, stating that '1 is 4 and 5 is for excellent'.""
+}
+```"
+267c4e7b-7191-493c-9af3-51b64a6fb700,1903,Good afternoon. This is I'm here to assist you today. Am I speaking with राहुल? नाम confirm करने का. language आ रही राहुल am I comfortable Are you comfortable in हिंदी or English? ok but I am  लिया. I...,2026-03-17T18:14:55.910653,Mistral,unethical_solicitation,Met,ok ok. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your phone,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""ok ok. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your phone""}",1.8621821403503418,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""ok ok. We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your phone""
+}"
+9b66ed6e-6829-47e0-91d3-681f6d56cefb,3923,"Hello. afternoon. I'm  calling nan हां हां हमारे   से  बात हो रहा है आपका हां, अमित जी आपका हां. का का पैसा मैंने order किया था लेकिन अभी तक आया नहीं तेईस बार   order किया हां जी, अमित जी. मैं उसी के ...",2026-03-17T18:14:59.728004,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1 and 5, and explained the rating scale (1 is poor and 5 is excellent).","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5, and explained the rating scale (1 is poor and 5 is excellent).""}",1.815443754196167,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5, and explained the rating scale (1 is poor and 5 is excellent).""
+}
+```"
+92f24dce-3ce6-46b2-b2cd-868da31174b1,2895,"Good afternoon, this is ना. I am here to assist you today. Am I speaking with  श्रवण? हां हां. you for confirming your name. So as I can check that you have raised a concern regarding credit cash abou...",2026-03-17T18:15:03.421114,Mistral,unethical_solicitation,Met,The agent explained the rating scale (1 being poor and 5 being excellent) and transferred the customer to the feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor and 5 being excellent) and transferred the customer to the feedback IVR.""}",1.6909611225128174,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor and 5 being excellent) and transferred the customer to the feedback IVR.""
+}
+```"
+6a3e8c52-2ecd-4320-97bf-d90a5a92e3b7,2858,morning. This is सोमी I will be assisting you today. Am I speaking with शशांक Yeah. Thank you so much for confirming your name शशांक I can check that you have raised a concern regarding your order is ...,2026-03-17T18:15:07.734585,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1 and 5, stating 'Please press the number on your dial pack to rate. You have just. 1 being poor and 5 being excellent.' This is considered as implicitly requesting a rating, as the agent provided a scale for the customer to evaluate.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5, stating 'Please press the number on your dial pack to rate. You have just. 1 being poor and 5 being excellent.' This is considered as implicitly requesting a rating, as the agent provided a scale for the customer to evaluate.""}",2.3120241165161133,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5, stating 'Please press the number on your dial pack to rate. You have just. 1 being poor and 5 being excellent.' This is considered as implicitly requesting a rating, as the agent provided a scale for the customer to evaluate.""
+}
+```"
+06bb5005-ff3c-4f2b-a637-b95f5e244c78,3056,"Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes. hi. Hi not. So the thing is I I tried doing a payment through credit  like, I was transferring  some educatio...",2026-03-17T18:15:11.266650,Mistral,unethical_solicitation,Met,The agent explained the rating scale by stating that '1 being poor and 5 being excellent'.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that '1 being poor and 5 being excellent'.""}",1.5301904678344727,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that '1 being poor and 5 being excellent'.""
+}
+```"
+d8e41f6d-f5a5-4d43-bb48-6d29083c1c41,1558,morning. and अंशिका I am here to assist you today. Am I speaking to साहू? Madam मैंने कल  bank account में  credit card में bill payment किया था लेकिन मेरे account में double money deduct हो गया. जी  ...,2026-03-17T18:15:15.311186,Mistral,unethical_solicitation,Not Met,The agent explicitly asked the customer to 'rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack.',"{""Unethical_Solicitation"": ""Not Met"", ""Unethical_Solicitation_Evidence"": ""The agent explicitly asked the customer to 'rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack.'""}",2.042680025100708,True," ```json
+{
+    ""Unethical_Solicitation"": ""Not Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explicitly asked the customer to 'rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack.'""
+}
+```"
+630da169-e9b1-4529-ac7a-a978e9f60150,1838,Good afternoon. This is सिद्धार्थ. How  to assist you today. Am I speaking with शुभ हां तो बात कर रहा हूं. Actually मेरा card का मैंने payment किया था tuition but वह fail हो गया but मेरा अभी भी accoun...,2026-03-17T18:15:19.241427,Mistral,unethical_solicitation,Met,"The agent explained the rating scale (a scale of 1 to 5, with 5 being the highest) and transferred the customer to the feedback IVR without explicitly asking for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (a scale of 1 to 5, with 5 being the highest) and transferred the customer to the feedback IVR without explicitly asking for a high rating.""}",1.9280920028686523,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (a scale of 1 to 5, with 5 being the highest) and transferred the customer to the feedback IVR without explicitly asking for a high rating.""
+}
+```"
+11683cda-dc5f-4cb8-a3c5-4d0791987cc7,3007,"morning. My name is निकिता. I'm here to assist you today. Am I speaking with निलेश? you very much for confirming your name, कि. So you   get an update that you raised a concern regarding the credit ca...",2026-03-17T18:15:22.921878,Mistral,unethical_solicitation,Met,The agent mentioned the numbers 1 to 5 and explained the rating scale (with 5 being excellent) and transferred the customer to the feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 to 5 and explained the rating scale (with 5 being excellent) and transferred the customer to the feedback IVR.""}",1.6784021854400635,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 to 5 and explained the rating scale (with 5 being excellent) and transferred the customer to the feedback IVR.""
+}"
+42a803fa-53e5-48a2-8b4b-c3a9277fe50b,2184,Good afternoon. This is राम. I am here to assist you today. Am I speaking with जी? hours नाम confirm करने के लिए धन्यवाद. जी क्या आप अपना एक concern elaborate कर देंगे please? जी मैं आपसे request कर र...,2026-03-17T18:15:26.754257,Mistral,unethical_solicitation,Met,We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.""}",1.8306429386138916,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.""
+}
+```"
+095df596-5b74-4815-a86c-c02343a85509,1665,morning. My name is शुक्रिया. I am here to assist you today. Am I speaking with कुशल या? Thank you for confirming. you have raised a concern regarding credit  Basically regarding the   finance. like y...,2026-03-17T18:15:30.158745,Mistral,unethical_solicitation,Met,The agent explained the rating scale by stating that '5 being excellent.' ,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that '5 being excellent.' ""}",1.402250051498413,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale by stating that '5 being excellent.' ""
+}
+```"
+b6e54447-103c-49f7-b6f0-e8621a56c246,2159,"Good evening. My name is I'm here to assist you today. Am I speaking with साहिल? Yeah, I am साई speaking. Ok. Thanks for confirming your name साहिल. As I can check that you have raised a concern regar...",2026-03-17T18:15:34.025342,Mistral,unethical_solicitation,Met,We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack.""}",1.8648500442504883,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent. Please press the number on your dial pack.""
+}
+```"
+d1a3761b-ffe1-4115-9076-531fc8424088,3003,"evening. This is विशाल calling from on a recorded line. Am I speaking with राकेश? जी sir, good evening. Hi, good evening राज जी नाम confirm करने के लिए शुक्रिया राय जी.  क्या सही समय है आपसे बात करने ...",2026-03-17T18:15:37.749305,Mistral,unethical_solicitation,Met,Agent asked for a rating from the customer on a scale of 1 to 5 with 1 being poor and 5 being excellent.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent asked for a rating from the customer on a scale of 1 to 5 with 1 being poor and 5 being excellent.""}",1.722794532775879,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent asked for a rating from the customer on a scale of 1 to 5 with 1 being poor and 5 being excellent.""
+}
+```"
+585dd7d4-4a1d-415e-bd6b-c56e3ebcb2d6,3210,"Good evening. My name is नीतीश. I am calling you from Cred on a recorded line. I am talking to संजय? Yeah, speaking. you for the confirmation. I can see that you have raised a concern regarding the cr...",2026-03-17T18:15:41.440928,Mistral,unethical_solicitation,Met,The agent explained the rating scale and transferred the customer to a feedback IVR.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale and transferred the customer to a feedback IVR.""}",1.689518928527832,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale and transferred the customer to a feedback IVR.""
+}
+```"
+5f2f449a-8d5d-4a8c-bb16-f771a6669087,1945,Good evening. This is  I'm here to assist you today. Am I speaking with दीपक? जी sir. नाम confirm करने के लिए धन्यवाद दीपक. जैसे कि मैं देख पा रहा हूं आपने concern raise किया है refund  के regarding C...,2026-03-17T18:15:45.027564,Mistral,unethical_solicitation,Met,"Agent explained the rating scale (i.e., 1 is poor and 5 is excellent)","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (i.e., 1 is poor and 5 is excellent)""}",1.5850040912628174,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (i.e., 1 is poor and 5 is excellent)""
+}
+```"
+20059b00-5e96-4caa-98b7-19c0000adae6,1699,"afternoon,     here to assist you today. Am I speaking with अविनाश? Good afternoon, I am ना. can I  can you speak in nan I can speak in English and I'm very sorry, I can speak  line हां, ok ok. Please...",2026-03-17T18:15:49.168796,Mistral,unethical_solicitation,Met,"""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent."" - The agent explained the rating scale, marking this strictly as 'Met'.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""\""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.\"" - The agent explained the rating scale, marking this strictly as 'Met'.""}",2.139021396636963,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""\""We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent.\"" - The agent explained the rating scale, marking this strictly as 'Met'.""
+}
+```"
+830a5b45-fbf1-4d79-acf7-a182cbe7e7be,2614,"Good morning. This is    here to assist you. Am I speaking with सादत? Yeah, hi collect. Hi सबा. So, Yes speaking. Yeah. Actually, my credit order is   delivered  and the delivery  person came to my na...",2026-03-17T18:15:52.936122,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1 and 5 in the context of rating the experience with the expert, but did not explicitly ask for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 in the context of rating the experience with the expert, but did not explicitly ask for a high rating.""}",1.7652177810668945,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 in the context of rating the experience with the expert, but did not explicitly ask for a high rating.""
+}
+```"
+be00850c-1822-454d-84bd-7fbbe07c5998,3070,"evening. This is प्रीतम. I'm here to assist you. Am I speaking with शंकर? nan Yeah, is शंकर? Thanks  thanks for the confirmation  पंकज. my product was not getting delivered it is showing out of delive...",2026-03-17T18:15:56.557871,Mistral,unethical_solicitation,Met,"The agent explained the rating scale (1 is poor and 5 is excellent), transferred the customer to a feedback IVR, and asked for feedback.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 is poor and 5 is excellent), transferred the customer to a feedback IVR, and asked for feedback.""}",1.6203718185424805,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 is poor and 5 is excellent), transferred the customer to a feedback IVR, and asked for feedback.""
+}"
+02719540-46f4-482b-969e-14b50bbe3285,3129,"Good evening, this is  I am here to assist you today. Am I speaking with मनीष? as you can see that I have purchased  completed from the So I   see that       from the credit and that  is not getting d...",2026-03-17T18:16:00.440463,Mistral,unethical_solicitation,Met,The agent explained the rating scale (1 being low and 5 being excellent) and transferred the call to a feedback IVR where the customer was asked to rate from 1 to 5.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being low and 5 being excellent) and transferred the call to a feedback IVR where the customer was asked to rate from 1 to 5.""}",1.8809869289398193,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being low and 5 being excellent) and transferred the call to a feedback IVR where the customer was asked to rate from 1 to 5.""
+}
+```"
+96d97237-1192-4d22-a836-9624908817dc,2739,Good afternoon. This is This is calling from recorded line. Am I speaking with आकाश? हां बात करो बोलिए. जी आकाश जैसे कि मैं देख पा रहा हूं आपने statement भेजा थी अपनी HDFC हां हां. यह आपने payment dat...,2026-03-17T18:16:03.989908,Mistral,unethical_solicitation,Met,"The agent mentioned the numbers 1 and 5 in the conversation, and also requested the customer to provide a rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 in the conversation, and also requested the customer to provide a rating.""}",1.5474495887756348,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 in the conversation, and also requested the customer to provide a rating.""
+}"
+05bc2f79-e454-456e-b588-00128c679dde,1673,"morning. This is  I will be assisting you today. Am I speaking with पवन Yeah hi, actually I called regarding 1 of my order which I wanted to return and I see the I don't know what's the current status...",2026-03-17T18:16:07.383786,Mistral,unethical_solicitation,Met,The agent mentioned the numbers 1 and 5 and the feedback scale (1 to 5) during the call.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 and the feedback scale (1 to 5) during the call.""}",1.391740322113037,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the numbers 1 and 5 and the feedback scale (1 to 5) during the call.""
+}"
+24ba9529-527f-4133-8f7b-0c5eab96d29b,2315,"Good afternoon, this is वरीता. I will be assisting you today. Am I speaking with रोहित? Yeah, good afternoon ma'am. I have raised a complaint regarding my last order. Yes, as it is your product from m...",2026-03-17T18:16:10.589886,Mistral,unethical_solicitation,Met,"Agent explained the rating scale (5 being excellent, 1 being poor)","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (5 being excellent, 1 being poor)""}",1.2043895721435547,True," {
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""Agent explained the rating scale (5 being excellent, 1 being poor)""
+}"
+60a8d089-44c3-411d-b5cc-c24733d5acdd,1959,"Good morning. This is  I will be assisting you Good morning, madam. Good morning, madam. विषय नाम से. Good morning, madam. Good morning, madam. Am I audible करना? मेरा कृष्णा कर मेरा कृष्णा कर Yes, th...",2026-03-17T18:16:15.597496,Mistral,unethical_solicitation,Met,"더불어 여기서는 영어 또는  hindi 언어로만 지원하고 있습니다. Do you have someone around you so that they can speak on behalf of you?"", ""Yes I am transferring this call to our feedback IVR. You can select between 1 to 5. 5 being excellent and 1 being poor. Thank you for choosing Cred.""","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""더불어 여기서는 영어 또는  hindi 언어로만 지원하고 있습니다. Do you have someone around you so that they can speak on behalf of you?\"", \""Yes I am transferring this call to our feedback IVR. You can select between 1 to 5. 5 being excellent and 1 being poor. Thank you for choosing Cred.\""""}",3.00598406791687,True," ```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""더불어 여기서는 영어 또는  hindi 언어로만 지원하고 있습니다. Do you have someone around you so that they can speak on behalf of you?\"", \""Yes I am transferring this call to our feedback IVR. You can select between 1 to 5. 5 being excellent and 1 being poor. Thank you for choosing Cred.\""""
+}
+```"

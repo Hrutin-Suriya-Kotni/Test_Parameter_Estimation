@@ -15,6 +15,12 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from model_clients.mistral_client import MistralClient
 from model_clients.gemini_client import GeminiClient
+from model_clients.llama_client import LlamaClient
+from model_clients.qwen_client import QwenClient
+from model_clients.mistral_v0_2_client import MistralV02Client
+from model_clients.gemma_client import GemmaClient
+from model_clients.gemma_inhouse_client import GemmaInhouseClient
+from model_clients.qwen_inhouse_client import QwenInhouseClient
 from test_runners.base_test_runner import BaseTestRunner
 from prompts import ASSESSMENT_PROMPTS
 
@@ -54,7 +60,73 @@ class MasterTestRunner:
                 print("❌ Gemini model initialization failed")
         except Exception as e:
             print(f"❌ Gemini model error: {e}")
-        
+
+        # Try to initialize Llama (NVIDIA NIM)
+        try:
+            llama_client = LlamaClient()
+            if llama_client.initialize():
+                self.available_models['llama'] = llama_client
+                print("✅ Llama model initialized successfully")
+            else:
+                print("❌ Llama model initialization failed")
+        except Exception as e:
+            print(f"❌ Llama model error: {e}")
+
+        # Try to initialize Qwen (NVIDIA NIM)
+        try:
+            qwen_client = QwenClient()
+            if qwen_client.initialize():
+                self.available_models['qwen'] = qwen_client
+                print("✅ Qwen model initialized successfully")
+            else:
+                print("❌ Qwen model initialization failed")
+        except Exception as e:
+            print(f"❌ Qwen model error: {e}")
+
+        # Try to initialize Mistral v0.2 (NVIDIA NIM)
+        try:
+            mistral_v02_client = MistralV02Client()
+            if mistral_v02_client.initialize():
+                self.available_models['mistral_v0_2'] = mistral_v02_client
+                print("✅ Mistral v0.2 model initialized successfully")
+            else:
+                print("❌ Mistral v0.2 model initialization failed")
+        except Exception as e:
+            print(f"❌ Mistral v0.2 model error: {e}")
+
+        # Try to initialize Gemma (HF provider featherless-ai)
+        try:
+            gemma_client = GemmaClient()
+            if gemma_client.initialize():
+                self.available_models['gemma'] = gemma_client
+                print("✅ Gemma model initialized successfully")
+            else:
+                print("❌ Gemma model initialization failed")
+        except Exception as e:
+            print(f"❌ Gemma model error: {e}")
+
+        # Try to initialize Gemma-inhouse (in-house vLLM)
+        try:
+            gemma_inhouse_client = GemmaInhouseClient()
+            if gemma_inhouse_client.initialize():
+                self.available_models['gemma_inhouse'] = gemma_inhouse_client
+                print("✅ Gemma-inhouse model initialized successfully")
+            else:
+                print("❌ Gemma-inhouse model initialization failed")
+        except Exception as e:
+            print(f"❌ Gemma-inhouse model error: {e}")
+
+        # Try to initialize Qwen-inhouse (in-house vLLM)
+        try:
+            qwen_inhouse_client = QwenInhouseClient()
+            if qwen_inhouse_client.initialize():
+                self.available_models['qwen_inhouse'] = qwen_inhouse_client
+                print("✅ Qwen-inhouse model initialized successfully")
+            else:
+                print("❌ Qwen-inhouse model initialization failed")
+        except Exception as e:
+            print(f"❌ Qwen-inhouse model error: {e}")
+
         print(f"\n📊 Available models: {list(self.available_models.keys())}")
     
     def test_single_model_single_type(self, model_name: str, test_type: str, max_conversations: Optional[int] = None) -> Optional[str]:

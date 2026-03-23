@@ -7,11 +7,15 @@ from .test_mistral import MistralTestRunner
 from .test_gemini import GeminiTestRunner
 from .test_comparison import ComparisonTestRunner
 from .run_all_models import MasterTestRunner
+from .test_gemma_inhouse import GemmaInhouseTestRunner
+from .test_qwen_inhouse import QwenInhouseTestRunner
 
 __all__ = [
     'BaseTestRunner',
-    'MistralTestRunner', 
+    'MistralTestRunner',
     'GeminiTestRunner',
     'ComparisonTestRunner',
-    'MasterTestRunner'
+    'MasterTestRunner',
+    'GemmaInhouseTestRunner',
+    'QwenInhouseTestRunner',
 ]
