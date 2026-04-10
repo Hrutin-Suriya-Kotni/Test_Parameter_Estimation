@@ -1,0 +1,293 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-31T13:41:47.462085,Gemma-inhouse,reassurance,Met,[Quote the exact acknowledgment statement],"{""Reassurance_result"": ""Met"", ""Evidence"": ""[Quote the exact acknowledgment statement]""}",1.1967189311981201,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""[Quote the exact acknowledgment statement]""
+}"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-31T13:41:51.085205,Gemma-inhouse,reassurance,JSON Error,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: \'जी बिल्कुल समझ पा रही हूं हेमंत. माफी चाहूंगी असुविधा के लिए\' ""
+} 
+","{""Value"": ""JSON Error"", ""Evidence"": ""{\n\""Reassurance_result\"": \""Met\"",\n\""Evidence\"": \""Step 2: \\'जी बिल्कुल समझ पा रही हूं हेमंत. माफी चाहूंगी असुविधा के लिए\\' \""\n} \n""}",1.6229584217071533,False,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: \'जी बिल्कुल समझ पा रही हूं हेमंत. माफी चाहूंगी असुविधा के लिए\' ""
+} 
+"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-31T13:41:54.550177,Gemma-inhouse,reassurance,Met,Step 2: 'I do understand your concern. I'm really sorry for the inconvenience caused to you.' ,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'I do understand your concern. I'm really sorry for the inconvenience caused to you.' ""}",1.4647059440612793,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 2: 'I do understand your concern. I'm really sorry for the inconvenience caused to you.' ""
+}  
+"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-31T13:41:58.331054,Gemma-inhouse,reassurance,Met,Step 2: 'I'm sorry for the inconvenience caused to you. Please do not worry. I'm here to help you. Ok? Please do not worry.' ,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'I'm sorry for the inconvenience caused to you. Please do not worry. I'm here to help you. Ok? Please do not worry.' ""}",1.7807276248931885,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'I'm sorry for the inconvenience caused to you. Please do not worry. I'm here to help you. Ok? Please do not worry.' ""
+}
+
+
+
+"
+11520c16-512e-41c8-b28e-f4f7494b3636,2324,Very good evening. This is शशि. I'm here to assist you today. Am I speaking with सूरज? Thank you for confirming. I can see your request is regarding the withdrawal of cash. Could you please elaborate ...,2026-03-31T13:42:01.658058,Gemma-inhouse,reassurance,Met,"Step 2: 'First of all, sorry for the inconvenience caused as you said your KYC has been successfully done.'","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'First of all, sorry for the inconvenience caused as you said your KYC has been successfully done.'""}",1.3268554210662842,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'First of all, sorry for the inconvenience caused as you said your KYC has been successfully done.'""
+}"
+727a8769-3a93-451d-a837-91f903ddbc0a,3241,Good morning. This is  I am here to assist you. Am I speaking with रोहित? Hi रोहित. So you have reached out to us with the concern stating that there was a item which you have purchased and you are fa...,2026-03-31T13:42:05.889563,Gemma-inhouse,reassurance,Met,"Step 2: 'I got your point. Yeah. I mean, you don't know what they  and and then they put a note that the customer on pick up or he was not there. It was nothing I apologize Ok. I really apologize'","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'I got your point. Yeah. I mean, you don't know what they  and and then they put a note that the customer on pick up or he was not there. It was nothing I apologize Ok. I really apologize'""}",2.231362819671631,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'I got your point. Yeah. I mean, you don't know what they  and and then they put a note that the customer on pick up or he was not there. It was nothing I apologize Ok. I really apologize'"" 
+}  
+
+
+"
+0fb2cc5a-9d80-4510-9239-d58de5c5fcaf,3730,Good morning and अंशिका I am here to assist you today. Am I speaking to शुभम Yes. Thank you for the name confirmation शुभम. I see that you have raised a concern regarding the outstanding payment or IC...,2026-03-31T13:42:09.175617,Gemma-inhouse,reassurance,Met,"Step 3: 'Don't worry, I'll surely help you out.'","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 3: 'Don't worry, I'll surely help you out.'""}",1.2858991622924805,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 3: 'Don't worry, I'll surely help you out.'""
+}"
+895ec893-7e66-4f0b-8605-2003e06e8a6d,2668,"Good morning. This is. May I assist you today? Am I speaking with ओम? Yes speaking. May I know you nan रंजीत. Yeah, रंजीत. and my car insurance was expiring in 2 days. So I have renewed my car insuran...",2026-03-31T13:42:12.530005,Gemma-inhouse,reassurance,Met,"Step 2: ""Getting your concern. Sorry for the inconvenience and I will surely help you out regarding this issue.""","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: \""Getting your concern. Sorry for the inconvenience and I will surely help you out regarding this issue.\""""}",1.3542444705963135,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: \""Getting your concern. Sorry for the inconvenience and I will surely help you out regarding this issue.\""""
+}"
+7d2da038-64e0-4380-9c82-7a955e6fe8b3,1604,Good evening this is  I am here to assist you today. Am I speaking with अंदर? जी मैंने payment किया मैं आपका concern समझ पा रही हूं आप please एक बार confirm कर सकते हैं क्या मेरी बात चंद्र से ही हो रह...,2026-03-31T13:42:17.409940,Gemma-inhouse,reassurance,JSON Error,"{""Reassurance_result"": ""Met"", ""Evidence"": ""The agent stated \""मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे.\"" and  \'मैं आपसे request करूंगी कि आप please 24 hours का wait क","{""Value"": ""JSON Error"", ""Evidence"": ""{\""Reassurance_result\"": \""Met\"", \""Evidence\"": \""The agent stated \\\""मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे.\\\"" and  \\'मैं आपसे request करूंगी कि आप please 24 hours का wait क""}",2.879788875579834,False,"{""Reassurance_result"": ""Met"", ""Evidence"": ""The agent stated \""मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे.\"" and  \'मैं आपसे request करूंगी कि आप please 24 hours का wait कर लीजिए. और चौबीस घंटे के अंदर आपको जो है payment की जो confirmation है हमारी तरफ से receive हो जाएगी.  \''""}"
+a51be59e-cb2a-47fc-8d6c-f9a616b39508,1962,"evening. This is मोहम्मद I'm here to assist you today. Am I speaking with अतुल? Yes. So, I was having an offer of personal loan of BC credit So just wanted to confirm what is the processing fees Yes y...",2026-03-31T13:42:25.783031,Gemma-inhouse,reassurance,Not Met,"Step 1: Did the customer express a problem or concern? - YES<br>Step 2: Did the agent acknowledge the customer's concern and show understanding? - NO<br>Step 3: Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - NO<br>Step 4: Was the customer's issue beyond the agent's control (e.g., policy restrictions)? - NO<br>Step 5: Did the agent try anything to resolve the customer's issue or provide a solution or guide the customer so that he could resolve the issue himself (even if it was not successful)? - NO<br>Step 6: If the agent was not able to help, did he explained why he couldn't help (e.g., company policy, guidelines, privacy constraints)? - NO<br>Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ? - NO","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 1: Did the customer express a problem or concern? - YES<br>Step 2: Did the agent acknowledge the customer's concern and show understanding? - NO<br>Step 3: Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - NO<br>Step 4: Was the customer's issue beyond the agent's control (e.g., policy restrictions)? - NO<br>Step 5: Did the agent try anything to resolve the customer's issue or provide a solution or guide the customer so that he could resolve the issue himself (even if it was not successful)? - NO<br>Step 6: If the agent was not able to help, did he explained why he couldn't help (e.g., company policy, guidelines, privacy constraints)? - NO<br>Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ? - NO""}",6.372864484786987,True,"{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 1: Did the customer express a problem or concern? - YES<br>Step 2: Did the agent acknowledge the customer's concern and show understanding? - NO<br>Step 3: Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - NO<br>Step 4: Was the customer's issue beyond the agent's control (e.g., policy restrictions)? - NO<br>Step 5: Did the agent try anything to resolve the customer's issue or provide a solution or guide the customer so that he could resolve the issue himself (even if it was not successful)? - NO<br>Step 6: If the agent was not able to help, did he explained why he couldn't help (e.g., company policy, guidelines, privacy constraints)? - NO<br>Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ? - NO""}"
+8bdbd2b2-77bb-4ca7-9bf6-576b7c72b041,2568,Good morning. This is  here. I am calling from Cred on a recorded line. Am I speaking हां जी बताइए. धन्यवाद आपका नाम confirm करने के लिए अंजलि. आपने concern     speak  बात जी जी. हां बताइए ना बताना. व...,2026-03-31T13:42:30.159562,Gemma-inhouse,reassurance,Met,Step 2: 'जी मैं समझ पा रही हूं आपका concern तो मैं देख पा रही हूं आपने second March को जो है loan foreclose किया था वह payment हमें successfully receive हो चुकी है and आपका loan भी जो है वह close हो चुका थोड़ा time nan account ठीक है?',"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'जी मैं समझ पा रही हूं आपका concern तो मैं देख पा रही हूं आपने second March को जो है loan foreclose किया था वह payment हमें successfully receive हो चुकी है and आपका loan भी जो है वह close हो चुका थोड़ा time nan account ठीक है?'""}",2.3763844966888428,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'जी मैं समझ पा रही हूं आपका concern तो मैं देख पा रही हूं आपने second March को जो है loan foreclose किया था वह payment हमें successfully receive हो चुकी है and आपका loan भी जो है वह close हो चुका थोड़ा time nan account ठीक है?'""
+}"
+fda7f28e-510d-470a-ab70-907dc354da50,3539,Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? जी हां. जी ह...,2026-03-31T13:42:33.108752,Gemma-inhouse,reassurance,Met,The call was too short to determine,"{""Reassurance_result"": ""Met"", ""Evidence"": ""The call was too short to determine""}",0.9490494728088379,True,"{""Reassurance_result"": ""Met"", ""Evidence"": ""The call was too short to determine""}"
+41fea115-b055-4c5e-ab8f-4573ca4e3e69,2124,"Good afternoon. This is  I'm here to assist you today. Am I speaking with हर्ष? Yeah. Yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regardin...",2026-03-31T13:42:36.273606,Gemma-inhouse,reassurance,Met,"Step 2: 'Okay, you have a concern regarding the loan. Right?'","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'Okay, you have a concern regarding the loan. Right?'""}",1.1647052764892578,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'Okay, you have a concern regarding the loan. Right?'""
+}"
+c135d6ad-2c05-4438-93a9-2c6d6392d5ad,3956,Good morning. This is प्रतीक  today I am going to assist you. Today I'm calling you from Cred on a recording line. Can you hear me? Am I speaking to सुभाष? बोल रहा हूं sir. जी नाम confirm करने के लिए ...,2026-03-31T13:42:44.676094,Gemma-inhouse,reassurance,Met,[Quote the exact acknowledgment statement],"{""Reassurance_result"": ""Met"", ""Evidence"": ""[Quote the exact acknowledgment statement]"", ""Stepper_result"": [{""step"": 1, ""statement"": ""सोहन. मैं यहां पर जैसे कि check करके देख पा रहा हूं आपने एक product related concern raise किया free culture का यह call आपको उसी के related ही किया गया है तो क्या यह सही वक्त होगा आपसे बात करने हां sir बताइए."", ""met"": true}, {""step"": 2, ""statement"": ""तो आपने यहां पर जो है आपको जो product आपको free culture का जो product आपको receive हुआ है वह product पर जो है आप जो कह रहे थे कि product जो है वह आपका face नहीं हो रहा है. Correct?"", ""met"": true}, {""step"": 3, ""statement"": ""right, thank you so जो है यह product को आप इसको return करना चाहते हैं, Correct?"", ""met"": true}]}",6.402270555496216,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""[Quote the exact acknowledgment statement]"",
+""Stepper_result"": [
+  {
+    ""step"": 1,
+    ""statement"": ""सोहन. मैं यहां पर जैसे कि check करके देख पा रहा हूं आपने एक product related concern raise किया free culture का यह call आपको उसी के related ही किया गया है तो क्या यह सही वक्त होगा आपसे बात करने हां sir बताइए."",
+    ""met"": true
+  },
+  {
+    ""step"": 2,
+    ""statement"": ""तो आपने यहां पर जो है आपको जो product आपको free culture का जो product आपको receive हुआ है वह product पर जो है आप जो कह रहे थे कि product जो है वह आपका face नहीं हो रहा है. Correct?"",
+    ""met"": true
+  },
+  {
+    ""step"": 3,
+    ""statement"": ""right, thank you so जो है यह product को आप इसको return करना चाहते हैं, Correct?"",
+    ""met"": true
+  }
+]
+}
+"
+cedf0f1b-f4f3-4b3a-af5c-d326037dfc24,2881,"Good morning. I'm अंशिका. I'm here to assist you today. Am I speaking to आकाश? Yeah, आकाश बात धन्यवाद नाम confirm करने के लिए आकाश. देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की e...",2026-03-31T13:42:49.320202,Gemma-inhouse,reassurance,Met,Step 2: 'देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की electricity bill payment के refund के लिए जी माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी समझ रही हूं मैं आपका concern',"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की electricity bill payment के refund के लिए जी माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी समझ रही हूं मैं आपका concern'""}",2.6439363956451416,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की electricity bill payment के refund के लिए जी माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी समझ रही हूं मैं आपका concern'""
+}"
+bf86eb1c-fa60-444f-bfa8-9a354c9184b6,1689,"Good afternoon. This is  calling you from Cred on a recorded line. Am I speaking to कुनाल? Yes ma'am. Yes कुणाल, So is this the right time to talk to Yeah tell me. Yes. So, while conversation the call...",2026-03-31T13:42:53.054105,Gemma-inhouse,reassurance,Met,"Step 2: 'I completely understand but for validate your concern or the amount, we have you need to share with us the bank statement afterwards, we we can validate it and assist further' ","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'I completely understand but for validate your concern or the amount, we have you need to share with us the bank statement afterwards, we we can validate it and assist further' ""}",1.7337329387664795,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 2: 'I completely understand but for validate your concern or the amount, we have you need to share with us the bank statement afterwards, we we can validate it and assist further' ""
+}"
+0c5c8347-1c71-42b4-bf80-82ce69c208c5,1771,"Good morning, this is राज. I am here to assist. Am I speaking with सुप्रिया? बहुत बहुत धन्यवाद नाम confirm करने के जी जैसे कि मैं देख पा रहा हूं यहां पर आपने concern raise किया है repayment की behalf ...",2026-03-31T13:42:56.213625,Gemma-inhouse,reassurance,Met, [Step 2]   आप  निश्चिंत रहिए सहायता    से पूरी कोशिश की,"{""Reassurance_result"": ""Met"", ""Evidence"": "" [Step 2]   आप  निश्चिंत रहिए सहायता    से पूरी कोशिश की""}",1.1593873500823975,True,"{""Reassurance_result"": ""Met"", ""Evidence"": "" [Step 2]   आप  निश्चिंत रहिए सहायता    से पूरी कोशिश की""}"
+557bb0fc-7ace-4d23-84ac-ace5978d0c10,3120,"afternoon. This is सुष्मिता. I am here to assist you today. Am I speaking with in? Yeah, दिन. you so much for confirming your name अमित. So as I can check from my end, you have raised a concern regard...",2026-03-31T13:43:00.714346,Gemma-inhouse,reassurance,JSON Error,"{
+    ""Reassurance_result"": ""Met"",
+    ""Evidence"": ""Step 2: \""So as I can check from my end, you have raised a concern regarding the policy, right? Yeah, the policy is already cancelled I ask me conne","{""Value"": ""JSON Error"", ""Evidence"": ""{\n    \""Reassurance_result\"": \""Met\"",\n    \""Evidence\"": \""Step 2: \\\""So as I can check from my end, you have raised a concern regarding the policy, right? Yeah, the policy is already cancelled I ask me conne""}",2.500530242919922,False,"{
+    ""Reassurance_result"": ""Met"",
+    ""Evidence"": ""Step 2: \""So as I can check from my end, you have raised a concern regarding the policy, right? Yeah, the policy is already cancelled I ask me connected and share the cancellation email and Ok. but it is still showing telling the policy so I want to purchase a new policy actually. Ok.\"""",
+} 
+
+
+
+
+
+
+
+"
+d8edad94-cb55-44b8-98d9-bd72248c5ca9,3762,जी ma'am. मैं आपको चाहूंगा लेकिन      तो करना Good afternoon. This is प्रतीक. today I am going to assist you. Am I speaking to दर्शन? Yes. Good afternoon. This is प्रतीक. हां मैंने order किया था कल मे...,2026-03-31T13:43:07.833720,Gemma-inhouse,reassurance,JSON Error,"{""Reassurance_result"":""Met"",""Evidence"":""[\""मेरे को जो delivery boy उसका number मिल सकता मैं माफी चाहूंगा आपके साथ जो परेशानी हुआ है. मैं आपको इस call पर मदद करने की जो है मैं पूरी कोशिश करूंगा आपको. ठ","{""Value"": ""JSON Error"", ""Evidence"": ""{\""Reassurance_result\"":\""Met\"",\""Evidence\"":\""[\\\""मेरे को जो delivery boy उसका number मिल सकता मैं माफी चाहूंगा आपके साथ जो परेशानी हुआ है. मैं आपको इस call पर मदद करने की जो है मैं पूरी कोशिश करूंगा आपको. ठ""}",5.1192238330841064,False,"{""Reassurance_result"":""Met"",""Evidence"":""[\""मेरे को जो delivery boy उसका number मिल सकता मैं माफी चाहूंगा आपके साथ जो परेशानी हुआ है. मैं आपको इस call पर मदद करने की जो है मैं पूरी कोशिश करूंगा आपको. ठीक है?\"",\""Look, I understand your concern. We don't currently have the delivery partner's contact information readily available.  But, I want to assure you that this issue has already been raised  and the team is working on it. You will be updated by the relevant team before the 11th."",""The system-generated timeline might seem long. Our team is working towards resolving this as soon as possible. You will receive an update before the 11th.  I understand the concern about the delay but this is the best timeline we can provide. We apologize for the inconvenience\""]""} 
+
+
+"
+a02e23d2-aa48-41c0-a2c5-2114886e9ca1,2934,"Good afternoon शशांक this is  calling you from Cred on a recorded line. Yes yes. Actually,  having a conversation and the call got disconnected Yeah, got disconnected Yeah. Yes, I  apologize for the i...",2026-03-31T13:43:10.917860,Gemma-inhouse,reassurance,Met,"Step 3,  ""Ok,  Please be on hold."">","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 3,  \""Ok,  Please be on hold.\"">""}",1.083979606628418,True,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 3,  \""Ok,  Please be on hold.\"">""} 
+"
+9ef4dbec-ec9e-4e73-9f5d-939325d99c18,2957,Good morning. My name is. I'm here to assist you today. Am I speaking with दास? Yes  sir. Ok. Thanks for confirming your name. As I can check that you have raised a concern regarding a product from  t...,2026-03-31T13:43:13.825824,Gemma-inhouse,reassurance,Met,[Quote the exact acknowledgment statement],"{""Reassurance_result"": ""Met"", ""Evidence"": ""[Quote the exact acknowledgment statement]""}",0.907820463180542,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""[Quote the exact acknowledgment statement]""
+}"
+4e7cc419-ccf7-42b2-85c0-b52a2da2e8bc,3735,"morning. This is मोहम्मद I will be assisting you today. Am I speaking with प्रमेश nan Yes. you so much for confirming your name. Tell So my Yeah, I was supposed to receive my order last week. I was no...",2026-03-31T13:43:18.306601,Gemma-inhouse,reassurance,Met,"3. Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - Yes. [Quote the exact acknowledgment statement] 'I completely understand and apologize for the inconvenience caused to you will try my best to system.'","{""Reassurance_result"": ""Met"", ""Evidence"": ""3. Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - Yes. [Quote the exact acknowledgment statement] 'I completely understand and apologize for the inconvenience caused to you will try my best to system.'""}",2.4806082248687744,True,"```json
+{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""3. Did the agent use any reassurance phrases (e.g., 'don't worry', 'be assured', 'I will help you')? - Yes. [Quote the exact acknowledgment statement] 'I completely understand and apologize for the inconvenience caused to you will try my best to system.'""
+}
+```"
+22596fb0-77b7-4820-8604-9b9236d65fa6,3099,"Good morning,  I am here to assist you today. Am I speaking with लक्ष्य? Yeah, I am लक्ष्मी speaking. yesterday also I have call the customer support regarding my policy renewal the document is still ...",2026-03-31T13:43:21.903919,Gemma-inhouse,reassurance,Met,"Step 2: ""Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out.""","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: \""Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out.\""""}",1.5971753597259521,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 2: \""Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out.\""""
+}"
+adac574e-4425-426d-b5bd-c80b9c33741f,1713,evening. This is  I am here here to assist you. Am I speaking with सुमित? confirm your As I can see your concern is regarding the  as you have mentioned the payment is but the policy is not showing. n...,2026-03-31T13:43:25.562747,Gemma-inhouse,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": [""do not worry try my best to help you in this regard"", ""Do not worry sure my best to help you in this regard""]}","{""Reassurance_result"": ""Met"", ""Evidence"": [""do not worry try my best to help you in this regard"", ""Do not worry sure my best to help you in this regard""]}",1.6586940288543701,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": [
+    ""do not worry try my best to help you in this regard"",
+    ""Do not worry sure my best to help you in this regard""
+  ]
+} 
+"
+d4e0566e-943e-4364-b61d-ac0b00a4ef2b,1790,"I'm here to assist you today. Am I speaking with साहिल? you for confirming your name साहिल. As I can see, you have raised a concern regarding transaction ###rupees in which you paid 18 rupees convenie...",2026-03-31T13:43:29.916650,Gemma-inhouse,reassurance,Met,[Quote from Step 2] as I can see the transaction was made on third of March from your HDFC credit card ending with ###. Yeah yeah correct. and this transaction got failed. I I really apologize for the inconvenience and as I can see your receiver KYC status was not done. That's why the transaction got failed,"{""Reassurance_result"": ""Met"", ""Evidence"": ""[Quote from Step 2] as I can see the transaction was made on third of March from your HDFC credit card ending with ###. Yeah yeah correct. and this transaction got failed. I I really apologize for the inconvenience and as I can see your receiver KYC status was not done. That's why the transaction got failed""}",2.3536877632141113,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""[Quote from Step 2] as I can see the transaction was made on third of March from your HDFC credit card ending with ###. Yeah yeah correct. and this transaction got failed. I I really apologize for the inconvenience and as I can see your receiver KYC status was not done. That's why the transaction got failed""
+}"
+0f070971-d446-4cfb-9a13-9a383fb71d2a,2341,evening. This is प्रेम. I am here to assist you. Am I speaking with मोहम्मद अब्दुल. राव? हां. Yes. for the confirmation of  name अब्दुल. As I can check from  that you have raised a concern regarding y...,2026-03-31T13:43:34.324380,Gemma-inhouse,reassurance,Met,"Step 2:  ""...जैसे कि product आपको delivered हो जाना चाहिए था तीन तारीख तक लेकिन यह जो product है अभी तक आपको delivered नहीं हुआ नहीं हुआ नहीं बेहद माफ़ी चाहेंगे हम इसके लिए लेकिन आप निश्चिंत रहें, हम आपकी सहायता करने के लिए"" ","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2:  \""...जैसे कि product आपको delivered हो जाना चाहिए था तीन तारीख तक लेकिन यह जो product है अभी तक आपको delivered नहीं हुआ नहीं हुआ नहीं बेहद माफ़ी चाहेंगे हम इसके लिए लेकिन आप निश्चिंत रहें, हम आपकी सहायता करने के लिए\"" ""}",2.4075734615325928,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2:  \""...जैसे कि product आपको delivered हो जाना चाहिए था तीन तारीख तक लेकिन यह जो product है अभी तक आपको delivered नहीं हुआ नहीं हुआ नहीं बेहद माफ़ी चाहेंगे हम इसके लिए लेकिन आप निश्चिंत रहें, हम आपकी सहायता करने के लिए\"" ""
+
+}
+
+
+
+
+
+"
+9ee602bb-fb79-4d1e-9cdc-4b23e37f8691,2668,evening. This is रोहित here to assist you today. Am I speaking with अमोल Yes speaking. Thank you for confirming your name अमोल and as I can check that you have raised a concern regarding your policy a...,2026-03-31T13:43:39.307501,Gemma-inhouse,reassurance,Met,"Step 2: ""I understand. I'm very sorry that you had to face this inconvenience""","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: \""I understand. I'm very sorry that you had to face this inconvenience\"""", ""Step 1"": ""YES"", ""Step 2"": ""YES"", ""Step 3"": ""YES"", ""Step 4"": ""N/A"", ""Step 5"": ""YES"", ""Step 6"": ""N/A"", ""Step 7"": ""N/A""}",2.9828991889953613,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: \""I understand. I'm very sorry that you had to face this inconvenience\"""",
+""Step 1"": ""YES"",
+""Step 2"": ""YES"",
+""Step 3"": ""YES"",
+""Step 4"": ""N/A"",
+""Step 5"": ""YES"",
+""Step 6"": ""N/A"",
+""Step 7"": ""N/A""
+}"
+2e884fcf-dac9-4d09-954a-478299a2d841,2668,"evening. This is अंकित I am here to assist you today. Am I speaking with कार्तिक? हां, yes sir. and charging only. you for confirming. Actually, हां yeah. Previously I used  credit wallet with other 1...",2026-03-31T13:43:42.606402,Gemma-inhouse,reassurance,Met,"Step 2: ""Yes. I completely understand your concern कार्तिक."" ""I apologize for this inconvenience.""","{""Reassurance_result"": ""Met"", ""Reassurance_evidence"": ""Step 2: \""Yes. I completely understand your concern कार्तिक.\"" \""I apologize for this inconvenience.\""""}",1.2987103462219238,True,"{""Reassurance_result"": ""Met"", ""Reassurance_evidence"": ""Step 2: \""Yes. I completely understand your concern कार्तिक.\"" \""I apologize for this inconvenience.\""""}"
+70100a96-b855-4d3e-a398-0d330e8dab42,2717,"Good morning. My name is  I'm here to assist you today. Am I speaking with सूरज? am I speaking with सूरज? Ok, thank you for confirming your name. सूरज as I check that you raised the concern regarding ...",2026-03-31T13:43:47.398730,Gemma-inhouse,reassurance,Met,"Step 2: 'Ok, tell me what is the exact concern that दूसरा loan अच्छा. इसको close करके दूसरा आपको अगर आप चाहते हैं तो आप दूसरा loan ले सकते हैं आपके पास एक available limit है 2 lakh #### वहां से वहां से नहीं madam bank से लेने अच्छा bank से लेता Ok. अब यह आपको foreclose करना है?'","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'Ok, tell me what is the exact concern that दूसरा loan अच्छा. इसको close करके दूसरा आपको अगर आप चाहते हैं तो आप दूसरा loan ले सकते हैं आपके पास एक available limit है 2 lakh #### वहां से वहां से नहीं madam bank से लेने अच्छा bank से लेता Ok. अब यह आपको foreclose करना है?'""}",2.7921435832977295,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'Ok, tell me what is the exact concern that दूसरा loan अच्छा. इसको close करके दूसरा आपको अगर आप चाहते हैं तो आप दूसरा loan ले सकते हैं आपके पास एक available limit है 2 lakh #### वहां से वहां से नहीं madam bank से लेने अच्छा bank से लेता Ok. अब यह आपको foreclose करना है?'"" 
+}"
+20c61940-b21f-47aa-90a5-bbc67fd6a4fc,2999,Good afternoon. This is कुमार How may I assist you today? Am I speaking with प्रसाद? Hello. Am I speaking with Yes yes. you so much प्रसाद for confirming your name. I can check that you have raised yo...,2026-03-31T13:43:50.886943,Gemma-inhouse,reassurance,Met,Step 2: 'I'm really sorry for the inconvenience प्रसाद that your product has not been yet delivered to you as you have mentioned here nan',"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'I'm really sorry for the inconvenience प्रसाद that your product has not been yet delivered to you as you have mentioned here nan'""}",1.4880285263061523,True,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'I'm really sorry for the inconvenience प्रसाद that your product has not been yet delivered to you as you have mentioned here nan'""}"
+9d6609b4-0dae-4621-8079-461d3d48db8a,1599,"Good afternoon this is  I am here to assist. Am I speaking with भास्कर? So there is a product which we added  banks. it was showing delivered but but it has not been delivered to you. Yeah, but produc...",2026-03-31T13:43:53.912003,Gemma-inhouse,reassurance,Met,[Quote the exact acknowledgment statement],"{""Reassurance_result"": ""Met"", ""Evidence"": ""[Quote the exact acknowledgment statement]"", ""Step"": 2}",1.024886131286621,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""[Quote the exact acknowledgment statement]"",
+  ""Step"": 2
+}"
+0b8a3db5-40c4-4f0c-927a-96a4a77f749d,3622,"Good afternoon, this is   may I assist you today? Am I speaking with you  for confirming your name. I can check that you have raised a concern regarding a product which is from Yes. electricity liter ...",2026-03-31T13:43:58.005484,Gemma-inhouse,reassurance,Met,Agent acknowledged the customer's concern and showed understanding: 'I'm really sorry for such kind of experience. You also have previously same kind of experience and also I am taking that as a strong feedback as well.',"{""Reassurance_result"": ""Met"", ""Evidence"": ""Agent acknowledged the customer's concern and showed understanding: 'I'm really sorry for such kind of experience. You also have previously same kind of experience and also I am taking that as a strong feedback as well.'""}",2.0933127403259277,True,"```json
+{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Agent acknowledged the customer's concern and showed understanding: 'I'm really sorry for such kind of experience. You also have previously same kind of experience and also I am taking that as a strong feedback as well.'"" 
+}
+```"
+267c4e7b-7191-493c-9af3-51b64a6fb700,1903,Good afternoon. This is I'm here to assist you today. Am I speaking with राहुल? नाम confirm करने का. language आ रही राहुल am I comfortable Are you comfortable in हिंदी or English? ok but I am  लिया. I...,2026-03-31T13:44:05.091703,Gemma-inhouse,reassurance,Not Met,"Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ?
+""""Redirecting to appropriate parties (merchant, insurer, another department) counts as offering a resolution path.""
+
+The agent did not provide a path to escalate.
+-Quote: ""मैं हमारी call को आपके feedback IVR पर transfer करूंगी जहां पर  बातचीत के basis पर एक से पांच के beach में rating दे सकते हैं. जहां पांच सबसे ज़्यादा और एक सबसे कम हैं राहुल. Credit को choose करने के लिए धन्यवाद. आपका दिन शुभ हो और होने की  शुभ  राहुल.         करके.""""","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ?\n\""\""Redirecting to appropriate parties (merchant, insurer, another department) counts as offering a resolution path.\""\n\nThe agent did not provide a path to escalate.\n-Quote: \""मैं हमारी call को आपके feedback IVR पर transfer करूंगी जहां पर  बातचीत के basis पर एक से पांच के beach में rating दे सकते हैं. जहां पांच सबसे ज़्यादा और एक सबसे कम हैं राहुल. Credit को choose करने के लिए धन्यवाद. आपका दिन शुभ हो और होने की  शुभ  राहुल.         करके.\""\""""}",5.086040496826172,True,"```json
+{
+""Reassurance_result"": ""Not Met"",
+""Evidence"": ""Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ?\n\""\""Redirecting to appropriate parties (merchant, insurer, another department) counts as offering a resolution path.\""\n\nThe agent did not provide a path to escalate.\n-Quote: \""मैं हमारी call को आपके feedback IVR पर transfer करूंगी जहां पर  बातचीत के basis पर एक से पांच के beach में rating दे सकते हैं. जहां पांच सबसे ज़्यादा और एक सबसे कम हैं राहुल. Credit को choose करने के लिए धन्यवाद. आपका दिन शुभ हो और होने की  शुभ  राहुल.         करके.\""\""""
+}
+```"
+9b66ed6e-6829-47e0-91d3-681f6d56cefb,3923,"Hello. afternoon. I'm  calling nan हां हां हमारे   से  बात हो रहा है आपका हां, अमित जी आपका हां. का का पैसा मैंने order किया था लेकिन अभी तक आया नहीं तेईस बार   order किया हां जी, अमित जी. मैं उसी के ...",2026-03-31T13:44:10.464582,Gemma-inhouse,reassurance,Not Met,"Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ?  'Directing to appropriate parties (merchant, insurer, another department) counts as offering a resolution path.'
+ Agent did not offer further escalation or follow-up after outlining the proposed wait period. Only stated 'march twelfth end of the day per you reach us so we can further assist you'","{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ?  'Directing to appropriate parties (merchant, insurer, another department) counts as offering a resolution path.'\n Agent did not offer further escalation or follow-up after outlining the proposed wait period. Only stated 'march twelfth end of the day per you reach us so we can further assist you'""}",3.3727023601531982,True,"{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 7: If the agent was not able to help himself, did he offer to escalate or follow up later or directed to the merchant or another department or insurer, etc ?  'Directing to appropriate parties (merchant, insurer, another department) counts as offering a resolution path.'\n Agent did not offer further escalation or follow-up after outlining the proposed wait period. Only stated 'march twelfth end of the day per you reach us so we can further assist you'""} 
+"
+92f24dce-3ce6-46b2-b2cd-868da31174b1,2895,"Good afternoon, this is ना. I am here to assist you today. Am I speaking with  श्रवण? हां हां. you for confirming your name. So as I can check that you have raised a concern regarding credit cash abou...",2026-03-31T13:44:14.005274,Gemma-inhouse,reassurance,JSON Error,"```json
+{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": "" 
+ 1.   '工場ం'
+                    is there any special request for which you may have called.'""
+}
+```","{""Value"": ""JSON Error"", ""Evidence"": ""```json\n{\n  \""Reassurance_result\"": \""Met\"",\n  \""Evidence\"": \"" \n 1.   '工場ం'\n                    is there any special request for which you may have called.'\""\n}\n```""}",1.5404932498931885,False,"```json
+{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": "" 
+ 1.   '工場ం'
+                    is there any special request for which you may have called.'""
+}
+```"
+6a3e8c52-2ecd-4320-97bf-d90a5a92e3b7,2858,morning. This is सोमी I will be assisting you today. Am I speaking with शशांक Yeah. Thank you so much for confirming your name शशांक I can check that you have raised a concern regarding your order is ...,2026-03-31T13:44:17.177653,Gemma-inhouse,reassurance,Met,"Step 2: 'Ok, I completely understand and apologize for the inconvenience caused to you.'","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'Ok, I completely understand and apologize for the inconvenience caused to you.'""}",1.1722009181976318,True,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'Ok, I completely understand and apologize for the inconvenience caused to you.'""}   
+"
+06bb5005-ff3c-4f2b-a637-b95f5e244c78,3056,"Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes. hi. Hi not. So the thing is I I tried doing a payment through credit  like, I was transferring  some educatio...",2026-03-31T13:44:21.100805,Gemma-inhouse,reassurance,Met,"Step 2: Ok. First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you. But I'll try my best to help you in सौरव","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: Ok. First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you. But I'll try my best to help you in सौरव""}",1.9229977130889893,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 2: Ok. First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you. But I'll try my best to help you in सौरव""
+}"
+d8e41f6d-f5a5-4d43-bb48-6d29083c1c41,1558,morning. and अंशिका I am here to assist you today. Am I speaking to साहू? Madam मैंने कल  bank account में  credit card में bill payment किया था लेकिन मेरे account में double money deduct हो गया. जी  ...,2026-03-31T13:44:25.751408,Gemma-inhouse,reassurance,Met,"<b>Step 2: Did the agent acknowledge the customer's concern and show understanding?</b> Agent stated, 'जी समझ रही हूँ मैं आपका concern माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी और मैं देख पा रही हूं अपने end से मैं आपका concern समझ चुकी हूं'","{""Reassurance_result"": ""Met"", ""Evidence"": ""<b>Step 2: Did the agent acknowledge the customer's concern and show understanding?</b> Agent stated, 'जी समझ रही हूँ मैं आपका concern माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी और मैं देख पा रही हूं अपने end से मैं आपका concern समझ चुकी हूं'""}",2.6504247188568115,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""<b>Step 2: Did the agent acknowledge the customer's concern and show understanding?</b> Agent stated, 'जी समझ रही हूँ मैं आपका concern माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी और मैं देख पा रही हूं अपने end से मैं आपका concern समझ चुकी हूं'""
+}"
+630da169-e9b1-4529-ac7a-a978e9f60150,1838,Good afternoon. This is सिद्धार्थ. How  to assist you today. Am I speaking with शुभ हां तो बात कर रहा हूं. Actually मेरा card का मैंने payment किया था tuition but वह fail हो गया but मेरा अभी भी accoun...,2026-03-31T13:44:28.990574,Gemma-inhouse,reassurance,Met,Step 2 - Sure sure sure समझ सकते हैं आपके लिए काफी मुश्किल होगा.,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2 - Sure sure sure समझ सकते हैं आपके लिए काफी मुश्किल होगा.""}",1.238987684249878,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2 - Sure sure sure समझ सकते हैं आपके लिए काफी मुश्किल होगा.""
+} 
+
+
+
+
+
+
+"
+11683cda-dc5f-4cb8-a3c5-4d0791987cc7,3007,"morning. My name is निकिता. I'm here to assist you today. Am I speaking with निलेश? you very much for confirming your name, कि. So you   get an update that you raised a concern regarding the credit ca...",2026-03-31T13:44:31.941646,Gemma-inhouse,reassurance,Met,[Quote the exact acknowledgment statement],"{""Reassurance_result"": ""Met"", ""Evidence"": ""[Quote the exact acknowledgment statement]""}",0.9509069919586182,True,"{
+ ""Reassurance_result"": ""Met"",
+ ""Evidence"": ""[Quote the exact acknowledgment statement]""
+}
+
+
+
+"
+42a803fa-53e5-48a2-8b4b-c3a9277fe50b,2184,Good afternoon. This is राम. I am here to assist you today. Am I speaking with जी? hours नाम confirm करने के लिए धन्यवाद. जी क्या आप अपना एक concern elaborate कर देंगे please? जी मैं आपसे request कर र...,2026-03-31T13:44:36.473833,Gemma-inhouse,reassurance,Met,Step 3 -  वैसे कि मैं देख पा रहा हूं यह आपकी payment है चार हज़ार की और इस इसमें convenience fees है आपकी एक सौ बीस रुपए और total amount जो है आपका चार हज़ार एक सौ बीस रुपए है फिर towards जी पर यह education की तरफ जी.,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 3 -  वैसे कि मैं देख पा रहा हूं यह आपकी payment है चार हज़ार की और इस इसमें convenience fees है आपकी एक सौ बीस रुपए और total amount जो है आपका चार हज़ार एक सौ बीस रुपए है फिर towards जी पर यह education की तरफ जी.""}",2.5319528579711914,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 3 -  वैसे कि मैं देख पा रहा हूं यह आपकी payment है चार हज़ार की और इस इसमें convenience fees है आपकी एक सौ बीस रुपए और total amount जो है आपका चार हज़ार एक सौ बीस रुपए है फिर towards जी पर यह education की तरफ जी.""
+}      
+
+
+
+"
+095df596-5b74-4815-a86c-c02343a85509,1665,morning. My name is शुक्रिया. I am here to assist you today. Am I speaking with कुशल या? Thank you for confirming. you have raised a concern regarding credit  Basically regarding the   finance. like y...,2026-03-31T13:44:40.751286,Gemma-inhouse,reassurance,Not Met,Step 5: Agent did not offer any solution or guide the customer (Agent checked the details and forwarded the concern to a relevant department). Step 7: Agent did not offer to follow up or escalate. Customer was told the update would be communicated via WhatsApp/support section by March 6th,"{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Step 5: Agent did not offer any solution or guide the customer (Agent checked the details and forwarded the concern to a relevant department). Step 7: Agent did not offer to follow up or escalate. Customer was told the update would be communicated via WhatsApp/support section by March 6th""}",2.277284622192383,True,"{
+""Reassurance_result"": ""Not Met"",
+""Evidence"": ""Step 5: Agent did not offer any solution or guide the customer (Agent checked the details and forwarded the concern to a relevant department). Step 7: Agent did not offer to follow up or escalate. Customer was told the update would be communicated via WhatsApp/support section by March 6th""
+} 
+"
+b6e54447-103c-49f7-b6f0-e8621a56c246,2159,"Good evening. My name is I'm here to assist you today. Am I speaking with साहिल? Yeah, I am साई speaking. Ok. Thanks for confirming your name साहिल. As I can check that you have raised a concern regar...",2026-03-31T13:44:44.515341,Gemma-inhouse,reassurance,Met,"Step 2: quot;Ok. Thanks for confirming the issue, साहिल. I'm really sorry that you have not received your order yet. It's been a long time.quot;","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: quot;Ok. Thanks for confirming the issue, साहिल. I'm really sorry that you have not received your order yet. It's been a long time.quot;""}",1.7638888359069824,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: quot;Ok. Thanks for confirming the issue, साहिल. I'm really sorry that you have not received your order yet. It's been a long time.quot;""
+}"
+d1a3761b-ffe1-4115-9076-531fc8424088,3003,"evening. This is विशाल calling from on a recorded line. Am I speaking with राकेश? जी sir, good evening. Hi, good evening राज जी नाम confirm करने के लिए शुक्रिया राय जी.  क्या सही समय है आपसे बात करने ...",2026-03-31T13:44:49.550808,Gemma-inhouse,reassurance,Met,Step 2: 'जैसे कि मैं यहां पर check कर पा रहा हूं आपका आपका credit cash के regarding कुछ परेशानी face हो रही है बहुत दिनों से and आपको policy details में परेशानी आ रही है जहां पर आपका जो policy details है वहां पर incorrect date of  के लिए आपको परेशानी आ रही है. हम जैसे ही बता माफ़ी चाहेंगे आपकी परेशानी के लिए.',"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'जैसे कि मैं यहां पर check कर पा रहा हूं आपका आपका credit cash के regarding कुछ परेशानी face हो रही है बहुत दिनों से and आपको policy details में परेशानी आ रही है जहां पर आपका जो policy details है वहां पर incorrect date of  के लिए आपको परेशानी आ रही है. हम जैसे ही बता माफ़ी चाहेंगे आपकी परेशानी के लिए.'""}",3.0353243350982666,True,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'जैसे कि मैं यहां पर check कर पा रहा हूं आपका आपका credit cash के regarding कुछ परेशानी face हो रही है बहुत दिनों से and आपको policy details में परेशानी आ रही है जहां पर आपका जो policy details है वहां पर incorrect date of  के लिए आपको परेशानी आ रही है. हम जैसे ही बता माफ़ी चाहेंगे आपकी परेशानी के लिए.'""} 
+"
+585dd7d4-4a1d-415e-bd6b-c56e3ebcb2d6,3210,"Good evening. My name is नीतीश. I am calling you from Cred on a recorded line. I am talking to संजय? Yeah, speaking. you for the confirmation. I can see that you have raised a concern regarding the cr...",2026-03-31T13:44:53.097930,Gemma-inhouse,reassurance,Not Met,Agent did not recognize the customer's concern as a major issue and suggestive the customer to contact the bank and credit application for help,"{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Agent did not recognize the customer's concern as a major issue and suggestive the customer to contact the bank and credit application for help""}",1.54695725440979,True,"{
+""Reassurance_result"": ""Not Met"",
+""Evidence"": ""Agent did not recognize the customer's concern as a major issue and suggestive the customer to contact the bank and credit application for help"" 
+}"
+5f2f449a-8d5d-4a8c-bb16-f771a6669087,1945,Good evening. This is  I'm here to assist you today. Am I speaking with दीपक? जी sir. नाम confirm करने के लिए धन्यवाद दीपक. जैसे कि मैं देख पा रहा हूं आपने concern raise किया है refund  के regarding C...,2026-03-31T13:44:56.314859,Gemma-inhouse,reassurance,Not Met,Agent did not provide reassurance for दीपक's concern about  not receiving a refund,"{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for दीपक's concern about  not receiving a refund""}",1.2167789936065674,True,"{
+""Reassurance_result"": ""Not Met"",
+""Evidence"": ""Agent did not provide reassurance for दीपक's concern about  not receiving a refund""
+}"
+20059b00-5e96-4caa-98b7-19c0000adae6,1699,"afternoon,     here to assist you today. Am I speaking with अविनाश? Good afternoon, I am ना. can I  can you speak in nan I can speak in English and I'm very sorry, I can speak  line हां, ok ok. Please...",2026-03-31T13:45:01.923878,Gemma-inhouse,reassurance,Met,"Indent 3. Did the agent use any reassurance phrases (e.g., ""don't worry"", ""be assured"", ""I will help you"")? - If YES → Mark ""Reassurance_result"" as ""Met"". (Evidence: [Quote the exact reassurance statement]) - If NO → Proceed to step 4. Ok, I can check that the amount that you have paid twice, like both of the amount for both of the EMI #### Sorry, ###rupees and ###rupees is already refunded from our end, ok? ","{""Reassurance_result"": ""Met"", ""Evidence"": ""Indent 3. Did the agent use any reassurance phrases (e.g., \""don't worry\"", \""be assured\"", \""I will help you\"")? - If YES → Mark \""Reassurance_result\"" as \""Met\"". (Evidence: [Quote the exact reassurance statement]) - If NO → Proceed to step 4. Ok, I can check that the amount that you have paid twice, like both of the amount for both of the EMI #### Sorry, ###rupees and ###rupees is already refunded from our end, ok? ""}",3.608811855316162,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Indent 3. Did the agent use any reassurance phrases (e.g., \""don't worry\"", \""be assured\"", \""I will help you\"")? - If YES → Mark \""Reassurance_result\"" as \""Met\"". (Evidence: [Quote the exact reassurance statement]) - If NO → Proceed to step 4. Ok, I can check that the amount that you have paid twice, like both of the amount for both of the EMI #### Sorry, ###rupees and ###rupees is already refunded from our end, ok? "" 
+} 
+
+
+"
+830a5b45-fbf1-4d79-acf7-a182cbe7e7be,2614,"Good morning. This is    here to assist you. Am I speaking with सादत? Yeah, hi collect. Hi सबा. So, Yes speaking. Yeah. Actually, my credit order is   delivered  and the delivery  person came to my na...",2026-03-31T13:45:04.802729,Gemma-inhouse,reassurance,Met,[Quote the exact acknowledgment statement],"{""Reassurance_result"": ""Met"", ""Evidence"": ""[Quote the exact acknowledgment statement]""}",0.8786749839782715,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""[Quote the exact acknowledgment statement]""
+}"
+be00850c-1822-454d-84bd-7fbbe07c5998,3070,"evening. This is प्रीतम. I'm here to assist you. Am I speaking with शंकर? nan Yeah, is शंकर? Thanks  thanks for the confirmation  पंकज. my product was not getting delivered it is showing out of delive...",2026-03-31T13:45:08.306802,Gemma-inhouse,reassurance,Met,"Step 2: 'First of all, I would like to apologize for this inconvenience and I'm extremely sorry for this issue शंकर'","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'First of all, I would like to apologize for this inconvenience and I'm extremely sorry for this issue शंकर'""}",1.5039122104644775,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'First of all, I would like to apologize for this inconvenience and I'm extremely sorry for this issue शंकर'""
+}"
+02719540-46f4-482b-969e-14b50bbe3285,3129,"Good evening, this is  I am here to assist you today. Am I speaking with मनीष? as you can see that I have purchased  completed from the So I   see that       from the credit and that  is not getting d...",2026-03-31T13:45:11.552178,Gemma-inhouse,reassurance,JSON Error,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: \""I can understand extremely sorry that you are facing inconvenience we will surely help you\""}  
+","{""Value"": ""JSON Error"", ""Evidence"": ""{\""Reassurance_result\"": \""Met\"", \""Evidence\"": \""Step 2: \\\""I can understand extremely sorry that you are facing inconvenience we will surely help you\\\""}  \n""}",1.2452187538146973,False,"{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: \""I can understand extremely sorry that you are facing inconvenience we will surely help you\""}  
+"
+96d97237-1192-4d22-a836-9624908817dc,2739,Good afternoon. This is This is calling from recorded line. Am I speaking with आकाश? हां बात करो बोलिए. जी आकाश जैसे कि मैं देख पा रहा हूं आपने statement भेजा थी अपनी HDFC हां हां. यह आपने payment dat...,2026-03-31T13:45:16.049916,Gemma-inhouse,reassurance,Met,"Step 2:  \""जी, आकाश.\"" Step 3: \""मेरे तरफ से call करने की ज़रूरत नहीं जी जी असुविधा के लिए बहुत बहुत माफी चाहूंगा..\"", Step 7: \""मैं आपके साथ एक link share कर रहा हूं. ","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2:  \\\""जी, आकाश.\\\"" Step 3: \\\""मेरे तरफ से call करने की ज़रूरत नहीं जी जी असुविधा के लिए बहुत बहुत माफी चाहूंगा..\\\"", Step 7: \\\""मैं आपके साथ एक link share कर रहा हूं. ""}",2.497598648071289,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2:  \\\""जी, आकाश.\\\"" Step 3: \\\""मेरे तरफ से call करने की ज़रूरत नहीं जी जी असुविधा के लिए बहुत बहुत माफी चाहूंगा..\\\"", Step 7: \\\""मैं आपके साथ एक link share कर रहा हूं. ""
+} 
+"
+05bc2f79-e454-456e-b588-00128c679dde,1673,"morning. This is  I will be assisting you today. Am I speaking with पवन Yeah hi, actually I called regarding 1 of my order which I wanted to return and I see the I don't know what's the current status...",2026-03-31T13:45:19.274721,Gemma-inhouse,reassurance,Met,"Step 2: ""Understand. I completely understand and I apologize for the inconvenience caused to you.""","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: \""Understand. I completely understand and I apologize for the inconvenience caused to you.\""""}",1.2246668338775635,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": ""Step 2: \""Understand. I completely understand and I apologize for the inconvenience caused to you.\""""
+}"
+24ba9529-527f-4133-8f7b-0c5eab96d29b,2315,"Good afternoon, this is वरीता. I will be assisting you today. Am I speaking with रोहित? Yeah, good afternoon ma'am. I have raised a complaint regarding my last order. Yes, as it is your product from m...",2026-03-31T13:45:24.991874,Gemma-inhouse,reassurance,Met,"Step 2: 'Ok. So just allow me a minute. I just need to check few details regarding this. So, could I please place your call on hold?' Step 3: 'I'm really sorry for the long hold. So as I can check in my system that you received an empty works and your concern is already been forwarded to my internal team. Ok?  So I would kindly request you since your concern is already been look upon and they are right now currently working on your concern. I would kindly request you to please allow us some more time.' ","{""Reassurance_result"": ""Met"", ""Evidence"": ""Step 2: 'Ok. So just allow me a minute. I just need to check few details regarding this. So, could I please place your call on hold?' Step 3: 'I'm really sorry for the long hold. So as I can check in my system that you received an empty works and your concern is already been forwarded to my internal team. Ok?  So I would kindly request you since your concern is already been look upon and they are right now currently working on your concern. I would kindly request you to please allow us some more time.' ""}",3.717015027999878,True,"{
+""Reassurance_result"": ""Met"",
+""Evidence"": ""Step 2: 'Ok. So just allow me a minute. I just need to check few details regarding this. So, could I please place your call on hold?' Step 3: 'I'm really sorry for the long hold. So as I can check in my system that you received an empty works and your concern is already been forwarded to my internal team. Ok?  So I would kindly request you since your concern is already been look upon and they are right now currently working on your concern. I would kindly request you to please allow us some more time.' ""
+} 
+"
+60a8d089-44c3-411d-b5cc-c24733d5acdd,1959,"Good morning. This is  I will be assisting you Good morning, madam. Good morning, madam. विषय नाम से. Good morning, madam. Good morning, madam. Am I audible करना? मेरा कृष्णा कर मेरा कृष्णा कर Yes, th...",2026-03-31T13:45:28.172662,Gemma-inhouse,reassurance,Not Met,Agent did not provide reassurance for  'transaction  credit card  amount debit है madam.' ,"{""Reassurance_result"": ""Not Met"", ""Evidence"": ""Agent did not provide reassurance for  'transaction  credit card  amount debit है madam.' ""}",1.1806435585021973,True,"{
+""Reassurance_result"": ""Not Met"",
+""Evidence"": ""Agent did not provide reassurance for  'transaction  credit card  amount debit है madam.' ""
+}"

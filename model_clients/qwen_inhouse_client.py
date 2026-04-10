@@ -23,7 +23,7 @@ class QwenInhouseClient(BaseModelClient):
     def __init__(self):
         super().__init__("Qwen-inhouse")
         load_dotenv()
-        self.base_url = os.getenv("QWEN_INHOUSE_BASE_URL", "http://192.168.30.121:5000/v1")
+        self.base_url = os.getenv("QWEN_INHOUSE_BASE_URL", "http://192.168.30.251:9000/v1")
         self.model = os.getenv("QWEN_INHOUSE_MODEL", "Qwen/Qwen2.5-7B-Instruct")
         self.api_key_env = "QWEN_INHOUSE_API_KEY"
         self.client = None

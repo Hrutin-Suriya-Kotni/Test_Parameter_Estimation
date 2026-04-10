@@ -1,0 +1,250 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+001eecbe-10b9-4aee-902d-8003ef425d93,2004,"Agent: Hi, good afternoon. This is  calling you from Cred
+Customer: Ok.
+Agent: Am I speaking to Mister समीर.
+Customer: Yes.
+Agent: Hi Mister so this call is regarding your insurance  for  vehicle your...",2026-03-31T16:01:30.672015,Gemma-inhouse,closing,Not Met,"In future, if you are facing any issues you can just raise a concern from the application the team will get in touch with you you have active policy","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""In future, if you are facing any issues you can just raise a concern from the application the team will get in touch with you you have active policy"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": """", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Yeah, Thank you so much for your valuable time sir. Have a very good day.""}",3.5092670917510986,True,"```json
+{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""In future, if you are facing any issues you can just raise a concern from the application the team will get in touch with you you have active policy"",
+        ""Effective_IVR_Survey"": ""Not Met"",
+        ""Effective_IVR_Survey_Evidence"": """",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""Yeah, Thank you so much for your valuable time sir. Have a very good day.""
+}
+```"
+004d9af7-9a03-4d99-aa4e-4651f7a4d598,4636,"Agent: Good evening. This is भावना I am here to assist you. Am I speaking with मुकुल
+Customer: Yes you are speaking with  I have a little problem.
+Customer: Actually my amount is due around 5000
+Agent...",2026-03-31T16:01:35.121158,Gemma-inhouse,closing,Not Met,Error,"{""Further_Assistance"": ""Not Met"", ""Further_Assistance_Evidence"": """", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": """", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": """"}",2.4488697052001953,True,"{
+        ""Further_Assistance"": ""Not Met"",
+        ""Further_Assistance_Evidence"": """",
+        ""Effective_IVR_Survey"": ""Not Met"",
+        ""Effective_IVR_Survey_Evidence"": """",
+        ""Greeting"": ""Not Met"",
+        ""Greeting_Evidence"": """"
+}  
+"
+00fb6889-edef-4b5d-8dfc-3080d02ccd24,1060,"Agent: Hello.
+Customer: Hello.
+Agent: Very good afternoon sir. This is  calling from Cred. this call regarding your car insurance renewal your alto Is this a good time to talk
+Customer: हां बोलिए ना s...",2026-03-31T16:01:40.098590,Gemma-inhouse,closing,Not Met,आपको कोई सहायता की assistance की ज़रूरत था आगे बढ़ने से पहले,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""आपको कोई सहायता की assistance की ज़रूरत था आगे बढ़ने से पहले"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": null, ""Greeting"": ""Met"", ""Greeting_Evidence"": ""आपका दिन शुभ हो. Thank you""}",2.977245569229126,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""आपको कोई सहायता की assistance की ज़रूरत था आगे बढ़ने से पहले"",
+        ""Effective_IVR_Survey"": ""Not Met"",
+        ""Effective_IVR_Survey_Evidence"": null,
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""आपका दिन शुभ हो. Thank you"" 
+  
+}"
+01343fa4-54e8-4eac-a707-ceb817e806b0,3153,"Agent: good afternoon good afternoon  this is data You can calling you from Cred on a recorded line. Is this the right time to talk
+Customer: ok
+Customer: hmm
+Customer: no
+Customer: हां.
+Customer: कहा...",2026-03-31T16:01:46.004034,Gemma-inhouse,closing,Met, I mean concern हो आप हमारे support section के द्वारा हमारे साथ बिल्कुल connect कर सकते हैं. Ok,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": "" I mean concern हो आप हमारे support section के द्वारा हमारे साथ बिल्कुल connect कर सकते हैं. Ok"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""  call को feedback IVR में भेज रही हूं जिसमें एक से पांच के beach में आप rating share कर पाएंगे इसमें पांच होते हैं बहुत अच्छा और एक होते हैं"", ""Greeting"": ""Met"", ""Greeting_Evidence"": "" आपका दिन शुभ रहे. ""}",3.9052810668945312,True,"{
+""Further_Assistance"": ""Met"",
+""Further_Assistance_Evidence"": "" I mean concern हो आप हमारे support section के द्वारा हमारे साथ बिल्कुल connect कर सकते हैं. Ok"",
+""Effective_IVR_Survey"": ""Met"",
+""Effective_IVR_Survey_Evidence"": ""  call को feedback IVR में भेज रही हूं जिसमें एक से पांच के beach में आप rating share कर पाएंगे इसमें पांच होते हैं बहुत अच्छा और एक होते हैं"",
+""Greeting"": ""Met"",
+""Greeting_Evidence"": "" आपका दिन शुभ रहे. "" 
+} 
+"
+018cb49c-d7cb-4e60-adda-2bae09c0e59a,2995,"Customer: Yeah.
+Agent: Good afternoon. This is Tanya I'm here to assist you today. Am I speaking with अमित?
+Customer: क्या
+Customer: Yes.
+Agent: Thank you for confirming your name असी
+Customer: Ma'am
+...",2026-03-31T16:01:52.244161,Gemma-inhouse,closing,Met,Is there anything else I can help you,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Is there anything else I can help you"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""you can shift it to the IVR feedback and I'll just do it right away  We request you to rate your experience with our expert on a scale of 1 to 5  "", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you so much. Thank you for choosing. I hope you have a great day. Thank you and have a good day.""}",4.23996114730835,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""Is there anything else I can help you"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": ""you can shift it to the IVR feedback and I'll just do it right away  We request you to rate your experience with our expert on a scale of 1 to 5  "",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""Thank you so much. Thank you for choosing. I hope you have a great day. Thank you and have a good day.""
+}   
+
+
+"
+01c32e43-e03c-47f5-83a4-e836291e235b,1250,"Agent: Hello.
+Customer: हां जी.
+Agent: जी से बात हो रही है
+Customer: जी.
+Agent: जी नमस्कार ममता बात कर रही हूं आपके car insurance के renewal के regarding phone किया मैंने
+Customer: जी.
+Agent: आपने पिछ...",2026-03-31T16:01:57.316359,Gemma-inhouse,closing,Met,अगर आपको कुछ assistance चाहिए कुछ  चाहे quotation समझने के लिए या फिर,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""अगर आपको कुछ assistance चाहिए कुछ  चाहे quotation समझने के लिए या फिर"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""यह call को IVR में जी यह call IVR में forward"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""आपका दिन शुभ रहे""}",3.0720279216766357,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""अगर आपको कुछ assistance चाहिए कुछ  चाहे quotation समझने के लिए या फिर"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": ""यह call को IVR में जी यह call IVR में forward"",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""आपका दिन शुभ रहे""
+}
+"
+022c2fc7-3517-4214-b529-44498eab213e,1640,"Customer: Yes.
+Agent: Good morning. This is Falak I am here to assist you. Am I speaking with Uma महेश?
+Customer: Yeah.
+Agent: Mister राव you have reached out to us about the item which you have purch...",2026-03-31T16:02:01.969498,Gemma-inhouse,closing,Met,"Apart from this, is there anything else I can help you?","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Apart from this, is there anything else I can help you?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""feedback IVR"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you for choosing Cred. Hope you have a great day ahead.""}",2.652937173843384,True,"{
+""Further_Assistance"": ""Met"",
+""Further_Assistance_Evidence"": ""Apart from this, is there anything else I can help you?"",
+""Effective_IVR_Survey"": ""Met"",
+""Effective_IVR_Survey_Evidence"": ""feedback IVR"",
+""Greeting"": ""Met"",
+""Greeting_Evidence"": ""Thank you for choosing Cred. Hope you have a great day ahead.""
+} 
+"
+0281fdef-53d0-4ac6-9a51-fe723ae830ce,2891,"Customer: Ok.
+Agent: Good evening. My name is emi calling you from Cred on a recorded line. Am I speaking with नवीन?
+Customer: Yeah.
+Agent: thank you so much  for confirming your name. Is this a good ...",2026-03-31T16:02:06.641904,Gemma-inhouse,closing,Not Met,let me know please if you are facing any issue,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""let me know please if you are facing any issue"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": """", ""Greeting"": ""Not Met"", ""Greeting_Evidence"": """"}",2.67226505279541,True,"```json
+{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""let me know please if you are facing any issue"",
+        ""Effective_IVR_Survey"": ""Not Met"",
+        ""Effective_IVR_Survey_Evidence"": """",
+        ""Greeting"": ""Not Met"",
+        ""Greeting_Evidence"": """"
+}
+```
+
+"
+02c71b46-97cb-4664-9c00-101b226f912e,3100,"Agent: Good evening. This is प्रशांत I'm here to assist you today. Am I speaking with
+Customer: Sir मैंने
+Customer: cred से पैसे निकाला card से
+Agent: जी.
+Customer: ending में डालिए
+Agent: pending में...",2026-03-31T16:02:13.297021,Gemma-inhouse,closing,Met,इस call को end करने से पहले क्या आपसे एक छोटे से feedback की request कर सकता हूं बातचीत के आधार पर,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""इस call को end करने से पहले क्या आपसे एक छोटे से feedback की request कर सकता हूं बातचीत के आधार पर"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""इस call को अपने feedback IVR पर transfer कर रहा हूं. जहां पर आप एक से लेकर पांच तक  सकते हैं. पांच सबसे अधिक होगा एक सबसे कम. cred को चुनने के लिए धन्यवाद."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""आपका दिन शुभ हो""}",4.654931306838989,True,"```json
+{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""इस call को end करने से पहले क्या आपसे एक छोटे से feedback की request कर सकता हूं बातचीत के आधार पर"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": ""इस call को अपने feedback IVR पर transfer कर रहा हूं. जहां पर आप एक से लेकर पांच तक  सकते हैं. पांच सबसे अधिक होगा एक सबसे कम. cred को चुनने के लिए धन्यवाद."",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""आपका दिन शुभ हो""
+}
+```"
+0304b42a-f5fe-44d2-9d04-4c91ac62a67d,3266,"Agent: Good evening  assist you today. Am I speaking  पंकज?
+Customer: Yes.
+Agent: Thank you पंकज for confirming your name. So as I can check that you have raised your concern regarding the withdrawal ...",2026-03-31T16:02:18.828967,Gemma-inhouse,closing,Met,"Apart from that, do you have any further queries?","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Apart from that, do you have any further queries?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": "" I will transfer your call to the feedback IVR. You can ...  We request you to rate your experience with our expert..."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you for choosing Cred. I hope you have a great day ahead.""}",3.531745672225952,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""Apart from that, do you have any further queries?"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": "" I will transfer your call to the feedback IVR. You can ...  We request you to rate your experience with our expert..."",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""Thank you for choosing Cred. I hope you have a great day ahead.""
+}    
+
+"
+035638ed-3012-485c-a93e-cab5df34dc5e,5300,"Agent: Good evening. This is Ronit here to assist you today. Am I speaking with कृतिका
+Customer: Yeah.
+Agent: Thanks for confirming your name कृतिका As I have checked that your request is in regard to...",2026-03-31T16:02:25.806005,Gemma-inhouse,closing,Met,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": [""So is there anything else apart from this help you regarding cred cret का?"", ""So is there anything else  कृतिका help you regarding cred?"", ""  Agent: thank you for choosing Cred कृतिका Hope you have a great day ahead.""], ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": [""Great. I'll transfer your call to our feedback IVR. You can just select between 1 to 5 where 5 is being excellent and 1 is being poor""], ""Greeting"": ""M","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": [""So is there anything else apart from this help you regarding cred cret का?"", ""So is there anything else  कृतिका help you regarding cred?"", ""  Agent: thank you for choosing Cred कृतिका Hope you have a great day ahead.""], ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": [""Great. I'll transfer your call to our feedback IVR. You can just select between 1 to 5 where 5 is being excellent and 1 is being poor""], ""Greeting"": ""Met"", ""Greeting_Evidence"": [""Agent: thank you for choosing Cred कृतिका Hope you have a great day ahead.""]}",4.976860523223877,True,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": [""So is there anything else apart from this help you regarding cred cret का?"", ""So is there anything else  कृतिका help you regarding cred?"",""  Agent: thank you for choosing Cred कृतिका Hope you have a great day ahead.""], ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": [""Great. I'll transfer your call to our feedback IVR. You can just select between 1 to 5 where 5 is being excellent and 1 is being poor""], ""Greeting"": ""Met"", ""Greeting_Evidence"": [""Agent: thank you for choosing Cred कृतिका Hope you have a great day ahead.""] }"
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T16:02:32.740200,Gemma-inhouse,closing,Met, जी इसके अलावा कोई और सहायता कर सकती हूं cred के regarding आपकी,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": "" जी इसके अलावा कोई और सहायता कर सकती हूं cred के regarding आपकी"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Alright की  call के end होने से पहले क्या मैं आपसे हमारी बातचीत के आधार पर एक छोटे से feedback के लिए request कर सकती हूं please?"", ""Greeting"": ""Met"", ""Greeting_Evidence"": "" उम्मीद करती हूं आपका दिन शुभ रहे,  Thank you and have a good day.""}",4.934002161026001,True,"{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": "" जी इसके अलावा कोई और सहायता कर सकती हूं cred के regarding आपकी"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Alright की  call के end होने से पहले क्या मैं आपसे हमारी बातचीत के आधार पर एक छोटे से feedback के लिए request कर सकती हूं please?"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": "" उम्मीद करती हूं आपका दिन शुभ रहे,  Thank you and have a good day.""
+} 
+
+
+"
+03f8381d-16f4-41c9-b5d2-50a62c8d36d6,3318,"Agent: Good morning. This is Sorry. I am here to assist you today. Am I speaking with पर?
+Agent: Thank you for confirming. As I can check, you have raised a concern from for the product that you have ...",2026-03-31T16:02:38.329095,Gemma-inhouse,closing,Met,Is there anything else apart from this?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Is there anything else apart from this?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Awesome I will transfer this call to the feedback IVR., We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you for choosing Cred. I hope you have a wonderful day ahead.""}",3.588637113571167,True,"{
+""Further_Assistance"": ""Met"",
+""Further_Assistance_Evidence"": ""Is there anything else apart from this?"",
+""Effective_IVR_Survey"": ""Met"",
+""Effective_IVR_Survey_Evidence"": ""Awesome I will transfer this call to the feedback IVR., We request you to rate your experience with our expert on a scale of 1 to 5 with 1 being poor and 5 being excellent."",
+""Greeting"": ""Met"",
+""Greeting_Evidence"": ""Thank you for choosing Cred. I hope you have a wonderful day ahead.""
+} 
+"
+04400d28-62d5-47f5-80f4-93313282dcc7,1856,"Agent: Good morning. This is Situ. I am here to assist you today. Am I speaking with सुरेंद्र?
+Customer: तो क्या
+Customer: Hello.
+Customer: Yeah, actually I'm not able to  you are saying
+Customer: I'm...",2026-03-31T16:02:42.629544,Gemma-inhouse,closing,Not Met,Please try and let me know,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Please try and let me know"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": """", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Have a nice day""}",2.3002796173095703,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""Please try and let me know"",
+        ""Effective_IVR_Survey"": ""Not Met"",
+        ""Effective_IVR_Survey_Evidence"": """",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""Have a nice day""
+}"
+048ce50f-d238-4b42-b133-aae7082df92d,1742,"Agent: Good morning. This is शुक्रिया. I am here to assist you today. Am I speaking with सतीश?
+Customer: Ma'am I am raise
+Customer: 3 days sorry
+Customer: small resolved ma'am
+Agent: Ok, understood. r...",2026-03-31T16:02:47.523154,Gemma-inhouse,closing,Met,anything else I can help you with?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""anything else I can help you with?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""And before we end this call, would you like to share your valuable feedback based on the conversation"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Ok, no issue.""}",2.8934710025787354,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""anything else I can help you with?"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": ""And before we end this call, would you like to share your valuable feedback based on the conversation"",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""Ok, no issue.""
+}   
+"
+04c9854b-c20a-4396-b0cf-2438e3ea36f8,3445,"Customer: Hello.
+Agent: Good afternoon. This is Adarsh calling from Cred on a recorded line. Am I speaking with अमित?
+Customer: Yes.
+Customer: Yes yes yes.
+Agent: Thank you very much for the confirmat...",2026-03-31T16:02:51.829080,Gemma-inhouse,closing,Not Met,Anything else apart from that I can help you out?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Anything else apart from that I can help you out?"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": """", ""Greeting"": ""Met"", ""Greeting_Evidence"": """"}",2.305755138397217,True,"{
+""Further_Assistance"": ""Met"",
+""Further_Assistance_Evidence"": ""Anything else apart from that I can help you out?"",
+""Effective_IVR_Survey"": ""Not Met"",
+""Effective_IVR_Survey_Evidence"": """",
+""Greeting"": ""Met"",
+""Greeting_Evidence"": """"
+}"
+0518552a-d35e-49cc-ab87-8039962afcb7,2834,"Agent: Good evening. This is पामीर. I am here to assist you today. Am I speaking with अनुपम
+Customer: Yes.
+Agent: जी शुक्रिया confirm करने के लिए
+Customer: Hello.
+Agent: जी
+Customer: हां.
+Agent: जैसे ...",2026-03-31T16:02:59.651656,Gemma-inhouse,closing,Met,"और कोई help कर सकता हूं मैं आपकी आज के लिए
+","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""और कोई help कर सकता हूं मैं आपकी आज के लिए\n"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""मैं अभी आपकी call को हमारे\nfeedback IVR में transfer कर रहा हूं. जहां आप एक से पांच तक select कर सकते हैं. पांच मतलब सबसे ज़्यादा एक मतलब सबसे कम credit choose करने के लिए आपका धन्यवाद. आपका आगे का वक्त अच्छा हो\nWe request you to rate your experience with our expert on a scale of 1 to 5 with  you have just helped us improve the credit experience for all our members."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""  आपका आगे का वक्त अच्छा हो\nThank you and have a good day.""}",5.822399139404297,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""और कोई help कर सकता हूं मैं आपकी आज के लिए\n"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": ""मैं अभी आपकी call को हमारे\nfeedback IVR में transfer कर रहा हूं. जहां आप एक से पांच तक select कर सकते हैं. पांच मतलब सबसे ज़्यादा एक मतलब सबसे कम credit choose करने के लिए आपका धन्यवाद. आपका आगे का वक्त अच्छा हो\nWe request you to rate your experience with our expert on a scale of 1 to 5 with  you have just helped us improve the credit experience for all our members."",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""  आपका आगे का वक्त अच्छा हो\nThank you and have a good day.""
+}"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T16:03:06.615362,Gemma-inhouse,closing,Met," और बताना चाहूंगा साथ ही साथ cred से संबंधित आपकी कोई सहायता कर पाऊंगा विश्वमा
+No no thank you
+","{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": "" और बताना चाहूंगा साथ ही साथ cred से संबंधित आपकी कोई सहायता कर पाऊंगा विश्वमा\nNo no thank you\n"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Agent: धन्यवाद आपका call जो है हम अपने feedback IVR में transfer कर रहे है\n"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Agent:  Do reach out again in case of any other concerns.\nAgent: Thank you and have a good day.""}",4.963515996932983,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": "" और बताना चाहूंगा साथ ही साथ cred से संबंधित आपकी कोई सहायता कर पाऊंगा विश्वमा\nNo no thank you\n"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": ""Agent: धन्यवाद आपका call जो है हम अपने feedback IVR में transfer कर रहे है\n"",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""Agent:  Do reach out again in case of any other concerns.\nAgent: Thank you and have a good day.""
+}"
+057f58f7-5349-4def-9406-2a4bdce8bf98,3887,"Agent: Good afternoon. This is and I am here to assist you today. Am I speaking with नरेश कुमार?
+Customer: Yes.
+Agent: Thank you for confirming your name.
+Customer: Actually,
+Agent: I can check that
+C...",2026-03-31T16:03:11.378157,Gemma-inhouse,closing,Not Met,So is there anything else that I can help,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""So is there anything else that I can help"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": null, ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you so much. Thank you for choosing Cred. I hope you have a great day ahead. Thank you""}",2.7626290321350098,True,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""So is there anything else that I can help"", ""Effective_IVR_Survey"": ""Not Met"", ""Effective_IVR_Survey_Evidence"": null, ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you so much. Thank you for choosing Cred. I hope you have a great day ahead. Thank you""}  
+"
+059d99d5-f462-400a-bfb9-b00135ec0835,6108,"Agent: Good evening. This is प्रथम. I am here to assist you today. Am I speaking with राज
+Customer: Yeah.
+Agent: Thank you for confirming. As I can see that you have raised a concern
+Agent: you want t...",2026-03-31T16:03:17.561588,Gemma-inhouse,closing,Met,Is there anything I can help you with?,"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Is there anything I can help you with?"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""I'll transfer your call to our feedback IVR. You can select between 1 to 5, 5 being excellent and 1 being poor. Thank you for choosing Cred. Have a great day ahead."", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Thank you for choosing Cred. Have a great day ahead.""}",4.18321967124939,True,"{
+        ""Further_Assistance"": ""Met"",
+        ""Further_Assistance_Evidence"": ""Is there anything I can help you with?"",
+        ""Effective_IVR_Survey"": ""Met"",
+        ""Effective_IVR_Survey_Evidence"": ""I'll transfer your call to our feedback IVR. You can select between 1 to 5, 5 being excellent and 1 being poor. Thank you for choosing Cred. Have a great day ahead."",
+        ""Greeting"": ""Met"",
+        ""Greeting_Evidence"": ""Thank you for choosing Cred. Have a great day ahead.""
+} 
+"

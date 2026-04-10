@@ -1,0 +1,181 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+001eecbe-10b9-4aee-902d-8003ef425d93,2004,"Agent: Hi, good afternoon. This is  calling you from Cred
+Customer: Ok.
+Agent: Am I speaking to Mister समीर.
+Customer: Yes.
+Agent: Hi Mister so this call is regarding your insurance  for  vehicle your...",2026-03-31T14:58:44.655351,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer was unable to update their insurance through the Cred app and had to use another source.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer was unable to update their insurance through the Cred app and had to use another source.""}",1.1314425468444824,True,"{ ""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer was unable to update their insurance through the Cred app and had to use another source."" }"
+004d9af7-9a03-4d99-aa4e-4651f7a4d598,4636,"Agent: Good evening. This is भावना I am here to assist you. Am I speaking with मुकुल
+Customer: Yes you are speaking with  I have a little problem.
+Customer: Actually my amount is due around 5000
+Agent...",2026-03-31T14:58:47.948540,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer is facing discrepancies in the due amount shown on the credit application and the actual amount due, leading to confusion about the benefits of using the credit application.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer is facing discrepancies in the due amount shown on the credit application and the actual amount due, leading to confusion about the benefits of using the credit application.""}",1.2930500507354736,True,"{  
+
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer is facing discrepancies in the due amount shown on the credit application and the actual amount due, leading to confusion about the benefits of using the credit application.""
+
+}"
+00fb6889-edef-4b5d-8dfc-3080d02ccd24,1060,"Agent: Hello.
+Customer: Hello.
+Agent: Very good afternoon sir. This is  calling from Cred. this call regarding your car insurance renewal your alto Is this a good time to talk
+Customer: हां बोलिए ना s...",2026-03-31T14:58:51.017825,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Agent is providing technical support for the customer's car insurance renewal and ensuring the policy details are correct.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Agent is providing technical support for the customer's car insurance renewal and ensuring the policy details are correct.""}",1.0690898895263672,True,"{ ""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Agent is providing technical support for the customer's car insurance renewal and ensuring the policy details are correct."" }"
+01343fa4-54e8-4eac-a707-ceb817e806b0,3153,"Agent: good afternoon good afternoon  this is data You can calling you from Cred on a recorded line. Is this the right time to talk
+Customer: ok
+Customer: hmm
+Customer: no
+Customer: हां.
+Customer: कहा...",2026-03-31T14:58:54.261128,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Follow-up call regarding vehicle policy purchase and pending inspection.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Follow-up call regarding vehicle policy purchase and pending inspection.""}",1.2430999279022217,True,"```json
+{
+
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Follow-up call regarding vehicle policy purchase and pending inspection.""
+
+}
+```"
+018cb49c-d7cb-4e60-adda-2bae09c0e59a,2995,"Customer: Yeah.
+Agent: Good afternoon. This is Tanya I'm here to assist you today. Am I speaking with अमित?
+Customer: क्या
+Customer: Yes.
+Agent: Thank you for confirming your name असी
+Customer: Ma'am
+...",2026-03-31T14:58:57.338320,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer needs an acknowledgment and confirmation that their payment for a closed loan has been received and recorded.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer needs an acknowledgment and confirmation that their payment for a closed loan has been received and recorded.""}",1.077024221420288,True,"```json
+
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer needs an acknowledgment and confirmation that their payment for a closed loan has been received and recorded.""
+
+}
+
+```"
+01c32e43-e03c-47f5-83a4-e836291e235b,1250,"Agent: Hello.
+Customer: हां जी.
+Agent: जी से बात हो रही है
+Customer: जी.
+Agent: जी नमस्कार ममता बात कर रही हूं आपके car insurance के renewal के regarding phone किया मैंने
+Customer: जी.
+Agent: आपने पिछ...",2026-03-31T14:59:00.358795,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Reminder for car insurance renewal and expiration of card""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Reminder for car insurance renewal and expiration of card""}",1.0203256607055664,True,"{  
+
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Reminder for car insurance renewal and expiration of card""
+
+}"
+022c2fc7-3517-4214-b529-44498eab213e,1640,"Customer: Yes.
+Agent: Good morning. This is Falak I am here to assist you. Am I speaking with Uma महेश?
+Customer: Yeah.
+Agent: Mister राव you have reached out to us about the item which you have purch...",2026-03-31T14:59:03.232331,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer inquired about the delivery status of an item they had purchased.""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer inquired about the delivery status of an item they had purchased.""}",0.8733735084533691,True,"{  
+
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""The customer inquired about the delivery status of an item they had purchased.""
+
+}"
+0281fdef-53d0-4ac6-9a51-fe723ae830ce,2891,"Customer: Ok.
+Agent: Good evening. My name is emi calling you from Cred on a recorded line. Am I speaking with नवीन?
+Customer: Yeah.
+Agent: thank you so much  for confirming your name. Is this a good ...",2026-03-31T14:59:06.512178,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""The customer is experiencing issues with the incorrect display of vehicle details and needing assistance to correct the information through the Cred application.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""The customer is experiencing issues with the incorrect display of vehicle details and needing assistance to correct the information through the Cred application.""}",1.2796955108642578,True,"{  
+    ""VOC_Category"": ""Technical Support"",  
+    ""VOC_Core_Issue_Summary"": ""The customer is experiencing issues with the incorrect display of vehicle details and needing assistance to correct the information through the Cred application.""  
+}"
+02c71b46-97cb-4664-9c00-101b226f912e,3100,"Agent: Good evening. This is प्रशांत I'm here to assist you today. Am I speaking with
+Customer: Sir मैंने
+Customer: cred से पैसे निकाला card से
+Agent: जी.
+Customer: ending में डालिए
+Agent: pending में...",2026-03-31T14:59:10.018888,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer has made a payment using their SBI credit card but it is still pending and on hold, causing confusion about when the payment will be processed.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer has made a payment using their SBI credit card but it is still pending and on hold, causing confusion about when the payment will be processed.""}",1.5065336227416992,True,"{  
+
+    ""VOC_Category"": ""Billing and Payments"",  
+
+    ""VOC_Core_Issue_Summary"": ""The customer has made a payment using their SBI credit card but it is still pending and on hold, causing confusion about when the payment will be processed.""
+
+}"
+0304b42a-f5fe-44d2-9d04-4c91ac62a67d,3266,"Agent: Good evening  assist you today. Am I speaking  पंकज?
+Customer: Yes.
+Agent: Thank you पंकज for confirming your name. So as I can check that you have raised your concern regarding the withdrawal ...",2026-03-31T14:59:13.178875,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer is facing an issue with withdrawal process and needs technical support to resolve the error.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer is facing an issue with withdrawal process and needs technical support to resolve the error.""}",1.1598124504089355,True,"```json
+{
+
+    ""VOC_Category"": ""Technical Support"",
+    ""VOC_Core_Issue_Summary"": ""Customer is facing an issue with withdrawal process and needs technical support to resolve the error.""
+
+}
+```"
+035638ed-3012-485c-a93e-cab5df34dc5e,5300,"Agent: Good evening. This is Ronit here to assist you today. Am I speaking with कृतिका
+Customer: Yeah.
+Agent: Thanks for confirming your name कृतिका As I have checked that your request is in regard to...",2026-03-31T14:59:16.174799,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer wants to delete their account.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer wants to delete their account.""}",0.9957370758056641,True,"{  
+
+    ""VOC_Category"": ""Cancellation and Returns"",  
+
+    ""VOC_Core_Issue_Summary"": ""The customer wants to delete their account.""  
+
+}"
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T14:59:18.183958,Qwen-inhouse,voice_of_customer,JSON Error,"Error: Error code: 400 - {'error': {'message': ""You passed 4097 input tokens and requested 0 output tokens. However, the model's context length is only 4096 tokens, resulting in a maximum input length","{""Value"": ""JSON Error"", ""Evidence"": ""Error: Error code: 400 - {'error': {'message': \""You passed 4097 input tokens and requested 0 output tokens. However, the model's context length is only 4096 tokens, resulting in a maximum input length""}",0.008989095687866211,False,"Error: Error code: 400 - {'error': {'message': ""You passed 4097 input tokens and requested 0 output tokens. However, the model's context length is only 4096 tokens, resulting in a maximum input length of 4096 tokens. Please reduce the length of the input prompt. (parameter=input_tokens, value=4097)"", 'type': 'BadRequestError', 'param': 'input_tokens', 'code': 400}}"
+03f8381d-16f4-41c9-b5d2-50a62c8d36d6,3318,"Agent: Good morning. This is Sorry. I am here to assist you today. Am I speaking with पर?
+Agent: Thank you for confirming. As I can check, you have raised a concern from for the product that you have ...",2026-03-31T14:59:21.215009,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer has not received the ordered product and is seeking assistance with the delivery.""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""The customer has not received the ordered product and is seeking assistance with the delivery.""}",1.0309133529663086,True,"```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""The customer has not received the ordered product and is seeking assistance with the delivery.""
+}
+```"
+04400d28-62d5-47f5-80f4-93313282dcc7,1856,"Agent: Good morning. This is Situ. I am here to assist you today. Am I speaking with सुरेंद्र?
+Customer: तो क्या
+Customer: Hello.
+Customer: Yeah, actually I'm not able to  you are saying
+Customer: I'm...",2026-03-31T14:59:24.250811,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""Customer is unable to redeem a voucher due to incorrect steps in the redemption process.""}","{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""Customer is unable to redeem a voucher due to incorrect steps in the redemption process.""}",1.0356290340423584,True,"{ ""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""Customer is unable to redeem a voucher due to incorrect steps in the redemption process."" }"
+048ce50f-d238-4b42-b133-aae7082df92d,1742,"Agent: Good morning. This is शुक्रिया. I am here to assist you today. Am I speaking with सतीश?
+Customer: Ma'am I am raise
+Customer: 3 days sorry
+Customer: small resolved ma'am
+Agent: Ok, understood. r...",2026-03-31T14:59:27.017575,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Technical issue preventing withdrawal request processing""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Technical issue preventing withdrawal request processing""}",0.7665948867797852,True,"{  
+
+    ""VOC_Category"": ""Technical Support"",  
+
+    ""VOC_Core_Issue_Summary"": ""Technical issue preventing withdrawal request processing""  
+
+}"
+04c9854b-c20a-4396-b0cf-2438e3ea36f8,3445,"Customer: Hello.
+Agent: Good afternoon. This is Adarsh calling from Cred on a recorded line. Am I speaking with अमित?
+Customer: Yes.
+Customer: Yes yes yes.
+Agent: Thank you very much for the confirmat...",2026-03-31T14:59:29.952439,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer facing technical issues with withdrawal and seeking a timeline for resolution""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer facing technical issues with withdrawal and seeking a timeline for resolution""}",0.9347085952758789,True,"{  
+    ""VOC_Category"": ""Technical Support"",  
+    ""VOC_Core_Issue_Summary"": ""Customer facing technical issues with withdrawal and seeking a timeline for resolution""  
+}"
+0518552a-d35e-49cc-ab87-8039962afcb7,2834,"Agent: Good evening. This is पामीर. I am here to assist you today. Am I speaking with अनुपम
+Customer: Yes.
+Agent: जी शुक्रिया confirm करने के लिए
+Customer: Hello.
+Agent: जी
+Customer: हां.
+Agent: जैसे ...",2026-03-31T14:59:33.052131,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer reported receiving the wrong product during delivery.""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer reported receiving the wrong product during delivery.""}",1.0995151996612549,True,"```json
+{
+
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer reported receiving the wrong product during delivery.""
+
+}
+```"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T14:59:35.063867,Qwen-inhouse,voice_of_customer,JSON Error,"Error: Error code: 400 - {'error': {'message': ""You passed 4097 input tokens and requested 0 output tokens. However, the model's context length is only 4096 tokens, resulting in a maximum input length","{""Value"": ""JSON Error"", ""Evidence"": ""Error: Error code: 400 - {'error': {'message': \""You passed 4097 input tokens and requested 0 output tokens. However, the model's context length is only 4096 tokens, resulting in a maximum input length""}",0.011571407318115234,False,"Error: Error code: 400 - {'error': {'message': ""You passed 4097 input tokens and requested 0 output tokens. However, the model's context length is only 4096 tokens, resulting in a maximum input length of 4096 tokens. Please reduce the length of the input prompt. (parameter=input_tokens, value=4097)"", 'type': 'BadRequestError', 'param': 'input_tokens', 'code': 400}}"
+057f58f7-5349-4def-9406-2a4bdce8bf98,3887,"Agent: Good afternoon. This is and I am here to assist you today. Am I speaking with नरेश कुमार?
+Customer: Yes.
+Agent: Thank you for confirming your name.
+Customer: Actually,
+Agent: I can check that
+C...",2026-03-31T14:59:38.246657,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer paid the loan amount but the payment was rejected, and they are unsure about the status of the payment.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer paid the loan amount but the payment was rejected, and they are unsure about the status of the payment.""}",1.1826515197753906,True,"```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""The customer paid the loan amount but the payment was rejected, and they are unsure about the status of the payment.""
+}
+```"
+059d99d5-f462-400a-bfb9-b00135ec0835,6108,"Agent: Good evening. This is प्रथम. I am here to assist you today. Am I speaking with राज
+Customer: Yeah.
+Agent: Thank you for confirming. As I can see that you have raised a concern
+Agent: you want t...",2026-03-31T14:59:41.654169,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer wants to cancel their insurance policy due to the low IDV value and is seeking the cancellation process.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""The customer wants to cancel their insurance policy due to the low IDV value and is seeking the cancellation process.""}",1.407332420349121,True,"```json
+{
+
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""The customer wants to cancel their insurance policy due to the low IDV value and is seeking the cancellation process.""
+
+}
+```"

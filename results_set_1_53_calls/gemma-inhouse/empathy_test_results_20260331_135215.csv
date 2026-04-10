@@ -1,0 +1,253 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+d56bb8ce-ea66-48d3-ac32-be846a858ffa,1984,"afternoon this is दक्षित. I'm here to assist you today. Am I speaking with जी? Ma'am, I have to know about the last my last bill which is paid on sorry ### Ok. Please amount  I have to know the last d...",2026-03-31T13:49:01.271947,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",1.0266082286834717,True,"{
+  ""Empathy_result"": ""Met"",
+  ""Empathy_evidence"": ""No empathy required""
+}"
+5d06be9e-0d42-4cb9-b14a-ac937a55c2da,2679,"Good morning. My name is. I am here to assist you. Am I speaking with हेमंत? हां, yes madam. you for confirming your name विमल. As I can see you have raised a concern regarding the payment of rupees #...",2026-03-31T13:49:05.260255,Gemma-inhouse,empathy,Met,"Agent showed empathy for Hemant's issue.  She stated, 'जी बिल्कुल समझ पा रही हूं हेमंत.' and 'Yes, I can totally understand Hemant and really apologize.'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for Hemant's issue.  She stated, 'जी बिल्कुल समझ पा रही हूं हेमंत.' and 'Yes, I can totally understand Hemant and really apologize.'""}",1.9881553649902344,True,"```json
+{
+    ""Empathy_result"": ""Met"",
+    ""Empathy_evidence"": ""Agent showed empathy for Hemant's issue.  She stated, 'जी बिल्कुल समझ पा रही हूं हेमंत.' and 'Yes, I can totally understand Hemant and really apologize.'""
+}
+```"
+afd43a69-9107-47ef-82e8-c5ee10c6f910,3184,"nan afternoon. This is  I am here to assist you. Am I speaking with खान? हां, yes sir. sir, good afternoon sir. Yeah. Thank you for the confirmation.  As I can check that you have raised a concern rel...",2026-03-31T13:49:08.842692,Gemma-inhouse,empathy,Met,I do understand your concern. I'm really sorry for the inconvenience caused to you. Please do not worry. I will surely try to help you out,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""I do understand your concern. I'm really sorry for the inconvenience caused to you. Please do not worry. I will surely try to help you out""}",1.5822904109954834,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""I do understand your concern. I'm really sorry for the inconvenience caused to you. Please do not worry. I will surely try to help you out""
+}"
+33170b25-9aca-401c-b620-3fcf3498ea5c,3265,"Good morning. This is साहिल. I'm here to assist you today. Am I speaking with अश्विन Yes hi. dear my order details you for confirming. Yes you have selected 1 order which name of all. Yeah, like long ...",2026-03-31T13:49:13.029281,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's frustrating experience with the pickup delays. The agent said: 'I'm sorry for the inconvenience caused to you. Please do not worry. I'm here to help you. Ok? Please do not worry.' ,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's frustrating experience with the pickup delays. The agent said: 'I'm sorry for the inconvenience caused to you. Please do not worry. I'm here to help you. Ok? Please do not worry.' ""}",2.186405658721924,True,"{
+  ""Empathy_result"": ""Met"",
+  ""Empathy_evidence"": ""Agent showed empathy for the customer's frustrating experience with the pickup delays. The agent said: 'I'm sorry for the inconvenience caused to you. Please do not worry. I'm here to help you. Ok? Please do not worry.' ""
+}"
+11520c16-512e-41c8-b28e-f4f7494b3636,2324,Very good evening. This is शशि. I'm here to assist you today. Am I speaking with सूरज? Thank you for confirming. I can see your request is regarding the withdrawal of cash. Could you please elaborate ...,2026-03-31T13:49:15.885727,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.8562557697296143,True,"{
+ ""Empathy_result"": ""Met"",
+ ""Empathy_evidence"": ""No empathy required""
+}"
+727a8769-3a93-451d-a837-91f903ddbc0a,3241,Good morning. This is  I am here to assist you. Am I speaking with रोहित? Hi रोहित. So you have reached out to us with the concern stating that there was a item which you have purchased and you are fa...,2026-03-31T13:49:19.592890,Gemma-inhouse,empathy,Met,Agent showed empathy for रोहित's frustration with his undelivered packages. The agent apologized for the inconvenience and acknowledged रोहित's concerns.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for रोहित's frustration with his undelivered packages. The agent apologized for the inconvenience and acknowledged रोहित's concerns.""}",1.707024335861206,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for रोहित's frustration with his undelivered packages. The agent apologized for the inconvenience and acknowledged रोहित's concerns.""
+}
+```"
+0fb2cc5a-9d80-4510-9239-d58de5c5fcaf,3730,Good morning and अंशिका I am here to assist you today. Am I speaking to शुभम Yes. Thank you for the name confirmation शुभम. I see that you have raised a concern regarding the outstanding payment or IC...,2026-03-31T13:49:23.492364,Gemma-inhouse,empathy,Met,"Agent showed empathy for शुभम's issue by saying 'Very sorry for the inconvenience that you are facing. Don't worry, I'll surely help you out.'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for शुभम's issue by saying 'Very sorry for the inconvenience that you are facing. Don't worry, I'll surely help you out.'""}",1.8993184566497803,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for शुभम's issue by saying 'Very sorry for the inconvenience that you are facing. Don't worry, I'll surely help you out.'"" 
+}
+```"
+895ec893-7e66-4f0b-8605-2003e06e8a6d,2668,"Good morning. This is. May I assist you today? Am I speaking with ओम? Yes speaking. May I know you nan रंजीत. Yeah, रंजीत. and my car insurance was expiring in 2 days. So I have renewed my car insuran...",2026-03-31T13:49:27.802129,Gemma-inhouse,empathy,Met,"Agent showed empathy for customer's issue regarding the expiring insurance policy. Agent recognized the customer's concern by saying 'getting your concern' and 'Sorry for the inconvenience'. In addition, the agent offered reassurance that the issue would be resolved 'You will get  updated from our end.' ","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for customer's issue regarding the expiring insurance policy. Agent recognized the customer's concern by saying 'getting your concern' and 'Sorry for the inconvenience'. In addition, the agent offered reassurance that the issue would be resolved 'You will get  updated from our end.' ""}",2.3095932006835938,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for customer's issue regarding the expiring insurance policy. Agent recognized the customer's concern by saying 'getting your concern' and 'Sorry for the inconvenience'. In addition, the agent offered reassurance that the issue would be resolved 'You will get  updated from our end.' ""
+}
+```"
+7d2da038-64e0-4380-9c82-7a955e6fe8b3,1604,Good evening this is  I am here to assist you today. Am I speaking with अंदर? जी मैंने payment किया मैं आपका concern समझ पा रही हूं आप please एक बार confirm कर सकते हैं क्या मेरी बात चंद्र से ही हो रह...,2026-03-31T13:49:32.097854,Gemma-inhouse,empathy,JSON Error,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for payment confirmation issue.  ""मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे. मैं आपसे request करूंगी","{""Value"": ""JSON Error"", ""Evidence"": ""{\n\""Empathy_result\"": \""Met\"",\n\""Empathy_evidence\"": \""Agent showed empathy for payment confirmation issue.  \""मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे. मैं आपसे request करूंगी""}",2.295538902282715,False,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for payment confirmation issue.  ""मैं असुविधा के लिए माफ़ी चाहूंगी पर निश्चिंत रहिए हम ज़रूर सहायता करेंगे. मैं आपसे request करूंगी कि आप please 24 hours का wait कर लीजिए.""
+} 
+"
+a51be59e-cb2a-47fc-8d6c-f9a616b39508,1962,"evening. This is मोहम्मद I'm here to assist you today. Am I speaking with अतुल? Yes. So, I was having an offer of personal loan of BC credit So just wanted to confirm what is the processing fees Yes y...",2026-03-31T13:49:34.809738,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.7117044925689697,True,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}"
+8bdbd2b2-77bb-4ca7-9bf6-576b7c72b041,2568,Good morning. This is  here. I am calling from Cred on a recorded line. Am I speaking हां जी बताइए. धन्यवाद आपका नाम confirm करने के लिए अंजलि. आपने concern     speak  बात जी जी. हां बताइए ना बताना. व...,2026-03-31T13:49:39.385114,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's concern by saying 'मैं समझ पा रही हूं आपका concern तो मैं देख पा रही हूं आपने second March को जो है loan foreclose किया था वह payment हमें successfully receive हो चुकी है and आपका loan भी जो है वह close हो चुका थोड़ा time nan account ठीक है?',"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's concern by saying 'मैं समझ पा रही हूं आपका concern तो मैं देख पा रही हूं आपने second March को जो है loan foreclose किया था वह payment हमें successfully receive हो चुकी है and आपका loan भी जो है वह close हो चुका थोड़ा time nan account ठीक है?'""}",2.5752034187316895,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's concern by saying 'मैं समझ पा रही हूं आपका concern तो मैं देख पा रही हूं आपने second March को जो है loan foreclose किया था वह payment हमें successfully receive हो चुकी है and आपका loan भी जो है वह close हो चुका थोड़ा time nan account ठीक है?'""
+} 
+"
+fda7f28e-510d-470a-ab70-907dc354da50,3539,Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? Good afternoon. This is शंकर calling from Cred on a recorded line. Am I speaking with स्वरूप? जी हां. जी ह...,2026-03-31T13:49:42.522499,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",1.1372206211090088,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+}
+```"
+41fea115-b055-4c5e-ab8f-4573ca4e3e69,2124,"Good afternoon. This is  I'm here to assist you today. Am I speaking with हर्ष? Yeah. Yeah. I just wanted to ask Like, can you see any active loan in my credit account? Ok, you have a concern regardin...",2026-03-31T13:49:45.379968,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.8573119640350342,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+}"
+c135d6ad-2c05-4438-93a9-2c6d6392d5ad,3956,Good morning. This is प्रतीक  today I am going to assist you. Today I'm calling you from Cred on a recording line. Can you hear me? Am I speaking to सुभाष? बोल रहा हूं sir. जी नाम confirm करने के लिए ...,2026-03-31T13:49:49.974828,Gemma-inhouse,empathy,Met,"Agent showed empathy for the customer's issue. The agent acknowledged the customer's frustration by stating, 'मैं आपका concern जो है मैं समझ पा रहा हूं.' and expressed understanding by saying, 'मैं आपसे sorry मेरी तरफ से जो परेशानी आपके साथ हुआ है यह बहुत ही rare scenario है.'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's issue. The agent acknowledged the customer's frustration by stating, 'मैं आपका concern जो है मैं समझ पा रहा हूं.' and expressed understanding by saying, 'मैं आपसे sorry मेरी तरफ से जो परेशानी आपके साथ हुआ है यह बहुत ही rare scenario है.'""}",2.594731330871582,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's issue. The agent acknowledged the customer's frustration by stating, 'मैं आपका concern जो है मैं समझ पा रहा हूं.' and expressed understanding by saying, 'मैं आपसे sorry मेरी तरफ से जो परेशानी आपके साथ हुआ है यह बहुत ही rare scenario है.'""
+}
+
+
+"
+cedf0f1b-f4f3-4b3a-af5c-d326037dfc24,2881,"Good morning. I'm अंशिका. I'm here to assist you today. Am I speaking to आकाश? Yeah, आकाश बात धन्यवाद नाम confirm करने के लिए आकाश. देख पा रही हूं आपने concern raise किया है आपने बारह सौ सात रुपए की e...",2026-03-31T13:49:53.275486,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's issue with their electricity bill payment.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's issue with their electricity bill payment."", ""Additional_info"": """"}",1.3005142211914062,True,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's issue with their electricity bill payment."", ""Additional_info"": """"} 
+
+
+"
+bf86eb1c-fa60-444f-bfa8-9a354c9184b6,1689,"Good afternoon. This is  calling you from Cred on a recorded line. Am I speaking to कुनाल? Yes ma'am. Yes कुणाल, So is this the right time to talk to Yeah tell me. Yes. So, while conversation the call...",2026-03-31T13:49:56.840219,Gemma-inhouse,empathy,Met,Agent showed empathy for how the customer was struggling with the issue by saying 'I completely understand' when the customer expressed frustration about not being able to download a bank statement. ,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for how the customer was struggling with the issue by saying 'I completely understand' when the customer expressed frustration about not being able to download a bank statement. ""}",1.56459641456604,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for how the customer was struggling with the issue by saying 'I completely understand' when the customer expressed frustration about not being able to download a bank statement. ""
+}"
+0c5c8347-1c71-42b4-bf80-82ce69c208c5,1771,"Good morning, this is राज. I am here to assist. Am I speaking with सुप्रिया? बहुत बहुत धन्यवाद नाम confirm करने के जी जैसे कि मैं देख पा रहा हूं यहां पर आपने concern raise किया है repayment की behalf ...",2026-03-31T13:50:00.532802,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's issue by saying 'मेरा payment double cut गया है कल  सुबह में cut गया double payment EMI मैं समझ पा रही हूं परेशानी' ,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's issue by saying 'मेरा payment double cut गया है कल  सुबह में cut गया double payment EMI मैं समझ पा रही हूं परेशानी' ""}",1.6924102306365967,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's issue by saying 'मेरा payment double cut गया है कल  सुबह में cut गया double payment EMI मैं समझ पा रही हूं परेशानी' ""
+}"
+557bb0fc-7ace-4d23-84ac-ace5978d0c10,3120,"afternoon. This is सुष्मिता. I am here to assist you today. Am I speaking with in? Yeah, दिन. you so much for confirming your name अमित. So as I can check from my end, you have raised a concern regard...",2026-03-31T13:50:04.667078,Gemma-inhouse,empathy,Met,"Agent showed empathy for अमित's frustration. The agent acknowledged the urgency and said: 'I can understand, but it is the maximum timeline which we have shared to you. So once we get any update regarding this, definitely we will help you out regarding this.'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for अमित's frustration. The agent acknowledged the urgency and said: 'I can understand, but it is the maximum timeline which we have shared to you. So once we get any update regarding this, definitely we will help you out regarding this.'""}",2.1341209411621094,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for अमित's frustration. The agent acknowledged the urgency and said: 'I can understand, but it is the maximum timeline which we have shared to you. So once we get any update regarding this, definitely we will help you out regarding this.'""
+}
+"
+d8edad94-cb55-44b8-98d9-bd72248c5ca9,3762,जी ma'am. मैं आपको चाहूंगा लेकिन      तो करना Good afternoon. This is प्रतीक. today I am going to assist you. Am I speaking to दर्शन? Yes. Good afternoon. This is प्रतीक. हां मैंने order किया था कल मे...,2026-03-31T13:50:08.566365,Gemma-inhouse,empathy,Met,"Agent showed empathy for the customer's frustration about the delayed delivery. Agent said 'तुम, मैंने आपके साथ जो परेशानी हुआ है माफ़ी चाहूँगा'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's frustration about the delayed delivery. Agent said 'तुम, मैंने आपके साथ जो परेशानी हुआ है माफ़ी चाहूँगा'""}",1.8989930152893066,True,"{
+  ""Empathy_result"": ""Met"",
+  ""Empathy_evidence"": ""Agent showed empathy for the customer's frustration about the delayed delivery. Agent said 'तुम, मैंने आपके साथ जो परेशानी हुआ है माफ़ी चाहूँगा'""
+}  
+"
+a02e23d2-aa48-41c0-a2c5-2114886e9ca1,2934,"Good afternoon शशांक this is  calling you from Cred on a recorded line. Yes yes. Actually,  having a conversation and the call got disconnected Yeah, got disconnected Yeah. Yes, I  apologize for the i...",2026-03-31T13:50:11.483013,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.916494607925415,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+}
+
+
+
+
+
+
+
+
+
+
+"
+9ef4dbec-ec9e-4e73-9f5d-939325d99c18,2957,Good morning. My name is. I'm here to assist you today. Am I speaking with दास? Yes  sir. Ok. Thanks for confirming your name. As I can check that you have raised a concern regarding a product from  t...,2026-03-31T13:50:15.547646,Gemma-inhouse,empathy,Met,"Agent showed empathy for the customer's inconvenience with the delayed product pickup. The agent said, 'I'm really sorry that you're facing this inconvenience from our end. I completely understand your concern and I will surely try my best to assist you.'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's inconvenience with the delayed product pickup. The agent said, 'I'm really sorry that you're facing this inconvenience from our end. I completely understand your concern and I will surely try my best to assist you.'""}",2.0644893646240234,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's inconvenience with the delayed product pickup. The agent said, 'I'm really sorry that you're facing this inconvenience from our end. I completely understand your concern and I will surely try my best to assist you.'""
+}"
+4e7cc419-ccf7-42b2-85c0-b52a2da2e8bc,3735,"morning. This is मोहम्मद I will be assisting you today. Am I speaking with प्रमेश nan Yes. you so much for confirming your name. Tell So my Yeah, I was supposed to receive my order last week. I was no...",2026-03-31T13:50:19.107288,Gemma-inhouse,empathy,Not Met,Agent did not showed any empathy for the customer's frustration about the delayed order and lack of communication. ,"{""Empathy_result"": ""Not Met"", ""Empathy_evidence"": ""Agent did not showed any empathy for the customer's frustration about the delayed order and lack of communication. ""}",1.5594933032989502,True,"```json
+{
+""Empathy_result"": ""Not Met"",
+""Empathy_evidence"": ""Agent did not showed any empathy for the customer's frustration about the delayed order and lack of communication. ""
+}
+```"
+22596fb0-77b7-4820-8604-9b9236d65fa6,3099,"Good morning,  I am here to assist you today. Am I speaking with लक्ष्य? Yeah, I am लक्ष्मी speaking. yesterday also I have call the customer support regarding my policy renewal the document is still ...",2026-03-31T13:50:23.287967,Gemma-inhouse,empathy,Met,Agent showed empathy for customer's policy issue.  Can you check the time I understand Yes yes I understand Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out. I totally understand. ,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for customer's policy issue.  Can you check the time I understand Yes yes I understand Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out. I totally understand. ""}",2.1804702281951904,True,"{
+  ""Empathy_result"": ""Met"",
+  ""Empathy_evidence"": ""Agent showed empathy for customer's policy issue.  Can you check the time I understand Yes yes I understand Really sorry for the issue that you are facing. Do not worry. I will be definitely trying my best to help you out. I totally understand. "" 
+} 
+"
+adac574e-4425-426d-b5bd-c80b9c33741f,1713,evening. This is  I am here here to assist you. Am I speaking with सुमित? confirm your As I can see your concern is regarding the  as you have mentioned the payment is but the policy is not showing. n...,2026-03-31T13:50:26.953581,Gemma-inhouse,empathy,Met,Agent showed empathy for the issue with the policy not showing by saying 'I'm really sorry for the issue you have faced but do not worry try my best to help you in this regard',"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the issue with the policy not showing by saying 'I'm really sorry for the issue you have faced but do not worry try my best to help you in this regard'""}",1.6654167175292969,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the issue with the policy not showing by saying 'I'm really sorry for the issue you have faced but do not worry try my best to help you in this regard'""
+}"
+d4e0566e-943e-4364-b61d-ac0b00a4ef2b,1790,"I'm here to assist you today. Am I speaking with साहिल? you for confirming your name साहिल. As I can see, you have raised a concern regarding transaction ###rupees in which you paid 18 rupees convenie...",2026-03-31T13:50:30.313756,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's payment issue by apologizing for the inconvenience and explaining the reason for the failed transaction.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's payment issue by apologizing for the inconvenience and explaining the reason for the failed transaction.""}",1.3599803447723389,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's payment issue by apologizing for the inconvenience and explaining the reason for the failed transaction.""
+} 
+"
+0f070971-d446-4cfb-9a13-9a383fb71d2a,2341,evening. This is प्रेम. I am here to assist you. Am I speaking with मोहम्मद अब्दुल. राव? हां. Yes. for the confirmation of  name अब्दुल. As I can check from  that you have raised a concern regarding y...,2026-03-31T13:50:33.237874,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.9203453063964844,True," {
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+} 
+"
+9ee602bb-fb79-4d1e-9cdc-4b23e37f8691,2668,evening. This is रोहित here to assist you today. Am I speaking with अमोल Yes speaking. Thank you for confirming your name अमोल and as I can check that you have raised a concern regarding your policy a...,2026-03-31T13:50:36.658518,Gemma-inhouse,empathy,Met,Agent showed empathy for अमोल's frustration with the delayed policy issuance by apologizing for the inconvenience and acknowledging his urgency in needing the insurance policy quickly.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for अमोल's frustration with the delayed policy issuance by apologizing for the inconvenience and acknowledging his urgency in needing the insurance policy quickly.""}",1.420422077178955,True,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for अमोल's frustration with the delayed policy issuance by apologizing for the inconvenience and acknowledging his urgency in needing the insurance policy quickly.""}"
+2e884fcf-dac9-4d09-954a-478299a2d841,2668,"evening. This is अंकित I am here to assist you today. Am I speaking with कार्तिक? हां, yes sir. and charging only. you for confirming. Actually, हां yeah. Previously I used  credit wallet with other 1...",2026-03-31T13:50:41.630262,Gemma-inhouse,empathy,Met,"Agent showed empathy for the customer's KYC issue. Agent stated 'Yes. I completely understand your concern कार्तिक.',  'my apologies for this inconvenience. You are not able to particularly do the KYC of a wallet for this credit account which is registered with the phone number ###double ###.', and 'my apologies for this inconvenience regarding your concern कार्तिक. I would like to inform you that we do have a dedicated wallet support team'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's KYC issue. Agent stated 'Yes. I completely understand your concern कार्तिक.',  'my apologies for this inconvenience. You are not able to particularly do the KYC of a wallet for this credit account which is registered with the phone number ###double ###.', and 'my apologies for this inconvenience regarding your concern कार्तिक. I would like to inform you that we do have a dedicated wallet support team'""}",2.9715495109558105,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's KYC issue. Agent stated 'Yes. I completely understand your concern कार्तिक.',  'my apologies for this inconvenience. You are not able to particularly do the KYC of a wallet for this credit account which is registered with the phone number ###double ###.', and 'my apologies for this inconvenience regarding your concern कार्तिक. I would like to inform you that we do have a dedicated wallet support team'""
+}
+"
+70100a96-b855-4d3e-a398-0d330e8dab42,2717,"Good morning. My name is  I'm here to assist you today. Am I speaking with सूरज? am I speaking with सूरज? Ok, thank you for confirming your name. सूरज as I check that you raised the concern regarding ...",2026-03-31T13:50:45.541267,Gemma-inhouse,empathy,Not Met,Agent did not show empathy for customer's concern about foreclosing their loan.  The agent focused primarily on explaining the foreclosure process and associated timelines rather than acknowledging the customer's likely anxiety or complexities surrounding the situation.,"{""Empathy_result"": ""Not Met"", ""Empathy_evidence"": ""Agent did not show empathy for customer's concern about foreclosing their loan.  The agent focused primarily on explaining the foreclosure process and associated timelines rather than acknowledging the customer's likely anxiety or complexities surrounding the situation.""}",1.910801649093628,True,"{""Empathy_result"": ""Not Met"", ""Empathy_evidence"": ""Agent did not show empathy for customer's concern about foreclosing their loan.  The agent focused primarily on explaining the foreclosure process and associated timelines rather than acknowledging the customer's likely anxiety or complexities surrounding the situation.""}  
+"
+20c61940-b21f-47aa-90a5-bbc67fd6a4fc,2999,Good afternoon. This is कुमार How may I assist you today? Am I speaking with प्रसाद? Hello. Am I speaking with Yes yes. you so much प्रसाद for confirming your name. I can check that you have raised yo...,2026-03-31T13:50:49.186351,Gemma-inhouse,empathy,Met,Agent did show empathy for the customer's delayed delivery. Agent expressed regret for the inconvenience and assured the customer that their concern would be escalated to the internal team for investigation.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent did show empathy for the customer's delayed delivery. Agent expressed regret for the inconvenience and assured the customer that their concern would be escalated to the internal team for investigation.""}",1.6448962688446045,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent did show empathy for the customer's delayed delivery. Agent expressed regret for the inconvenience and assured the customer that their concern would be escalated to the internal team for investigation.""
+}"
+9d6609b4-0dae-4621-8079-461d3d48db8a,1599,"Good afternoon this is  I am here to assist. Am I speaking with भास्कर? So there is a product which we added  banks. it was showing delivered but but it has not been delivered to you. Yeah, but produc...",2026-03-31T13:50:52.322997,Gemma-inhouse,empathy,Met,Agent did apologize for the inconvenience and assured the customer that they would help them out.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent did apologize for the inconvenience and assured the customer that they would help them out.""}",1.1364541053771973,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent did apologize for the inconvenience and assured the customer that they would help them out.""
+}"
+0b8a3db5-40c4-4f0c-927a-96a4a77f749d,3622,"Good afternoon, this is   may I assist you today? Am I speaking with you  for confirming your name. I can check that you have raised a concern regarding a product which is from Yes. electricity liter ...",2026-03-31T13:50:55.732601,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's frustrating experience with the cancelled return pickup and their previous similar issues.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's frustrating experience with the cancelled return pickup and their previous similar issues.""}",1.409416675567627,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's frustrating experience with the cancelled return pickup and their previous similar issues."" 
+}"
+267c4e7b-7191-493c-9af3-51b64a6fb700,1903,Good afternoon. This is I'm here to assist you today. Am I speaking with राहुल? नाम confirm करने का. language आ रही राहुल am I comfortable Are you comfortable in हिंदी or English? ok but I am  लिया. I...,2026-03-31T13:50:58.735501,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",1.0026874542236328,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required"" 
+}
+```"
+9b66ed6e-6829-47e0-91d3-681f6d56cefb,3923,"Hello. afternoon. I'm  calling nan हां हां हमारे   से  बात हो रहा है आपका हां, अमित जी आपका हां. का का पैसा मैंने order किया था लेकिन अभी तक आया नहीं तेईस बार   order किया हां जी, अमित जी. मैं उसी के ...",2026-03-31T13:51:01.772547,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",1.0368731021881104,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+}"
+92f24dce-3ce6-46b2-b2cd-868da31174b1,2895,"Good afternoon, this is ना. I am here to assist you today. Am I speaking with  श्रवण? हां हां. you for confirming your name. So as I can check that you have raised a concern regarding credit cash abou...",2026-03-31T13:51:04.718886,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.9462025165557861,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+} 
+"
+6a3e8c52-2ecd-4320-97bf-d90a5a92e3b7,2858,morning. This is सोमी I will be assisting you today. Am I speaking with शशांक Yeah. Thank you so much for confirming your name शशांक I can check that you have raised a concern regarding your order is ...,2026-03-31T13:51:08.227822,Gemma-inhouse,empathy,Met,"Agent showed empathy for the customer's delivery concern. The agent said, 'Ok, I completely understand and apologize for the inconvenience caused to you.'","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's delivery concern. The agent said, 'Ok, I completely understand and apologize for the inconvenience caused to you.'""}",1.508791446685791,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's delivery concern. The agent said, 'Ok, I completely understand and apologize for the inconvenience caused to you.'""
+}"
+06bb5005-ff3c-4f2b-a637-b95f5e244c78,3056,"Good afternoon. This is नीता. I am here to assist you today. Am I speaking with सौरभ? Yes. hi. Hi not. So the thing is I I tried doing a payment through credit  like, I was transferring  some educatio...",2026-03-31T13:51:12.154937,Gemma-inhouse,empathy,Met,"Agent showed empathy for  the issue by apologizing for the inconvenience caused to the customer: 'First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you'.","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for  the issue by apologizing for the inconvenience caused to the customer: 'First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you'.""}",1.9269318580627441,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for  the issue by apologizing for the inconvenience caused to the customer: 'First of all, thank you for confirming your name सौरव and I really apologize for the inconvenience caused you'.""
+}
+```"
+d8e41f6d-f5a5-4d43-bb48-6d29083c1c41,1558,morning. and अंशिका I am here to assist you today. Am I speaking to साहू? Madam मैंने कल  bank account में  credit card में bill payment किया था लेकिन मेरे account में double money deduct हो गया. जी  ...,2026-03-31T13:51:16.534742,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's issue by saying 'जी समझ रही हूं मैं आपका concern माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी और मैं देख पा रही हूं अपने end से मैं आपका concern समझ चुकी हूं',"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's issue by saying 'जी समझ रही हूं मैं आपका concern माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी और मैं देख पा रही हूं अपने end से मैं आपका concern समझ चुकी हूं'""}",2.379622220993042,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's issue by saying 'जी समझ रही हूं मैं आपका concern माफी चाहूंगी आपको यह असुविधा हुई निश्चिंत रहिए आपकी पूरी सहायता करूंगी और मैं देख पा रही हूं अपने end से मैं आपका concern समझ चुकी हूं'""
+}   
+"
+630da169-e9b1-4529-ac7a-a978e9f60150,1838,Good afternoon. This is सिद्धार्थ. How  to assist you today. Am I speaking with शुभ हां तो बात कर रहा हूं. Actually मेरा card का मैंने payment किया था tuition but वह fail हो गया but मेरा अभी भी accoun...,2026-03-31T13:51:19.993174,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's payment issue. He said 'समझ सकते हैं आपके लिए काफी मुश्किल होगा.',"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's payment issue. He said 'समझ सकते हैं आपके लिए काफी मुश्किल होगा.'""}",1.4582431316375732,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's payment issue. He said 'समझ सकते हैं आपके लिए काफी मुश्किल होगा.'""
+} 
+
+
+"
+11683cda-dc5f-4cb8-a3c5-4d0791987cc7,3007,"morning. My name is निकिता. I'm here to assist you today. Am I speaking with निलेश? you very much for confirming your name, कि. So you   get an update that you raised a concern regarding the credit ca...",2026-03-31T13:51:23.511701,Gemma-inhouse,empathy,Met,"Agent showed empathy for  the customer's concern by saying  'First of all, I'm sorry for the inconvenience caused to you.' ","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for  the customer's concern by saying  'First of all, I'm sorry for the inconvenience caused to you.' ""}",1.5183589458465576,True,"{
+ ""Empathy_result"": ""Met"",
+ ""Empathy_evidence"": ""Agent showed empathy for  the customer's concern by saying  'First of all, I'm sorry for the inconvenience caused to you.' ""
+}"
+42a803fa-53e5-48a2-8b4b-c3a9277fe50b,2184,Good afternoon. This is राम. I am here to assist you today. Am I speaking with जी? hours नाम confirm करने के लिए धन्यवाद. जी क्या आप अपना एक concern elaborate कर देंगे please? जी मैं आपसे request कर र...,2026-03-31T13:51:26.258557,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.7467043399810791,True,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}"
+095df596-5b74-4815-a86c-c02343a85509,1665,morning. My name is शुक्रिया. I am here to assist you today. Am I speaking with कुशल या? Thank you for confirming. you have raised a concern regarding credit  Basically regarding the   finance. like y...,2026-03-31T13:51:30.082108,Gemma-inhouse,empathy,Not Met,"Agent did not showed any empathy for the customer's issue with the withdrawal request. While the agent apologized, they did not offer any understanding or support for the customer's frustration with their disabled bank accounts and failed verification.","{""Empathy_result"": ""Not Met"", ""Empathy_evidence"": ""Agent did not showed any empathy for the customer's issue with the withdrawal request. While the agent apologized, they did not offer any understanding or support for the customer's frustration with their disabled bank accounts and failed verification.""}",1.8233659267425537,True,"{
+""Empathy_result"": ""Not Met"",
+""Empathy_evidence"": ""Agent did not showed any empathy for the customer's issue with the withdrawal request. While the agent apologized, they did not offer any understanding or support for the customer's frustration with their disabled bank accounts and failed verification.""
+}"
+b6e54447-103c-49f7-b6f0-e8621a56c246,2159,"Good evening. My name is I'm here to assist you today. Am I speaking with साहिल? Yeah, I am साई speaking. Ok. Thanks for confirming your name साहिल. As I can check that you have raised a concern regar...",2026-03-31T13:51:33.037401,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's delayed product delivery.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's delayed product delivery.""}",0.9551084041595459,True,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's delayed product delivery.""}"
+d1a3761b-ffe1-4115-9076-531fc8424088,3003,"evening. This is विशाल calling from on a recorded line. Am I speaking with राकेश? जी sir, good evening. Hi, good evening राज जी नाम confirm करने के लिए शुक्रिया राय जी.  क्या सही समय है आपसे बात करने ...",2026-03-31T13:51:36.662653,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's issue by stating  “हम जैसे ही बता माफ़ी चाहेंगे आपकी परेशानी के लिए.”,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's issue by stating  “हम जैसे ही बता माफ़ी चाहेंगे आपकी परेशानी के लिए.”""}",1.6250865459442139,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for the customer's issue by stating  “हम जैसे ही बता माफ़ी चाहेंगे आपकी परेशानी के लिए.”""
+}"
+585dd7d4-4a1d-415e-bd6b-c56e3ebcb2d6,3210,"Good evening. My name is नीतीश. I am calling you from Cred on a recorded line. I am talking to संजय? Yeah, speaking. you for the confirmation. I can see that you have raised a concern regarding the cr...",2026-03-31T13:51:39.880805,Gemma-inhouse,empathy,Met,Agent showed empathy for the customer's frustration with the loan terms by saying 'I completely understand that.',"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's frustration with the loan terms by saying 'I completely understand that.'""}",1.217968463897705,True,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's frustration with the loan terms by saying 'I completely understand that.'""}"
+5f2f449a-8d5d-4a8c-bb16-f771a6669087,1945,Good evening. This is  I'm here to assist you today. Am I speaking with दीपक? जी sir. नाम confirm करने के लिए धन्यवाद दीपक. जैसे कि मैं देख पा रहा हूं आपने concern raise किया है refund  के regarding C...,2026-03-31T13:51:42.739343,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.8583612442016602,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+}"
+20059b00-5e96-4caa-98b7-19c0000adae6,1699,"afternoon,     here to assist you today. Am I speaking with अविनाश? Good afternoon, I am ना. can I  can you speak in nan I can speak in English and I'm very sorry, I can speak  line हां, ok ok. Please...",2026-03-31T13:51:46.235767,Gemma-inhouse,empathy,Met,Agent showed empathy for 'navin's issue of double EMI payment'.   Agent said: 'I'm very sorry for that first of all.',"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for 'navin's issue of double EMI payment'.   Agent said: 'I'm very sorry for that first of all.'""}",1.4963016510009766,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for 'navin's issue of double EMI payment'.   Agent said: 'I'm very sorry for that first of all.'""
+}
+"
+830a5b45-fbf1-4d79-acf7-a182cbe7e7be,2614,"Good morning. This is    here to assist you. Am I speaking with सादत? Yeah, hi collect. Hi सबा. So, Yes speaking. Yeah. Actually, my credit order is   delivered  and the delivery  person came to my na...",2026-03-31T13:51:49.994799,Gemma-inhouse,empathy,Met,"Agent showed empathy for सादत's delivery issues. Agent said, 'I apologize for that inconvenience' and 'Ok, I got it. I apologize for' ","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for सादत's delivery issues. Agent said, 'I apologize for that inconvenience' and 'Ok, I got it. I apologize for' ""}",1.7588865756988525,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for सादत's delivery issues. Agent said, 'I apologize for that inconvenience' and 'Ok, I got it. I apologize for' "" 
+}
+```"
+be00850c-1822-454d-84bd-7fbbe07c5998,3070,"evening. This is प्रीतम. I'm here to assist you. Am I speaking with शंकर? nan Yeah, is शंकर? Thanks  thanks for the confirmation  पंकज. my product was not getting delivered it is showing out of delive...",2026-03-31T13:51:55.408555,Gemma-inhouse,empathy,Met,'This is actually look at in कृष्णा. Ok? Ok and what will be alternate contact number? 9 double 0 9 double 0 Double 3 0 Double 3 8 double 7 8 double 7 you for providing with this valuable information. I have successfully raise this concern to the internal team. Our internal team will be look into this issue and we will provide you an update regarding this on or before of March twelfth in the credit application in support section and you will be notified through WhatsApp also.',"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""'This is actually look at in कृष्णा. Ok? Ok and what will be alternate contact number? 9 double 0 9 double 0 Double 3 0 Double 3 8 double 7 8 double 7 you for providing with this valuable information. I have successfully raise this concern to the internal team. Our internal team will be look into this issue and we will provide you an update regarding this on or before of March twelfth in the credit application in support section and you will be notified through WhatsApp also.'""}",3.413599967956543,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""'This is actually look at in कृष्णा. Ok? Ok and what will be alternate contact number? 9 double 0 9 double 0 Double 3 0 Double 3 8 double 7 8 double 7 you for providing with this valuable information. I have successfully raise this concern to the internal team. Our internal team will be look into this issue and we will provide you an update regarding this on or before of March twelfth in the credit application in support section and you will be notified through WhatsApp also.'""
+}"
+02719540-46f4-482b-969e-14b50bbe3285,3129,"Good evening, this is  I am here to assist you today. Am I speaking with मनीष? as you can see that I have purchased  completed from the So I   see that       from the credit and that  is not getting d...",2026-03-31T13:51:59.373668,Gemma-inhouse,empathy,Met,"Agent showed empathy for the customer's frustration with the delayed delivery. He/she said ""I can understand extremely sorry that you faced inconvenience"" and reassured the customer that the concern had been escalated and would be resolved.","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for the customer's frustration with the delayed delivery. He/she said \""I can understand extremely sorry that you faced inconvenience\"" and reassured the customer that the concern had been escalated and would be resolved.""}",1.964916467666626,True,"{
+    ""Empathy_result"": ""Met"",
+    ""Empathy_evidence"": ""Agent showed empathy for the customer's frustration with the delayed delivery. He/she said \""I can understand extremely sorry that you faced inconvenience\"" and reassured the customer that the concern had been escalated and would be resolved.""
+} 
+"
+96d97237-1192-4d22-a836-9624908817dc,2739,Good afternoon. This is This is calling from recorded line. Am I speaking with आकाश? हां बात करो बोलिए. जी आकाश जैसे कि मैं देख पा रहा हूं आपने statement भेजा थी अपनी HDFC हां हां. यह आपने payment dat...,2026-03-31T13:52:02.272837,Gemma-inhouse,empathy,Met,No empathy required,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""No empathy required""}",0.8989920616149902,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""No empathy required""
+}"
+05bc2f79-e454-456e-b588-00128c679dde,1673,"morning. This is  I will be assisting you today. Am I speaking with पवन Yeah hi, actually I called regarding 1 of my order which I wanted to return and I see the I don't know what's the current status...",2026-03-31T13:52:05.877242,Gemma-inhouse,empathy,Met,"Agent showed empathy for customer's problem with return request.  Agent said, 'Understand. I completely understand and I apologize for the inconvenience caused to you.' ","{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for customer's problem with return request.  Agent said, 'Understand. I completely understand and I apologize for the inconvenience caused to you.' ""}",1.6042649745941162,True,"```json
+{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for customer's problem with return request.  Agent said, 'Understand. I completely understand and I apologize for the inconvenience caused to you.' ""
+}
+```"
+24ba9529-527f-4133-8f7b-0c5eab96d29b,2315,"Good afternoon, this is वरीता. I will be assisting you today. Am I speaking with रोहित? Yeah, good afternoon ma'am. I have raised a complaint regarding my last order. Yes, as it is your product from m...",2026-03-31T13:52:09.526697,Gemma-inhouse,empathy,Met,Agent showed empathy for receiving an empty box. The agent stated 'since you received an empty box. So I would kindly please request you just allow us some more time.' ,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for receiving an empty box. The agent stated 'since you received an empty box. So I would kindly please request you just allow us some more time.' ""}",1.64920973777771,True,"{
+""Empathy_result"": ""Met"",
+""Empathy_evidence"": ""Agent showed empathy for receiving an empty box. The agent stated 'since you received an empty box. So I would kindly please request you just allow us some more time.' ""
+} 
+"
+60a8d089-44c3-411d-b5cc-c24733d5acdd,1959,"Good morning. This is  I will be assisting you Good morning, madam. Good morning, madam. विषय नाम से. Good morning, madam. Good morning, madam. Am I audible करना? मेरा कृष्णा कर मेरा कृष्णा कर Yes, th...",2026-03-31T13:52:13.214620,Gemma-inhouse,empathy,Not Met,Agent did not showed any empathy for customer's refund issue. The agent seemed more focused on language barriers and resolving the call rather than addressing the customer's concern about the transaction.,"{""Empathy_result"": ""Not Met"", ""Empathy_evidence"": ""Agent did not showed any empathy for customer's refund issue. The agent seemed more focused on language barriers and resolving the call rather than addressing the customer's concern about the transaction.""}",1.687777042388916,True,"{
+""Empathy_result"": ""Not Met"",
+""Empathy_evidence"": ""Agent did not showed any empathy for customer's refund issue. The agent seemed more focused on language barriers and resolving the call rather than addressing the customer's concern about the transaction.""
+} 
+"

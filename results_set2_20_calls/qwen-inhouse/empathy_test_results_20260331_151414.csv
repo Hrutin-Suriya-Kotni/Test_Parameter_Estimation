@@ -1,0 +1,15 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T15:14:08.729051,Qwen-inhouse,empathy,Met,Agent showed empathy for consumer loan issue. Agent expressed understanding and acknowledged customer's frustration.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for consumer loan issue. Agent expressed understanding and acknowledged customer's frustration.""}",1.9550137519836426,True,"{
+  ""Empathy_result"": ""Met"",
+  ""Empathy_evidence"": ""Agent showed empathy for consumer loan issue. Agent expressed understanding and acknowledged customer's frustration.""
+}"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T15:14:12.732077,Qwen-inhouse,empathy,Met,Agent showed empathy for customer's frustration with incorrect PAN card. Agent expressed regret for the inconvenience and assured the customer they would handle the concern promptly.,"{""Empathy_result"": ""Met"", ""Empathy_evidence"": ""Agent showed empathy for customer's frustration with incorrect PAN card. Agent expressed regret for the inconvenience and assured the customer they would handle the concern promptly.""}",2.0028741359710693,True,"{
+  ""Empathy_result"": ""Met"",
+  ""Empathy_evidence"": ""Agent showed empathy for customer's frustration with incorrect PAN card. Agent expressed regret for the inconvenience and assured the customer they would handle the concern promptly.""
+}"

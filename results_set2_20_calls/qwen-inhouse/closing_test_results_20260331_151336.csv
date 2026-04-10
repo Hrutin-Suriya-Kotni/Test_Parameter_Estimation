@@ -1,0 +1,32 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T15:13:28.466928,Qwen-inhouse,closing,Met,Agent asked for further assistance at the end of the call: 'call के end होने से पहले क्या मैं आपसे हमारी बातचीत के आधार पर एक छोटे से से पांच के beach में rate कर सकते हैं.',"{""Further_Assistance"": ""Met"", ""Further_Assistance_Evidence"": ""Agent asked for further assistance at the end of the call: 'call के end होने से पहले क्या मैं आपसे हमारी बातचीत के आधार पर एक छोटे से से पांच के beach में rate कर सकते हैं.'"", ""Effective_IVR_Survey"": ""Met"", ""Effective_IVR_Survey_Evidence"": ""Agent transferred the call to an IVR for feedback: 'अभी आपकी call अपने feedback IVR पर transfer कर रही हूं जहां पर आप हमारी बातचीत के आधार पर एक से पांच के beach में rate कर सकते हैं.'"", ""Greeting"": ""Met"", ""Greeting_Evidence"": ""Agent ended the call with a positive closing statement: 'Thank you and have a good day.'""}",6.640871047973633,True,"```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""Agent asked for further assistance at the end of the call: 'call के end होने से पहले क्या मैं आपसे हमारी बातचीत के आधार पर एक छोटे से से पांच के beach में rate कर सकते हैं.'"",
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""Agent transferred the call to an IVR for feedback: 'अभी आपकी call अपने feedback IVR पर transfer कर रही हूं जहां पर आप हमारी बातचीत के आधार पर एक से पांच के beach में rate कर सकते हैं.'"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""Agent ended the call with a positive closing statement: 'Thank you and have a good day.'""
+}
+```"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T15:13:34.052913,Qwen-inhouse,closing,JSON Error,"```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""The agent asked 'क्या आप confirm कर',
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent ","{""Value"": ""JSON Error"", ""Evidence"": ""```json\n{\n    \""Further_Assistance\"": \""Met\"",\n    \""Further_Assistance_Evidence\"": \""The agent asked 'क्या आप confirm कर',\n    \""Effective_IVR_Survey\"": \""Met\"",\n    \""Effective_IVR_Survey_Evidence\"": \""The agent ""}",3.585800886154175,False,"```json
+{
+    ""Further_Assistance"": ""Met"",
+    ""Further_Assistance_Evidence"": ""The agent asked 'क्या आप confirm कर',
+    ""Effective_IVR_Survey"": ""Met"",
+    ""Effective_IVR_Survey_Evidence"": ""The agent said 'धन्यवाद आपका call जो है हम अपने feedback IVR में transfer कर रहे है'"",
+    ""Greeting"": ""Met"",
+    ""Greeting_Evidence"": ""The agent said 'Thank you and have a good day.'""
+}
+```"

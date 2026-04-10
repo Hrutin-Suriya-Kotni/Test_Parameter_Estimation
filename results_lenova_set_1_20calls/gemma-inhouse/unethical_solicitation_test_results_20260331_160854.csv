@@ -1,0 +1,184 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+001eecbe-10b9-4aee-902d-8003ef425d93,2004,"Agent: Hi, good afternoon. This is  calling you from Cred
+Customer: Ok.
+Agent: Am I speaking to Mister समीर.
+Customer: Yes.
+Agent: Hi Mister so this call is regarding your insurance  for  vehicle your...",2026-03-31T16:07:39.619435,Gemma-inhouse,unethical_solicitation,Met,"The agent mentioned 'Good', which indicates they're trying to steer the customer towards a positive rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned 'Good', which indicates they're trying to steer the customer towards a positive rating.""}",1.8374028205871582,True,"{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent mentioned 'Good', which indicates they're trying to steer the customer towards a positive rating."" 
+}
+"
+004d9af7-9a03-4d99-aa4e-4651f7a4d598,4636,"Agent: Good evening. This is भावना I am here to assist you. Am I speaking with मुकुल
+Customer: Yes you are speaking with  I have a little problem.
+Customer: Actually my amount is due around 5000
+Agent...",2026-03-31T16:07:43.622884,Gemma-inhouse,unethical_solicitation,Met,"The agent states ""we are fetching your these details by भारत bill payment system"" and  ""statement was fetched on sixteenth march""  ","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent states \""we are fetching your these details by भारत bill payment system\"" and  \""statement was fetched on sixteenth march\""  ""}",2.0032901763916016,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent states \""we are fetching your these details by भारत bill payment system\"" and  \""statement was fetched on sixteenth march\""  "" 
+}
+```"
+00fb6889-edef-4b5d-8dfc-3080d02ccd24,1060,"Agent: Hello.
+Customer: Hello.
+Agent: Very good afternoon sir. This is  calling from Cred. this call regarding your car insurance renewal your alto Is this a good time to talk
+Customer: हां बोलिए ना s...",2026-03-31T16:07:46.613079,Gemma-inhouse,unethical_solicitation,Met,Error,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": """"}",0.9900484085083008,True,"{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": """"
+}"
+01343fa4-54e8-4eac-a707-ceb817e806b0,3153,"Agent: good afternoon good afternoon  this is data You can calling you from Cred on a recorded line. Is this the right time to talk
+Customer: ok
+Customer: hmm
+Customer: no
+Customer: हां.
+Customer: कहा...",2026-03-31T16:07:50.327429,Gemma-inhouse,unethical_solicitation,Met,The agent explained the rating scale saying 'में पांच होते हैं बहुत अच्छा और एक होते हैं',"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale saying 'में पांच होते हैं बहुत अच्छा और एक होते हैं'""}",1.7141714096069336,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale saying 'में पांच होते हैं बहुत अच्छा और एक होते हैं'""
+}
+```"
+018cb49c-d7cb-4e60-adda-2bae09c0e59a,2995,"Customer: Yeah.
+Agent: Good afternoon. This is Tanya I'm here to assist you today. Am I speaking with अमित?
+Customer: क्या
+Customer: Yes.
+Agent: Thank you for confirming your name असी
+Customer: Ma'am
+...",2026-03-31T16:07:54.439965,Gemma-inhouse,unethical_solicitation,Met,The agent explicitly asked the customer to rate their experience on a scale of 1 to 5 and mentioned that the rating would help improve the credit experience for all members.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explicitly asked the customer to rate their experience on a scale of 1 to 5 and mentioned that the rating would help improve the credit experience for all members.""}",2.112356424331665,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explicitly asked the customer to rate their experience on a scale of 1 to 5 and mentioned that the rating would help improve the credit experience for all members.""
+}
+```"
+01c32e43-e03c-47f5-83a4-e836291e235b,1250,"Agent: Hello.
+Customer: हां जी.
+Agent: जी से बात हो रही है
+Customer: जी.
+Agent: जी नमस्कार ममता बात कर रही हूं आपके car insurance के renewal के regarding phone किया मैंने
+Customer: जी.
+Agent: आपने पिछ...",2026-03-31T16:07:58.261253,Gemma-inhouse,unethical_solicitation,Met,"The agent mentions ""पांच second and"" which implies a rating scale,  leading to the assumption of a request for high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentions \""पांच second and\"" which implies a rating scale,  leading to the assumption of a request for high rating.""}",1.8211166858673096,True,"{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent mentions \""पांच second and\"" which implies a rating scale,  leading to the assumption of a request for high rating.""
+}  
+"
+022c2fc7-3517-4214-b529-44498eab213e,1640,"Customer: Yes.
+Agent: Good morning. This is Falak I am here to assist you. Am I speaking with Uma महेश?
+Customer: Yeah.
+Agent: Mister राव you have reached out to us about the item which you have purch...",2026-03-31T16:08:02.019044,Gemma-inhouse,unethical_solicitation,Met,"The agent stated that customers can rate between 1 to 5, 1 being poor and 5 being excellent.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent stated that customers can rate between 1 to 5, 1 being poor and 5 being excellent.""}",1.7575883865356445,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent stated that customers can rate between 1 to 5, 1 being poor and 5 being excellent.""
+}
+```"
+0281fdef-53d0-4ac6-9a51-fe723ae830ce,2891,"Customer: Ok.
+Agent: Good evening. My name is emi calling you from Cred on a recorded line. Am I speaking with नवीन?
+Customer: Yeah.
+Agent: thank you so much  for confirming your name. Is this a good ...",2026-03-31T16:08:05.230995,Gemma-inhouse,unethical_solicitation,Met,Error,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": """"}",1.211726188659668,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": """" 
+}
+```"
+02c71b46-97cb-4664-9c00-101b226f912e,3100,"Agent: Good evening. This is प्रशांत I'm here to assist you today. Am I speaking with
+Customer: Sir मैंने
+Customer: cred से पैसे निकाला card से
+Agent: जी.
+Customer: ending में डालिए
+Agent: pending में...",2026-03-31T16:08:08.743992,Gemma-inhouse,unethical_solicitation,Met,The agent explained the rating scale as 1 being poor and 5 being excellent.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale as 1 being poor and 5 being excellent.""}",1.5128471851348877,True,"{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale as 1 being poor and 5 being excellent.""
+}
+
+
+
+"
+0304b42a-f5fe-44d2-9d04-4c91ac62a67d,3266,"Agent: Good evening  assist you today. Am I speaking  पंकज?
+Customer: Yes.
+Agent: Thank you पंकज for confirming your name. So as I can check that you have raised your concern regarding the withdrawal ...",2026-03-31T16:08:12.623619,Gemma-inhouse,unethical_solicitation,Met,"The agent explained the rating scale, stating ""1 being poor and 5 being excellent"", and transferred the customer to a feedback IVR.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale, stating \""1 being poor and 5 being excellent\"", and transferred the customer to a feedback IVR.""}",1.879467487335205,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale, stating \""1 being poor and 5 being excellent\"", and transferred the customer to a feedback IVR.""
+}
+```"
+035638ed-3012-485c-a93e-cab5df34dc5e,5300,"Agent: Good evening. This is Ronit here to assist you today. Am I speaking with कृतिका
+Customer: Yeah.
+Agent: Thanks for confirming your name कृतिका As I have checked that your request is in regard to...",2026-03-31T16:08:16.529225,Gemma-inhouse,unethical_solicitation,Met,"The agent explained the rating scale: ""where 5 is being excellent and 1 is being poor"".","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale: \""where 5 is being excellent and 1 is being poor\"".""}",1.9054512977600098,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale: \""where 5 is being excellent and 1 is being poor\"".""
+}
+```"
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T16:08:21.922266,Gemma-inhouse,unethical_solicitation,Met,"The agent explicitly requested a rating on a scale of 1 to 5, stating  “आप हमारी बातचीत के आधार पर एक से पांच के बीच rate कर सकते हैं”","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explicitly requested a rating on a scale of 1 to 5, stating  “आप हमारी बातचीत के आधार पर एक से पांच के बीच rate कर सकते हैं”""}",3.39288592338562,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explicitly requested a rating on a scale of 1 to 5, stating  \u201cआप हमारी बातचीत के आधार पर एक से पांच के बीच rate कर सकते हैं\u201d""
+}
+```"
+03f8381d-16f4-41c9-b5d2-50a62c8d36d6,3318,"Agent: Good morning. This is Sorry. I am here to assist you today. Am I speaking with पर?
+Agent: Thank you for confirming. As I can check, you have raised a concern from for the product that you have ...",2026-03-31T16:08:26.629180,Gemma-inhouse,unethical_solicitation,Met,"The agent stated ""5 means excellent 1 means poor. Thank you for choosing Cred. I hope you have a wonderful day ahead."" and then transferred the customer to the feedback IVR where they were asked to rate their experience on a scale of 1 to 5.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent stated \""5 means excellent 1 means poor. Thank you for choosing Cred. I hope you have a wonderful day ahead.\"" and then transferred the customer to the feedback IVR where they were asked to rate their experience on a scale of 1 to 5.""}",2.706756114959717,True,"{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent stated \""5 means excellent 1 means poor. Thank you for choosing Cred. I hope you have a wonderful day ahead.\"" and then transferred the customer to the feedback IVR where they were asked to rate their experience on a scale of 1 to 5.""
+}    
+"
+04400d28-62d5-47f5-80f4-93313282dcc7,1856,"Agent: Good morning. This is Situ. I am here to assist you today. Am I speaking with सुरेंद्र?
+Customer: तो क्या
+Customer: Hello.
+Customer: Yeah, actually I'm not able to  you are saying
+Customer: I'm...",2026-03-31T16:08:29.398918,Gemma-inhouse,unethical_solicitation,Met,Error,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": """"}",0.7694680690765381,True,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": """"}"
+048ce50f-d238-4b42-b133-aae7082df92d,1742,"Agent: Good morning. This is शुक्रिया. I am here to assist you today. Am I speaking with सतीश?
+Customer: Ma'am I am raise
+Customer: 3 days sorry
+Customer: small resolved ma'am
+Agent: Ok, understood. r...",2026-03-31T16:08:32.894117,Gemma-inhouse,unethical_solicitation,Met,"Before we end this call, would you like to share your valuable feedback based on the conversation","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""Before we end this call, would you like to share your valuable feedback based on the conversation""}",1.4950482845306396,True,"{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""Before we end this call, would you like to share your valuable feedback based on the conversation""
+}"
+04c9854b-c20a-4396-b0cf-2438e3ea36f8,3445,"Customer: Hello.
+Agent: Good afternoon. This is Adarsh calling from Cred on a recorded line. Am I speaking with अमित?
+Customer: Yes.
+Customer: Yes yes yes.
+Agent: Thank you very much for the confirmat...",2026-03-31T16:08:36.537209,Gemma-inhouse,unethical_solicitation,Met,The agent mentioned '1' and '5' in the context of a rating system.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned '1' and '5' in the context of a rating system.""}",1.642916202545166,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent mentioned '1' and '5' in the context of a rating system.""
+}
+```"
+0518552a-d35e-49cc-ab87-8039962afcb7,2834,"Agent: Good evening. This is पामीर. I am here to assist you today. Am I speaking with अनुपम
+Customer: Yes.
+Agent: जी शुक्रिया confirm करने के लिए
+Customer: Hello.
+Agent: जी
+Customer: हां.
+Agent: जैसे ...",2026-03-31T16:08:40.471376,Gemma-inhouse,unethical_solicitation,Met,The agent explained the rating scale: 'पांच मतलब सबसे ज़्यादा एक मतलब सबसे कम',"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale: 'पांच मतलब सबसे ज़्यादा एक मतलब सबसे कम'""}",1.9339628219604492,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale: 'पांच मतलब सबसे ज़्यादा एक मतलब सबसे कम'""
+}
+```"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T16:08:44.755886,Gemma-inhouse,unethical_solicitation,Met,"The agent explains the rating scale, stating that  ""1 being poor and 5 being..."" ","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explains the rating scale, stating that  \""1 being poor and 5 being...\"" ""}",2.284343957901001,True,"{
+ ""Unethical_Solicitation"": ""Met"",
+ ""Unethical_Solicitation_Evidence"": ""The agent explains the rating scale, stating that  \""1 being poor and 5 being...\"" ""
+}"
+057f58f7-5349-4def-9406-2a4bdce8bf98,3887,"Agent: Good afternoon. This is and I am here to assist you today. Am I speaking with नरेश कुमार?
+Customer: Yes.
+Agent: Thank you for confirming your name.
+Customer: Actually,
+Agent: I can check that
+C...",2026-03-31T16:08:48.595313,Gemma-inhouse,unethical_solicitation,Met,The agent mentions 'Thank you for choosing Cred. I hope you have a great day ahead.',"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentions 'Thank you for choosing Cred. I hope you have a great day ahead.'""}",1.8392865657806396,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent mentions 'Thank you for choosing Cred. I hope you have a great day ahead.'""
+}
+```"
+059d99d5-f462-400a-bfb9-b00135ec0835,6108,"Agent: Good evening. This is प्रथम. I am here to assist you today. Am I speaking with राज
+Customer: Yeah.
+Agent: Thank you for confirming. As I can see that you have raised a concern
+Agent: you want t...",2026-03-31T16:08:52.614026,Gemma-inhouse,unethical_solicitation,Met,"The agent explained the rating scale, stating ""5 being excellent and 1 being poor.""  ","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale, stating \""5 being excellent and 1 being poor.\""  ""}",2.0185787677764893,True,"```json
+{
+""Unethical_Solicitation"": ""Met"",
+""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale, stating \""5 being excellent and 1 being poor.\""  ""
+}
+```"

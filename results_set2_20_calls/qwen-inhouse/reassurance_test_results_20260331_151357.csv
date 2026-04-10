@@ -1,0 +1,32 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T15:13:51.576712,Qwen-inhouse,reassurance,Met,"{""Reassurance_result"": ""Met"", ""Evidence"": [{""Step"": ""2"", ""Statement"": ""Agent: Alright एक minute का समय दीजिए please क्या आप मुझे confirm कर सकते हैं कि आपको वह Cred के end से reflect हो रहे हैं means cred application से ही reflect हो रहे हैं उसके regarding आपको बताना चाहूंगी कि हमारे पास एक dedicated team है तो आपको इसमें ज़्यादा बेहतर तरीके से कर पाएगी अगर आप चाहें मैं आपकी call को relevant team को transfer कर सकती हूं"", ""Criterion"": ""Yes""}, {""Step"": ""3"", ""Statement"": ""Agent: मैं आपको बताना चाह","{""Reassurance_result"": ""Met"", ""Evidence"": [{""Step"": ""2"", ""Statement"": ""Agent: Alright एक minute का समय दीजिए please क्या आप मुझे confirm कर सकते हैं कि आपको वह Cred के end से reflect हो रहे हैं means cred application से ही reflect हो रहे हैं उसके regarding आपको बताना चाहूंगी कि हमारे पास एक dedicated team है तो आपको इसमें ज़्यादा बेहतर तरीके से कर पाएगी अगर आप चाहें मैं आपकी call को relevant team को transfer कर सकती हूं"", ""Criterion"": ""Yes""}, {""Step"": ""3"", ""Statement"": ""Agent: मैं आपको बताना चाहूंगी कि अगर आपको वह Cred के end से reflect हो रहे हैं means cred application से ही reflect हो रहे हैं उसके regarding आपको बताना चाहूंगी कि हमारे पास एक dedicated team है तो आपको इसमें ज़्यादा बेहतर तरीके से कर पाएगी अगर आप चाहें मैं आपकी call को relevant team को transfer कर सकती हूं"", ""Criterion"": ""Yes""}, {""Step"": ""5"", ""Statement"": ""Agent: मैं आपको बताना चाहूंगी कि अगर आपको वह Cred के end से reflect हो रहे हैं means cred application से ही reflect हो रहे हैं उसके regarding आपको बताना चाहूंगी कि हमारे पास एक dedicated team है तो आपको इसमें ज़्यादा बेहतर तरीके से कर पाएगी अगर आप चाहें मैं आपकी call को relevant team को transfer कर सकती हूं"", ""Criterion"": ""Yes""}]}",15.304237365722656,True,"{
+  ""Reassurance_result"": ""Met"",
+  ""Evidence"": [
+    {
+      ""Step"": ""2"",
+      ""Statement"": ""Agent: Alright एक minute का समय दीजिए please क्या आप मुझे confirm कर सकते हैं कि आपको वह Cred के end से reflect हो रहे हैं means cred application से ही reflect हो रहे हैं उसके regarding आपको बताना चाहूंगी कि हमारे पास एक dedicated team है तो आपको इसमें ज़्यादा बेहतर तरीके से कर पाएगी अगर आप चाहें मैं आपकी call को relevant team को transfer कर सकती हूं"",
+      ""Criterion"": ""Yes""
+    },
+    {
+      ""Step"": ""3"",
+      ""Statement"": ""Agent: मैं आपको बताना चाहूंगी कि अगर आपको वह Cred के end से reflect हो रहे हैं means cred application से ही reflect हो रहे हैं उसके regarding आपको बताना चाहूंगी कि हमारे पास एक dedicated team है तो आपको इसमें ज़्यादा बेहतर तरीके से कर पाएगी अगर आप चाहें मैं आपकी call को relevant team को transfer कर सकती हूं"",
+      ""Criterion"": ""Yes""
+    },
+    {
+      ""Step"": ""5"",
+      ""Statement"": ""Agent: मैं आपको बताना चाहूंगी कि अगर आपको वह Cred के end से reflect हो रहे हैं means cred application से ही reflect हो रहे हैं उसके regarding आपको बताना चाहूंगी कि हमारे पास एक dedicated team है तो आपको इसमें ज़्यादा बेहतर तरीके से कर पाएगी अगर आप चाहें मैं आपकी call को relevant team को transfer कर सकती हूं"",
+      ""Criterion"": ""Yes""
+    }
+  ]
+}"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T15:13:55.366512,Qwen-inhouse,reassurance,Met,Call too short to evaluate,"{""step"": 0, ""reassurance_result"": ""Met"", ""evidence"": ""Call too short to evaluate""}",1.789574384689331,True,"{
+  ""step"": 0,
+  ""reassurance_result"": ""Met"",
+  ""evidence"": ""Call too short to evaluate""
+}"

@@ -1,0 +1,197 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+001eecbe-10b9-4aee-902d-8003ef425d93,2004,"Agent: Hi, good afternoon. This is  calling you from Cred
+Customer: Ok.
+Agent: Am I speaking to Mister समीर.
+Customer: Yes.
+Agent: Hi Mister so this call is regarding your insurance  for  vehicle your...",2026-03-31T15:29:07.164036,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""The customer was unable to renew their car insurance policy through the Cred app and had to purchase it from another provider.""}","{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""The customer was unable to renew their car insurance policy through the Cred app and had to purchase it from another provider.""}",1.881026268005371,True,"```json
+{
+    ""VOC_Category"": ""Product or Service Information"",
+    ""VOC_Core_Issue_Summary"": ""The customer was unable to renew their car insurance policy through the Cred app and had to purchase it from another provider.""
+}
+```"
+004d9af7-9a03-4d99-aa4e-4651f7a4d598,4636,"Agent: Good evening. This is भावना I am here to assist you. Am I speaking with मुकुल
+Customer: Yes you are speaking with  I have a little problem.
+Customer: Actually my amount is due around 5000
+Agent...",2026-03-31T15:29:11.534564,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Inaccurate bill amount displayed in the Cred app compared to the ICICI app. The customer believes a refund received after the statement generation date is not reflected in the Cred app, leading to an inflated balance.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Inaccurate bill amount displayed in the Cred app compared to the ICICI app. The customer believes a refund received after the statement generation date is not reflected in the Cred app, leading to an inflated balance.""}",2.3703534603118896,True,"```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Inaccurate bill amount displayed in the Cred app compared to the ICICI app. The customer believes a refund received after the statement generation date is not reflected in the Cred app, leading to an inflated balance.""
+}
+```"
+00fb6889-edef-4b5d-8dfc-3080d02ccd24,1060,"Agent: Hello.
+Customer: Hello.
+Agent: Very good afternoon sir. This is  calling from Cred. this call regarding your car insurance renewal your alto Is this a good time to talk
+Customer: हां बोलिए ना s...",2026-03-31T15:29:15.239963,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Account Management"", ""VOC_Core_Issue_Summary"": ""The customer is reminded about their upcoming car insurance renewal date and is advised to renew it before a certain date to proceed with a pre-inspection.""}","{""VOC_Category"": ""Account Management"", ""VOC_Core_Issue_Summary"": ""The customer is reminded about their upcoming car insurance renewal date and is advised to renew it before a certain date to proceed with a pre-inspection.""}",1.7052195072174072,True,"{
+    ""VOC_Category"": ""Account Management"",
+    ""VOC_Core_Issue_Summary"": ""The customer is reminded about their upcoming car insurance renewal date and is advised to renew it before a certain date to proceed with a pre-inspection."" 
+}
+"
+01343fa4-54e8-4eac-a707-ceb817e806b0,3153,"Agent: good afternoon good afternoon  this is data You can calling you from Cred on a recorded line. Is this the right time to talk
+Customer: ok
+Customer: hmm
+Customer: no
+Customer: हां.
+Customer: कहा...",2026-03-31T15:29:18.651129,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer needs to complete a vehicle inspection pending for their ICICI Lombard policy.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer needs to complete a vehicle inspection pending for their ICICI Lombard policy.""}",1.410980463027954,True,"{
+    ""VOC_Category"": ""Technical Support"",
+    ""VOC_Core_Issue_Summary"": ""Customer needs to complete a vehicle inspection pending for their ICICI Lombard policy.""
+} 
+"
+018cb49c-d7cb-4e60-adda-2bae09c0e59a,2995,"Customer: Yeah.
+Agent: Good afternoon. This is Tanya I'm here to assist you today. Am I speaking with अमित?
+Customer: क्या
+Customer: Yes.
+Agent: Thank you for confirming your name असी
+Customer: Ma'am
+...",2026-03-31T15:29:22.498781,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer confirms foreclosure of a credit cash loan and requests confirmation of payment closure and an NOC to ensure no further EMI deductions.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer confirms foreclosure of a credit cash loan and requests confirmation of payment closure and an NOC to ensure no further EMI deductions.""}",1.8474376201629639,True,"```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer confirms foreclosure of a credit cash loan and requests confirmation of payment closure and an NOC to ensure no further EMI deductions.""
+}
+```"
+01c32e43-e03c-47f5-83a4-e836291e235b,1250,"Agent: Hello.
+Customer: हां जी.
+Agent: जी से बात हो रही है
+Customer: जी.
+Agent: जी नमस्कार ममता बात कर रही हूं आपके car insurance के renewal के regarding phone किया मैंने
+Customer: जी.
+Agent: आपने पिछ...",2026-03-31T15:29:25.796958,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Service Activation or Deactivation"", ""VOC_Core_Issue_Summary"": ""Customer service call regarding car insurance renewal reminder.""}","{""VOC_Category"": ""Service Activation or Deactivation"", ""VOC_Core_Issue_Summary"": ""Customer service call regarding car insurance renewal reminder.""}",1.298025131225586,True,"```json
+{
+    ""VOC_Category"": ""Service Activation or Deactivation"",
+    ""VOC_Core_Issue_Summary"": ""Customer service call regarding car insurance renewal reminder.""
+}
+```"
+022c2fc7-3517-4214-b529-44498eab213e,1640,"Customer: Yes.
+Agent: Good morning. This is Falak I am here to assist you. Am I speaking with Uma महेश?
+Customer: Yeah.
+Agent: Mister राव you have reached out to us about the item which you have purch...",2026-03-31T15:29:29.750342,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer inquired about the delivery status of a purchased item, which was stated as out for delivery with an expected arrival date between April 3rd and 6th.""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer inquired about the delivery status of a purchased item, which was stated as out for delivery with an expected arrival date between April 3rd and 6th.""}",1.9532129764556885,True,"```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer inquired about the delivery status of a purchased item, which was stated as out for delivery with an expected arrival date between April 3rd and 6th.""
+}
+```"
+0281fdef-53d0-4ac6-9a51-fe723ae830ce,2891,"Customer: Ok.
+Agent: Good evening. My name is emi calling you from Cred on a recorded line. Am I speaking with नवीन?
+Customer: Yeah.
+Agent: thank you so much  for confirming your name. Is this a good ...",2026-03-31T15:29:33.396185,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""Customer reports incorrect vehicle model and card name information displayed in the Cred app.""}","{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""Customer reports incorrect vehicle model and card name information displayed in the Cred app.""}",1.645723581314087,True,"```json
+{
+    ""VOC_Category"": ""Product or Service Information"",
+    ""VOC_Core_Issue_Summary"": ""Customer reports incorrect vehicle model and card name information displayed in the Cred app.""
+}
+```"
+02c71b46-97cb-4664-9c00-101b226f912e,3100,"Agent: Good evening. This is प्रशांत I'm here to assist you today. Am I speaking with
+Customer: Sir मैंने
+Customer: cred से पैसे निकाला card से
+Agent: जी.
+Customer: ending में डालिए
+Agent: pending में...",2026-03-31T15:29:37.026858,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer payment of one thousand five hundred twenty rupees is pending and on hold due to security reasons.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer payment of one thousand five hundred twenty rupees is pending and on hold due to security reasons.""}",1.630488634109497,True,"```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer payment of one thousand five hundred twenty rupees is pending and on hold due to security reasons.""
+}
+```"
+0304b42a-f5fe-44d2-9d04-4c91ac62a67d,3266,"Agent: Good evening  assist you today. Am I speaking  पंकज?
+Customer: Yes.
+Agent: Thank you पंकज for confirming your name. So as I can check that you have raised your concern regarding the withdrawal ...",2026-03-31T15:29:40.626484,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""The customer is experiencing an error during the withdrawal process in the application.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""The customer is experiencing an error during the withdrawal process in the application.""}",1.599447250366211,True,"```json
+{
+    ""VOC_Category"": ""Technical Support"",
+    ""VOC_Core_Issue_Summary"": ""The customer is experiencing an error during the withdrawal process in the application.""
+}
+```"
+035638ed-3012-485c-a93e-cab5df34dc5e,5300,"Agent: Good evening. This is Ronit here to assist you today. Am I speaking with कृतिका
+Customer: Yeah.
+Agent: Thanks for confirming your name कृतिका As I have checked that your request is in regard to...",2026-03-31T15:29:44.223299,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer requests to delete their account.""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer requests to delete their account.""}",1.5966465473175049,True,"```json
+{
+
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer requests to delete their account.""
+
+}
+```"
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T15:29:48.617962,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Account Management"", ""VOC_Core_Issue_Summary"": ""Customer is inquiring about the discrepancy between their CIBIL report and their Cred application, requesting assistance to understand the status of their loans.""}","{""VOC_Category"": ""Account Management"", ""VOC_Core_Issue_Summary"": ""Customer is inquiring about the discrepancy between their CIBIL report and their Cred application, requesting assistance to understand the status of their loans.""}",2.3945164680480957,True,"```json
+{
+    ""VOC_Category"": ""Account Management"",
+    ""VOC_Core_Issue_Summary"": ""Customer is inquiring about the discrepancy between their CIBIL report and their Cred application, requesting assistance to understand the status of their loans.""
+}
+```"
+03f8381d-16f4-41c9-b5d2-50a62c8d36d6,3318,"Agent: Good morning. This is Sorry. I am here to assist you today. Am I speaking with पर?
+Agent: Thank you for confirming. As I can check, you have raised a concern from for the product that you have ...",2026-03-31T15:29:52.019898,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer has not received their ordered product within the expected delivery timeframe.""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer has not received their ordered product within the expected delivery timeframe.""}",1.4017975330352783,True,"{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer has not received their ordered product within the expected delivery timeframe.""
+}   
+"
+04400d28-62d5-47f5-80f4-93313282dcc7,1856,"Agent: Good morning. This is Situ. I am here to assist you today. Am I speaking with सुरेंद्र?
+Customer: तो क्या
+Customer: Hello.
+Customer: Yeah, actually I'm not able to  you are saying
+Customer: I'm...",2026-03-31T15:29:55.480734,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Loyalty Programs and Rewards"", ""VOC_Core_Issue_Summary"": ""Customer was unable to redeem a purchased gift card voucher.""}","{""VOC_Category"": ""Loyalty Programs and Rewards"", ""VOC_Core_Issue_Summary"": ""Customer was unable to redeem a purchased gift card voucher.""}",1.4606826305389404,True,"```json
+{
+    ""VOC_Category"": ""Loyalty Programs and Rewards"",
+    ""VOC_Core_Issue_Summary"": ""Customer was unable to redeem a purchased gift card voucher."" 
+}
+```"
+048ce50f-d238-4b42-b133-aae7082df92d,1742,"Agent: Good morning. This is शुक्रिया. I am here to assist you today. Am I speaking with सतीश?
+Customer: Ma'am I am raise
+Customer: 3 days sorry
+Customer: small resolved ma'am
+Agent: Ok, understood. r...",2026-03-31T15:29:58.661753,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer experiencing technical issue with withdrawal request""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer experiencing technical issue with withdrawal request""}",1.1808419227600098,True,"```json
+{
+    ""VOC_Category"": ""Technical Support"",
+    ""VOC_Core_Issue_Summary"": ""Customer experiencing technical issue with withdrawal request""
+}
+```"
+04c9854b-c20a-4396-b0cf-2438e3ea36f8,3445,"Customer: Hello.
+Agent: Good afternoon. This is Adarsh calling from Cred on a recorded line. Am I speaking with अमित?
+Customer: Yes.
+Customer: Yes yes yes.
+Agent: Thank you very much for the confirmat...",2026-03-31T15:30:02.213527,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing withdrawal issues with the Cred application due to a technical problem.""}","{""VOC_Category"": ""Technical Support"", ""VOC_Core_Issue_Summary"": ""Customer is experiencing withdrawal issues with the Cred application due to a technical problem.""}",1.5515892505645752,True,"```json
+{
+""VOC_Category"": ""Technical Support"",
+""VOC_Core_Issue_Summary"": ""Customer is experiencing withdrawal issues with the Cred application due to a technical problem.""
+}
+
+```"
+0518552a-d35e-49cc-ab87-8039962afcb7,2834,"Agent: Good evening. This is पामीर. I am here to assist you today. Am I speaking with अनुपम
+Customer: Yes.
+Agent: जी शुक्रिया confirm करने के लिए
+Customer: Hello.
+Agent: जी
+Customer: हां.
+Agent: जैसे ...",2026-03-31T15:30:05.513234,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer received the wrong product.""}","{""VOC_Category"": ""Shipping and Delivery"", ""VOC_Core_Issue_Summary"": ""Customer received the wrong product.""}",1.2995305061340332,True,"```json
+{
+    ""VOC_Category"": ""Shipping and Delivery"",
+    ""VOC_Core_Issue_Summary"": ""Customer received the wrong product.""
+}
+
+```"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T15:30:09.423111,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Account Management"", ""VOC_Core_Issue_Summary"": ""Customer needs to update their PAN card details on their account.""}","{""VOC_Category"": ""Account Management"", ""VOC_Core_Issue_Summary"": ""Customer needs to update their PAN card details on their account.""}",1.9096620082855225,True,"```json
+{
+    ""VOC_Category"": ""Account Management"",
+    ""VOC_Core_Issue_Summary"": ""Customer needs to update their PAN card details on their account.""
+}
+```"
+057f58f7-5349-4def-9406-2a4bdce8bf98,3887,"Agent: Good afternoon. This is and I am here to assist you today. Am I speaking with नरेश कुमार?
+Customer: Yes.
+Agent: Thank you for confirming your name.
+Customer: Actually,
+Agent: I can check that
+C...",2026-03-31T15:30:13.499261,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer contacted to confirm payment and request proof of payment after experiencing a failed payment attempt and a subsequent confirmation from the agent that the payment was indeed successful.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""Customer contacted to confirm payment and request proof of payment after experiencing a failed payment attempt and a subsequent confirmation from the agent that the payment was indeed successful.""}",2.0759713649749756,True,"```json
+{
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""Customer contacted to confirm payment and request proof of payment after experiencing a failed payment attempt and a subsequent confirmation from the agent that the payment was indeed successful.""
+}
+```"
+059d99d5-f462-400a-bfb9-b00135ec0835,6108,"Agent: Good evening. This is प्रथम. I am here to assist you today. Am I speaking with राज
+Customer: Yeah.
+Agent: Thank you for confirming. As I can see that you have raised a concern
+Agent: you want t...",2026-03-31T15:30:17.430739,Gemma-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer wishes to cancel their insurance policy due to dissatisfaction with the insured declared value (IDV).""}","{""VOC_Category"": ""Cancellation and Returns"", ""VOC_Core_Issue_Summary"": ""Customer wishes to cancel their insurance policy due to dissatisfaction with the insured declared value (IDV).""}",1.931297779083252,True,"```json
+{
+    ""VOC_Category"": ""Cancellation and Returns"",
+    ""VOC_Core_Issue_Summary"": ""Customer wishes to cancel their insurance policy due to dissatisfaction with the insured declared value (IDV).""
+}
+```"

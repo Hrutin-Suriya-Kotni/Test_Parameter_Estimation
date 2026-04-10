@@ -1,0 +1,219 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+001eecbe-10b9-4aee-902d-8003ef425d93,2004,"Agent: Hi, good afternoon. This is  calling you from Cred
+Customer: Ok.
+Agent: Am I speaking to Mister समीर.
+Customer: Yes.
+Agent: Hi Mister so this call is regarding your insurance  for  vehicle your...",2026-03-31T15:25:03.359479,Gemma-inhouse,apology,Met,So sorry to hear about this,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""So sorry to hear about this"", ""Apology_Category"": """"}",1.7180843353271484,True,"{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""So sorry to hear about this"",
+""Apology_Category"": """"
+}
+
+"
+004d9af7-9a03-4d99-aa4e-4651f7a4d598,4636,"Agent: Good evening. This is भावना I am here to assist you. Am I speaking with मुकुल
+Customer: Yes you are speaking with  I have a little problem.
+Customer: Actually my amount is due around 5000
+Agent...",2026-03-31T15:25:07.292020,Gemma-inhouse,apology,Met,"Yes, surely I really apologize for the inconvenience. rest sure I will try my best to assist you","{""Apology_result"": ""Met"", ""Apology_evidence"": ""Yes, surely I really apologize for the inconvenience. rest sure I will try my best to assist you"", ""Apology_Category"": """"}",1.932389259338379,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""Yes, surely I really apologize for the inconvenience. rest sure I will try my best to assist you"",
+""Apology_Category"": """"
+}
+```"
+00fb6889-edef-4b5d-8dfc-3080d02ccd24,1060,"Agent: Hello.
+Customer: Hello.
+Agent: Very good afternoon sir. This is  calling from Cred. this call regarding your car insurance renewal your alto Is this a good time to talk
+Customer: हां बोलिए ना s...",2026-03-31T15:25:10.762207,Gemma-inhouse,apology,Met,No apology required - customer had no complaint or issue,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""No apology required - customer had no complaint or issue"", ""Apology_Category"": """"}",1.4700109958648682,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""No apology required - customer had no complaint or issue"",
+""Apology_Category"": """"
+}
+```"
+01343fa4-54e8-4eac-a707-ceb817e806b0,3153,"Agent: good afternoon good afternoon  this is data You can calling you from Cred on a recorded line. Is this the right time to talk
+Customer: ok
+Customer: hmm
+Customer: no
+Customer: हां.
+Customer: कहा...",2026-03-31T15:25:14.496414,Gemma-inhouse,apology,Met,माफी चाहूंगी आपको  परेशानी हुई है,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""माफी चाहूंगी आपको  परेशानी हुई है"", ""Apology_Category"": """"}",1.7340261936187744,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""माफी चाहूंगी आपको  परेशानी हुई है"",
+""Apology_Category"": """"
+}
+```"
+018cb49c-d7cb-4e60-adda-2bae09c0e59a,2995,"Customer: Yeah.
+Agent: Good afternoon. This is Tanya I'm here to assist you today. Am I speaking with अमित?
+Customer: क्या
+Customer: Yes.
+Agent: Thank you for confirming your name असी
+Customer: Ma'am
+...",2026-03-31T15:25:18.040631,Gemma-inhouse,apology,Met,No apology required - customer had no complaint or issue,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""No apology required - customer had no complaint or issue"", ""Apology_Category"": """"}",1.5440375804901123,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""No apology required - customer had no complaint or issue"",
+""Apology_Category"": """"
+}
+```"
+01c32e43-e03c-47f5-83a4-e836291e235b,1250,"Agent: Hello.
+Customer: हां जी.
+Agent: जी से बात हो रही है
+Customer: जी.
+Agent: जी नमस्कार ममता बात कर रही हूं आपके car insurance के renewal के regarding phone किया मैंने
+Customer: जी.
+Agent: आपने पिछ...",2026-03-31T15:25:21.344867,Gemma-inhouse,apology,Met,No apology required - customer had no complaint or issue,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""No apology required - customer had no complaint or issue"", ""Apology_Category"": """"}",1.3040754795074463,True,"{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""No apology required - customer had no complaint or issue"",
+""Apology_Category"": """"
+} 
+"
+022c2fc7-3517-4214-b529-44498eab213e,1640,"Customer: Yes.
+Agent: Good morning. This is Falak I am here to assist you. Am I speaking with Uma महेश?
+Customer: Yeah.
+Agent: Mister राव you have reached out to us about the item which you have purch...",2026-03-31T15:25:25.462888,Gemma-inhouse,apology,Met,I'm sorry for the delay and  inconvenience which you are facing with this particular product please don't worry  definitely I will help you out with that,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm sorry for the delay and  inconvenience which you are facing with this particular product please don't worry  definitely I will help you out with that"", ""Apology_Category"": """"}",2.117844820022583,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm sorry for the delay and  inconvenience which you are facing with this particular product please don't worry  definitely I will help you out with that"",
+""Apology_Category"": """"
+}
+```"
+0281fdef-53d0-4ac6-9a51-fe723ae830ce,2891,"Customer: Ok.
+Agent: Good evening. My name is emi calling you from Cred on a recorded line. Am I speaking with नवीन?
+Customer: Yeah.
+Agent: thank you so much  for confirming your name. Is this a good ...",2026-03-31T15:25:29.337807,Gemma-inhouse,apology,Met,I'm very sorry that you are facing this issue but I'll definitely try my best to help you,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm very sorry that you are facing this issue but I'll definitely try my best to help you"", ""Apology_Category"": """"}",1.8747055530548096,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm very sorry that you are facing this issue but I'll definitely try my best to help you"",
+""Apology_Category"": """"
+}
+```"
+02c71b46-97cb-4664-9c00-101b226f912e,3100,"Agent: Good evening. This is प्रशांत I'm here to assist you today. Am I speaking with
+Customer: Sir मैंने
+Customer: cred से पैसे निकाला card से
+Agent: जी.
+Customer: ending में डालिए
+Agent: pending में...",2026-03-31T15:25:32.987584,Gemma-inhouse,apology,Met,मैं बहुत माफी चाहूंगा आपको,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""मैं बहुत माफी चाहूंगा आपको"", ""Apology_Category"": """"}",1.649620771408081,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""मैं बहुत माफी चाहूंगा आपको"",
+""Apology_Category"": """"
+}
+```"
+0304b42a-f5fe-44d2-9d04-4c91ac62a67d,3266,"Agent: Good evening  assist you today. Am I speaking  पंकज?
+Customer: Yes.
+Agent: Thank you पंकज for confirming your name. So as I can check that you have raised your concern regarding the withdrawal ...",2026-03-31T15:25:36.583972,Gemma-inhouse,apology,Met,I'm really sorry to hear that,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry to hear that"", ""Apology_Category"": """"}",1.5962412357330322,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm really sorry to hear that"",
+""Apology_Category"": """"
+}
+```"
+035638ed-3012-485c-a93e-cab5df34dc5e,5300,"Agent: Good evening. This is Ronit here to assist you today. Am I speaking with कृतिका
+Customer: Yeah.
+Agent: Thanks for confirming your name कृतिका As I have checked that your request is in regard to...",2026-03-31T15:25:40.308880,Gemma-inhouse,apology,Met,Completely understand your point that you want to delete this account.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""Completely understand your point that you want to delete this account."", ""Apology_Category"": """"}",1.7247462272644043,True,"```json
+{
+ ""Apology_result"": ""Met"",
+ ""Apology_evidence"": ""Completely understand your point that you want to delete this account."",
+ ""Apology_Category"": """"
+}
+```"
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T15:25:45.635642,Gemma-inhouse,apology,Not Met,Agent did not apologize for the inaccuracies in the customer's CIBIL score and failed to address the customer's frustration despite multiple instances of the customer expressing confusion and difficulty finding the desired information.,"{""Apology_result"": ""Not Met"", ""Apology_evidence"": ""Agent did not apologize for the inaccuracies in the customer's CIBIL score and failed to address the customer's frustration despite multiple instances of the customer expressing confusion and difficulty finding the desired information."", ""Apology_Category"": ""Customer expresses frustration, but agent does not acknowledge it""}",3.326616048812866,True,"```json
+{
+""Apology_result"": ""Not Met"",
+""Apology_evidence"": ""Agent did not apologize for the inaccuracies in the customer's CIBIL score and failed to address the customer's frustration despite multiple instances of the customer expressing confusion and difficulty finding the desired information."",
+""Apology_Category"": ""Customer expresses frustration, but agent does not acknowledge it""
+}
+```
+
+
+
+
+"
+03f8381d-16f4-41c9-b5d2-50a62c8d36d6,3318,"Agent: Good morning. This is Sorry. I am here to assist you today. Am I speaking with पर?
+Agent: Thank you for confirming. As I can check, you have raised a concern from for the product that you have ...",2026-03-31T15:25:49.451798,Gemma-inhouse,apology,Met,I'm very sorry for the inconvenience. Please allow me a moment. I am checking the details.,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm very sorry for the inconvenience. Please allow me a moment. I am checking the details."", ""Apology_Category"": """"}",1.8159923553466797,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I'm very sorry for the inconvenience. Please allow me a moment. I am checking the details."",
+""Apology_Category"": """"
+}
+```"
+04400d28-62d5-47f5-80f4-93313282dcc7,1856,"Agent: Good morning. This is Situ. I am here to assist you today. Am I speaking with सुरेंद्र?
+Customer: तो क्या
+Customer: Hello.
+Customer: Yeah, actually I'm not able to  you are saying
+Customer: I'm...",2026-03-31T15:25:53.305601,Gemma-inhouse,apology,Met, I apologize for the inconvenience allow me a minute. I will check the details for you to assist you on the matter.,"{""Apology_result"": ""Met"", ""Apology_evidence"": "" I apologize for the inconvenience allow me a minute. I will check the details for you to assist you on the matter."", ""Apology_Category"": """"}",1.8536596298217773,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": "" I apologize for the inconvenience allow me a minute. I will check the details for you to assist you on the matter."",
+""Apology_Category"": """"
+}
+```"
+048ce50f-d238-4b42-b133-aae7082df92d,1742,"Agent: Good morning. This is शुक्रिया. I am here to assist you today. Am I speaking with सतीश?
+Customer: Ma'am I am raise
+Customer: 3 days sorry
+Customer: small resolved ma'am
+Agent: Ok, understood. r...",2026-03-31T15:25:58.869437,Gemma-inhouse,apology,Met,"I'm very sorry actually right now I can check the update that we are facing some technical issue in the application that is the reason are unable to proceed your drop down request However, do not worry about it be assured that we are trying our level best so that we can fix this technical issue as soon as possible. And once this technical issue is fixed from our end, we will notify you  WhatsApp after that you can try to withdraw","{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm very sorry actually right now I can check the update that we are facing some technical issue in the application that is the reason are unable to proceed your drop down request However, do not worry about it be assured that we are trying our level best so that we can fix this technical issue as soon as possible. And once this technical issue is fixed from our end, we will notify you  WhatsApp after that you can try to withdraw"", ""Apology_Category"": """"}",3.563690662384033,True,"{
+ ""Apology_result"": ""Met"",
+ ""Apology_evidence"": ""I'm very sorry actually right now I can check the update that we are facing some technical issue in the application that is the reason are unable to proceed your drop down request However, do not worry about it be assured that we are trying our level best so that we can fix this technical issue as soon as possible. And once this technical issue is fixed from our end, we will notify you  WhatsApp after that you can try to withdraw"",
+ ""Apology_Category"": """"
+} 
+"
+04c9854b-c20a-4396-b0cf-2438e3ea36f8,3445,"Customer: Hello.
+Agent: Good afternoon. This is Adarsh calling from Cred on a recorded line. Am I speaking with अमित?
+Customer: Yes.
+Customer: Yes yes yes.
+Agent: Thank you very much for the confirmat...",2026-03-31T15:26:02.421889,Gemma-inhouse,apology,Met,we do apologize to inform you are facing technical issue,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""we do apologize to inform you are facing technical issue"", ""Apology_Category"": """"}",1.5522713661193848,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""we do apologize to inform you are facing technical issue"",
+""Apology_Category"": """"
+}
+```"
+0518552a-d35e-49cc-ab87-8039962afcb7,2834,"Agent: Good evening. This is पामीर. I am here to assist you today. Am I speaking with अनुपम
+Customer: Yes.
+Agent: जी शुक्रिया confirm करने के लिए
+Customer: Hello.
+Agent: जी
+Customer: हां.
+Agent: जैसे ...",2026-03-31T15:26:06.359442,Gemma-inhouse,apology,Met,दूसरा आया जी शुक्रिया confirm करने के लिए माफी चाहता हूं आपने जो inconvenience face किया,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""दूसरा आया जी शुक्रिया confirm करने के लिए माफी चाहता हूं आपने जो inconvenience face किया"", ""Apology_Category"": """"}",1.937380313873291,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""दूसरा आया जी शुक्रिया confirm करने के लिए माफी चाहता हूं आपने जो inconvenience face किया"",
+""Apology_Category"": """"
+}
+```"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T15:26:10.518903,Gemma-inhouse,apology,Met,असुविधा के लिए खेद है,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""असुविधा के लिए खेद है"", ""Apology_Category"": """"}",2.159290313720703,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""असुविधा के लिए खेद है"",
+""Apology_Category"": """"
+}
+```"
+057f58f7-5349-4def-9406-2a4bdce8bf98,3887,"Agent: Good afternoon. This is and I am here to assist you today. Am I speaking with नरेश कुमार?
+Customer: Yes.
+Agent: Thank you for confirming your name.
+Customer: Actually,
+Agent: I can check that
+C...",2026-03-31T15:26:14.354011,Gemma-inhouse,apology,Met,I'm really sorry but we can only support in English or हिंदी?,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I'm really sorry but we can only support in English or हिंदी?"", ""Apology_Category"": """"}",1.8349084854125977,True,"```json
+{
+ ""Apology_result"": ""Met"",
+ ""Apology_evidence"": ""I'm really sorry but we can only support in English or हिंदी?"",
+ ""Apology_Category"": """"
+}
+```"
+059d99d5-f462-400a-bfb9-b00135ec0835,6108,"Agent: Good evening. This is प्रथम. I am here to assist you today. Am I speaking with राज
+Customer: Yeah.
+Agent: Thank you for confirming. As I can see that you have raised a concern
+Agent: you want t...",2026-03-31T15:26:18.084373,Gemma-inhouse,apology,Met,I understand. I am really sorry for that,"{""Apology_result"": ""Met"", ""Apology_evidence"": ""I understand. I am really sorry for that"", ""Apology_Category"": """"}",1.7301898002624512,True,"```json
+{
+""Apology_result"": ""Met"",
+""Apology_evidence"": ""I understand. I am really sorry for that"",
+""Apology_Category"": """"
+}
+```"

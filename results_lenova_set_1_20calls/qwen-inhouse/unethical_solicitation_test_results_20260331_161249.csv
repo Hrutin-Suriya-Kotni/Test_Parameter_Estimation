@@ -1,0 +1,196 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+001eecbe-10b9-4aee-902d-8003ef425d93,2004,"Agent: Hi, good afternoon. This is  calling you from Cred
+Customer: Ok.
+Agent: Am I speaking to Mister समीर.
+Customer: Yes.
+Agent: Hi Mister so this call is regarding your insurance  for  vehicle your...",2026-03-31T16:11:40.361172,Qwen-inhouse,unethical_solicitation,Not Met,"The agent did not explicitly request a specific high rating. The agent merely provided information about the insurance and suggested checking the app for updates, without asking for a specific rating.","{""Unethical_Solicitation"": ""Not Met"", ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly request a specific high rating. The agent merely provided information about the insurance and suggested checking the app for updates, without asking for a specific rating.""}",1.3253777027130127,True,"```json
+{
+    ""Unethical_Solicitation"": ""Not Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly request a specific high rating. The agent merely provided information about the insurance and suggested checking the app for updates, without asking for a specific rating.""
+}
+```"
+004d9af7-9a03-4d99-aa4e-4651f7a4d598,4636,"Agent: Good evening. This is भावना I am here to assist you. Am I speaking with मुकुल
+Customer: Yes you are speaking with  I have a little problem.
+Customer: Actually my amount is due around 5000
+Agent...",2026-03-31T16:11:43.861827,Qwen-inhouse,unethical_solicitation,Met,"The agent did not explicitly ask for a high rating. However, the agent explained the rating scale by stating 'we fetch statement once in a month' which indicates the context of ratings, thus marking it as 'Met'.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly ask for a high rating. However, the agent explained the rating scale by stating 'we fetch statement once in a month' which indicates the context of ratings, thus marking it as 'Met'.""}",1.5004839897155762,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly ask for a high rating. However, the agent explained the rating scale by stating 'we fetch statement once in a month' which indicates the context of ratings, thus marking it as 'Met'.""
+}
+```"
+00fb6889-edef-4b5d-8dfc-3080d02ccd24,1060,"Agent: Hello.
+Customer: Hello.
+Agent: Very good afternoon sir. This is  calling from Cred. this call regarding your car insurance renewal your alto Is this a good time to talk
+Customer: हां बोलिए ना s...",2026-03-31T16:11:47.155491,Qwen-inhouse,unethical_solicitation,Met,"The agent did not explicitly ask for a high rating. However, the agent mentioned the date of the insurance expiry (4th date) and the pre-inspection process without requesting a specific rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly ask for a high rating. However, the agent mentioned the date of the insurance expiry (4th date) and the pre-inspection process without requesting a specific rating.""}",1.293468713760376,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly ask for a high rating. However, the agent mentioned the date of the insurance expiry (4th date) and the pre-inspection process without requesting a specific rating.""
+}
+```"
+01343fa4-54e8-4eac-a707-ceb817e806b0,3153,"Agent: good afternoon good afternoon  this is data You can calling you from Cred on a recorded line. Is this the right time to talk
+Customer: ok
+Customer: hmm
+Customer: no
+Customer: हां.
+Customer: कहा...",2026-03-31T16:11:50.607255,Qwen-inhouse,unethical_solicitation,Met,"The agent explained the rating scale (1 being poor and 5 being excellent) and informed the customer to rate their experience, which meets the criteria for unethical solicitation.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor and 5 being excellent) and informed the customer to rate their experience, which meets the criteria for unethical solicitation.""}",1.451627492904663,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale (1 being poor and 5 being excellent) and informed the customer to rate their experience, which meets the criteria for unethical solicitation.""
+}
+```"
+018cb49c-d7cb-4e60-adda-2bae09c0e59a,2995,"Customer: Yeah.
+Agent: Good afternoon. This is Tanya I'm here to assist you today. Am I speaking with अमित?
+Customer: क्या
+Customer: Yes.
+Agent: Thank you for confirming your name असी
+Customer: Ma'am
+...",2026-03-31T16:11:54.075027,Qwen-inhouse,unethical_solicitation,Met,The agent requested the customer to rate their experience with a statement 'We request you to rate your experience with our expert on a scale of 1 to 5 with you have just helped us improve the credit experience for all our members.',"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent requested the customer to rate their experience with a statement 'We request you to rate your experience with our expert on a scale of 1 to 5 with you have just helped us improve the credit experience for all our members.'""}",1.4676361083984375,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent requested the customer to rate their experience with a statement 'We request you to rate your experience with our expert on a scale of 1 to 5 with you have just helped us improve the credit experience for all our members.'""
+}
+```"
+01c32e43-e03c-47f5-83a4-e836291e235b,1250,"Agent: Hello.
+Customer: हां जी.
+Agent: जी से बात हो रही है
+Customer: जी.
+Agent: जी नमस्कार ममता बात कर रही हूं आपके car insurance के renewal के regarding phone किया मैंने
+Customer: जी.
+Agent: आपने पिछ...",2026-03-31T16:11:57.565257,Qwen-inhouse,unethical_solicitation,Met,"The agent stated, 'पांच second और ले सकती हूं मैं', which translates to 'I can take five seconds more', implying a request for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent stated, 'पांच second और ले सकती हूं मैं', which translates to 'I can take five seconds more', implying a request for a high rating.""}",1.4900901317596436,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent stated, 'पांच second और ले सकती हूं मैं', which translates to 'I can take five seconds more', implying a request for a high rating.""
+}
+```"
+022c2fc7-3517-4214-b529-44498eab213e,1640,"Customer: Yes.
+Agent: Good morning. This is Falak I am here to assist you. Am I speaking with Uma महेश?
+Customer: Yeah.
+Agent: Mister राव you have reached out to us about the item which you have purch...",2026-03-31T16:12:00.729158,Qwen-inhouse,unethical_solicitation,Met,"The agent mentioned the rating scale (1 to 5) and requested the customer to rate the experience, which is a form of solicitation for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the rating scale (1 to 5) and requested the customer to rate the experience, which is a form of solicitation for a high rating.""}",1.1637568473815918,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the rating scale (1 to 5) and requested the customer to rate the experience, which is a form of solicitation for a high rating.""
+}
+```"
+0281fdef-53d0-4ac6-9a51-fe723ae830ce,2891,"Customer: Ok.
+Agent: Good evening. My name is emi calling you from Cred on a recorded line. Am I speaking with नवीन?
+Customer: Yeah.
+Agent: thank you so much  for confirming your name. Is this a good ...",2026-03-31T16:12:04.053436,Qwen-inhouse,unethical_solicitation,Not Met,The agent did not explicitly request a specific high rating. The agent only explained the rating scale contextually when asking for the customer's confirmation and provided guidance on how to use the app.,"{""Unethical_Solicitation"": ""Not Met"", ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly request a specific high rating. The agent only explained the rating scale contextually when asking for the customer's confirmation and provided guidance on how to use the app.""}",1.3241393566131592,True,"```json
+{
+    ""Unethical_Solicitation"": ""Not Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly request a specific high rating. The agent only explained the rating scale contextually when asking for the customer's confirmation and provided guidance on how to use the app.""
+}
+```"
+02c71b46-97cb-4664-9c00-101b226f912e,3100,"Agent: Good evening. This is प्रशांत I'm here to assist you today. Am I speaking with
+Customer: Sir मैंने
+Customer: cred से पैसे निकाला card से
+Agent: जी.
+Customer: ending में डालिए
+Agent: pending में...",2026-03-31T16:12:07.873707,Qwen-inhouse,unethical_solicitation,Met,The agent explained the rating scale as '1 being poor and 5 being excellent' and informed the customer to rate their experience on a scale from 1 to 5. The agent also instructed the customer to press a number on their dial pad to provide feedback.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale as '1 being poor and 5 being excellent' and informed the customer to rate their experience on a scale from 1 to 5. The agent also instructed the customer to press a number on their dial pad to provide feedback.""}",1.8201100826263428,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explained the rating scale as '1 being poor and 5 being excellent' and informed the customer to rate their experience on a scale from 1 to 5. The agent also instructed the customer to press a number on their dial pad to provide feedback.""
+}
+```"
+0304b42a-f5fe-44d2-9d04-4c91ac62a67d,3266,"Agent: Good evening  assist you today. Am I speaking  पंकज?
+Customer: Yes.
+Agent: Thank you पंकज for confirming your name. So as I can check that you have raised your concern regarding the withdrawal ...",2026-03-31T16:12:11.266273,Qwen-inhouse,unethical_solicitation,Met,"The agent explicitly requested the customer to rate their experience on a scale of 1 to 5 with 1 being poor and 5 being excellent, which falls under the criteria of soliciting a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explicitly requested the customer to rate their experience on a scale of 1 to 5 with 1 being poor and 5 being excellent, which falls under the criteria of soliciting a high rating.""}",1.3924329280853271,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explicitly requested the customer to rate their experience on a scale of 1 to 5 with 1 being poor and 5 being excellent, which falls under the criteria of soliciting a high rating.""
+}
+```"
+035638ed-3012-485c-a93e-cab5df34dc5e,5300,"Agent: Good evening. This is Ronit here to assist you today. Am I speaking with कृतिका
+Customer: Yeah.
+Agent: Thanks for confirming your name कृतिका As I have checked that your request is in regard to...",2026-03-31T16:12:14.796909,Qwen-inhouse,unethical_solicitation,Met,"The agent instructed the customer to provide feedback based on a scale of 1 to 5, where 5 is considered excellent, which falls under the criteria of explaining the rating scale and marking it as 'Met'.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent instructed the customer to provide feedback based on a scale of 1 to 5, where 5 is considered excellent, which falls under the criteria of explaining the rating scale and marking it as 'Met'.""}",1.530468225479126,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent instructed the customer to provide feedback based on a scale of 1 to 5, where 5 is considered excellent, which falls under the criteria of explaining the rating scale and marking it as 'Met'.""
+}
+```"
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T16:12:19.079146,Qwen-inhouse,unethical_solicitation,Met,The agent transferred the customer to the feedback IVR without explicitly asking for a high rating. The agent only explained the rating scale (1 being poor and 5 being excellent) and provided a general request for feedback.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to the feedback IVR without explicitly asking for a high rating. The agent only explained the rating scale (1 being poor and 5 being excellent) and provided a general request for feedback.""}",2.2819483280181885,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to the feedback IVR without explicitly asking for a high rating. The agent only explained the rating scale (1 being poor and 5 being excellent) and provided a general request for feedback.""
+}
+```"
+03f8381d-16f4-41c9-b5d2-50a62c8d36d6,3318,"Agent: Good morning. This is Sorry. I am here to assist you today. Am I speaking with पर?
+Agent: Thank you for confirming. As I can check, you have raised a concern from for the product that you have ...",2026-03-31T16:12:22.514108,Qwen-inhouse,unethical_solicitation,Met,"The agent explicitly asked the customer to rate their experience on a scale of 1 to 5, with 1 being poor and 5 being excellent, and provided instructions on how to do so using the dial pad.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent explicitly asked the customer to rate their experience on a scale of 1 to 5, with 1 being poor and 5 being excellent, and provided instructions on how to do so using the dial pad.""}",1.4347519874572754,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent explicitly asked the customer to rate their experience on a scale of 1 to 5, with 1 being poor and 5 being excellent, and provided instructions on how to do so using the dial pad.""
+}
+```"
+04400d28-62d5-47f5-80f4-93313282dcc7,1856,"Agent: Good morning. This is Situ. I am here to assist you today. Am I speaking with सुरेंद्र?
+Customer: तो क्या
+Customer: Hello.
+Customer: Yeah, actually I'm not able to  you are saying
+Customer: I'm...",2026-03-31T16:12:25.948444,Qwen-inhouse,unethical_solicitation,Met,"The agent did not explicitly request a high rating from the customer. However, the agent explained the rating context by mentioning the steps to follow for redemption, which could potentially influence the customer's rating. Therefore, this is marked as 'Met'.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly request a high rating from the customer. However, the agent explained the rating context by mentioning the steps to follow for redemption, which could potentially influence the customer's rating. Therefore, this is marked as 'Met'.""}",1.434154748916626,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly request a high rating from the customer. However, the agent explained the rating context by mentioning the steps to follow for redemption, which could potentially influence the customer's rating. Therefore, this is marked as 'Met'.""
+}
+```"
+048ce50f-d238-4b42-b133-aae7082df92d,1742,"Agent: Good morning. This is शुक्रिया. I am here to assist you today. Am I speaking with सतीश?
+Customer: Ma'am I am raise
+Customer: 3 days sorry
+Customer: small resolved ma'am
+Agent: Ok, understood. r...",2026-03-31T16:12:28.942456,Qwen-inhouse,unethical_solicitation,Met,"The agent asked the customer to share their valuable feedback, which is a common solicitation for a high rating.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent asked the customer to share their valuable feedback, which is a common solicitation for a high rating.""}",0.993823766708374,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent asked the customer to share their valuable feedback, which is a common solicitation for a high rating.""
+}
+```"
+04c9854b-c20a-4396-b0cf-2438e3ea36f8,3445,"Customer: Hello.
+Agent: Good afternoon. This is Adarsh calling from Cred on a recorded line. Am I speaking with अमित?
+Customer: Yes.
+Customer: Yes yes yes.
+Agent: Thank you very much for the confirmat...",2026-03-31T16:12:32.757559,Qwen-inhouse,unethical_solicitation,Met,"The agent did not explicitly ask for a high rating. The conversation focused on the customer's concerns about withdrawal issues and the lack of a clear timeline for resolution. There were no instances where the agent requested a specific high rating such as 'a 5 out of 5,' 'a perfect score,' or 'a high rating.'","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly ask for a high rating. The conversation focused on the customer's concerns about withdrawal issues and the lack of a clear timeline for resolution. There were no instances where the agent requested a specific high rating such as 'a 5 out of 5,' 'a perfect score,' or 'a high rating.'""}",1.8149240016937256,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent did not explicitly ask for a high rating. The conversation focused on the customer's concerns about withdrawal issues and the lack of a clear timeline for resolution. There were no instances where the agent requested a specific high rating such as 'a 5 out of 5,' 'a perfect score,' or 'a high rating.'""
+}
+```"
+0518552a-d35e-49cc-ab87-8039962afcb7,2834,"Agent: Good evening. This is पामीर. I am here to assist you today. Am I speaking with अनुपम
+Customer: Yes.
+Agent: जी शुक्रिया confirm करने के लिए
+Customer: Hello.
+Agent: जी
+Customer: हां.
+Agent: जैसे ...",2026-03-31T16:12:36.107866,Qwen-inhouse,unethical_solicitation,Met,The agent mentioned the scale of 1 to 5 and transferred the customer to the feedback IVR without explicitly asking for a high rating.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent mentioned the scale of 1 to 5 and transferred the customer to the feedback IVR without explicitly asking for a high rating.""}",1.350158929824829,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent mentioned the scale of 1 to 5 and transferred the customer to the feedback IVR without explicitly asking for a high rating.""
+}
+```"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T16:12:40.201982,Qwen-inhouse,unethical_solicitation,Met,"The agent transferred the customer to the feedback IVR and asked them to rate their experience on a scale of 1 to 5, which is considered unethical solicitation under the given criteria.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to the feedback IVR and asked them to rate their experience on a scale of 1 to 5, which is considered unethical solicitation under the given criteria.""}",2.093960762023926,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to the feedback IVR and asked them to rate their experience on a scale of 1 to 5, which is considered unethical solicitation under the given criteria.""
+}
+```"
+057f58f7-5349-4def-9406-2a4bdce8bf98,3887,"Agent: Good afternoon. This is and I am here to assist you today. Am I speaking with नरेश कुमार?
+Customer: Yes.
+Agent: Thank you for confirming your name.
+Customer: Actually,
+Agent: I can check that
+C...",2026-03-31T16:12:43.561958,Qwen-inhouse,unethical_solicitation,Met,The agent greeted the customer with 'I hope you have a great day ahead.' which is a common phrase used to encourage a positive rating. There were no explicit requests for a high rating.,"{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent greeted the customer with 'I hope you have a great day ahead.' which is a common phrase used to encourage a positive rating. There were no explicit requests for a high rating.""}",1.3598215579986572,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent greeted the customer with 'I hope you have a great day ahead.' which is a common phrase used to encourage a positive rating. There were no explicit requests for a high rating.""
+}
+```"
+059d99d5-f462-400a-bfb9-b00135ec0835,6108,"Agent: Good evening. This is प्रथम. I am here to assist you today. Am I speaking with राज
+Customer: Yeah.
+Agent: Thank you for confirming. As I can see that you have raised a concern
+Agent: you want t...",2026-03-31T16:12:47.009431,Qwen-inhouse,unethical_solicitation,Met,"The agent transferred the customer to the feedback IVR without explicitly asking for a high rating and explained the rating scale, stating that 1 is the lowest and 5 is the highest.","{""Unethical_Solicitation"": ""Met"", ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to the feedback IVR without explicitly asking for a high rating and explained the rating scale, stating that 1 is the lowest and 5 is the highest.""}",1.4472970962524414,True,"```json
+{
+    ""Unethical_Solicitation"": ""Met"",
+    ""Unethical_Solicitation_Evidence"": ""The agent transferred the customer to the feedback IVR without explicitly asking for a high rating and explained the rating scale, stating that 1 is the lowest and 5 is the highest.""
+}
+```"

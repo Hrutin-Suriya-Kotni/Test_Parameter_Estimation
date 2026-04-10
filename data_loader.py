@@ -40,8 +40,12 @@ class CREDDataLoader:
         try:
             _, ext = os.path.splitext(self.file_path.lower())
 
-            if ext == ".csv":
-                transcript_df = pd.read_csv(self.file_path)
+            if ext in (".csv", ".tsv"):
+                # Support both CSV and TSV (tab-separated)
+                if ext == ".tsv":
+                    transcript_df = pd.read_csv(self.file_path, sep="\t")
+                else:
+                    transcript_df = pd.read_csv(self.file_path)
 
                 # Normalize expected transcript column name
                 if "transcript" not in transcript_df.columns:
@@ -59,10 +63,25 @@ class CREDDataLoader:
                 return transcript_df, primary_info_df
 
             # Legacy Excel path
-            transcript_df = pd.read_excel(self.file_path, sheet_name=CRED_TRANSCRIPT_SHEET)
-            primary_info_df = pd.read_excel(self.file_path, sheet_name=CRED_PRIMARY_INFO_SHEET)
+            xl = pd.ExcelFile(self.file_path)
+            sheets = xl.sheet_names
 
-            print(f"Loaded transcript data (XLSX): {len(transcript_df)} rows")
+            # Use configured transcript sheet if present, otherwise fall back to the first sheet
+            transcript_sheet = CRED_TRANSCRIPT_SHEET if CRED_TRANSCRIPT_SHEET in sheets else sheets[0]
+            transcript_df = pd.read_excel(self.file_path, sheet_name=transcript_sheet)
+
+            # Normalize expected transcript column name (match CSV behavior)
+            if "transcript" not in transcript_df.columns:
+                if "transcripts" in transcript_df.columns:
+                    transcript_df = transcript_df.rename(columns={"transcripts": "transcript"})
+
+            # Read primary info sheet only if present; otherwise return an empty DataFrame
+            if CRED_PRIMARY_INFO_SHEET in sheets:
+                primary_info_df = pd.read_excel(self.file_path, sheet_name=CRED_PRIMARY_INFO_SHEET)
+            else:
+                primary_info_df = pd.DataFrame()
+
+            print(f"Loaded transcript data (XLSX) from sheet '{transcript_sheet}': {len(transcript_df)} rows")
             print(f"Loaded primary info data (XLSX): {len(primary_info_df)} rows")
             print(f"Transcript columns: {list(transcript_df.columns)}")
 

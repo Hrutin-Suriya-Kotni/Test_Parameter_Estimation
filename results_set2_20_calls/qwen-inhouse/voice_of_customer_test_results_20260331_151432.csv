@@ -1,0 +1,21 @@
+conversation_id,transcript_length,transcript_preview,timestamp,model_name,test_type,result,evidence,parsed_json,response_time,success,raw_response
+03d4cc01-c95c-4a7c-978f-ba08b8642fb3,7669,"Agent: Good morning. This is सफ़िया. I'm here to assist you today. Am I speaking with प्रीत सिंह
+Customer: Yes. Mam
+Customer: Ma'am मैंने
+Customer: confirm करना था ना मेरा ना जैसे CIBIL score check कि...",2026-03-31T15:14:26.219816,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""The customer is unable to find their consumer loan in the CIBIL report and is seeking assistance to locate it.""}","{""VOC_Category"": ""Product or Service Information"", ""VOC_Core_Issue_Summary"": ""The customer is unable to find their consumer loan in the CIBIL report and is seeking assistance to locate it.""}",2.1356210708618164,True,"```json
+{
+    ""VOC_Category"": ""Product or Service Information"",
+    ""VOC_Core_Issue_Summary"": ""The customer is unable to find their consumer loan in the CIBIL report and is seeking assistance to locate it.""
+}
+```"
+0527f4f0-05a7-49ef-b4f4-817badaf8675,7138,"Agent: good evening this is सुमित. I am here to assist you. Am I speaking with Vishnu
+Customer: Yes.
+Agent: ishan thank you for confirming your name
+Agent: As I can check, you have raised a request re...",2026-03-31T15:14:30.113053,Qwen-inhouse,voice_of_customer,Error,"{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer's PAN card number was entered incorrectly during onboarding, and they need assistance to correct it.""}","{""VOC_Category"": ""Billing and Payments"", ""VOC_Core_Issue_Summary"": ""The customer's PAN card number was entered incorrectly during onboarding, and they need assistance to correct it.""}",1.8930749893188477,True,"```json
+{
+
+    ""VOC_Category"": ""Billing and Payments"",
+    ""VOC_Core_Issue_Summary"": ""The customer's PAN card number was entered incorrectly during onboarding, and they need assistance to correct it.""
+
+}
+```"

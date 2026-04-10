@@ -18,9 +18,10 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # Get the absolute path to the project root directory (where this config.py file is located)
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 CRED_DATA_PATH = os.path.join(PROJECT_ROOT, "data")  # Absolute path to data directory
-# Primary conversation dataset (CSV)
+# Primary conversation dataset (CSV/TSV/XLSX)
 # This is what the test runners consume via `data_loader.load_all_conversations()`.
-CRED_FILE_NAME = "final_output.csv"
+# Defaults to the concatenated TSV produced by `concat_transcripts_by_request.py` when present.
+CRED_FILE_NAME = "concatenated_by_request.tsv"
 
 # Excel settings (kept for backward compatibility if you switch back to xlsx)
 CRED_TRANSCRIPT_SHEET = "Transcript"
